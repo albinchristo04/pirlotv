@@ -24,13 +24,11 @@ jobs:
         env:
           MATCHES_JSON_URL: ${{ secrets.MATCHES_JSON_URL }}
 
-      - run: npm run build
-
       - name: Deploy to Cloudflare Pages
         uses: cloudflare/pages-action@v1
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: pirlo-tv
+          projectName: pirlotv
           directory: ./dist
           productionBranch: main
