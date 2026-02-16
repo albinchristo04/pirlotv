@@ -24,3 +24,4 @@ jobs:
         env:
           BING_WEBMASTER_API_KEY: ${{ secrets.BING_WEBMASTER_API_KEY }}
           SITE_URL: https://pirlotv.velcuri.io
+          MATCHES_JSON_URL: ${{ secrets.MATCHES_JSON_URL }}
