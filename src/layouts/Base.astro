@@ -1,17 +1,13 @@
 ---
+import SEOHead from '../components/SEO/SEOHead.astro';
+
 const { title, description, keywords } = Astro.props;
 ---
 
 <!DOCTYPE html>
 <html lang="es">
   <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>{title}</title>
-    <meta name="description" content={description} />
-    {keywords && <meta name="keywords" content={keywords} />}
-    <meta name="robots" content="index,follow" />
-    <link rel="canonical" href="https://pirlotv.velcuri.io" />
+    <SEOHead title={title} description={description} keywords={keywords} />
   </head>
   <body>
     <header class="site-header">
@@ -76,4 +72,3 @@ const { title, description, keywords } = Astro.props;
     font-size: 0.9rem;
   }
 </style>
-

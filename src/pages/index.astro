@@ -1,8 +1,32 @@
 ---
 import Base from '../layouts/Base.astro';
 import { fetchMatches } from '../lib/fetchMatches';
+import MatchCard from '../components/MatchCard.astro';
 
 const matches = await fetchMatches();
+const now = new Date();
+
+function getMatchDateTime(match) {
+  if (!match.date || !match.time) return null;
+  const value = `${match.date}T${match.time}`;
+  const dateTime = new Date(value);
+  return Number.isNaN(dateTime.getTime()) ? null : dateTime;
+}
+
+const liveMatches = matches.filter(match => {
+  const start = getMatchDateTime(match);
+  if (!start) return false;
+  const end = new Date(start.getTime() + 2 * 60 * 60 * 1000);
+  return now >= start && now <= end;
+});
+
+const sortedMatches = matches
+  .map(match => ({ match, start: getMatchDateTime(match) }))
+  .filter(entry => entry.start)
+  .sort((a, b) => a.start.getTime() - b.start.getTime())
+  .map(entry => entry.match);
+
+const featuredMatches = liveMatches.length > 0 ? liveMatches : sortedMatches.slice(0, 6);
 
 const pageTitle = 'Pirlo TV | Roja Directa - Ver Fútbol en Vivo Gratis';
 const pageDescription =
@@ -24,7 +48,15 @@ const pageKeywords =
 
   <section class="featured-section">
     <h2>Partidos en directo ahora</h2>
-    {matches.length === 0 && <p>No hay partidos cargados todavía.</p>}
+    {featuredMatches.length === 0 ? (
+      <p>No hay partidos en directo ahora mismo.</p>
+    ) : (
+      <div class="matches-grid">
+        {featuredMatches.map(match => (
+          <MatchCard match={match} />
+        ))}
+      </div>
+    )}
   </section>
 
   <section class="brands-section">
@@ -120,6 +152,13 @@ const pageKeywords =
     margin: 0 auto;
   }
 
+  .matches-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 1.25rem;
+    margin-top: 1.5rem;
+  }
+
   .brands-section {
     padding: 3rem 2rem;
     max-width: 1200px;
@@ -148,4 +187,3 @@ const pageKeywords =
     margin-top: 1.5rem;
   }
 </style>
-
