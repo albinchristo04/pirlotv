@@ -2,19 +2,24 @@ import 'dotenv/config';
 import axios from 'axios';
 
 async function submitSitemap() {
-  const apiKey = process.env.BING_WEBMASTER_API_KEY;
   const siteUrl = process.env.SITE_URL;
+  const sitemapUrl = `${siteUrl.replace(/\/$/, '')}/sitemap.xml`;
   try {
-    await axios.post('https://www.bing.com/webmaster/api.sitemaps.submit', null, {
-      params: {
-        apikey: apiKey,
-        siteUrl,
-        sitemap: `${siteUrl}/sitemap.xml`
-      }
+    await axios.get('https://www.bing.com/ping', {
+      params: { sitemap: sitemapUrl },
+      timeout: 10000
     });
-    console.log('✓ Sitemap submitted to Bing');
+    console.log(`✓ Sitemap submitted to Bing: ${sitemapUrl}`);
   } catch (error) {
-    console.error('Error:', error.message);
+    if (error.response) {
+      console.error(
+        'Error submitting sitemap to Bing:',
+        error.response.status,
+        JSON.stringify(error.response.data)
+      );
+    } else {
+      console.error('Error submitting sitemap to Bing:', error.message);
+    }
   }
 }
 
