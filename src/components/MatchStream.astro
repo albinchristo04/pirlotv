@@ -1,0 +1,22 @@
+---
+const { iframeUrl, title } = Astro.props;
+---
+
+<div class="stream-container">
+  <iframe
+    src={iframeUrl}
+    title={title}
+    allow="autoplay; fullscreen"
+    allowFullScreen
+    style={{ width: '100%', height: '500px', borderRadius: '0.5rem', border: '0' }}
+  ></iframe>
+</div>
+
+<style>
+  .stream-container {
+    background: #000;
+    border-radius: 0.5rem;
+    overflow: hidden;
+  }
+</style>
+

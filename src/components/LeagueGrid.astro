@@ -1,0 +1,43 @@
+---
+const { title, matches } = Astro.props;
+---
+
+<section class="league-grid">
+  <h2>{title}</h2>
+  {matches.length === 0 ? (
+    <p>No hay partidos disponibles.</p>
+  ) : (
+    <ul class="grid">
+      {matches.map(match => (
+        <li>
+          <a href={`/${match.slug}/`}>
+            <strong>{match.team_a} vs {match.team_b}</strong>
+            {match.league && <> · {match.league}</>}
+            <> · {match.date} · {match.time}</>
+          </a>
+        </li>
+      ))}
+    </ul>
+  )}
+</section>
+
+<style>
+  .league-grid {
+    padding: 2rem 0;
+  }
+
+  .grid {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    gap: 1rem;
+  }
+
+  .grid a {
+    display: block;
+    padding: 1rem 1.25rem;
+    background: #181818;
+    border-radius: 0.4rem;
+  }
+</style>
+

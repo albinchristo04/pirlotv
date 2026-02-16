@@ -1,0 +1,48 @@
+---
+import Base from '../../layouts/Base.astro';
+
+export async function getStaticPaths() {
+  const slugs = ['como-ver-futbol-en-vivo-gratis', 'pirlo-tv-roja-directa', 'tarjeta-roja-online'];
+  return slugs.map(slug => ({
+    params: { slug },
+    props: { slug }
+  }));
+}
+
+const { slug } = Astro.props;
+
+const pageTitle = `Blog Pirlo TV: ${slug} | Roja Directa y Tarjeta Roja`;
+const pageDescription =
+  'Noticias y guías de Pirlo TV, Roja Directa y Tarjeta Roja para ver fútbol en vivo gratis.';
+const pageKeywords =
+  'blog pirlo tv, noticias roja directa, guia tarjeta roja, ver futbol online';
+---
+
+<Base title={pageTitle} description={pageDescription} keywords={pageKeywords}>
+  <section class="hero-small">
+    <h1>Blog Pirlo TV</h1>
+    <p>Artículos sobre cómo ver fútbol en vivo online con Pirlo TV, Roja Directa y Tarjeta Roja.</p>
+  </section>
+
+  <section class="content-container">
+    <p>Entrada del blog: {slug}</p>
+    <p>
+      Esta sección del blog está optimizada para palabras clave como Pirlo TV, Roja Directa, Rojadirecta,
+      Tarjeta Roja, fútbol en vivo gratis y partidos en vivo online.
+    </p>
+  </section>
+</Base>
+
+<style>
+  .hero-small {
+    background: #141414;
+    padding: 2.5rem 2rem;
+    text-align: center;
+  }
+
+  .content-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 3rem 2rem;
+  }
+</style>

@@ -1,0 +1,28 @@
+name: Fetch Matches
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - run: npm ci
+      - run: npm run fetch:matches
+        env:
+          MATCHES_JSON_URL: ${{ secrets.MATCHES_JSON_URL }}
+
+      - name: Commit changes
+        run: |
+          git config user.name "Bot"
+          git config user.email "bot@github.com"
+          git add src/data/matches.json
+          git diff --cached --quiet || (git commit -m "Update matches" && git push)

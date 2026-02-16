@@ -1,0 +1,45 @@
+---
+const { match } = Astro.props;
+---
+
+<a href={`/${match.slug}/`} class="match-card">
+  <div class="teams">
+    <span>{match.team_a}</span>
+    <span class="vs">vs</span>
+    <span>{match.team_b}</span>
+  </div>
+  <div class="meta">
+    {match.league && <span>{match.league}</span>}
+    <span>{match.date} · {match.time}</span>
+  </div>
+</a>
+
+<style>
+  .match-card {
+    display: block;
+    padding: 1rem 1.25rem;
+    background: #181818;
+    border-radius: 0.5rem;
+  }
+
+  .teams {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-weight: 600;
+  }
+
+  .vs {
+    color: #999;
+    font-size: 0.9rem;
+  }
+
+  .meta {
+    margin-top: 0.35rem;
+    font-size: 0.85rem;
+    color: #bbb;
+    display: flex;
+    gap: 0.5rem;
+  }
+</style>
+

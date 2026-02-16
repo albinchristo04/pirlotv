@@ -1,0 +1,69 @@
+---
+import Base from '../layouts/Base.astro';
+import { fetchMatches } from '../lib/fetchMatches';
+
+const matches = await fetchMatches();
+
+const pageTitle = 'Roja Directa en Vivo | Transmisión en Directo Gratis';
+const pageDescription =
+  'Roja Directa en vivo. Transmisión en directo de todos los partidos de fútbol. Sin registrarse';
+const pageKeywords = 'roja directa en vivo, roja directa, tarjeta roja en vivo, pirlo tv roja directa';
+---
+
+<Base title={pageTitle} description={pageDescription} keywords={pageKeywords}>
+  <section class="roja-hero">
+    <h1>Roja Directa en vivo</h1>
+    <p>Transmisión en directo de todos tus partidos favoritos</p>
+  </section>
+
+  <section class="content-container">
+    <h2>¿Qué es Roja Directa?</h2>
+    <p>
+      Roja Directa es el servicio de transmisión de fútbol en vivo más popular en el mundo hispanohablante.
+      Ofrece cobertura de los principales partidos internacionales incluyendo Liga MX, Champions League,
+      Premier League, La Liga, Serie A y Copa Libertadores completamente gratis.
+    </p>
+
+    <h2>Partidos disponibles en Roja Directa</h2>
+    {matches.length === 0 && <p>No hay partidos cargados todavía.</p>}
+
+    <h2>Ventajas de Roja Directa en Pirlo TV</h2>
+    <ul class="advantages">
+      <li>Acceso gratuito a toda la transmisión</li>
+      <li>Sin necesidad de registrarse</li>
+      <li>Múltiples opciones de transmisión</li>
+      <li>Transmisión en HD</li>
+      <li>Compatible con todos los dispositivos</li>
+    </ul>
+  </section>
+</Base>
+
+<style>
+  .roja-hero {
+    background: linear-gradient(135deg, #8b0000 0%, #5c0000 100%);
+    color: white;
+    padding: 3rem 2rem;
+    text-align: center;
+  }
+
+  .content-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 3rem 2rem;
+  }
+
+  .advantages {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1rem;
+  }
+
+  .advantages li {
+    padding: 1rem;
+    background: #181818;
+    border-left: 4px solid #c41e3a;
+  }
+</style>
+

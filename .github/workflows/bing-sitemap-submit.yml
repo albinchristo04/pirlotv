@@ -1,0 +1,24 @@
+name: Submit Sitemap to Bing
+
+on:
+  workflow_run:
+    workflows: ["Build and Deploy"]
+    types: [completed]
+  schedule:
+    - cron: '0 6 * * *'
+
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - run: npm ci
+      - run: node scripts/submitBingSitemap.js
+        env:
+          BING_WEBMASTER_API_KEY: ${{ secrets.BING_WEBMASTER_API_KEY }}
+          SITE_URL: https://pirlotv.velcuri.io

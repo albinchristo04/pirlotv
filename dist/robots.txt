@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pirlotv.velcuri.io/sitemap.xml

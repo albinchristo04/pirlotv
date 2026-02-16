@@ -1,0 +1,68 @@
+---
+import Base from '../layouts/Base.astro';
+import { fetchMatches } from '../lib/fetchMatches';
+
+const matches = await fetchMatches();
+const today = new Date().toISOString().slice(0, 10);
+const todayMatches = matches.filter(m => m.date === today);
+
+const pageTitle = 'Partidos de fútbol hoy en vivo | Pirlo TV';
+const pageDescription =
+  'Partidos de fútbol en vivo hoy. Roja Directa, Tarjeta Roja y Pirlo TV con enlaces gratis.';
+const pageKeywords =
+  'partidos hoy, fútbol en vivo hoy, roja directa partidos hoy, pirlo tv en vivo hoy';
+---
+
+<Base title={pageTitle} description={pageDescription} keywords={pageKeywords}>
+  <section class="hero-small">
+    <h1>Partidos de fútbol hoy</h1>
+    <p>Todos los partidos de hoy en Roja Directa, Tarjeta Roja y Pirlo TV.</p>
+  </section>
+
+  <section class="content-container">
+    {todayMatches.length === 0 ? (
+      <p>No hay partidos programados para hoy.</p>
+    ) : (
+      <ul class="matches-list">
+        {todayMatches.map(match => (
+          <li>
+            <a href={`/${match.slug}/`}>
+              <strong>{match.team_a} vs {match.team_b}</strong>
+              {match.league && <> · {match.league}</>}
+              <> · {match.time}</>
+            </a>
+          </li>
+        ))}
+      </ul>
+    )}
+  </section>
+</Base>
+
+<style>
+  .hero-small {
+    background: #141414;
+    padding: 2.5rem 2rem;
+    text-align: center;
+  }
+
+  .content-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 3rem 2rem;
+  }
+
+  .matches-list {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    gap: 1rem;
+  }
+
+  .matches-list a {
+    display: block;
+    padding: 1rem 1.25rem;
+    background: #181818;
+    border-radius: 0.4rem;
+  }
+</style>
+

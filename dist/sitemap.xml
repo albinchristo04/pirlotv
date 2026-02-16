@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+  <loc>https://pirlotv.velcuri.io/</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pirlotv.velcuri.io/roja-directa-en-vivo/</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pirlotv.velcuri.io/tarjeta-roja-en-vivo/</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pirlotv.velcuri.io/partidos-hoy/</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pirlotv.velcuri.io/liga-mx-en-vivo/</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://pirlotv.velcuri.io/champions-league-en-vivo/</loc>
+  <changefreq>hourly</changefreq>
+  <priority>0.8</priority>
+</url>
+</urlset>

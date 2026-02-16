@@ -1,0 +1,66 @@
+---
+import Base from '../layouts/Base.astro';
+import { fetchMatches } from '../lib/fetchMatches';
+
+const matches = await fetchMatches();
+const ligaMatches = matches.filter(m => (m.league || '').toLowerCase().includes('liga mx'));
+
+const pageTitle = 'Liga MX en vivo | Pirlo TV Roja Directa';
+const pageDescription =
+  'Ver Liga MX en vivo gratis en Pirlo TV y Roja Directa. Partidos de hoy online sin registrarse.';
+const pageKeywords =
+  'liga mx en vivo, pirlo tv liga mx, roja directa liga mx, futbol mexico en vivo';
+---
+
+<Base title={pageTitle} description={pageDescription} keywords={pageKeywords}>
+  <section class="hero-small">
+    <h1>Liga MX en vivo</h1>
+    <p>Partidos de la Liga MX en Pirlo TV, Roja Directa y Tarjeta Roja.</p>
+  </section>
+
+  <section class="content-container">
+    {ligaMatches.length === 0 ? (
+      <p>No hay partidos de la Liga MX cargados actualmente.</p>
+    ) : (
+      <ul class="matches-list">
+        {ligaMatches.map(match => (
+          <li>
+            <a href={`/${match.slug}/`}>
+              <strong>{match.team_a} vs {match.team_b}</strong>
+              <> · {match.date} · {match.time}</>
+            </a>
+          </li>
+        ))}
+      </ul>
+    )}
+  </section>
+</Base>
+
+<style>
+  .hero-small {
+    background: #141414;
+    padding: 2.5rem 2rem;
+    text-align: center;
+  }
+
+  .content-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 3rem 2rem;
+  }
+
+  .matches-list {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    gap: 1rem;
+  }
+
+  .matches-list a {
+    display: block;
+    padding: 1rem 1.25rem;
+    background: #181818;
+    border-radius: 0.4rem;
+  }
+</style>
+

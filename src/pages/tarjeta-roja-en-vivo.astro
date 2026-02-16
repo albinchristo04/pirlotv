@@ -1,0 +1,68 @@
+---
+import Base from '../layouts/Base.astro';
+
+const pageTitle = 'Tarjeta Roja en Vivo | Transmisión en Directo';
+const pageDescription =
+  'Tarjeta Roja - Transmisión en vivo de fútbol. Ver todos los partidos en directo gratis';
+const pageKeywords = 'tarjeta roja, tarjeta roja en vivo, tarjeta roja tv, pirlo tv tarjeta roja';
+---
+
+<Base title={pageTitle} description={pageDescription} keywords={pageKeywords}>
+  <section class="tarjeta-hero">
+    <h1>Tarjeta Roja en vivo</h1>
+    <p>La mejor forma de ver fútbol en directo</p>
+  </section>
+
+  <section class="content-container">
+    <h2>Transmisión de Tarjeta Roja</h2>
+    <p>
+      Tarjeta Roja es una alternativa popular para ver fútbol en vivo. Ofrece transmisión en directo
+      de partidos de las principales ligas europeas y latinoamericanas completamente gratis.
+    </p>
+
+    <h2>Por qué elegir Tarjeta Roja en Pirlo TV</h2>
+    <div class="comparison">
+      <div class="comp-item">
+        <h3>Fácil de usar</h3>
+        <p>Interfaz simple e intuitiva.</p>
+      </div>
+      <div class="comp-item">
+        <h3>Múltiples enlaces</h3>
+        <p>Varias opciones de transmisión.</p>
+      </div>
+      <div class="comp-item">
+        <h3>100% gratis</h3>
+        <p>Sin cuotas ni suscripciones.</p>
+      </div>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .tarjeta-hero {
+    background: linear-gradient(135deg, #d32f2f 0%, #8b0000 100%);
+    color: white;
+    padding: 3rem 2rem;
+    text-align: center;
+  }
+
+  .content-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 3rem 2rem;
+  }
+
+  .comparison {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 2rem;
+    margin: 2rem 0;
+  }
+
+  .comp-item {
+    padding: 2rem;
+    background: #181818;
+    border-top: 4px solid #c41e3a;
+  }
+</style>
+
