@@ -25,6 +25,80 @@ function getFallbackMatches() {
   ];
 }
 
+function normalizeFromStrapi(m) {
+  const attributes = m.attributes || {};
+  const desc = attributes.diary_description || '';
+  const parts = desc.split('\n').map(s => s.trim()).filter(Boolean);
+
+  let league;
+  let team_a;
+  let team_b;
+
+  if (parts[0]) {
+    const first = parts[0];
+    league = first.includes(':') ? first.split(':')[0].trim() : first;
+  }
+
+  if (parts[1]) {
+    const vsParts = parts[1].split(' vs ');
+    if (vsParts.length >= 2) {
+      team_a = vsParts[0].trim();
+      team_b = vsParts[1].trim();
+    }
+  }
+
+  const date = attributes.date_diary || '';
+  let time = attributes.diary_hour || '';
+  if (time.length >= 5) {
+    time = time.slice(0, 5);
+  }
+
+  let decoded_iframe_url = '';
+  const embeds = attributes.embeds && attributes.embeds.data;
+  if (Array.isArray(embeds) && embeds.length > 0) {
+    const firstEmbed = embeds[0].attributes || {};
+    decoded_iframe_url = firstEmbed.decoded_iframe_url || '';
+  }
+
+  const idBase =
+    m.id ||
+    `${team_a || 'partido'}-${team_b || 'en-vivo'}-${date || ''}`.replace(/\s+/g, '-');
+  const id = String(idBase);
+  const slugBase = `${team_a || 'partido'}-vs-${team_b || 'en-vivo'}-${date || ''}`;
+  const slug = slugBase.toLowerCase().replace(/\s+/g, '-');
+
+  return {
+    id,
+    slug,
+    team_a: team_a || 'Equipo A',
+    team_b: team_b || 'Equipo B',
+    league,
+    date,
+    time,
+    decoded_iframe_url
+  };
+}
+
+function normalizeCanonical(m) {
+  const idBase =
+    m.id ||
+    `${m.team_a || 'partido'}-${m.team_b || 'en-vivo'}-${m.date || ''}`.replace(/\s+/g, '-');
+  const id = String(idBase);
+  const slugBase = `${m.team_a || 'partido'}-vs-${m.team_b || 'en-vivo'}-${m.date || ''}`;
+  const slug = slugBase.toLowerCase().replace(/\s+/g, '-');
+
+  return {
+    id,
+    slug,
+    team_a: m.team_a || 'Equipo A',
+    team_b: m.team_b || 'Equipo B',
+    league: m.league,
+    date: m.date || '',
+    time: m.time || '',
+    decoded_iframe_url: m.decoded_iframe_url || ''
+  };
+}
+
 async function fetchMatches() {
   const url = process.env.MATCHES_JSON_URL;
   let rawText = '';
@@ -73,12 +147,9 @@ async function fetchMatches() {
       list = getFallbackMatches();
     }
 
-    const enhanced = list.map(m => ({
-      ...m,
-      id: m.id || `${m.team_a}-${m.team_b}-${m.date}`.replace(/\s+/g, '-'),
-      slug: `${m.team_a}-vs-${m.team_b}-${m.date}`.toLowerCase().replace(/\s+/g, '-'),
-      updated_at: new Date().toISOString()
-    }));
+    const enhanced = list.map(m =>
+      m && m.attributes ? normalizeFromStrapi(m) : normalizeCanonical(m)
+    );
     const dir = path.join(process.cwd(), 'src', 'data');
     await fs.mkdir(dir, { recursive: true });
     await fs.writeFile(path.join(dir, 'matches.json'), JSON.stringify(enhanced, null, 2));
@@ -98,12 +169,7 @@ async function fetchMatches() {
       await fs.writeFile(
         path.join(dir, 'matches.json'),
         JSON.stringify(
-          fallback.map(m => ({
-            ...m,
-            id: m.id || `${m.team_a}-${m.team_b}-${m.date}`.replace(/\s+/g, '-'),
-            slug: `${m.team_a}-vs-${m.team_b}-${m.date}`.toLowerCase().replace(/\s+/g, '-'),
-            updated_at: new Date().toISOString()
-          })),
+          fallback.map(m => normalizeCanonical(m)),
           null,
           2
         )
