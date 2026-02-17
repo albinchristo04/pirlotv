@@ -1,15 +1,5 @@
 [
   {
-    "id": "31605",
-    "slug": "cagliari-vs-lecce-2026-02-16",
-    "team_a": "Cagliari",
-    "team_b": "Lecce",
-    "league": "Serie A",
-    "date": "2026-02-16",
-    "time": "14:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "31608",
     "slug": "partido-vs-en-vivo-2026-02-16",
     "team_a": "Equipo A",
@@ -40,56 +30,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2mx"
   },
   {
-    "id": "31617",
-    "slug": "partido-vs-en-vivo-2026-02-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Garin vs Tirante - Rio Open",
-    "date": "2026-02-16",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even10"
-  },
-  {
-    "id": "31604",
-    "slug": "girona-vs-barcelona-2026-02-16",
-    "team_a": "Girona",
-    "team_b": "Barcelona",
-    "league": "LaLiga",
-    "date": "2026-02-16",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "31615",
-    "slug": "utrecht-ii-vs-willem-ii-2026-02-16",
-    "team_a": "Utrecht II",
-    "team_b": "Willem II",
-    "league": "Eerste Divisie",
-    "date": "2026-02-16",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2_nl"
-  },
-  {
-    "id": "31616",
-    "slug": "partido-vs-en-vivo-2026-02-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Eerste Divisie",
-    "date": "2026-02-16",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
-  },
-  {
-    "id": "31613",
-    "slug": "partido-vs-en-vivo-2026-02-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-02-16",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
     "id": "31607",
     "slug": "partido-vs-en-vivo-2026-02-16",
     "team_a": "Equipo A",
@@ -98,26 +38,6 @@
     "date": "2026-02-16",
     "time": "17:00",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium"
-  },
-  {
-    "id": "31610",
-    "slug": "partido-vs-en-vivo-2026-02-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Championship",
-    "date": "2026-02-16",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=foxsports\n"
-  },
-  {
-    "id": "31606",
-    "slug": "partido-vs-en-vivo-2026-02-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "FA Cup",
-    "date": "2026-02-16",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
   },
   {
     "id": "31618",
