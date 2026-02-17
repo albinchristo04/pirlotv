@@ -30,6 +30,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney13"
   },
   {
+    "id": "31640",
+    "slug": "partido-vs-en-vivo-2026-02-17",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Alcaraz vs Rinderknech",
+    "date": "2026-02-17",
+    "time": "11:30",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
+  },
+  {
     "id": "31626",
     "slug": "alianza-vs-cúcuta-deportivo-2026-02-17",
     "team_a": "Alianza",
@@ -98,16 +108,6 @@
     "date": "2026-02-17",
     "time": "14:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
-  },
-  {
-    "id": "31636",
-    "slug": "buriram-united-vs-shanghai-shenhua-2026-02-17",
-    "team_a": "Buriram United",
-    "team_b": "Shanghai Shenhua",
-    "league": "AFC Champions League Elite",
-    "date": "2026-02-17",
-    "time": "07:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1"
   },
   {
     "id": "31637",
