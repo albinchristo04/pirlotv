@@ -30,14 +30,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney13"
   },
   {
-    "id": "31640",
-    "slug": "partido-vs-en-vivo-2026-02-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Alcaraz vs Rinderknech",
+    "id": "31623",
+    "slug": "benfica-vs-real-madrid-2026-02-17",
+    "team_a": "Benfica",
+    "team_b": "Real Madrid",
+    "league": "UEFA Champions League",
     "date": "2026-02-17",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "31626",
@@ -110,26 +110,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
   },
   {
-    "id": "31637",
-    "slug": "partido-vs-en-vivo-2026-02-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "AFC Champions League Elite",
-    "date": "2026-02-17",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espnmx"
-  },
-  {
-    "id": "31620",
-    "slug": "partido-vs-en-vivo-2026-02-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Champions League",
-    "date": "2026-02-17",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "31634",
     "slug": "bristol-city-vs-wrexham-2026-02-17",
     "team_a": "Bristol City",
@@ -138,16 +118,6 @@
     "date": "2026-02-17",
     "time": "14:45",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
-  },
-  {
-    "id": "31623",
-    "slug": "benfica-vs-real-madrid-2026-02-17",
-    "team_a": "Benfica",
-    "team_b": "Real Madrid",
-    "league": "UEFA Champions League",
-    "date": "2026-02-17",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "31635",
