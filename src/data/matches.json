@@ -30,16 +30,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney13"
   },
   {
-    "id": "31623",
-    "slug": "benfica-vs-real-madrid-2026-02-17",
-    "team_a": "Benfica",
-    "team_b": "Real Madrid",
-    "league": "UEFA Champions League",
-    "date": "2026-02-17",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "31626",
     "slug": "alianza-vs-cúcuta-deportivo-2026-02-17",
     "team_a": "Alianza",
@@ -58,16 +48,6 @@
     "date": "2026-02-17",
     "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=winsportsplus"
-  },
-  {
-    "id": "31631",
-    "slug": "partido-vs-en-vivo-2026-02-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Argentina",
-    "date": "2026-02-17",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
   },
   {
     "id": "31632",
@@ -98,56 +78,6 @@
     "date": "2026-02-17",
     "time": "17:10",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "31639",
-    "slug": "partido-vs-en-vivo-2026-02-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Eredivisie",
-    "date": "2026-02-17",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
-  },
-  {
-    "id": "31634",
-    "slug": "bristol-city-vs-wrexham-2026-02-17",
-    "team_a": "Bristol City",
-    "team_b": "Wrexham",
-    "league": "Championship",
-    "date": "2026-02-17",
-    "time": "14:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
-  },
-  {
-    "id": "31635",
-    "slug": "partido-vs-en-vivo-2026-02-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "League One",
-    "date": "2026-02-17",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney8"
-  },
-  {
-    "id": "31621",
-    "slug": "partido-vs-en-vivo-2026-02-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Champions League",
-    "date": "2026-02-17",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "31622",
-    "slug": "borussia-dortmund-vs-atalanta-2026-02-17",
-    "team_a": "Borussia Dortmund",
-    "team_b": "Atalanta",
-    "league": "UEFA Champions League",
-    "date": "2026-02-17",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   },
   {
     "id": "31628",
