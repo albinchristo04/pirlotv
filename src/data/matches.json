@@ -1,25 +1,5 @@
 [
   {
-    "id": "31629",
-    "slug": "partido-vs-en-vivo-2026-02-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Libertadores",
-    "date": "2026-02-17",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "31624",
-    "slug": "partido-vs-en-vivo-2026-02-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa de Campeones de la Concacaf",
-    "date": "2026-02-17",
-    "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney12"
-  },
-  {
     "id": "31625",
     "slug": "real-españa-vs-los-angeles-fc-2026-02-17",
     "team_a": "Real España",
@@ -28,75 +8,5 @@
     "date": "2026-02-17",
     "time": "22:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney13"
-  },
-  {
-    "id": "31626",
-    "slug": "alianza-vs-cúcuta-deportivo-2026-02-17",
-    "team_a": "Alianza",
-    "team_b": "Cúcuta Deportivo",
-    "league": "Categoría Primera A",
-    "date": "2026-02-17",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=winsportsplus"
-  },
-  {
-    "id": "31627",
-    "slug": "partido-vs-en-vivo-2026-02-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Categoría Primera A",
-    "date": "2026-02-17",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=winsportsplus"
-  },
-  {
-    "id": "31632",
-    "slug": "partido-vs-en-vivo-2026-02-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Argentina",
-    "date": "2026-02-17",
-    "time": "17:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
-  },
-  {
-    "id": "31633",
-    "slug": "river-plate-vs-ciudad-de-bolívar-2026-02-17",
-    "team_a": "River Plate",
-    "team_b": "Ciudad de Bolívar",
-    "league": "Copa Argentina",
-    "date": "2026-02-17",
-    "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
-  },
-  {
-    "id": "31638",
-    "slug": "partido-vs-en-vivo-2026-02-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Torneo de Reserva",
-    "date": "2026-02-17",
-    "time": "17:10",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "31628",
-    "slug": "partido-vs-en-vivo-2026-02-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Libertadores",
-    "date": "2026-02-17",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "31630",
-    "slug": "partido-vs-en-vivo-2026-02-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Libertadores",
-    "date": "2026-02-17",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=foxsports\n"
   }
 ]
