@@ -10,16 +10,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=winsportsplus"
   },
   {
-    "id": "31660",
-    "slug": "partido-vs-en-vivo-2026-02-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Torneo amistoso de Verano - Cuartos de Final",
-    "date": "2026-02-18",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
     "id": "31661",
     "slug": "partido-vs-en-vivo-2026-02-18",
     "team_a": "Equipo A",
@@ -28,46 +18,6 @@
     "date": "2026-02-18",
     "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "31643",
-    "slug": "partido-vs-en-vivo-2026-02-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Champions League",
-    "date": "2026-02-18",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "31658",
-    "slug": "partido-vs-en-vivo-2026-02-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Women's Champions League",
-    "date": "2026-02-18",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
-  },
-  {
-    "id": "31657",
-    "slug": "partido-vs-en-vivo-2026-02-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "AFC Champions League Two",
-    "date": "2026-02-18",
-    "time": "13:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
-  },
-  {
-    "id": "31648",
-    "slug": "partido-vs-en-vivo-2026-02-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga",
-    "date": "2026-02-18",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
   },
   {
     "id": "31649",
