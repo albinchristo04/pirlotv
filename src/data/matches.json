@@ -328,5 +328,15 @@
     "date": "2026-02-19",
     "time": "14:00",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
+  },
+  {
+    "id": "31696",
+    "slug": "partido-vs-en-vivo-2026-02-19",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "F1 – Bahrain International Circuit.",
+    "date": "2026-02-19",
+    "time": "09:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   }
 ]
