@@ -80,76 +80,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
   },
   {
-    "id": "31663",
-    "slug": "brann-vs-bologna-2026-02-19",
-    "team_a": "Brann",
-    "team_b": "Bologna",
-    "league": "UEFA Europa League",
-    "date": "2026-02-19",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "31664",
-    "slug": "dinamo-zagreb-vs-genk-2026-02-19",
-    "team_a": "Dinamo Zagreb",
-    "team_b": "Genk",
-    "league": "UEFA Europa League",
-    "date": "2026-02-19",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "31666",
-    "slug": "paok-vs-celta-de-vigo-2026-02-19",
-    "team_a": "PAOK",
-    "team_b": "Celta de Vigo",
-    "league": "UEFA Europa League",
-    "date": "2026-02-19",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "31673",
-    "slug": "partido-vs-en-vivo-2026-02-19",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Conference League",
-    "date": "2026-02-19",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
-  },
-  {
-    "id": "31674",
-    "slug": "partido-vs-en-vivo-2026-02-19",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Conference League",
-    "date": "2026-02-19",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney8"
-  },
-  {
-    "id": "31665",
-    "slug": "fenerbahçe-vs-nottingham-forest-2026-02-19",
-    "team_a": "Fenerbahçe",
-    "team_b": "Nottingham Forest",
-    "league": "UEFA Europa League",
-    "date": "2026-02-19",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "31671",
-    "slug": "partido-vs-en-vivo-2026-02-19",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Conference League",
-    "date": "2026-02-19",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
-  },
-  {
     "id": "31676",
     "slug": "partido-vs-en-vivo-2026-02-19",
     "team_a": "Equipo A",
@@ -270,16 +200,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium"
   },
   {
-    "id": "31672",
-    "slug": "partido-vs-en-vivo-2026-02-19",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Conference League",
-    "date": "2026-02-19",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even10"
-  },
-  {
     "id": "31689",
     "slug": "nacional-asunción-vs-sportivo-ameliano-2026-02-19",
     "team_a": "Nacional Asunción",
@@ -298,16 +218,6 @@
     "date": "2026-02-19",
     "time": "17:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "31690",
-    "slug": "juventus-vs-wolfsburg-2026-02-19",
-    "team_a": "Juventus",
-    "team_b": "Wolfsburg",
-    "league": "UEFA Women's Champions League",
-    "date": "2026-02-19",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney9"
   },
   {
     "id": "31691",
