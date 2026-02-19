@@ -150,16 +150,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
   },
   {
-    "id": "31672",
-    "slug": "partido-vs-en-vivo-2026-02-19",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Conference League",
-    "date": "2026-02-19",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney7"
-  },
-  {
     "id": "31676",
     "slug": "partido-vs-en-vivo-2026-02-19",
     "team_a": "Equipo A",
@@ -280,6 +270,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium"
   },
   {
+    "id": "31672",
+    "slug": "partido-vs-en-vivo-2026-02-19",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "UEFA Conference League",
+    "date": "2026-02-19",
+    "time": "12:45",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even10"
+  },
+  {
     "id": "31689",
     "slug": "nacional-asunción-vs-sportivo-ameliano-2026-02-19",
     "team_a": "Nacional Asunción",
@@ -330,13 +330,23 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
   },
   {
-    "id": "31696",
+    "id": "31697",
     "slug": "partido-vs-en-vivo-2026-02-19",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "F1 – Bahrain International Circuit.",
+    "league": "C, Alcaraz vs Cachanov",
     "date": "2026-02-19",
-    "time": "09:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "time": "12:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
+  },
+  {
+    "id": "31698",
+    "slug": "partido-vs-en-vivo-2026-02-19",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Golf – The Genesis Invitational – Primera Vuelta",
+    "date": "2026-02-19",
+    "time": "16:55",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   }
 ]
