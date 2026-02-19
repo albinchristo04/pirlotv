@@ -20,66 +20,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
   },
   {
-    "id": "31649",
-    "slug": "milan-vs-como-2026-02-18",
-    "team_a": "Milan",
-    "team_b": "Como",
-    "league": "Serie A",
-    "date": "2026-02-18",
-    "time": "14:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2mx"
-  },
-  {
-    "id": "31645",
-    "slug": "club-brugge-vs-atlético-madrid-2026-02-18",
-    "team_a": "Club Brugge",
-    "team_b": "Atlético Madrid",
-    "league": "UEFA Champions League",
-    "date": "2026-02-18",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "31647",
-    "slug": "wolverhampton-wanderers-vs-arsenal-2026-02-18",
-    "team_a": "Wolverhampton Wanderers",
-    "team_b": "Arsenal",
-    "league": "Premier League",
-    "date": "2026-02-18",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
-  },
-  {
-    "id": "31644",
-    "slug": "olympiakos-piraeus-vs-bayer-leverkusen-2026-02-18",
-    "team_a": "Olympiakos Piraeus",
-    "team_b": "Bayer Leverkusen",
-    "league": "UEFA Champions League",
-    "date": "2026-02-18",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "31659",
-    "slug": "arsenal-vs-oh-leuven-2026-02-18",
-    "team_a": "Arsenal",
-    "team_b": "OH Leuven",
-    "league": "UEFA Women's Champions League",
-    "date": "2026-02-18",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney11"
-  },
-  {
-    "id": "31646",
-    "slug": "bodø-/-glimt-vs-internazionale-2026-02-18",
-    "team_a": "Bodø / Glimt",
-    "team_b": "Internazionale",
-    "league": "UEFA Champions League",
-    "date": "2026-02-18",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "31654",
     "slug": "o'higgins-vs-bahia-2026-02-18",
     "team_a": "O'Higgins",
