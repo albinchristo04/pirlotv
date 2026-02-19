@@ -330,16 +330,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
   },
   {
-    "id": "31697",
-    "slug": "partido-vs-en-vivo-2026-02-19",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "C, Alcaraz vs Cachanov",
-    "date": "2026-02-19",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
-  },
-  {
     "id": "31698",
     "slug": "partido-vs-en-vivo-2026-02-19",
     "team_a": "Equipo A",
