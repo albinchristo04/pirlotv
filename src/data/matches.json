@@ -1,75 +1,5 @@
 [
   {
-    "id": "31653",
-    "slug": "junior-vs-américa-de-cali-2026-02-18",
-    "team_a": "Junior",
-    "team_b": "América de Cali",
-    "league": "Categoría Primera A",
-    "date": "2026-02-18",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=winsportsplus"
-  },
-  {
-    "id": "31661",
-    "slug": "partido-vs-en-vivo-2026-02-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Torneo amistoso de Verano - Cuartos de Final",
-    "date": "2026-02-18",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "31654",
-    "slug": "o'higgins-vs-bahia-2026-02-18",
-    "team_a": "O'Higgins",
-    "team_b": "Bahia",
-    "league": "Copa Libertadores",
-    "date": "2026-02-18",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "31650",
-    "slug": "defence-force-vs-philadelphia-union-2026-02-18",
-    "team_a": "Defence Force",
-    "team_b": "Philadelphia Union",
-    "league": "Copa de Campeones de la Concacaf",
-    "date": "2026-02-18",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney12"
-  },
-  {
-    "id": "31656",
-    "slug": "partido-vs-en-vivo-2026-02-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Libertadores",
-    "date": "2026-02-18",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "31655",
-    "slug": "barcelona-vs-argentinos-juniors-2026-02-18",
-    "team_a": "Barcelona",
-    "team_b": "Argentinos Juniors",
-    "league": "Copa Libertadores",
-    "date": "2026-02-18",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "31651",
-    "slug": "partido-vs-en-vivo-2026-02-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa de Campeones de la Concacaf",
-    "date": "2026-02-18",
-    "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney15"
-  },
-  {
     "id": "31652",
     "slug": "partido-vs-en-vivo-2026-02-18",
     "team_a": "Equipo A",
@@ -77,6 +7,6 @@
     "league": "Copa de Campeones de la Concacaf",
     "date": "2026-02-18",
     "time": "22:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney16"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tudn"
   }
 ]
