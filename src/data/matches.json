@@ -320,26 +320,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "31719",
-    "slug": "partido-vs-en-vivo-2026-02-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "2. Bundesliga",
-    "date": "2026-02-20",
-    "time": "12:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=foxsports2"
-  },
-  {
-    "id": "31718",
-    "slug": "partido-vs-en-vivo-2026-02-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "2. Bundesliga",
-    "date": "2026-02-20",
-    "time": "12:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
-  },
-  {
     "id": "31702",
     "slug": "partido-vs-en-vivo-2026-02-20",
     "team_a": "Equipo A",
