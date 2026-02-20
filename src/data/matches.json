@@ -1,132 +1,22 @@
 [
   {
-    "id": "31693",
-    "slug": "partido-vs-en-vivo-2026-02-19",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Torneo amistoso de Verano - Cuartos de Final",
-    "date": "2026-02-19",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "31694",
-    "slug": "partido-vs-en-vivo-2026-02-19",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Torneo amistoso de Verano - Cuartos de Final",
-    "date": "2026-02-19",
-    "time": "19:15",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "31679",
-    "slug": "partido-vs-en-vivo-2026-02-19",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa de Campeones de la Concacaf",
-    "date": "2026-02-19",
+    "id": "Barcelona-Real-Madrid-2026-02-20",
+    "slug": "barcelona-vs-real-madrid-2026-02-20",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-02-20",
     "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
   },
   {
-    "id": "31683",
-    "slug": "instituto-vs-atlético-tucumán-2026-02-19",
-    "team_a": "Instituto",
-    "team_b": "Atlético Tucumán",
-    "league": "Liga Profesional",
-    "date": "2026-02-19",
-    "time": "17:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
-  },
-  {
-    "id": "31684",
-    "slug": "athletico-pr-vs-corinthians-2026-02-19",
-    "team_a": "Athletico-PR",
-    "team_b": "Corinthians",
-    "league": "Brasileirão",
-    "date": "2026-02-19",
-    "time": "17:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere1"
-  },
-  {
-    "id": "31686",
-    "slug": "deportivo-táchira-vs-deportes-tolima-2026-02-19",
-    "team_a": "Deportivo Táchira",
-    "team_b": "Deportes Tolima",
-    "league": "Copa Libertadores",
-    "date": "2026-02-19",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "31687",
-    "slug": "lanús-vs-flamengo-2026-02-19",
-    "team_a": "Lanús",
-    "team_b": "Flamengo",
-    "league": "Recopa Sudamericana",
-    "date": "2026-02-19",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "31688",
-    "slug": "sportivo-san-lorenzo-vs-sportivo-trinidense-2026-02-19",
-    "team_a": "Sportivo San Lorenzo",
-    "team_b": "Sportivo Trinidense",
-    "league": "Primera División",
-    "date": "2026-02-19",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
-  },
-  {
-    "id": "31685",
-    "slug": "partido-vs-en-vivo-2026-02-19",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Libertadores",
-    "date": "2026-02-19",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "31682",
-    "slug": "partido-vs-en-vivo-2026-02-19",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga Profesional",
-    "date": "2026-02-19",
-    "time": "17:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium"
-  },
-  {
-    "id": "31689",
-    "slug": "nacional-asunción-vs-sportivo-ameliano-2026-02-19",
-    "team_a": "Nacional Asunción",
-    "team_b": "Sportivo Ameliano",
-    "league": "Primera División",
-    "date": "2026-02-19",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
-  },
-  {
-    "id": "31692",
-    "slug": "partido-vs-en-vivo-2026-02-19",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Torneo amistoso de Verano - Cuartos de Final",
-    "date": "2026-02-19",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "31698",
-    "slug": "partido-vs-en-vivo-2026-02-19",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Golf – The Genesis Invitational – Primera Vuelta",
-    "date": "2026-02-19",
-    "time": "16:55",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+    "id": "América-Chivas-2026-02-20",
+    "slug": "américa-vs-chivas-2026-02-20",
+    "team_a": "América",
+    "team_b": "Chivas",
+    "league": "Liga MX",
+    "date": "2026-02-20",
+    "time": "22:00",
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
