@@ -320,16 +320,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "31736",
-    "slug": "partido-vs-en-vivo-2026-02-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "F1",
-    "date": "2026-02-20",
-    "time": "09:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "31719",
     "slug": "partido-vs-en-vivo-2026-02-20",
     "team_a": "Equipo A",
