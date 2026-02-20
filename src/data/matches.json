@@ -40,16 +40,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
   },
   {
-    "id": "31702",
-    "slug": "partido-vs-en-vivo-2026-02-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Bundesliga",
-    "date": "2026-02-20",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "31703",
     "slug": "partido-vs-en-vivo-2026-02-20",
     "team_a": "Equipo A",
@@ -210,26 +200,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "id": "31718",
-    "slug": "partido-vs-en-vivo-2026-02-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "2. Bundesliga",
-    "date": "2026-02-20",
-    "time": "12:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "31719",
-    "slug": "partido-vs-en-vivo-2026-02-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "2. Bundesliga",
-    "date": "2026-02-20",
-    "time": "12:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=foxsports2"
-  },
-  {
     "id": "31722",
     "slug": "san-marcos-vs-deportes-santa-cruz-2026-02-20",
     "team_a": "San Marcos",
@@ -338,5 +308,45 @@
     "date": "2026-02-20",
     "time": "19:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "31736",
+    "slug": "partido-vs-en-vivo-2026-02-20",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "F1",
+    "date": "2026-02-20",
+    "time": "09:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "31719",
+    "slug": "partido-vs-en-vivo-2026-02-20",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "2. Bundesliga",
+    "date": "2026-02-20",
+    "time": "12:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=foxsports2"
+  },
+  {
+    "id": "31718",
+    "slug": "partido-vs-en-vivo-2026-02-20",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "2. Bundesliga",
+    "date": "2026-02-20",
+    "time": "12:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
+  },
+  {
+    "id": "31702",
+    "slug": "partido-vs-en-vivo-2026-02-20",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Bundesliga",
+    "date": "2026-02-20",
+    "time": "14:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
   }
 ]
