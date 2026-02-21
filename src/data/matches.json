@@ -10,16 +10,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   },
   {
-    "id": "31786",
-    "slug": "schalke-04-vs-magdeburg-2026-02-21",
-    "team_a": "Schalke 04",
-    "team_b": "Magdeburg",
-    "league": "2. Bundesliga",
-    "date": "2026-02-21",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "31788",
     "slug": "cruz-azul-vs-guadalajara-2026-02-21",
     "team_a": "Cruz Azul",
@@ -48,16 +38,6 @@
     "date": "2026-02-21",
     "time": "12:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "31791",
-    "slug": "partido-vs-en-vivo-2026-02-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Eredivisie",
-    "date": "2026-02-21",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4mx"
   },
   {
     "id": "31793",
@@ -108,26 +88,6 @@
     "date": "2026-02-21",
     "time": "16:30",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "31778",
-    "slug": "partido-vs-en-vivo-2026-02-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-02-21",
-    "time": "07:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
-  },
-  {
-    "id": "31751",
-    "slug": "partido-vs-en-vivo-2026-02-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A",
-    "date": "2026-02-21",
-    "time": "09:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "31755",
@@ -220,16 +180,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=liga1max"
   },
   {
-    "id": "31746",
-    "slug": "partido-vs-en-vivo-2026-02-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Premier League",
-    "date": "2026-02-21",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "31760",
     "slug": "toulouse-vs-paris-2026-02-21",
     "team_a": "Toulouse",
@@ -237,7 +187,37 @@
     "league": "Ligue 1",
     "date": "2026-02-21",
     "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=beinsportes"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
+  },
+  {
+    "id": "31786",
+    "slug": "schalke-04-vs-magdeburg-2026-02-21",
+    "team_a": "Schalke 04",
+    "team_b": "Magdeburg",
+    "league": "2. Bundesliga",
+    "date": "2026-02-21",
+    "time": "14:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
+  },
+  {
+    "id": "31791",
+    "slug": "partido-vs-en-vivo-2026-02-21",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Eredivisie",
+    "date": "2026-02-21",
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4mx"
+  },
+  {
+    "id": "31746",
+    "slug": "partido-vs-en-vivo-2026-02-21",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Premier League",
+    "date": "2026-02-21",
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
   },
   {
     "id": "31761",
@@ -330,16 +310,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
   },
   {
-    "id": "31750",
-    "slug": "partido-vs-en-vivo-2026-02-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga",
-    "date": "2026-02-21",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "31753",
     "slug": "partido-vs-en-vivo-2026-02-21",
     "team_a": "Equipo A",
@@ -350,6 +320,26 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espnmx"
   },
   {
+    "id": "31779",
+    "slug": "partido-vs-en-vivo-2026-02-21",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Primera División",
+    "date": "2026-02-21",
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney7"
+  },
+  {
+    "id": "31759",
+    "slug": "partido-vs-en-vivo-2026-02-21",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Ligue 1",
+    "date": "2026-02-21",
+    "time": "11:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
     "id": "31787",
     "slug": "necaxa-vs-toluca-2026-02-21",
     "team_a": "Necaxa",
@@ -358,6 +348,16 @@
     "date": "2026-02-21",
     "time": "20:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=azteca7"
+  },
+  {
+    "id": "31750",
+    "slug": "partido-vs-en-vivo-2026-02-21",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "LaLiga",
+    "date": "2026-02-21",
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "31740",
@@ -440,36 +440,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
   },
   {
-    "id": "31792",
-    "slug": "partido-vs-en-vivo-2026-02-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-02-21",
-    "time": "08:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
-    "id": "31781",
-    "slug": "west-bromwich-albion-vs-coventry-city-2026-02-21",
-    "team_a": "West Bromwich Albion",
-    "team_b": "Coventry City",
-    "league": "Championship",
-    "date": "2026-02-21",
-    "time": "07:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
-  },
-  {
-    "id": "31747",
-    "slug": "partido-vs-en-vivo-2026-02-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga",
-    "date": "2026-02-21",
-    "time": "08:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
     "id": "31754",
     "slug": "partido-vs-en-vivo-2026-02-21",
     "team_a": "Equipo A",
@@ -508,16 +478,6 @@
     "date": "2026-02-21",
     "time": "10:15",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "31759",
-    "slug": "partido-vs-en-vivo-2026-02-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ligue 1",
-    "date": "2026-02-21",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "31745",
@@ -598,15 +558,5 @@
     "date": "2026-02-21",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
-    "id": "31779",
-    "slug": "partido-vs-en-vivo-2026-02-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-02-21",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   }
 ]
