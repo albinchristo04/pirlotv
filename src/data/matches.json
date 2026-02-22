@@ -320,16 +320,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
   },
   {
-    "id": "31870",
-    "slug": "partido-vs-en-vivo-2026-02-22",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga MX",
-    "date": "2026-02-22",
-    "time": "00:10",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tudn"
-  },
-  {
     "id": "31872",
     "slug": "querétaro-vs-juárez-2026-02-22",
     "team_a": "Querétaro",
