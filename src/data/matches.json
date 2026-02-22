@@ -30,16 +30,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "id": "31859",
-    "slug": "partido-vs-en-vivo-2026-02-22",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Eredivisie",
-    "date": "2026-02-22",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
-  },
-  {
     "id": "31881",
     "slug": "partido-vs-en-vivo-2026-02-22",
     "team_a": "Equipo A",
@@ -68,16 +58,6 @@
     "date": "2026-02-22",
     "time": "18:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=max1"
-  },
-  {
-    "id": "31877",
-    "slug": "partido-vs-en-vivo-2026-02-22",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Campeonato Paulista A1",
-    "date": "2026-02-22",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=max4"
   },
   {
     "id": "31812",
@@ -170,16 +150,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tudn"
   },
   {
-    "id": "31820",
-    "slug": "partido-vs-en-vivo-2026-02-22",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga",
-    "date": "2026-02-22",
-    "time": "12:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
     "id": "31842",
     "slug": "américa-de-cali-vs-jaguares-de-córdoba-2026-02-22",
     "team_a": "América de Cali",
@@ -208,16 +178,6 @@
     "date": "2026-02-22",
     "time": "16:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "31843",
-    "slug": "macará-vs-leones-del-norte-2026-02-22",
-    "team_a": "Macará",
-    "team_b": "Leones del Norte",
-    "league": "Serie A",
-    "date": "2026-02-22",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
   },
   {
     "id": "31845",
@@ -290,26 +250,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
   },
   {
-    "id": "31862",
-    "slug": "partido-vs-en-vivo-2026-02-22",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-02-22",
-    "time": "12:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
-    "id": "31811",
-    "slug": "los-chankas-vs-sport-huancayo-2026-02-22",
-    "team_a": "Los Chankas",
-    "team_b": "Sport Huancayo",
-    "league": "Liga 1",
-    "date": "2026-02-22",
-    "time": "13:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=liga1max"
-  },
-  {
     "id": "31813",
     "slug": "partido-vs-en-vivo-2026-02-22",
     "team_a": "Equipo A",
@@ -318,16 +258,6 @@
     "date": "2026-02-22",
     "time": "18:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=liga1max"
-  },
-  {
-    "id": "31828",
-    "slug": "heidenheim-vs-stuttgart-2026-02-22",
-    "team_a": "Heidenheim",
-    "team_b": "Stuttgart",
-    "league": "Bundesliga",
-    "date": "2026-02-22",
-    "time": "13:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "31825",
