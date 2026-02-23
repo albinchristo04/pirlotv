@@ -1,15 +1,5 @@
 [
   {
-    "id": "31848",
-    "slug": "partido-vs-en-vivo-2026-02-22",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-02-22",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney8"
-  },
-  {
     "id": "31878",
     "slug": "partido-vs-en-vivo-2026-02-22",
     "team_a": "Equipo A",
@@ -57,7 +47,7 @@
     "league": "Primera División",
     "date": "2026-02-22",
     "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=max1"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
     "id": "31812",
@@ -68,26 +58,6 @@
     "date": "2026-02-22",
     "time": "15:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=liga1max"
-  },
-  {
-    "id": "31833",
-    "slug": "partido-vs-en-vivo-2026-02-22",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ligue 1",
-    "date": "2026-02-22",
-    "time": "14:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney7"
-  },
-  {
-    "id": "31834",
-    "slug": "partido-vs-en-vivo-2026-02-22",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga Profesional",
-    "date": "2026-02-22",
-    "time": "15:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
   },
   {
     "id": "31840",
@@ -158,16 +128,6 @@
     "date": "2026-02-22",
     "time": "20:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=winsportsplus"
-  },
-  {
-    "id": "31821",
-    "slug": "partido-vs-en-vivo-2026-02-22",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga",
-    "date": "2026-02-22",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   },
   {
     "id": "31838",
@@ -258,26 +218,6 @@
     "date": "2026-02-22",
     "time": "18:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=liga1max"
-  },
-  {
-    "id": "31825",
-    "slug": "roma-vs-cremonese-2026-02-22",
-    "team_a": "Roma",
-    "team_b": "Cremonese",
-    "league": "Serie A",
-    "date": "2026-02-22",
-    "time": "14:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3mx"
-  },
-  {
-    "id": "31863",
-    "slug": "partido-vs-en-vivo-2026-02-22",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-02-22",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
   },
   {
     "id": "31867",
