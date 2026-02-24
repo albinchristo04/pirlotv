@@ -228,15 +228,5 @@
     "date": "2026-02-24",
     "time": "14:00",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
-    "id": "31931",
-    "slug": "partido-vs-en-vivo-2026-02-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Hockey",
-    "date": "2026-02-24",
-    "time": "03:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   }
 ]
