@@ -40,16 +40,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
   },
   {
-    "id": "31922",
-    "slug": "partido-vs-en-vivo-2026-02-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Championship",
-    "date": "2026-02-24",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney8"
-  },
-  {
     "id": "31910",
     "slug": "bayer-leverkusen-vs-olympiakos-piraeus-2026-02-24",
     "team_a": "Bayer Leverkusen",
@@ -120,13 +110,13 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
   },
   {
-    "id": "31932",
+    "id": "31922",
     "slug": "partido-vs-en-vivo-2026-02-24",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Mensik vs Hurkas. - Dubai",
+    "league": "Championship",
     "date": "2026-02-24",
-    "time": "12:00",
+    "time": "15:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
   },
   {
@@ -137,7 +127,7 @@
     "league": "Campeonato Sub-20 de la CONCACAF",
     "date": "2026-02-24",
     "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney9"
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even10"
   },
   {
     "id": "31938",
@@ -158,16 +148,6 @@
     "date": "2026-02-24",
     "time": "22:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney20"
-  },
-  {
-    "id": "31924",
-    "slug": "eintracht-frankfurt-vs-sporting-cp-2026-02-24",
-    "team_a": "Eintracht Frankfurt",
-    "team_b": "Sporting CP",
-    "league": "UEFA Youth League",
-    "date": "2026-02-24",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even10"
   },
   {
     "id": "31940",
@@ -208,16 +188,6 @@
     "date": "2026-02-24",
     "time": "22:30",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
-  },
-  {
-    "id": "31909",
-    "slug": "partido-vs-en-vivo-2026-02-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Champions League",
-    "date": "2026-02-24",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "31918",
@@ -310,16 +280,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
   },
   {
-    "id": "31933",
-    "slug": "partido-vs-en-vivo-2026-02-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Campeonato Sub-20 de la CONCACAF",
-    "date": "2026-02-24",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even10"
-  },
-  {
     "id": "31907",
     "slug": "partido-vs-en-vivo-2026-02-24",
     "team_a": "Equipo A",
@@ -398,5 +358,15 @@
     "date": "2026-02-24",
     "time": "19:30",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
+  },
+  {
+    "id": "31909",
+    "slug": "partido-vs-en-vivo-2026-02-24",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "UEFA Champions League",
+    "date": "2026-02-24",
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   }
 ]
