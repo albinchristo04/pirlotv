@@ -120,6 +120,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
   },
   {
+    "id": "31932",
+    "slug": "partido-vs-en-vivo-2026-02-24",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Mensik vs Hurkas. - Dubai",
+    "date": "2026-02-24",
+    "time": "12:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
+  },
+  {
     "id": "31934",
     "slug": "partido-vs-en-vivo-2026-02-24",
     "team_a": "Equipo A",
@@ -158,16 +168,6 @@
     "date": "2026-02-24",
     "time": "10:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even10"
-  },
-  {
-    "id": "31932",
-    "slug": "partido-vs-en-vivo-2026-02-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Nardi vs Lehecka. - Dubai",
-    "date": "2026-02-24",
-    "time": "09:45",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
   },
   {
     "id": "31940",
@@ -310,16 +310,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
   },
   {
-    "id": "31923",
-    "slug": "partido-vs-en-vivo-2026-02-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Youth League",
-    "date": "2026-02-24",
-    "time": "08:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
-  },
-  {
     "id": "31933",
     "slug": "partido-vs-en-vivo-2026-02-24",
     "team_a": "Equipo A",
@@ -327,7 +317,7 @@
     "league": "Campeonato Sub-20 de la CONCACAF",
     "date": "2026-02-24",
     "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even10"
   },
   {
     "id": "31907",
