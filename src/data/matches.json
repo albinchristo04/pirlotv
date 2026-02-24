@@ -1,62 +1,12 @@
 [
   {
-    "id": "31891",
+    "id": "31906",
     "slug": "partido-vs-en-vivo-2026-02-23",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Serie A",
+    "league": "NBA",
     "date": "2026-02-23",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
-    "id": "31902",
-    "slug": "partido-vs-en-vivo-2026-02-23",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Campeonato Sub-20 de la CONCACAF",
-    "date": "2026-02-23",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney12"
-  },
-  {
-    "id": "31903",
-    "slug": "partido-vs-en-vivo-2026-02-23",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Campeonato Sub-20 de la CONCACAF",
-    "date": "2026-02-23",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney13"
-  },
-  {
-    "id": "31890",
-    "slug": "partido-vs-en-vivo-2026-02-23",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Categoría Primera A",
-    "date": "2026-02-23",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=winsportsplus"
-  },
-  {
-    "id": "31901",
-    "slug": "partido-vs-en-vivo-2026-02-23",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Campeonato Sub-20 de la CONCACAF",
-    "date": "2026-02-23",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney11"
-  },
-  {
-    "id": "31904",
-    "slug": "partido-vs-en-vivo-2026-02-23",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Campeonato Sub-20 de la CONCACAF",
-    "date": "2026-02-23",
-    "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney14"
+    "time": "21:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
   }
 ]
