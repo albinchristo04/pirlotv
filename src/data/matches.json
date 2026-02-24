@@ -30,16 +30,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
   },
   {
-    "id": "31948",
-    "slug": "partido-vs-en-vivo-2026-02-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-02-24",
-    "time": "22:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
-  },
-  {
     "id": "31910",
     "slug": "bayer-leverkusen-vs-olympiakos-piraeus-2026-02-24",
     "team_a": "Bayer Leverkusen",
@@ -88,16 +78,6 @@
     "date": "2026-02-24",
     "time": "20:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
-  },
-  {
-    "id": "31926",
-    "slug": "unión-magdalena-vs-tigres-2026-02-24",
-    "team_a": "Unión Magdalena",
-    "team_b": "Tigres",
-    "league": "Primera B",
-    "date": "2026-02-24",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=winsportsplus"
   },
   {
     "id": "31928",
@@ -167,7 +147,17 @@
     "league": "NBA",
     "date": "2026-02-24",
     "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=max1"
+  },
+  {
+    "id": "31948",
+    "slug": "partido-vs-en-vivo-2026-02-24",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
+    "date": "2026-02-24",
+    "time": "22:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=max2"
   },
   {
     "id": "31945",
@@ -250,16 +240,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
   },
   {
-    "id": "31925",
-    "slug": "envigado-vs-deportes-quindío-2026-02-24",
-    "team_a": "Envigado",
-    "team_b": "Deportes Quindío",
-    "league": "Primera B",
-    "date": "2026-02-24",
-    "time": "15:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=winsportsplus"
-  },
-  {
     "id": "31927",
     "slug": "victoria-vs-olancho-2026-02-24",
     "team_a": "Victoria",
@@ -278,16 +258,6 @@
     "date": "2026-02-24",
     "time": "14:00",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
-    "id": "31907",
-    "slug": "partido-vs-en-vivo-2026-02-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Champions League",
-    "date": "2026-02-24",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "31935",
