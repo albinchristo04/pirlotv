@@ -1,42 +1,22 @@
 [
   {
-    "id": "31947",
-    "slug": "partido-vs-en-vivo-2026-02-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-02-24",
-    "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
+    "id": "Barcelona-Real-Madrid-2026-02-25",
+    "slug": "barcelona-vs-real-madrid-2026-02-25",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-02-25",
+    "time": "20:00",
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
   },
   {
-    "id": "31948",
-    "slug": "partido-vs-en-vivo-2026-02-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-02-24",
+    "id": "América-Chivas-2026-02-25",
+    "slug": "américa-vs-chivas-2026-02-25",
+    "team_a": "América",
+    "team_b": "Chivas",
+    "league": "Liga MX",
+    "date": "2026-02-25",
     "time": "22:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
-  },
-  {
-    "id": "31912",
-    "slug": "los-angeles-fc-vs-real-españa-2026-02-24",
-    "team_a": "Los Angeles FC",
-    "team_b": "Real España",
-    "league": "Copa de Campeones de la Concacaf",
-    "date": "2026-02-24",
-    "time": "22:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney20"
-  },
-  {
-    "id": "31949",
-    "slug": "partido-vs-en-vivo-2026-02-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-02-24",
-    "time": "22:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
