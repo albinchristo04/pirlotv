@@ -20,16 +20,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "31988",
-    "slug": "partido-vs-en-vivo-2026-02-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Youth League",
-    "date": "2026-02-25",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
-  },
-  {
     "id": "31969",
     "slug": "santa-fe-vs-atlético-nacional-2026-02-25",
     "team_a": "Santa Fe",
@@ -60,16 +50,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium"
   },
   {
-    "id": "31970",
-    "slug": "bahia-vs-o'higgins-2026-02-25",
-    "team_a": "Bahia",
-    "team_b": "O'Higgins",
-    "league": "Copa Libertadores",
-    "date": "2026-02-25",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "31972",
     "slug": "argentinos-juniors-vs-barcelona-2026-02-25",
     "team_a": "Argentinos Juniors",
@@ -88,16 +68,6 @@
     "date": "2026-02-25",
     "time": "18:30",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
-  },
-  {
-    "id": "31976",
-    "slug": "stoke-city-vs-oxford-united-2026-02-25",
-    "team_a": "Stoke City",
-    "team_b": "Oxford United",
-    "league": "Championship",
-    "date": "2026-02-25",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "31956",
@@ -190,16 +160,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "id": "31987",
-    "slug": "partido-vs-en-vivo-2026-02-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Youth League",
-    "date": "2026-02-25",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "31992",
     "slug": "méxico-vs-islandia-2026-02-25",
     "team_a": "México",
@@ -218,6 +178,26 @@
     "date": "2026-02-25",
     "time": "12:45",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
+  },
+  {
+    "id": "31976",
+    "slug": "stoke-city-vs-oxford-united-2026-02-25",
+    "team_a": "Stoke City",
+    "team_b": "Oxford United",
+    "league": "Championship",
+    "date": "2026-02-25",
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney9"
+  },
+  {
+    "id": "31970",
+    "slug": "bahia-vs-o'higgins-2026-02-25",
+    "team_a": "Bahia",
+    "team_b": "O'Higgins",
+    "league": "Copa Libertadores",
+    "date": "2026-02-25",
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "31993",
@@ -290,16 +270,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "id": "31977",
-    "slug": "partido-vs-en-vivo-2026-02-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Campeonato Sub-20 de la CONCACAF",
-    "date": "2026-02-25",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
-  },
-  {
     "id": "31959",
     "slug": "partido-vs-en-vivo-2026-02-25",
     "team_a": "Equipo A",
@@ -330,16 +300,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
   },
   {
-    "id": "31953",
-    "slug": "partido-vs-en-vivo-2026-02-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Champions League",
-    "date": "2026-02-25",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "31962",
     "slug": "partido-vs-en-vivo-2026-02-25",
     "team_a": "Equipo A",
@@ -368,6 +328,16 @@
     "date": "2026-02-25",
     "time": "15:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
+  },
+  {
+    "id": "31953",
+    "slug": "partido-vs-en-vivo-2026-02-25",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "UEFA Champions League",
+    "date": "2026-02-25",
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "31967",
@@ -407,36 +377,6 @@
     "league": "Campeonato Sub-20 de la CONCACAF",
     "date": "2026-02-25",
     "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "31986",
-    "slug": "partido-vs-en-vivo-2026-02-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Youth League",
-    "date": "2026-02-25",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "31989",
-    "slug": "atlético-madrid-vs-maccabi-haifa-2026-02-25",
-    "team_a": "Atlético Madrid",
-    "team_b": "Maccabi Haifa",
-    "league": "UEFA Youth League",
-    "date": "2026-02-25",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "31990",
-    "slug": "benfica-vs-az-2026-02-25",
-    "team_a": "Benfica",
-    "team_b": "AZ",
-    "league": "UEFA Youth League",
-    "date": "2026-02-25",
-    "time": "10:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
