@@ -30,26 +30,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
   },
   {
-    "id": "31910",
-    "slug": "bayer-leverkusen-vs-olympiakos-piraeus-2026-02-24",
-    "team_a": "Bayer Leverkusen",
-    "team_b": "Olympiakos Piraeus",
-    "league": "UEFA Champions League",
-    "date": "2026-02-24",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "31908",
-    "slug": "partido-vs-en-vivo-2026-02-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Champions League",
-    "date": "2026-02-24",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
     "id": "31916",
     "slug": "partido-vs-en-vivo-2026-02-24",
     "team_a": "Equipo A",
@@ -78,36 +58,6 @@
     "date": "2026-02-24",
     "time": "20:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
-  },
-  {
-    "id": "31928",
-    "slug": "partido-vs-en-vivo-2026-02-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Pro League",
-    "date": "2026-02-24",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
-  },
-  {
-    "id": "31922",
-    "slug": "partido-vs-en-vivo-2026-02-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Championship",
-    "date": "2026-02-24",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
-  },
-  {
-    "id": "31934",
-    "slug": "partido-vs-en-vivo-2026-02-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Campeonato Sub-20 de la CONCACAF",
-    "date": "2026-02-24",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even10"
   },
   {
     "id": "31938",
@@ -160,6 +110,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=max2"
   },
   {
+    "id": "31950",
+    "slug": "partido-vs-en-vivo-2026-02-24",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Juan Manuel Cerundolo (Argentina) vs Cristian Garin (Chile) - ATP 250 Chile Open 2026",
+    "date": "2026-02-24",
+    "time": "17:15",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even10"
+  },
+  {
     "id": "31945",
     "slug": "partido-vs-en-vivo-2026-02-24",
     "team_a": "Equipo A",
@@ -178,26 +138,6 @@
     "date": "2026-02-24",
     "time": "22:30",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
-  },
-  {
-    "id": "31918",
-    "slug": "partido-vs-en-vivo-2026-02-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Libertadores",
-    "date": "2026-02-24",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "31913",
-    "slug": "partido-vs-en-vivo-2026-02-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga Profesional",
-    "date": "2026-02-24",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
   },
   {
     "id": "31919",
@@ -250,16 +190,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
   },
   {
-    "id": "31929",
-    "slug": "al-hazem-vs-al-ittihad-2026-02-24",
-    "team_a": "Al Hazem",
-    "team_b": "Al Ittihad",
-    "league": "Pro League",
-    "date": "2026-02-24",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
     "id": "31935",
     "slug": "partido-vs-en-vivo-2026-02-24",
     "team_a": "Equipo A",
@@ -268,16 +198,6 @@
     "date": "2026-02-24",
     "time": "16:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney11"
-  },
-  {
-    "id": "31936",
-    "slug": "partido-vs-en-vivo-2026-02-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Campeonato Sub-20 de la CONCACAF",
-    "date": "2026-02-24",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney13"
   },
   {
     "id": "31937",
@@ -330,13 +250,23 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
   },
   {
-    "id": "31909",
+    "id": "31936",
     "slug": "partido-vs-en-vivo-2026-02-24",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "UEFA Champions League",
+    "league": "Campeonato Sub-20 de la CONCACAF",
     "date": "2026-02-24",
-    "time": "15:00",
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
+  },
+  {
+    "id": "31918",
+    "slug": "partido-vs-en-vivo-2026-02-24",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa Libertadores",
+    "date": "2026-02-24",
+    "time": "17:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   }
 ]
