@@ -50,14 +50,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney11"
   },
   {
-    "id": "31996",
-    "slug": "partido-vs-en-vivo-2026-02-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NHL",
+    "id": "31972",
+    "slug": "argentinos-juniors-vs-barcelona-2026-02-25",
+    "team_a": "Argentinos Juniors",
+    "team_b": "Barcelona",
+    "league": "Copa Libertadores",
     "date": "2026-02-25",
-    "time": "22:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+    "time": "19:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "31969",
@@ -70,34 +70,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=winsportsplus"
   },
   {
-    "id": "31954",
+    "id": "31996",
     "slug": "partido-vs-en-vivo-2026-02-25",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "UEFA Champions League",
+    "league": "NHL",
     "date": "2026-02-25",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "31960",
-    "slug": "partido-vs-en-vivo-2026-02-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga Profesional",
-    "date": "2026-02-25",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium"
-  },
-  {
-    "id": "31972",
-    "slug": "argentinos-juniors-vs-barcelona-2026-02-25",
-    "team_a": "Argentinos Juniors",
-    "team_b": "Barcelona",
-    "league": "Copa Libertadores",
-    "date": "2026-02-25",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "time": "22:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
     "id": "31974",
@@ -117,16 +97,6 @@
     "league": "Copa de Campeones de la Concacaf",
     "date": "2026-02-25",
     "time": "23:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "31980",
-    "slug": "partido-vs-en-vivo-2026-02-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Campeonato Sub-20 de la CONCACAF",
-    "date": "2026-02-25",
-    "time": "15:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
@@ -158,16 +128,6 @@
     "date": "2026-02-25",
     "time": "21:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tudn"
-  },
-  {
-    "id": "31976",
-    "slug": "stoke-city-vs-oxford-united-2026-02-25",
-    "team_a": "Stoke City",
-    "team_b": "Oxford United",
-    "league": "Championship",
-    "date": "2026-02-25",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney9"
   },
   {
     "id": "31970",
@@ -210,6 +170,26 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   },
   {
+    "id": "31967",
+    "slug": "palmeiras-vs-fluminense-2026-02-25",
+    "team_a": "Palmeiras",
+    "team_b": "Fluminense",
+    "league": "Brasileirão",
+    "date": "2026-02-25",
+    "time": "19:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere3"
+  },
+  {
+    "id": "31968",
+    "slug": "partido-vs-en-vivo-2026-02-25",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Brasileirão",
+    "date": "2026-02-25",
+    "time": "19:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=fanatiz4"
+  },
+  {
     "id": "31993",
     "slug": "partido-vs-en-vivo-2026-02-25",
     "team_a": "Equipo A",
@@ -228,16 +208,6 @@
     "date": "2026-02-25",
     "time": "22:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "31968",
-    "slug": "partido-vs-en-vivo-2026-02-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Brasileirão",
-    "date": "2026-02-25",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere1"
   },
   {
     "id": "31973",
@@ -270,16 +240,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "id": "31959",
-    "slug": "partido-vs-en-vivo-2026-02-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga Profesional",
-    "date": "2026-02-25",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
-  },
-  {
     "id": "31965",
     "slug": "partido-vs-en-vivo-2026-02-25",
     "team_a": "Equipo A",
@@ -288,46 +248,6 @@
     "date": "2026-02-25",
     "time": "17:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere1"
-  },
-  {
-    "id": "31955",
-    "slug": "juventus-vs-galatasaray-2026-02-25",
-    "team_a": "Juventus",
-    "team_b": "Galatasaray",
-    "league": "UEFA Champions League",
-    "date": "2026-02-25",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "31953",
-    "slug": "partido-vs-en-vivo-2026-02-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Champions League",
-    "date": "2026-02-25",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "31967",
-    "slug": "palmeiras-vs-fluminense-2026-02-25",
-    "team_a": "Palmeiras",
-    "team_b": "Fluminense",
-    "league": "Brasileirão",
-    "date": "2026-02-25",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
-    "id": "31979",
-    "slug": "dominica-vs-república-dominicana-2026-02-25",
-    "team_a": "Dominica",
-    "team_b": "República Dominicana",
-    "league": "Campeonato Sub-20 de la CONCACAF",
-    "date": "2026-02-25",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "31982",
@@ -348,15 +268,5 @@
     "date": "2026-02-25",
     "time": "21:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "31991",
-    "slug": "al-najma-vs-al-nassr-2026-02-25",
-    "team_a": "Al Najma",
-    "team_b": "Al Nassr",
-    "league": "Pro League",
-    "date": "2026-02-25",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
   }
 ]
