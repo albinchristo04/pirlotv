@@ -1,73 +1,13 @@
 [
   {
-    "id": "31963",
-    "slug": "partido-vs-en-vivo-2026-02-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Brasileirão",
+    "id": "31992",
+    "slug": "méxico-vs-islandia-2026-02-25",
+    "team_a": "México",
+    "team_b": "Islandia",
+    "league": "Amistoso",
     "date": "2026-02-25",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=fanatiz5"
-  },
-  {
-    "id": "31994",
-    "slug": "partido-vs-en-vivo-2026-02-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-02-25",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "31964",
-    "slug": "partido-vs-en-vivo-2026-02-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Brasileirão",
-    "date": "2026-02-25",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=fanatiz1"
-  },
-  {
-    "id": "31966",
-    "slug": "partido-vs-en-vivo-2026-02-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Brasileirão",
-    "date": "2026-02-25",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere1"
-  },
-  {
-    "id": "31956",
-    "slug": "partido-vs-en-vivo-2026-02-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa de Campeones de la Concacaf",
-    "date": "2026-02-25",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney11"
-  },
-  {
-    "id": "31972",
-    "slug": "argentinos-juniors-vs-barcelona-2026-02-25",
-    "team_a": "Argentinos Juniors",
-    "team_b": "Barcelona",
-    "league": "Copa Libertadores",
-    "date": "2026-02-25",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "31969",
-    "slug": "santa-fe-vs-atlético-nacional-2026-02-25",
-    "team_a": "Santa Fe",
-    "team_b": "Atlético Nacional",
-    "league": "Categoría Primera A",
-    "date": "2026-02-25",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=winsportsplus"
+    "time": "21:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tudn"
   },
   {
     "id": "31996",
@@ -80,16 +20,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "31974",
-    "slug": "olimpia-vs-libertad-2026-02-25",
-    "team_a": "Olimpia",
-    "team_b": "Libertad",
-    "league": "Primera División",
-    "date": "2026-02-25",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
-  },
-  {
     "id": "31958",
     "slug": "partido-vs-en-vivo-2026-02-25",
     "team_a": "Equipo A",
@@ -97,107 +27,17 @@
     "league": "Copa de Campeones de la Concacaf",
     "date": "2026-02-25",
     "time": "23:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney14"
   },
   {
-    "id": "31981",
-    "slug": "partido-vs-en-vivo-2026-02-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Campeonato Sub-20 de la CONCACAF",
+    "id": "31957",
+    "slug": "vancouver-whitecaps-vs-cartaginés-2026-02-25",
+    "team_a": "Vancouver Whitecaps",
+    "team_b": "Cartaginés",
+    "league": "Copa de Campeones de la Concacaf",
     "date": "2026-02-25",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "31983",
-    "slug": "partido-vs-en-vivo-2026-02-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Campeonato Sub-20 de la CONCACAF",
-    "date": "2026-02-25",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "31992",
-    "slug": "méxico-vs-islandia-2026-02-25",
-    "team_a": "México",
-    "team_b": "Islandia",
-    "league": "Amistoso",
-    "date": "2026-02-25",
-    "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tudn"
-  },
-  {
-    "id": "31970",
-    "slug": "bahia-vs-o'higgins-2026-02-25",
-    "team_a": "Bahia",
-    "team_b": "O'Higgins",
-    "league": "Copa Libertadores",
-    "date": "2026-02-25",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "31962",
-    "slug": "partido-vs-en-vivo-2026-02-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga Profesional",
-    "date": "2026-02-25",
-    "time": "17:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=fanatiz2"
-  },
-  {
-    "id": "31961",
-    "slug": "vélez-sarsfield-vs-deportivo-riestra-2026-02-25",
-    "team_a": "Vélez Sarsfield",
-    "team_b": "Deportivo Riestra",
-    "league": "Liga Profesional",
-    "date": "2026-02-25",
-    "time": "17:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=fanatiz3"
-  },
-  {
-    "id": "31971",
-    "slug": "partido-vs-en-vivo-2026-02-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Libertadores",
-    "date": "2026-02-25",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "31967",
-    "slug": "palmeiras-vs-fluminense-2026-02-25",
-    "team_a": "Palmeiras",
-    "team_b": "Fluminense",
-    "league": "Brasileirão",
-    "date": "2026-02-25",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere3"
-  },
-  {
-    "id": "31968",
-    "slug": "partido-vs-en-vivo-2026-02-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Brasileirão",
-    "date": "2026-02-25",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=fanatiz4"
-  },
-  {
-    "id": "31993",
-    "slug": "partido-vs-en-vivo-2026-02-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Torneo amistoso de Verano - Semifinales",
-    "date": "2026-02-25",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
+    "time": "21:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney14"
   },
   {
     "id": "31995",
@@ -208,56 +48,6 @@
     "date": "2026-02-25",
     "time": "22:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "31973",
-    "slug": "partido-vs-en-vivo-2026-02-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-02-25",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
-  },
-  {
-    "id": "31975",
-    "slug": "partido-vs-en-vivo-2026-02-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-02-25",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
-  },
-  {
-    "id": "31957",
-    "slug": "vancouver-whitecaps-vs-cartaginés-2026-02-25",
-    "team_a": "Vancouver Whitecaps",
-    "team_b": "Cartaginés",
-    "league": "Copa de Campeones de la Concacaf",
-    "date": "2026-02-25",
-    "time": "21:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "31965",
-    "slug": "partido-vs-en-vivo-2026-02-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Brasileirão",
-    "date": "2026-02-25",
-    "time": "17:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere1"
-  },
-  {
-    "id": "31982",
-    "slug": "surinam-vs-guayana-francesa-2026-02-25",
-    "team_a": "Surinam",
-    "team_b": "Guayana Francesa",
-    "league": "Campeonato Sub-20 de la CONCACAF",
-    "date": "2026-02-25",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "31984",
