@@ -40,16 +40,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "id": "32010",
-    "slug": "partido-vs-en-vivo-2026-02-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Conference League",
-    "date": "2026-02-26",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney9"
-  },
-  {
     "id": "32030",
     "slug": "partido-vs-en-vivo-2026-02-26",
     "team_a": "Equipo A",
@@ -70,16 +60,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
   },
   {
-    "id": "32000",
-    "slug": "viktoria-plzeň-vs-panathinaikos-2026-02-26",
-    "team_a": "Viktoria Plzeň",
-    "team_b": "Panathinaikos",
-    "league": "UEFA Europa League",
-    "date": "2026-02-26",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
     "id": "32012",
     "slug": "partido-vs-en-vivo-2026-02-26",
     "team_a": "Equipo A",
@@ -88,16 +68,6 @@
     "date": "2026-02-26",
     "time": "15:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney17"
-  },
-  {
-    "id": "31999",
-    "slug": "stuttgart-vs-celtic-2026-02-26",
-    "team_a": "Stuttgart",
-    "team_b": "Celtic",
-    "league": "UEFA Europa League",
-    "date": "2026-02-26",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "32005",
@@ -118,16 +88,6 @@
     "date": "2026-02-26",
     "time": "15:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "32009",
-    "slug": "fiorentina-vs-jagiellonia-białystok-2026-02-26",
-    "team_a": "Fiorentina",
-    "team_b": "Jagiellonia Białystok",
-    "league": "UEFA Conference League",
-    "date": "2026-02-26",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
   },
   {
     "id": "32013",
@@ -160,14 +120,54 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
   },
   {
-    "id": "32007",
+    "id": "32034",
     "slug": "partido-vs-en-vivo-2026-02-26",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "UEFA Conference League",
+    "league": "NBA",
     "date": "2026-02-26",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney8"
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
+  },
+  {
+    "id": "32036",
+    "slug": "partido-vs-en-vivo-2026-02-26",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
+    "date": "2026-02-26",
+    "time": "19:30",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
+  },
+  {
+    "id": "32037",
+    "slug": "partido-vs-en-vivo-2026-02-26",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
+    "date": "2026-02-26",
+    "time": "19:30",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
+  },
+  {
+    "id": "32040",
+    "slug": "partido-vs-en-vivo-2026-02-26",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
+    "date": "2026-02-26",
+    "time": "20:30",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
+  },
+  {
+    "id": "32041",
+    "slug": "partido-vs-en-vivo-2026-02-26",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
+    "date": "2026-02-26",
+    "time": "21:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
   },
   {
     "id": "32019",
@@ -178,16 +178,6 @@
     "date": "2026-02-26",
     "time": "17:30",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium"
-  },
-  {
-    "id": "32002",
-    "slug": "ferencváros-vs-ludogorets-2026-02-26",
-    "team_a": "Ferencváros",
-    "team_b": "Ludogorets",
-    "league": "UEFA Europa League",
-    "date": "2026-02-26",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
     "id": "32021",
@@ -280,6 +270,36 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
   },
   {
+    "id": "32035",
+    "slug": "partido-vs-en-vivo-2026-02-26",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
+    "date": "2026-02-26",
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
+  },
+  {
+    "id": "32038",
+    "slug": "partido-vs-en-vivo-2026-02-26",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
+    "date": "2026-02-26",
+    "time": "19:30",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
+  },
+  {
+    "id": "32039",
+    "slug": "partido-vs-en-vivo-2026-02-26",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
+    "date": "2026-02-26",
+    "time": "20:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
+  },
+  {
     "id": "32031",
     "slug": "partido-vs-en-vivo-2026-02-26",
     "team_a": "Equipo A",
@@ -298,26 +318,6 @@
     "date": "2026-02-26",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "32008",
-    "slug": "partido-vs-en-vivo-2026-02-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Conference League",
-    "date": "2026-02-26",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney7"
-  },
-  {
-    "id": "32001",
-    "slug": "partido-vs-en-vivo-2026-02-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Europa League",
-    "date": "2026-02-26",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "32015",
