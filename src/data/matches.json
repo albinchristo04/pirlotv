@@ -90,16 +90,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "id": "32048",
-    "slug": "partido-vs-en-vivo-2026-02-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Champions League",
-    "date": "2026-02-27",
-    "time": "06:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
-  },
-  {
     "id": "32046",
     "slug": "melgar-vs-los-chankas-2026-02-27",
     "team_a": "Melgar",
@@ -290,14 +280,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "id": "32049",
+    "id": "32092",
     "slug": "partido-vs-en-vivo-2026-02-27",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "UEFA Europa League",
+    "league": "Andrey Rublev (Rusia) vs Tallon Griekspoor (Países Bajos)",
     "date": "2026-02-27",
-    "time": "07:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
+    "time": "10:15",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even10"
   },
   {
     "id": "32045",
