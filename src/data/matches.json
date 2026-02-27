@@ -1,15 +1,5 @@
 [
   {
-    "id": "32076",
-    "slug": "al-shabab-vs-al-hilal-2026-02-27",
-    "team_a": "Al Shabab",
-    "team_b": "Al Hilal",
-    "league": "Pro League",
-    "date": "2026-02-27",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
     "id": "32078",
     "slug": "partido-vs-en-vivo-2026-02-27",
     "team_a": "Equipo A",
@@ -60,6 +50,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
   },
   {
+    "id": "32060",
+    "slug": "partido-vs-en-vivo-2026-02-27",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Primera División",
+    "date": "2026-02-27",
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney11"
+  },
+  {
     "id": "32091",
     "slug": "granada-vs-el-salvador-2026-02-27",
     "team_a": "Granada",
@@ -97,27 +97,7 @@
     "league": "Liga 1",
     "date": "2026-02-27",
     "time": "17:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=liga1max"
-  },
-  {
-    "id": "32063",
-    "slug": "dynamo-dresden-vs-darmstadt-98-2026-02-27",
-    "team_a": "Dynamo Dresden",
-    "team_b": "Darmstadt 98",
-    "league": "2. Bundesliga",
-    "date": "2026-02-27",
-    "time": "12:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
-  },
-  {
-    "id": "32085",
-    "slug": "partido-vs-en-vivo-2026-02-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Campeonato Sub-20 de la CONCACAF",
-    "date": "2026-02-27",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
   },
   {
     "id": "32068",
@@ -150,16 +130,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=winsportsplus"
   },
   {
-    "id": "32060",
-    "slug": "partido-vs-en-vivo-2026-02-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-02-27",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "32066",
     "slug": "alebrijes-de-oaxaca-vs-dorados-2026-02-27",
     "team_a": "Alebrijes de Oaxaca",
@@ -188,16 +158,6 @@
     "date": "2026-02-27",
     "time": "22:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=azteca7"
-  },
-  {
-    "id": "32074",
-    "slug": "partido-vs-en-vivo-2026-02-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Eredivisie",
-    "date": "2026-02-27",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2_nl"
   },
   {
     "id": "32054",
@@ -287,17 +247,7 @@
     "league": "Liga 1",
     "date": "2026-02-27",
     "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=liga1max"
-  },
-  {
-    "id": "32062",
-    "slug": "partido-vs-en-vivo-2026-02-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "2. Bundesliga",
-    "date": "2026-02-27",
-    "time": "12:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
   },
   {
     "id": "32047",
@@ -307,7 +257,7 @@
     "league": "Liga 1",
     "date": "2026-02-27",
     "time": "20:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=liga1max"
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
   },
   {
     "id": "32050",
@@ -318,16 +268,6 @@
     "date": "2026-02-27",
     "time": "15:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "32057",
-    "slug": "unión-la-calera-vs-audax-italiano-2026-02-27",
-    "team_a": "Unión La Calera",
-    "team_b": "Audax Italiano",
-    "league": "Primera División",
-    "date": "2026-02-27",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
     "id": "32059",
@@ -410,16 +350,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tudn"
   },
   {
-    "id": "32075",
-    "slug": "partido-vs-en-vivo-2026-02-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Eerste Divisie",
-    "date": "2026-02-27",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3_nl"
-  },
-  {
     "id": "32077",
     "slug": "costa-rica-vs-brasil-2026-02-27",
     "team_a": "Costa Rica",
@@ -450,13 +380,13 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "32099",
-    "slug": "partido-vs-en-vivo-2026-02-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Francisco Cerúndolo (Argentina) vs Emilio Nava (EE. UU.)",
+    "id": "32057",
+    "slug": "unión-la-calera-vs-audax-italiano-2026-02-27",
+    "team_a": "Unión La Calera",
+    "team_b": "Audax Italiano",
+    "league": "Primera División",
     "date": "2026-02-27",
-    "time": "14:15",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
+    "time": "18:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   }
 ]
