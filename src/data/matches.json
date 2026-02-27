@@ -50,16 +50,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
   },
   {
-    "id": "32048",
-    "slug": "partido-vs-en-vivo-2026-02-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Champions League",
-    "date": "2026-02-27",
-    "time": "06:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1"
-  },
-  {
     "id": "32091",
     "slug": "granada-vs-el-salvador-2026-02-27",
     "team_a": "Granada",
@@ -98,6 +88,16 @@
     "date": "2026-02-27",
     "time": "13:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "32048",
+    "slug": "partido-vs-en-vivo-2026-02-27",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "UEFA Champions League",
+    "date": "2026-02-27",
+    "time": "06:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
   },
   {
     "id": "32046",
@@ -290,6 +290,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
+    "id": "32049",
+    "slug": "partido-vs-en-vivo-2026-02-27",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "UEFA Europa League",
+    "date": "2026-02-27",
+    "time": "07:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
+  },
+  {
     "id": "32045",
     "slug": "partido-vs-en-vivo-2026-02-27",
     "team_a": "Equipo A",
@@ -458,15 +468,5 @@
     "date": "2026-02-27",
     "time": "21:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "32049",
-    "slug": "partido-vs-en-vivo-2026-02-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Europa League",
-    "date": "2026-02-27",
-    "time": "07:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
   }
 ]
