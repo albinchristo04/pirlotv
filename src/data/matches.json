@@ -1,32 +1,472 @@
 [
   {
-    "id": "32041",
-    "slug": "partido-vs-en-vivo-2026-02-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-02-26",
-    "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
+    "id": "32076",
+    "slug": "al-shabab-vs-al-hilal-2026-02-27",
+    "team_a": "Al Shabab",
+    "team_b": "Al Hilal",
+    "league": "Pro League",
+    "date": "2026-02-27",
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
   },
   {
-    "id": "32042",
-    "slug": "partido-vs-en-vivo-2026-02-26",
+    "id": "32078",
+    "slug": "partido-vs-en-vivo-2026-02-27",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-02-26",
-    "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
+    "league": "Rugby",
+    "date": "2026-02-27",
+    "time": "17:55",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "32043",
-    "slug": "partido-vs-en-vivo-2026-02-26",
+    "id": "32080",
+    "slug": "partido-vs-en-vivo-2026-02-27",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-02-26",
+    "league": "BOXEO",
+    "date": "2026-02-27",
+    "time": "21:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "32082",
+    "slug": "partido-vs-en-vivo-2026-02-27",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "MotoGP – GP de Tahilandia – Clasificación",
+    "date": "2026-02-27",
+    "time": "22:45",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
+  },
+  {
+    "id": "32083",
+    "slug": "partido-vs-en-vivo-2026-02-27",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Torneo amistoso de Verano - Repechaje",
+    "date": "2026-02-27",
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
+  },
+  {
+    "id": "32048",
+    "slug": "partido-vs-en-vivo-2026-02-27",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "UEFA Champions League",
+    "date": "2026-02-27",
+    "time": "06:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1"
+  },
+  {
+    "id": "32091",
+    "slug": "granada-vs-el-salvador-2026-02-27",
+    "team_a": "Granada",
+    "team_b": "El Salvador",
+    "league": "Campeonato Sub-20 de la CONCACAF",
+    "date": "2026-02-27",
+    "time": "21:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "32090",
+    "slug": "islas-caimán-vs-jamaica-2026-02-27",
+    "team_a": "Islas Caimán",
+    "team_b": "Jamaica",
+    "league": "Campeonato Sub-20 de la CONCACAF",
+    "date": "2026-02-27",
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "32087",
+    "slug": "belice-vs-guayana-francesa-2026-02-27",
+    "team_a": "Belice",
+    "team_b": "Guayana Francesa",
+    "league": "Campeonato Sub-20 de la CONCACAF",
+    "date": "2026-02-27",
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "32085",
+    "slug": "partido-vs-en-vivo-2026-02-27",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Campeonato Sub-20 de la CONCACAF",
+    "date": "2026-02-27",
+    "time": "13:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "32046",
+    "slug": "melgar-vs-los-chankas-2026-02-27",
+    "team_a": "Melgar",
+    "team_b": "Los Chankas",
+    "league": "Liga 1",
+    "date": "2026-02-27",
+    "time": "17:45",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=liga1max"
+  },
+  {
+    "id": "32051",
+    "slug": "partido-vs-en-vivo-2026-02-27",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "UEFA Conference League",
+    "date": "2026-02-27",
+    "time": "08:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "32053",
+    "slug": "partido-vs-en-vivo-2026-02-27",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Serie A",
+    "date": "2026-02-27",
+    "time": "14:45",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "32054",
+    "slug": "partido-vs-en-vivo-2026-02-27",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Bundesliga",
+    "date": "2026-02-27",
+    "time": "14:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "32055",
+    "slug": "partido-vs-en-vivo-2026-02-27",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Ligue 1",
+    "date": "2026-02-27",
+    "time": "14:45",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
+  },
+  {
+    "id": "32056",
+    "slug": "partido-vs-en-vivo-2026-02-27",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Primera División",
+    "date": "2026-02-27",
+    "time": "16:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "32058",
+    "slug": "partido-vs-en-vivo-2026-02-27",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Categoría Primera A",
+    "date": "2026-02-27",
+    "time": "20:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=winsportsplus"
+  },
+  {
+    "id": "32060",
+    "slug": "partido-vs-en-vivo-2026-02-27",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Primera División",
+    "date": "2026-02-27",
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "32061",
+    "slug": "partido-vs-en-vivo-2026-02-27",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Championship",
+    "date": "2026-02-27",
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
+  },
+  {
+    "id": "32063",
+    "slug": "dynamo-dresden-vs-darmstadt-98-2026-02-27",
+    "team_a": "Dynamo Dresden",
+    "team_b": "Darmstadt 98",
+    "league": "2. Bundesliga",
+    "date": "2026-02-27",
+    "time": "12:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "32066",
+    "slug": "alebrijes-de-oaxaca-vs-dorados-2026-02-27",
+    "team_a": "Alebrijes de Oaxaca",
+    "team_b": "Dorados",
+    "league": "Liga de Expansión MX",
+    "date": "2026-02-27",
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3mx"
+  },
+  {
+    "id": "32068",
+    "slug": "partido-vs-en-vivo-2026-02-27",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "LaLiga SmartBank",
+    "date": "2026-02-27",
+    "time": "14:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
+  },
+  {
+    "id": "32070",
+    "slug": "mazatlán-vs-pachuca-2026-02-27",
+    "team_a": "Mazatlán",
+    "team_b": "Pachuca",
+    "league": "Liga MX",
+    "date": "2026-02-27",
+    "time": "20:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=azteca7"
+  },
+  {
+    "id": "32072",
+    "slug": "partido-vs-en-vivo-2026-02-27",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Liga MX",
+    "date": "2026-02-27",
     "time": "22:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=azteca7"
+  },
+  {
+    "id": "32074",
+    "slug": "partido-vs-en-vivo-2026-02-27",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Eredivisie",
+    "date": "2026-02-27",
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2_nl"
+  },
+  {
+    "id": "32089",
+    "slug": "surinam-vs-saint-martin-2026-02-27",
+    "team_a": "Surinam",
+    "team_b": "Saint Martin",
+    "league": "Campeonato Sub-20 de la CONCACAF",
+    "date": "2026-02-27",
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "32088",
+    "slug": "puerto-rico-vs-turks-and-caicos-2026-02-27",
+    "team_a": "Puerto Rico",
+    "team_b": "Turks and Caicos",
+    "league": "Campeonato Sub-20 de la CONCACAF",
+    "date": "2026-02-27",
+    "time": "16:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "32086",
+    "slug": "partido-vs-en-vivo-2026-02-27",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Campeonato Sub-20 de la CONCACAF",
+    "date": "2026-02-27",
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "32084",
+    "slug": "partido-vs-en-vivo-2026-02-27",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Campeonato Sub-20 de la CONCACAF",
+    "date": "2026-02-27",
+    "time": "12:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "32045",
+    "slug": "partido-vs-en-vivo-2026-02-27",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Liga 1",
+    "date": "2026-02-27",
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=liga1max"
+  },
+  {
+    "id": "32047",
+    "slug": "partido-vs-en-vivo-2026-02-27",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Liga 1",
+    "date": "2026-02-27",
+    "time": "20:15",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=liga1max"
+  },
+  {
+    "id": "32050",
+    "slug": "wolverhampton-wanderers-vs-aston-villa-2026-02-27",
+    "team_a": "Wolverhampton Wanderers",
+    "team_b": "Aston Villa",
+    "league": "Premier League",
+    "date": "2026-02-27",
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "32052",
+    "slug": "levante-vs-deportivo-alavés-2026-02-27",
+    "team_a": "Levante",
+    "team_b": "Deportivo Alavés",
+    "league": "LaLiga",
+    "date": "2026-02-27",
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
+  },
+  {
+    "id": "32057",
+    "slug": "unión-la-calera-vs-audax-italiano-2026-02-27",
+    "team_a": "Unión La Calera",
+    "team_b": "Audax Italiano",
+    "league": "Primera División",
+    "date": "2026-02-27",
+    "time": "18:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "32059",
+    "slug": "técnico-universitario-vs-orense-2026-02-27",
+    "team_a": "Técnico Universitario",
+    "team_b": "Orense",
+    "league": "Serie A",
+    "date": "2026-02-27",
+    "time": "19:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
+  },
+  {
+    "id": "32062",
+    "slug": "partido-vs-en-vivo-2026-02-27",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "2. Bundesliga",
+    "date": "2026-02-27",
+    "time": "12:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "32064",
+    "slug": "partido-vs-en-vivo-2026-02-27",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Campeonato W de CONCACAF",
+    "date": "2026-02-27",
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "32065",
+    "slug": "partido-vs-en-vivo-2026-02-27",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Campeonato W de CONCACAF",
+    "date": "2026-02-27",
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "32067",
+    "slug": "partido-vs-en-vivo-2026-02-27",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Liga de Expansión MX",
+    "date": "2026-02-27",
+    "time": "20:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3mx"
+  },
+  {
+    "id": "32069",
+    "slug": "trabzonspor-vs-fatih-karagümrük-2026-02-27",
+    "team_a": "Trabzonspor",
+    "team_b": "Fatih Karagümrük",
+    "league": "Super Lig",
+    "date": "2026-02-27",
+    "time": "12:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "32071",
+    "slug": "querétaro-vs-santos-laguna-2026-02-27",
+    "team_a": "Querétaro",
+    "team_b": "Santos Laguna",
+    "league": "Liga MX",
+    "date": "2026-02-27",
+    "time": "20:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tudn"
+  },
+  {
+    "id": "32073",
+    "slug": "partido-vs-en-vivo-2026-02-27",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Liga MX",
+    "date": "2026-02-27",
+    "time": "22:05",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tudn"
+  },
+  {
+    "id": "32075",
+    "slug": "partido-vs-en-vivo-2026-02-27",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Eerste Divisie",
+    "date": "2026-02-27",
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3_nl"
+  },
+  {
+    "id": "32077",
+    "slug": "costa-rica-vs-brasil-2026-02-27",
+    "team_a": "Costa Rica",
+    "team_b": "Brasil",
+    "league": "Amistoso Internacional Femenino",
+    "date": "2026-02-27",
+    "time": "20:00",
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+  },
+  {
+    "id": "32079",
+    "slug": "partido-vs-en-vivo-2026-02-27",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
+    "date": "2026-02-27",
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "32081",
+    "slug": "partido-vs-en-vivo-2026-02-27",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
+    "date": "2026-02-27",
+    "time": "21:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "32049",
+    "slug": "partido-vs-en-vivo-2026-02-27",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "UEFA Europa League",
+    "date": "2026-02-27",
+    "time": "07:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
   }
 ]
