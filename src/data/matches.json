@@ -1,15 +1,5 @@
 [
   {
-    "id": "32078",
-    "slug": "partido-vs-en-vivo-2026-02-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby",
-    "date": "2026-02-27",
-    "time": "17:55",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
     "id": "32080",
     "slug": "partido-vs-en-vivo-2026-02-27",
     "team_a": "Equipo A",
@@ -40,26 +30,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
   },
   {
-    "id": "32083",
-    "slug": "partido-vs-en-vivo-2026-02-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Torneo amistoso de Verano - Repechaje",
-    "date": "2026-02-27",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "32060",
-    "slug": "partido-vs-en-vivo-2026-02-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-02-27",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney11"
-  },
-  {
     "id": "32091",
     "slug": "granada-vs-el-salvador-2026-02-27",
     "team_a": "Granada",
@@ -70,36 +40,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "id": "32090",
-    "slug": "islas-caimán-vs-jamaica-2026-02-27",
-    "team_a": "Islas Caimán",
-    "team_b": "Jamaica",
-    "league": "Campeonato Sub-20 de la CONCACAF",
-    "date": "2026-02-27",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "32046",
-    "slug": "melgar-vs-los-chankas-2026-02-27",
-    "team_a": "Melgar",
-    "team_b": "Los Chankas",
-    "league": "Liga 1",
-    "date": "2026-02-27",
-    "time": "17:45",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
-  },
-  {
-    "id": "32056",
-    "slug": "partido-vs-en-vivo-2026-02-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-02-27",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
     "id": "32058",
     "slug": "partido-vs-en-vivo-2026-02-27",
     "team_a": "Equipo A",
@@ -107,27 +47,7 @@
     "league": "Categoría Primera A",
     "date": "2026-02-27",
     "time": "20:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=winsportsplus"
-  },
-  {
-    "id": "32066",
-    "slug": "alebrijes-de-oaxaca-vs-dorados-2026-02-27",
-    "team_a": "Alebrijes de Oaxaca",
-    "team_b": "Dorados",
-    "league": "Liga de Expansión MX",
-    "date": "2026-02-27",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3mx"
-  },
-  {
-    "id": "32070",
-    "slug": "mazatlán-vs-pachuca-2026-02-27",
-    "team_a": "Mazatlán",
-    "team_b": "Pachuca",
-    "league": "Liga MX",
-    "date": "2026-02-27",
-    "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=azteca7"
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
   },
   {
     "id": "32072",
@@ -140,36 +60,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=azteca7"
   },
   {
-    "id": "32095",
-    "slug": "partido-vs-en-vivo-2026-02-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-02-27",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
-  },
-  {
-    "id": "32089",
-    "slug": "surinam-vs-saint-martin-2026-02-27",
-    "team_a": "Surinam",
-    "team_b": "Saint Martin",
-    "league": "Campeonato Sub-20 de la CONCACAF",
-    "date": "2026-02-27",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "32088",
-    "slug": "puerto-rico-vs-turks-and-caicos-2026-02-27",
-    "team_a": "Puerto Rico",
-    "team_b": "Turks and Caicos",
-    "league": "Campeonato Sub-20 de la CONCACAF",
-    "date": "2026-02-27",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "32047",
     "slug": "partido-vs-en-vivo-2026-02-27",
     "team_a": "Equipo A",
@@ -178,66 +68,6 @@
     "date": "2026-02-27",
     "time": "20:15",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
-  },
-  {
-    "id": "32059",
-    "slug": "técnico-universitario-vs-orense-2026-02-27",
-    "team_a": "Técnico Universitario",
-    "team_b": "Orense",
-    "league": "Serie A",
-    "date": "2026-02-27",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
-    "id": "32064",
-    "slug": "partido-vs-en-vivo-2026-02-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Campeonato W de CONCACAF",
-    "date": "2026-02-27",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "32065",
-    "slug": "partido-vs-en-vivo-2026-02-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Campeonato W de CONCACAF",
-    "date": "2026-02-27",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "32067",
-    "slug": "partido-vs-en-vivo-2026-02-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga de Expansión MX",
-    "date": "2026-02-27",
-    "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3mx"
-  },
-  {
-    "id": "32096",
-    "slug": "partido-vs-en-vivo-2026-02-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-02-27",
-    "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
-  },
-  {
-    "id": "32071",
-    "slug": "querétaro-vs-santos-laguna-2026-02-27",
-    "team_a": "Querétaro",
-    "team_b": "Santos Laguna",
-    "league": "Liga MX",
-    "date": "2026-02-27",
-    "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tudn"
   },
   {
     "id": "32073",
@@ -250,26 +80,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tudn"
   },
   {
-    "id": "32077",
-    "slug": "costa-rica-vs-brasil-2026-02-27",
-    "team_a": "Costa Rica",
-    "team_b": "Brasil",
-    "league": "Amistoso Internacional Femenino",
-    "date": "2026-02-27",
-    "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
-    "id": "32079",
-    "slug": "partido-vs-en-vivo-2026-02-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-02-27",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "32081",
     "slug": "partido-vs-en-vivo-2026-02-27",
     "team_a": "Equipo A",
@@ -278,15 +88,5 @@
     "date": "2026-02-27",
     "time": "21:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "32057",
-    "slug": "unión-la-calera-vs-audax-italiano-2026-02-27",
-    "team_a": "Unión La Calera",
-    "team_b": "Audax Italiano",
-    "league": "Primera División",
-    "date": "2026-02-27",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   }
 ]
