@@ -190,16 +190,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
   },
   {
-    "id": "32198",
-    "slug": "partido-vs-en-vivo-2026-03-01",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A",
-    "date": "2026-03-01",
-    "time": "06:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "32227",
     "slug": "liverpool-vs-cerro-largo-2026-03-01",
     "team_a": "Liverpool",
@@ -590,6 +580,26 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
+    "id": "32251",
+    "slug": "partido-vs-en-vivo-2026-03-01",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "LaLiga SmartBank",
+    "date": "2026-03-01",
+    "time": "10:15",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
+  },
+  {
+    "id": "32252",
+    "slug": "sporting-gijón-vs-leganés-2026-03-01",
+    "team_a": "Sporting Gijón",
+    "team_b": "Leganés",
+    "league": "LaLiga SmartBank",
+    "date": "2026-03-01",
+    "time": "10:15",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
+  },
+  {
     "id": "32242",
     "slug": "partido-vs-en-vivo-2026-03-01",
     "team_a": "Equipo A",
@@ -638,16 +648,6 @@
     "date": "2026-03-01",
     "time": "14:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
-  },
-  {
-    "id": "32251",
-    "slug": "partido-vs-en-vivo-2026-03-01",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-03-01",
-    "time": "10:15",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=hypermotion2"
   },
   {
     "id": "32253",
@@ -818,16 +818,6 @@
     "date": "2026-03-01",
     "time": "08:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2mx"
-  },
-  {
-    "id": "32252",
-    "slug": "sporting-gijón-vs-leganés-2026-03-01",
-    "team_a": "Sporting Gijón",
-    "team_b": "Leganés",
-    "league": "LaLiga SmartBank",
-    "date": "2026-03-01",
-    "time": "10:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
   },
   {
     "id": "32248",
