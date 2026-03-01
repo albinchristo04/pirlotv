@@ -1,15 +1,5 @@
 [
   {
-    "id": "32164",
-    "slug": "cd-castellon-vs-racing-santander-2026-02-28",
-    "team_a": "CD Castellon",
-    "team_b": "Racing Santander",
-    "league": "LaLiga SmartBank",
-    "date": "2026-02-28",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney11"
-  },
-  {
     "id": "32133",
     "slug": "partido-vs-en-vivo-2026-02-28",
     "team_a": "Equipo A",
@@ -30,26 +20,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
   },
   {
-    "id": "32132",
-    "slug": "leones-del-norte-vs-libertad-2026-02-28",
-    "team_a": "Leones del Norte",
-    "team_b": "Libertad",
-    "league": "Serie A",
-    "date": "2026-02-28",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even10"
-  },
-  {
-    "id": "32114",
-    "slug": "internazionale-vs-genoa-2026-02-28",
-    "team_a": "Internazionale",
-    "team_b": "Genoa",
-    "league": "Serie A",
-    "date": "2026-02-28",
-    "time": "14:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espnmx"
-  },
-  {
     "id": "32125",
     "slug": "partido-vs-en-vivo-2026-02-28",
     "team_a": "Equipo A",
@@ -58,16 +28,6 @@
     "date": "2026-02-28",
     "time": "20:15",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
-  },
-  {
-    "id": "32167",
-    "slug": "partido-vs-en-vivo-2026-02-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Pro League",
-    "date": "2026-02-28",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
   },
   {
     "id": "32130",
@@ -140,16 +100,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
   },
   {
-    "id": "32138",
-    "slug": "partido-vs-en-vivo-2026-02-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-02-28",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney9"
-  },
-  {
     "id": "32173",
     "slug": "partido-vs-en-vivo-2026-02-28",
     "team_a": "Equipo A",
@@ -168,16 +118,6 @@
     "date": "2026-02-28",
     "time": "20:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "32101",
-    "slug": "utc-cajamarca-vs-alianza-lima-2026-02-28",
-    "team_a": "UTC Cajamarca",
-    "team_b": "Alianza Lima",
-    "league": "Liga 1",
-    "date": "2026-02-28",
-    "time": "13:15",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
   },
   {
     "id": "32123",
@@ -260,16 +200,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney14"
   },
   {
-    "id": "32122",
-    "slug": "le-havre-vs-psg-2026-02-28",
-    "team_a": "Le Havre",
-    "team_b": "PSG",
-    "league": "Ligue 1",
-    "date": "2026-02-28",
-    "time": "15:05",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "32148",
     "slug": "guyana-vs-anguila-2026-02-28",
     "team_a": "Guyana",
@@ -318,16 +248,6 @@
     "date": "2026-02-28",
     "time": "22:10",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=canal5"
-  },
-  {
-    "id": "32160",
-    "slug": "partido-vs-en-vivo-2026-02-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Eredivisie",
-    "date": "2026-02-28",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
   },
   {
     "id": "32168",
@@ -390,36 +310,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
   },
   {
-    "id": "32259",
-    "slug": "partido-vs-en-vivo-2026-02-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Bundesliga",
-    "date": "2026-02-28",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
-  },
-  {
-    "id": "32147",
-    "slug": "costa-rica-vs-barbados-2026-02-28",
-    "team_a": "Costa Rica",
-    "team_b": "Barbados",
-    "league": "Campeonato Sub-20 de la CONCACAF",
-    "date": "2026-02-28",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney10"
-  },
-  {
-    "id": "32260",
-    "slug": "partido-vs-en-vivo-2026-02-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga",
-    "date": "2026-02-28",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "32261",
     "slug": "partido-vs-en-vivo-2026-02-28",
     "team_a": "Equipo A",
@@ -458,15 +348,5 @@
     "date": "2026-02-28",
     "time": "18:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=max3"
-  },
-  {
-    "id": "32269",
-    "slug": "partido-vs-en-vivo-2026-02-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Torneo amistoso de Verano - Semifinales",
-    "date": "2026-02-28",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
   }
 ]
