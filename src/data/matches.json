@@ -120,16 +120,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
   },
   {
-    "id": "32222",
-    "slug": "partido-vs-en-vivo-2026-03-01",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A",
-    "date": "2026-03-01",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
     "id": "32223",
     "slug": "partido-vs-en-vivo-2026-03-01",
     "team_a": "Equipo A",
@@ -138,6 +128,16 @@
     "date": "2026-03-01",
     "time": "14:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
+  },
+  {
+    "id": "32196",
+    "slug": "real-betis-vs-sevilla-2026-03-01",
+    "team_a": "Real Betis",
+    "team_b": "Sevilla",
+    "league": "LaLiga",
+    "date": "2026-03-01",
+    "time": "12:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "32225",
@@ -150,14 +150,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
   },
   {
-    "id": "32196",
-    "slug": "real-betis-vs-sevilla-2026-03-01",
-    "team_a": "Real Betis",
-    "team_b": "Sevilla",
-    "league": "LaLiga",
+    "id": "32222",
+    "slug": "partido-vs-en-vivo-2026-03-01",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Serie A",
     "date": "2026-03-01",
-    "time": "12:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+    "time": "12:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even10"
   },
   {
     "id": "32279",
@@ -178,66 +178,6 @@
     "date": "2026-03-01",
     "time": "20:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
-  },
-  {
-    "id": "32230",
-    "slug": "partido-vs-en-vivo-2026-03-01",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "2. Bundesliga",
-    "date": "2026-03-01",
-    "time": "07:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
-  },
-  {
-    "id": "32227",
-    "slug": "liverpool-vs-cerro-largo-2026-03-01",
-    "team_a": "Liverpool",
-    "team_b": "Cerro Largo",
-    "league": "Primera División",
-    "date": "2026-03-01",
-    "time": "07:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
-  },
-  {
-    "id": "32192",
-    "slug": "partido-vs-en-vivo-2026-03-01",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Premier League",
-    "date": "2026-03-01",
-    "time": "09:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney10"
-  },
-  {
-    "id": "32190",
-    "slug": "brighton-&-hove-albion-vs-nottingham-forest-2026-03-01",
-    "team_a": "Brighton & Hove Albion",
-    "team_b": "Nottingham Forest",
-    "league": "Premier League",
-    "date": "2026-03-01",
-    "time": "09:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney11"
-  },
-  {
-    "id": "32205",
-    "slug": "partido-vs-en-vivo-2026-03-01",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ligue 1",
-    "date": "2026-03-01",
-    "time": "09:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "32199",
-    "slug": "sassuolo-vs-atalanta-2026-03-01",
-    "team_a": "Sassuolo",
-    "team_b": "Atalanta",
-    "league": "Serie A",
-    "date": "2026-03-01",
-    "time": "09:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espnmx"
   },
   {
     "id": "32202",
@@ -430,16 +370,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "id": "32193",
-    "slug": "partido-vs-en-vivo-2026-03-01",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Premier League",
-    "date": "2026-03-01",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "32221",
     "slug": "deportes-tolima-vs-atlético-nacional-2026-03-01",
     "team_a": "Deportes Tolima",
@@ -550,34 +480,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
   },
   {
-    "id": "32231",
+    "id": "32193",
     "slug": "partido-vs-en-vivo-2026-03-01",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "2. Bundesliga",
-    "date": "2026-03-01",
-    "time": "07:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
-  },
-  {
-    "id": "32229",
-    "slug": "eintracht-braunschweig-vs-preußen-münster-2026-03-01",
-    "team_a": "Eintracht Braunschweig",
-    "team_b": "Preußen Münster",
-    "league": "2. Bundesliga",
-    "date": "2026-03-01",
-    "time": "07:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
-  },
-  {
-    "id": "32191",
-    "slug": "manchester-united-vs-crystal-palace-2026-03-01",
-    "team_a": "Manchester United",
-    "team_b": "Crystal Palace",
     "league": "Premier League",
     "date": "2026-03-01",
-    "time": "09:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "time": "11:30",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
   },
   {
     "id": "32251",
@@ -630,24 +540,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2mx"
   },
   {
-    "id": "32247",
-    "slug": "volendam-vs-groningen-2026-03-01",
-    "team_a": "Volendam",
-    "team_b": "Groningen",
-    "league": "Eredivisie",
+    "id": "32255",
+    "slug": "partido-vs-en-vivo-2026-03-01",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Super Lig",
     "date": "2026-03-01",
-    "time": "08:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2_nl"
-  },
-  {
-    "id": "32249",
-    "slug": "excelsior-vs-go-ahead-eagles-2026-03-01",
-    "team_a": "Excelsior",
-    "team_b": "Go Ahead Eagles",
-    "league": "Eredivisie",
-    "date": "2026-03-01",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
+    "time": "12:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   },
   {
     "id": "32253",
@@ -660,14 +560,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
   },
   {
-    "id": "32255",
-    "slug": "partido-vs-en-vivo-2026-03-01",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Super Lig",
+    "id": "32249",
+    "slug": "excelsior-vs-go-ahead-eagles-2026-03-01",
+    "team_a": "Excelsior",
+    "team_b": "Go Ahead Eagles",
+    "league": "Eredivisie",
     "date": "2026-03-01",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
   },
   {
     "id": "32256",
@@ -788,36 +688,6 @@
     "date": "2026-03-01",
     "time": "20:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
-  },
-  {
-    "id": "32285",
-    "slug": "partido-vs-en-vivo-2026-03-01",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga",
-    "date": "2026-03-01",
-    "time": "08:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "32250",
-    "slug": "real-sociedad-ii-vs-deportivo-la-coruña-2026-03-01",
-    "team_a": "Real Sociedad II",
-    "team_b": "Deportivo La Coruña",
-    "league": "LaLiga SmartBank",
-    "date": "2026-03-01",
-    "time": "08:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
-    "id": "32246",
-    "slug": "twente-vs-feyenoord-2026-03-01",
-    "team_a": "Twente",
-    "team_b": "Feyenoord",
-    "league": "Eredivisie",
-    "date": "2026-03-01",
-    "time": "08:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2mx"
   },
   {
     "id": "32248",
