@@ -40,16 +40,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
   },
   {
-    "id": "32293",
-    "slug": "partido-vs-en-vivo-2026-03-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga",
-    "date": "2026-03-02",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "32312",
     "slug": "nicaragua-vs-jamaica-2026-03-02",
     "team_a": "Nicaragua",
@@ -60,14 +50,24 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney11"
   },
   {
-    "id": "32305",
+    "id": "32293",
     "slug": "partido-vs-en-vivo-2026-03-02",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Campeonato Sub-20 de la CONCACAF",
+    "league": "LaLiga",
     "date": "2026-03-02",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1"
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "32315",
+    "slug": "partido-vs-en-vivo-2026-03-02",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Argentina vs Panamá – FIBA AmeriCup / Clasificatorio",
+    "date": "2026-03-02",
+    "time": "17:45",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even7"
   },
   {
     "id": "32308",
@@ -88,6 +88,16 @@
     "date": "2026-03-02",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney12"
+  },
+  {
+    "id": "32313",
+    "slug": "partido-vs-en-vivo-2026-03-02",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "LaLiga SmartBank",
+    "date": "2026-03-02",
+    "time": "14:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
   },
   {
     "id": "32297",
@@ -130,26 +140,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "id": "32294",
-    "slug": "partido-vs-en-vivo-2026-03-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A",
-    "date": "2026-03-02",
-    "time": "12:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "32313",
-    "slug": "partido-vs-en-vivo-2026-03-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-03-02",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
     "id": "32303",
     "slug": "partido-vs-en-vivo-2026-03-02",
     "team_a": "Equipo A",
@@ -178,26 +168,6 @@
     "date": "2026-03-02",
     "time": "16:30",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
-  },
-  {
-    "id": "32311",
-    "slug": "st.-lucia-vs-méxico-2026-03-02",
-    "team_a": "St. Lucia",
-    "team_b": "México",
-    "league": "Campeonato W de CONCACAF",
-    "date": "2026-03-02",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "32314",
-    "slug": "partido-vs-en-vivo-2026-03-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB",
-    "date": "2026-03-02",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
     "id": "32295",
