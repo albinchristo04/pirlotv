@@ -70,16 +70,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney12"
   },
   {
-    "id": "32322",
-    "slug": "partido-vs-en-vivo-2026-03-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa del Rey",
-    "date": "2026-03-03",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even8"
-  },
-  {
     "id": "32335",
     "slug": "partido-vs-en-vivo-2026-03-03",
     "team_a": "Equipo A",
@@ -110,24 +100,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
   },
   {
-    "id": "32344",
+    "id": "32322",
     "slug": "partido-vs-en-vivo-2026-03-03",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Campeonato Sub-20 de la CONCACAF",
+    "league": "Copa del Rey",
     "date": "2026-03-03",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1"
-  },
-  {
-    "id": "32333",
-    "slug": "españa-vs-islandia-2026-03-03",
-    "team_a": "España",
-    "team_b": "Islandia",
-    "league": "Clasificatorias para el Mundial Femenino de la FIFA",
-    "date": "2026-03-03",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
   },
   {
     "id": "32316",
@@ -278,26 +258,6 @@
     "date": "2026-03-03",
     "time": "21:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
-  },
-  {
-    "id": "32332",
-    "slug": "partido-vs-en-vivo-2026-03-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Clasificatorias para el Mundial Femenino de la FIFA",
-    "date": "2026-03-03",
-    "time": "11:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2mx"
-  },
-  {
-    "id": "32345",
-    "slug": "islas-caimán-vs-bonaire-2026-03-03",
-    "team_a": "Islas Caimán",
-    "team_b": "Bonaire",
-    "league": "Campeonato Sub-20 de la CONCACAF",
-    "date": "2026-03-03",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
   },
   {
     "id": "32317",
