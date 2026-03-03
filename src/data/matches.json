@@ -20,16 +20,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "32322",
-    "slug": "partido-vs-en-vivo-2026-03-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa del Rey",
-    "date": "2026-03-03",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espnplus1"
-  },
-  {
     "id": "32319",
     "slug": "partido-vs-en-vivo-2026-03-03",
     "team_a": "Equipo A",
@@ -78,6 +68,16 @@
     "date": "2026-03-03",
     "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney12"
+  },
+  {
+    "id": "32322",
+    "slug": "partido-vs-en-vivo-2026-03-03",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa del Rey",
+    "date": "2026-03-03",
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even8"
   },
   {
     "id": "32335",
