@@ -1,15 +1,5 @@
 [
   {
-    "id": "32304",
-    "slug": "partido-vs-en-vivo-2026-03-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Championship",
-    "date": "2026-03-02",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
     "id": "32307",
     "slug": "anguila-vs-curazao-2026-03-02",
     "team_a": "Anguila",
@@ -50,16 +40,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney11"
   },
   {
-    "id": "32293",
-    "slug": "partido-vs-en-vivo-2026-03-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga",
-    "date": "2026-03-02",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "32315",
     "slug": "partido-vs-en-vivo-2026-03-02",
     "team_a": "Equipo A",
@@ -88,16 +68,6 @@
     "date": "2026-03-02",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney12"
-  },
-  {
-    "id": "32313",
-    "slug": "partido-vs-en-vivo-2026-03-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-03-02",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
   },
   {
     "id": "32297",
@@ -147,7 +117,7 @@
     "league": "Primera División",
     "date": "2026-03-02",
     "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney10"
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even10"
   },
   {
     "id": "32299",
@@ -168,25 +138,5 @@
     "date": "2026-03-02",
     "time": "16:30",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
-  },
-  {
-    "id": "32295",
-    "slug": "partido-vs-en-vivo-2026-03-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A",
-    "date": "2026-03-02",
-    "time": "14:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
-  },
-  {
-    "id": "32306",
-    "slug": "bermudas-vs-costa-rica-2026-03-02",
-    "team_a": "Bermudas",
-    "team_b": "Costa Rica",
-    "league": "Campeonato Sub-20 de la CONCACAF",
-    "date": "2026-03-02",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney7"
   }
 ]
