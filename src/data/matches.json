@@ -1,142 +1,22 @@
 [
   {
-    "id": "32307",
-    "slug": "anguila-vs-curazao-2026-03-02",
-    "team_a": "Anguila",
-    "team_b": "Curazao",
-    "league": "Campeonato Sub-20 de la CONCACAF",
-    "date": "2026-03-02",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney8"
-  },
-  {
-    "id": "32296",
-    "slug": "partido-vs-en-vivo-2026-03-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga Profesional",
-    "date": "2026-03-02",
-    "time": "17:15",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium"
-  },
-  {
-    "id": "32300",
-    "slug": "partido-vs-en-vivo-2026-03-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A",
-    "date": "2026-03-02",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
-    "id": "32312",
-    "slug": "nicaragua-vs-jamaica-2026-03-02",
-    "team_a": "Nicaragua",
-    "team_b": "Jamaica",
-    "league": "Campeonato W de CONCACAF",
-    "date": "2026-03-02",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney11"
-  },
-  {
-    "id": "32315",
-    "slug": "partido-vs-en-vivo-2026-03-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Argentina vs Panamá – FIBA AmeriCup / Clasificatorio",
-    "date": "2026-03-02",
-    "time": "17:45",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even7"
-  },
-  {
-    "id": "32308",
-    "slug": "islas-vírgenes-de-ee.uu.-vs-nicaragua-2026-03-02",
-    "team_a": "Islas Vírgenes de EE.UU.",
-    "team_b": "Nicaragua",
-    "league": "Campeonato Sub-20 de la CONCACAF",
-    "date": "2026-03-02",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney9"
-  },
-  {
-    "id": "32309",
-    "slug": "guyana-vs-haití-2026-03-02",
-    "team_a": "Guyana",
-    "team_b": "Haití",
-    "league": "Campeonato Sub-20 de la CONCACAF",
-    "date": "2026-03-02",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney12"
-  },
-  {
-    "id": "32297",
-    "slug": "estudiantes-vs-vélez-sarsfield-2026-03-02",
-    "team_a": "Estudiantes",
-    "team_b": "Vélez Sarsfield",
-    "league": "Liga Profesional",
-    "date": "2026-03-02",
-    "time": "17:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
-  },
-  {
-    "id": "32298",
-    "slug": "independiente-rivadavia-vs-river-plate-2026-03-02",
-    "team_a": "Independiente Rivadavia",
-    "team_b": "River Plate",
-    "league": "Liga Profesional",
-    "date": "2026-03-02",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium"
-  },
-  {
-    "id": "32302",
-    "slug": "partido-vs-en-vivo-2026-03-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-03-02",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
-  },
-  {
-    "id": "32310",
-    "slug": "aruba-vs-canadá-2026-03-02",
-    "team_a": "Aruba",
-    "team_b": "Canadá",
-    "league": "Campeonato Sub-20 de la CONCACAF",
-    "date": "2026-03-02",
+    "id": "Barcelona-Real-Madrid-2026-03-03",
+    "slug": "barcelona-vs-real-madrid-2026-03-03",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-03-03",
     "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
   },
   {
-    "id": "32303",
-    "slug": "partido-vs-en-vivo-2026-03-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-03-02",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even10"
-  },
-  {
-    "id": "32299",
-    "slug": "partido-vs-en-vivo-2026-03-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga Profesional",
-    "date": "2026-03-02",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
-  },
-  {
-    "id": "32301",
-    "slug": "partido-vs-en-vivo-2026-03-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-03-02",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
+    "id": "América-Chivas-2026-03-03",
+    "slug": "américa-vs-chivas-2026-03-03",
+    "team_a": "América",
+    "team_b": "Chivas",
+    "league": "Liga MX",
+    "date": "2026-03-03",
+    "time": "22:00",
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
