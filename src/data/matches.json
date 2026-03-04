@@ -1,35 +1,5 @@
 [
   {
-    "id": "32343",
-    "slug": "partido-vs-en-vivo-2026-03-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB",
-    "date": "2026-03-03",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "32318",
-    "slug": "partido-vs-en-vivo-2026-03-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Premier League",
-    "date": "2026-03-03",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "32319",
-    "slug": "partido-vs-en-vivo-2026-03-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Premier League",
-    "date": "2026-03-03",
-    "time": "15:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "32352",
     "slug": "partido-vs-en-vivo-2026-03-03",
     "team_a": "Equipo A",
@@ -38,16 +8,6 @@
     "date": "2026-03-03",
     "time": "15:45",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
-  },
-  {
-    "id": "32326",
-    "slug": "partido-vs-en-vivo-2026-03-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Sudamericana",
-    "date": "2026-03-03",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=fanatiz1"
   },
   {
     "id": "32330",
@@ -90,64 +50,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere1"
   },
   {
-    "id": "32342",
-    "slug": "nec-vs-psv-2026-03-03",
-    "team_a": "NEC",
-    "team_b": "PSV",
-    "league": "Copa KNVB",
-    "date": "2026-03-03",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
-  },
-  {
-    "id": "32322",
+    "id": "32326",
     "slug": "partido-vs-en-vivo-2026-03-03",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Copa del Rey",
+    "league": "Copa Sudamericana",
     "date": "2026-03-03",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
-  },
-  {
-    "id": "32316",
-    "slug": "partido-vs-en-vivo-2026-03-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Premier League",
-    "date": "2026-03-03",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
-  },
-  {
-    "id": "32320",
-    "slug": "port-vale-vs-bristol-city-2026-03-03",
-    "team_a": "Port Vale",
-    "team_b": "Bristol City",
-    "league": "FA Cup",
-    "date": "2026-03-03",
-    "time": "14:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney7"
-  },
-  {
-    "id": "32347",
-    "slug": "república-dominicana-vs-antigua-y-barbuda-2026-03-03",
-    "team_a": "República Dominicana",
-    "team_b": "Antigua y Barbuda",
-    "league": "Campeonato Sub-20 de la CONCACAF",
-    "date": "2026-03-03",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney8"
-  },
-  {
-    "id": "32346",
-    "slug": "granada-vs-guayana-francesa-2026-03-03",
-    "team_a": "Granada",
-    "team_b": "Guayana Francesa",
-    "league": "Campeonato Sub-20 de la CONCACAF",
-    "date": "2026-03-03",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney9"
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
   },
   {
     "id": "32348",
@@ -260,26 +170,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
   },
   {
-    "id": "32317",
-    "slug": "partido-vs-en-vivo-2026-03-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Premier League",
-    "date": "2026-03-03",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
-  },
-  {
-    "id": "32321",
-    "slug": "partido-vs-en-vivo-2026-03-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa de Italia",
-    "date": "2026-03-03",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
     "id": "32329",
     "slug": "partido-vs-en-vivo-2026-03-03",
     "team_a": "Equipo A",
@@ -318,15 +208,5 @@
     "date": "2026-03-03",
     "time": "22:10",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tudn"
-  },
-  {
-    "id": "32341",
-    "slug": "cambuur-vs-almere-city-2026-03-03",
-    "team_a": "Cambuur",
-    "team_b": "Almere City",
-    "league": "Eerste Divisie",
-    "date": "2026-03-03",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2_nl"
   }
 ]
