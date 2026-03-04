@@ -1,15 +1,5 @@
 [
   {
-    "id": "32352",
-    "slug": "partido-vs-en-vivo-2026-03-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa de Portugal",
-    "date": "2026-03-03",
-    "time": "15:45",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
-  },
-  {
     "id": "32330",
     "slug": "alianza-atlético-vs-deportivo-garcilaso-2026-03-03",
     "team_a": "Alianza Atlético",
@@ -20,134 +10,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "32349",
-    "slug": "belice-vs-saint-martin-2026-03-03",
-    "team_a": "Belice",
-    "team_b": "Saint Martin",
-    "league": "Campeonato Sub-20 de la CONCACAF",
-    "date": "2026-03-03",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney12"
-  },
-  {
-    "id": "32335",
+    "id": "32361",
     "slug": "partido-vs-en-vivo-2026-03-03",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Campeonato W de CONCACAF",
+    "league": "Los Angeles Lakers vs New Orleans Pelicans",
     "date": "2026-03-03",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "32339",
-    "slug": "partido-vs-en-vivo-2026-03-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa de Brasil",
-    "date": "2026-03-03",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere1"
-  },
-  {
-    "id": "32326",
-    "slug": "partido-vs-en-vivo-2026-03-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Sudamericana",
-    "date": "2026-03-03",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-  },
-  {
-    "id": "32348",
-    "slug": "partido-vs-en-vivo-2026-03-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Campeonato Sub-20 de la CONCACAF",
-    "date": "2026-03-03",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney11"
-  },
-  {
-    "id": "32327",
-    "slug": "independiente-petrolero-vs-guabirá-2026-03-03",
-    "team_a": "Independiente Petrolero",
-    "team_b": "Guabirá",
-    "league": "Copa Sudamericana",
-    "date": "2026-03-03",
-    "time": "17:00",
-    "decoded_iframe_url": "https://futbollibrelibre.com/canales.php?stream=dsports2"
-  },
-  {
-    "id": "32328",
-    "slug": "cobresal-vs-audax-italiano-2026-03-03",
-    "team_a": "Cobresal",
-    "team_b": "Audax Italiano",
-    "league": "Copa Sudamericana",
-    "date": "2026-03-03",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "32331",
-    "slug": "partido-vs-en-vivo-2026-03-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Libertadores",
-    "date": "2026-03-03",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "32350",
-    "slug": "partido-vs-en-vivo-2026-03-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Campeonato Sub-20 de la CONCACAF",
-    "date": "2026-03-03",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney13"
-  },
-  {
-    "id": "32323",
-    "slug": "partido-vs-en-vivo-2026-03-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga Profesional",
-    "date": "2026-03-03",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
-  },
-  {
-    "id": "32324",
-    "slug": "huracán-vs-belgrano-2026-03-03",
-    "team_a": "Huracán",
-    "team_b": "Belgrano",
-    "league": "Liga Profesional",
-    "date": "2026-03-03",
-    "time": "17:15",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium"
-  },
-  {
-    "id": "32334",
-    "slug": "partido-vs-en-vivo-2026-03-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Campeonato W de CONCACAF",
-    "date": "2026-03-03",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "32336",
-    "slug": "partido-vs-en-vivo-2026-03-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga MX",
-    "date": "2026-03-03",
-    "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espnmx"
+    "time": "22:30",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
   },
   {
     "id": "32337",
@@ -170,16 +40,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
   },
   {
-    "id": "32329",
-    "slug": "partido-vs-en-vivo-2026-03-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Sudamericana",
-    "date": "2026-03-03",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
     "id": "32351",
     "slug": "partido-vs-en-vivo-2026-03-03",
     "team_a": "Equipo A",
@@ -188,16 +48,6 @@
     "date": "2026-03-03",
     "time": "21:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney17"
-  },
-  {
-    "id": "32325",
-    "slug": "atlético-tucumán-vs-racing-club-2026-03-03",
-    "team_a": "Atlético Tucumán",
-    "team_b": "Racing Club",
-    "league": "Liga Profesional",
-    "date": "2026-03-03",
-    "time": "19:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
   },
   {
     "id": "32338",
