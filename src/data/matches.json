@@ -1,15 +1,5 @@
 [
   {
-    "id": "32370",
-    "slug": "partido-vs-en-vivo-2026-03-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa del Rey",
-    "date": "2026-03-04",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
-  },
-  {
     "id": "32373",
     "slug": "blooming-vs-san-antonio-bulo-bulo-2026-03-04",
     "team_a": "Blooming",
@@ -60,26 +50,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "32363",
-    "slug": "brighton-&-hove-albion-vs-arsenal-2026-03-04",
-    "team_a": "Brighton & Hove Albion",
-    "team_b": "Arsenal",
-    "league": "Premier League",
-    "date": "2026-03-04",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "32392",
-    "slug": "partido-vs-en-vivo-2026-03-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa SheBelieves",
-    "date": "2026-03-04",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney10"
-  },
-  {
     "id": "32387",
     "slug": "martinica-vs-aruba-2026-03-04",
     "team_a": "Martinica",
@@ -128,16 +98,6 @@
     "date": "2026-03-04",
     "time": "22:00",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
-    "id": "32382",
-    "slug": "olympique-marseille-vs-toulouse-2026-03-04",
-    "team_a": "Olympique Marseille",
-    "team_b": "Toulouse",
-    "league": "Copa de Francia",
-    "date": "2026-03-04",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
   },
   {
     "id": "32374",
@@ -198,46 +158,6 @@
     "date": "2026-03-04",
     "time": "21:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "32364",
-    "slug": "fulham-vs-west-ham-united-2026-03-04",
-    "team_a": "Fulham",
-    "team_b": "West Ham United",
-    "league": "Premier League",
-    "date": "2026-03-04",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
-  },
-  {
-    "id": "32368",
-    "slug": "partido-vs-en-vivo-2026-03-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Bundesliga",
-    "date": "2026-03-04",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
-    "id": "32381",
-    "slug": "partido-vs-en-vivo-2026-03-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa de Francia",
-    "date": "2026-03-04",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "32385",
-    "slug": "costa-rica-vs-trinidad-y-tobago-2026-03-04",
-    "team_a": "Costa Rica",
-    "team_b": "Trinidad y Tobago",
-    "league": "Campeonato Sub-20 de la CONCACAF",
-    "date": "2026-03-04",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney8"
   },
   {
     "id": "32393",
@@ -320,16 +240,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
   },
   {
-    "id": "32369",
-    "slug": "partido-vs-en-vivo-2026-03-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa de Italia",
-    "date": "2026-03-04",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
     "id": "32390",
     "slug": "partido-vs-en-vivo-2026-03-04",
     "team_a": "Equipo A",
@@ -348,16 +258,6 @@
     "date": "2026-03-04",
     "time": "20:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "32395",
-    "slug": "partido-vs-en-vivo-2026-03-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Torneo de Reserva",
-    "date": "2026-03-04",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
   },
   {
     "id": "32398",
@@ -380,26 +280,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "32362",
-    "slug": "partido-vs-en-vivo-2026-03-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Premier League",
-    "date": "2026-03-04",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
-  },
-  {
-    "id": "32365",
-    "slug": "aston-villa-vs-chelsea-2026-03-04",
-    "team_a": "Aston Villa",
-    "team_b": "Chelsea",
-    "league": "Premier League",
-    "date": "2026-03-04",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
-  },
-  {
     "id": "32372",
     "slug": "fortaleza-ceif-vs-jaguares-de-córdoba-2026-03-04",
     "team_a": "Fortaleza CEIF",
@@ -407,17 +287,7 @@
     "league": "Categoría Primera A",
     "date": "2026-03-04",
     "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even8"
-  },
-  {
-    "id": "32366",
-    "slug": "newcastle-united-vs-manchester-united-2026-03-04",
-    "team_a": "Newcastle United",
-    "team_b": "Manchester United",
-    "league": "Premier League",
-    "date": "2026-03-04",
-    "time": "15:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney9"
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
   },
   {
     "id": "32386",
