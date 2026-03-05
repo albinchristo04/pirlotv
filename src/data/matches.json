@@ -90,16 +90,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
   },
   {
-    "id": "32416",
-    "slug": "partido-vs-en-vivo-2026-03-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Sudamericana",
-    "date": "2026-03-05",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "32423",
     "slug": "partido-vs-en-vivo-2026-03-05",
     "team_a": "Equipo A",
@@ -120,6 +110,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=foxsports2"
   },
   {
+    "id": "32416",
+    "slug": "partido-vs-en-vivo-2026-03-05",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa Sudamericana",
+    "date": "2026-03-05",
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
     "id": "32413",
     "slug": "partido-vs-en-vivo-2026-03-05",
     "team_a": "Equipo A",
@@ -128,16 +128,6 @@
     "date": "2026-03-05",
     "time": "16:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
-  },
-  {
-    "id": "32425",
-    "slug": "partido-vs-en-vivo-2026-03-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Golf",
-    "date": "2026-03-05",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
     "id": "32428",
@@ -188,16 +178,6 @@
     "date": "2026-03-05",
     "time": "18:10",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
-  },
-  {
-    "id": "32426",
-    "slug": "partido-vs-en-vivo-2026-03-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis",
-    "date": "2026-03-05",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "32429",
