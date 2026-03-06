@@ -37,27 +37,17 @@
     "league": "Primera División",
     "date": "2026-03-06",
     "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney10"
   },
   {
-    "id": "32459",
-    "slug": "elversberg-vs-magdeburg-2026-03-06",
-    "team_a": "Elversberg",
-    "team_b": "Magdeburg",
-    "league": "2. Bundesliga",
+    "id": "32479",
+    "slug": "partido-vs-en-vivo-2026-03-06",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
     "date": "2026-03-06",
-    "time": "12:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "32460",
-    "slug": "anguila-vs-república-dominicana-2026-03-06",
-    "team_a": "Anguila",
-    "team_b": "República Dominicana",
-    "league": "Campeonato W de CONCACAF",
-    "date": "2026-03-06",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
   },
   {
     "id": "32465",
@@ -90,6 +80,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
+    "id": "32482",
+    "slug": "partido-vs-en-vivo-2026-03-06",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
+    "date": "2026-03-06",
+    "time": "21:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
+  },
+  {
     "id": "32474",
     "slug": "partido-vs-en-vivo-2026-03-06",
     "team_a": "Equipo A",
@@ -110,24 +110,44 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "32448",
+    "id": "32459",
+    "slug": "elversberg-vs-magdeburg-2026-03-06",
+    "team_a": "Elversberg",
+    "team_b": "Magdeburg",
+    "league": "2. Bundesliga",
+    "date": "2026-03-06",
+    "time": "12:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
+  },
+  {
+    "id": "32460",
+    "slug": "anguila-vs-república-dominicana-2026-03-06",
+    "team_a": "Anguila",
+    "team_b": "República Dominicana",
+    "league": "Campeonato W de CONCACAF",
+    "date": "2026-03-06",
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
+  },
+  {
+    "id": "32461",
+    "slug": "islas-caimán-vs-guatemala-2026-03-06",
+    "team_a": "Islas Caimán",
+    "team_b": "Guatemala",
+    "league": "Campeonato W de CONCACAF",
+    "date": "2026-03-06",
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney11"
+  },
+  {
+    "id": "32480",
     "slug": "partido-vs-en-vivo-2026-03-06",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Serie A",
+    "league": "NBA",
     "date": "2026-03-06",
-    "time": "14:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "32449",
-    "slug": "bayern-münchen-vs-borussia-m'gladbach-2026-03-06",
-    "team_a": "Bayern München",
-    "team_b": "Borussia M'gladbach",
-    "league": "Bundesliga",
-    "date": "2026-03-06",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "time": "20:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
   },
   {
     "id": "32454",
@@ -140,24 +160,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
   },
   {
-    "id": "32458",
+    "id": "32483",
     "slug": "partido-vs-en-vivo-2026-03-06",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "2. Bundesliga",
+    "league": "NBA",
     "date": "2026-03-06",
-    "time": "12:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "32461",
-    "slug": "islas-caimán-vs-guatemala-2026-03-06",
-    "team_a": "Islas Caimán",
-    "team_b": "Guatemala",
-    "league": "Campeonato W de CONCACAF",
-    "date": "2026-03-06",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "time": "22:30",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
   },
   {
     "id": "32462",
@@ -220,14 +230,34 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
-    "id": "32450",
+    "id": "32458",
     "slug": "partido-vs-en-vivo-2026-03-06",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Ligue 1",
+    "league": "2. Bundesliga",
+    "date": "2026-03-06",
+    "time": "12:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1"
+  },
+  {
+    "id": "32449",
+    "slug": "bayern-münchen-vs-borussia-m'gladbach-2026-03-06",
+    "team_a": "Bayern München",
+    "team_b": "Borussia M'gladbach",
+    "league": "Bundesliga",
+    "date": "2026-03-06",
+    "time": "14:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
+  },
+  {
+    "id": "32448",
+    "slug": "partido-vs-en-vivo-2026-03-06",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Serie A",
     "date": "2026-03-06",
     "time": "14:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=beinsportes"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
   },
   {
     "id": "32451",
@@ -237,7 +267,17 @@
     "league": "FA Cup",
     "date": "2026-03-06",
     "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney7"
+  },
+  {
+    "id": "32457",
+    "slug": "partido-vs-en-vivo-2026-03-06",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Championship",
+    "date": "2026-03-06",
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   },
   {
     "id": "32453",
@@ -258,16 +298,6 @@
     "date": "2026-03-06",
     "time": "19:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
-    "id": "32457",
-    "slug": "partido-vs-en-vivo-2026-03-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Championship",
-    "date": "2026-03-06",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   },
   {
     "id": "32464",
@@ -318,5 +348,25 @@
     "date": "2026-03-06",
     "time": "21:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "32450",
+    "slug": "partido-vs-en-vivo-2026-03-06",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Ligue 1",
+    "date": "2026-03-06",
+    "time": "14:45",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=beinsportes"
+  },
+  {
+    "id": "32481",
+    "slug": "partido-vs-en-vivo-2026-03-06",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
+    "date": "2026-03-06",
+    "time": "21:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
   }
 ]
