@@ -110,26 +110,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "32441",
-    "slug": "partido-vs-en-vivo-2026-03-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-06",
-    "time": "00:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
-  },
-  {
-    "id": "32478",
-    "slug": "partido-vs-en-vivo-2026-03-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Clásico Mundial de Béisbol",
-    "date": "2026-03-06",
-    "time": "00:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
     "id": "32448",
     "slug": "partido-vs-en-vivo-2026-03-06",
     "team_a": "Equipo A",
@@ -238,16 +218,6 @@
     "date": "2026-03-06",
     "time": "21:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "32442",
-    "slug": "partido-vs-en-vivo-2026-03-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-06",
-    "time": "00:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
   },
   {
     "id": "32450",
