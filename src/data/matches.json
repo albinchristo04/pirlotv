@@ -1,65 +1,5 @@
 [
   {
-    "id": "32446",
-    "slug": "atlético-grau-vs-fc-cajamarca-2026-03-06",
-    "team_a": "Atlético Grau",
-    "team_b": "FC Cajamarca",
-    "league": "Liga 1",
-    "date": "2026-03-06",
-    "time": "15:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
-  },
-  {
-    "id": "32452",
-    "slug": "partido-vs-en-vivo-2026-03-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-03-06",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "32456",
-    "slug": "partido-vs-en-vivo-2026-03-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-03-06",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney10"
-  },
-  {
-    "id": "32479",
-    "slug": "partido-vs-en-vivo-2026-03-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-06",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
-  },
-  {
-    "id": "32465",
-    "slug": "partido-vs-en-vivo-2026-03-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga de Expansión MX",
-    "date": "2026-03-06",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2mx"
-  },
-  {
-    "id": "32471",
-    "slug": "partido-vs-en-vivo-2026-03-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby",
-    "date": "2026-03-06",
-    "time": "16:55",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
     "id": "32482",
     "slug": "partido-vs-en-vivo-2026-03-06",
     "team_a": "Equipo A",
@@ -90,26 +30,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "32461",
-    "slug": "islas-caimán-vs-guatemala-2026-03-06",
-    "team_a": "Islas Caimán",
-    "team_b": "Guatemala",
-    "league": "Campeonato W de CONCACAF",
-    "date": "2026-03-06",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney11"
-  },
-  {
-    "id": "32480",
-    "slug": "partido-vs-en-vivo-2026-03-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-06",
-    "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
-  },
-  {
     "id": "32454",
     "slug": "partido-vs-en-vivo-2026-03-06",
     "team_a": "Equipo A",
@@ -117,7 +37,7 @@
     "league": "Categoría Primera A",
     "date": "2026-03-06",
     "time": "20:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
   },
   {
     "id": "32483",
@@ -130,16 +50,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
   },
   {
-    "id": "32462",
-    "slug": "partido-vs-en-vivo-2026-03-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga MX",
-    "date": "2026-03-06",
-    "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=azteca7"
-  },
-  {
     "id": "32463",
     "slug": "necaxa-vs-pumas-unam-2026-03-06",
     "team_a": "Necaxa",
@@ -150,16 +60,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=azteca7"
   },
   {
-    "id": "32472",
-    "slug": "partido-vs-en-vivo-2026-03-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-06",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
     "id": "32475",
     "slug": "partido-vs-en-vivo-2026-03-06",
     "team_a": "Equipo A",
@@ -167,36 +67,6 @@
     "league": "BOXEO",
     "date": "2026-03-06",
     "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "32453",
-    "slug": "deportes-concepción-vs-ñublense-2026-03-06",
-    "team_a": "Deportes Concepción",
-    "team_b": "Ñublense",
-    "league": "Primera División",
-    "date": "2026-03-06",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "32455",
-    "slug": "partido-vs-en-vivo-2026-03-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A",
-    "date": "2026-03-06",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
-    "id": "32473",
-    "slug": "partido-vs-en-vivo-2026-03-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby",
-    "date": "2026-03-06",
-    "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
