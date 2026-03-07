@@ -1,92 +1,22 @@
 [
   {
-    "id": "32482",
-    "slug": "partido-vs-en-vivo-2026-03-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-06",
-    "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
+    "id": "Barcelona-Real-Madrid-2026-03-07",
+    "slug": "barcelona-vs-real-madrid-2026-03-07",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-03-07",
+    "time": "20:00",
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
   },
   {
-    "id": "32474",
-    "slug": "partido-vs-en-vivo-2026-03-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "F1",
-    "date": "2026-03-06",
-    "time": "20:25",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "32477",
-    "slug": "partido-vs-en-vivo-2026-03-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-06",
-    "time": "21:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "32454",
-    "slug": "partido-vs-en-vivo-2026-03-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Categoría Primera A",
-    "date": "2026-03-06",
-    "time": "20:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "32483",
-    "slug": "partido-vs-en-vivo-2026-03-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-06",
-    "time": "22:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
-  },
-  {
-    "id": "32463",
-    "slug": "necaxa-vs-pumas-unam-2026-03-06",
-    "team_a": "Necaxa",
-    "team_b": "Pumas UNAM",
+    "id": "América-Chivas-2026-03-07",
+    "slug": "américa-vs-chivas-2026-03-07",
+    "team_a": "América",
+    "team_b": "Chivas",
     "league": "Liga MX",
-    "date": "2026-03-06",
+    "date": "2026-03-07",
     "time": "22:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=azteca7"
-  },
-  {
-    "id": "32475",
-    "slug": "partido-vs-en-vivo-2026-03-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "BOXEO",
-    "date": "2026-03-06",
-    "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "32476",
-    "slug": "partido-vs-en-vivo-2026-03-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis",
-    "date": "2026-03-06",
-    "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "32481",
-    "slug": "partido-vs-en-vivo-2026-03-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-06",
-    "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
