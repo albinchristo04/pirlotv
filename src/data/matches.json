@@ -7,47 +7,7 @@
     "league": "Primera División",
     "date": "2026-03-07",
     "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
-    "id": "32538",
-    "slug": "atlas-vs-guadalajara-2026-03-07",
-    "team_a": "Atlas",
-    "team_b": "Guadalajara",
-    "league": "Liga MX",
-    "date": "2026-03-07",
-    "time": "20:05",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tudn"
-  },
-  {
-    "id": "32541",
-    "slug": "partido-vs-en-vivo-2026-03-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga de Expansión MX",
-    "date": "2026-03-07",
-    "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3mx"
-  },
-  {
-    "id": "32564",
-    "slug": "partido-vs-en-vivo-2026-03-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-07",
-    "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
-  },
-  {
-    "id": "32556",
-    "slug": "partido-vs-en-vivo-2026-03-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby",
-    "date": "2026-03-07",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even10"
   },
   {
     "id": "32559",
@@ -60,204 +20,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "32562",
+    "id": "32644",
     "slug": "partido-vs-en-vivo-2026-03-07",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "NBA",
+    "league": "UFC",
     "date": "2026-03-07",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
-  },
-  {
-    "id": "32565",
-    "slug": "partido-vs-en-vivo-2026-03-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-07",
-    "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
-  },
-  {
-    "id": "32509",
-    "slug": "audax-italiano-vs-colo-colo-2026-03-07",
-    "team_a": "Audax Italiano",
-    "team_b": "Colo-Colo",
-    "league": "Primera División",
-    "date": "2026-03-07",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "32512",
-    "slug": "partido-vs-en-vivo-2026-03-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A",
-    "date": "2026-03-07",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
-  },
-  {
-    "id": "32513",
-    "slug": "partido-vs-en-vivo-2026-03-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A",
-    "date": "2026-03-07",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even8"
-  },
-  {
-    "id": "32567",
-    "slug": "dc-united-vs-inter-miami-2026-03-07",
-    "team_a": "DC United",
-    "team_b": "Inter Miami",
-    "league": "Major League Soccer",
-    "date": "2026-03-07",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even9"
-  },
-  {
-    "id": "32563",
-    "slug": "partido-vs-en-vivo-2026-03-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-07",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
-  },
-  {
-    "id": "32514",
-    "slug": "partido-vs-en-vivo-2026-03-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A",
-    "date": "2026-03-07",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
-    "id": "32549",
-    "slug": "partido-vs-en-vivo-2026-03-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Amistoso Internacional Femenino",
-    "date": "2026-03-07",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
-    "id": "32529",
-    "slug": "partido-vs-en-vivo-2026-03-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa SheBelieves",
-    "date": "2026-03-07",
-    "time": "15:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney11"
-  },
-  {
-    "id": "32557",
-    "slug": "partido-vs-en-vivo-2026-03-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-07",
-    "time": "20:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "32560",
-    "slug": "partido-vs-en-vivo-2026-03-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Torneo amistoso de Verano - Final",
-    "date": "2026-03-07",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "32568",
-    "slug": "partido-vs-en-vivo-2026-03-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Campeonato Carioca",
-    "date": "2026-03-07",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere1"
-  },
-  {
-    "id": "32536",
-    "slug": "cruz-azul-vs-atlético-san-luis-2026-03-07",
-    "team_a": "Cruz Azul",
-    "team_b": "Atlético San Luis",
-    "league": "Liga MX",
-    "date": "2026-03-07",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even7"
-  },
-  {
-    "id": "32486",
-    "slug": "partido-vs-en-vivo-2026-03-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga 1",
-    "date": "2026-03-07",
-    "time": "15:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
-  },
-  {
-    "id": "32510",
-    "slug": "partido-vs-en-vivo-2026-03-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-03-07",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "32515",
-    "slug": "guaraní-vs-cerro-porteño-2026-03-07",
-    "team_a": "Guaraní",
-    "team_b": "Cerro Porteño",
-    "league": "Primera División",
-    "date": "2026-03-07",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
-  },
-  {
-    "id": "32539",
-    "slug": "pachuca-vs-puebla-2026-03-07",
-    "team_a": "Pachuca",
-    "team_b": "Puebla",
-    "league": "Liga MX",
-    "date": "2026-03-07",
-    "time": "20:05",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "32518",
-    "slug": "peñarol-vs-danubio-2026-03-07",
-    "team_a": "Peñarol",
-    "team_b": "Danubio",
-    "league": "Primera División",
-    "date": "2026-03-07",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney12"
-  },
-  {
-    "id": "32555",
-    "slug": "partido-vs-en-vivo-2026-03-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis",
-    "date": "2026-03-07",
-    "time": "16:40",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+    "time": "21:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=paramount3"
   },
   {
     "id": "32558",
@@ -270,64 +40,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "32569",
+    "id": "32645",
     "slug": "partido-vs-en-vivo-2026-03-07",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Copa Brasil de Vôlei",
+    "league": "F1",
     "date": "2026-03-07",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=sportv2"
-  },
-  {
-    "id": "32487",
-    "slug": "partido-vs-en-vivo-2026-03-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga 1",
-    "date": "2026-03-07",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
-  },
-  {
-    "id": "32511",
-    "slug": "partido-vs-en-vivo-2026-03-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Categoría Primera A",
-    "date": "2026-03-07",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "32516",
-    "slug": "partido-vs-en-vivo-2026-03-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-03-07",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
-  },
-  {
-    "id": "32534",
-    "slug": "municipal-liberia-vs-guadalupe-2026-03-07",
-    "team_a": "Municipal Liberia",
-    "team_b": "Guadalupe",
-    "league": "Primera División",
-    "date": "2026-03-07",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
-    "id": "32537",
-    "slug": "partido-vs-en-vivo-2026-03-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga MX",
-    "date": "2026-03-07",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tudn"
+    "time": "23:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
   },
   {
     "id": "32540",
@@ -338,15 +58,5 @@
     "date": "2026-03-07",
     "time": "22:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=azteca7"
-  },
-  {
-    "id": "32543",
-    "slug": "aruba-vs-cuba-2026-03-07",
-    "team_a": "Aruba",
-    "team_b": "Cuba",
-    "league": "Campeonato W de CONCACAF",
-    "date": "2026-03-07",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   }
 ]
