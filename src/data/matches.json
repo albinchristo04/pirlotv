@@ -10,26 +10,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
   },
   {
-    "id": "32621",
-    "slug": "partido-vs-en-vivo-2026-03-08",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Eerste Divisie",
-    "date": "2026-03-08",
-    "time": "10:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
-  },
-  {
-    "id": "32586",
-    "slug": "partido-vs-en-vivo-2026-03-08",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ligue 1",
-    "date": "2026-03-08",
-    "time": "11:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney17"
-  },
-  {
     "id": "32591",
     "slug": "leeds-united-vs-norwich-city-2026-03-08",
     "team_a": "Leeds United",
@@ -170,16 +150,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
   },
   {
-    "id": "32587",
-    "slug": "partido-vs-en-vivo-2026-03-08",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ligue 1",
-    "date": "2026-03-08",
-    "time": "11:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney18"
-  },
-  {
     "id": "32580",
     "slug": "genoa-vs-roma-2026-03-08",
     "team_a": "Genoa",
@@ -270,16 +240,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tudn"
   },
   {
-    "id": "32593",
-    "slug": "partido-vs-en-vivo-2026-03-08",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A",
-    "date": "2026-03-08",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
-  },
-  {
     "id": "32630",
     "slug": "partido-vs-en-vivo-2026-03-08",
     "team_a": "Equipo A",
@@ -348,26 +308,6 @@
     "date": "2026-03-08",
     "time": "20:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
-  },
-  {
-    "id": "32610",
-    "slug": "nac-breda-vs-feyenoord-2026-03-08",
-    "team_a": "NAC Breda",
-    "team_b": "Feyenoord",
-    "league": "Eredivisie",
-    "date": "2026-03-08",
-    "time": "10:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2_nl"
-  },
-  {
-    "id": "32585",
-    "slug": "partido-vs-en-vivo-2026-03-08",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ligue 1",
-    "date": "2026-03-08",
-    "time": "11:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney16"
   },
   {
     "id": "32601",
