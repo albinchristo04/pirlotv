@@ -50,26 +50,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=azteca7"
   },
   {
-    "id": "32599",
-    "slug": "partido-vs-en-vivo-2026-03-08",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-03-08",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney7"
-  },
-  {
-    "id": "32576",
-    "slug": "valencia-vs-deportivo-alavés-2026-03-08",
-    "team_a": "Valencia",
-    "team_b": "Deportivo Alavés",
-    "league": "LaLiga",
-    "date": "2026-03-08",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espndeportes"
-  },
-  {
     "id": "32614",
     "slug": "partido-vs-en-vivo-2026-03-08",
     "team_a": "Equipo A",
@@ -78,26 +58,6 @@
     "date": "2026-03-08",
     "time": "16:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere2"
-  },
-  {
-    "id": "32626",
-    "slug": "deportivo-la-coruña-vs-granada-2026-03-08",
-    "team_a": "Deportivo La Coruña",
-    "team_b": "Granada",
-    "league": "LaLiga SmartBank",
-    "date": "2026-03-08",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
-    "id": "32632",
-    "slug": "partido-vs-en-vivo-2026-03-08",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-08",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "32640",
@@ -218,26 +178,6 @@
     "date": "2026-03-08",
     "time": "17:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
-  },
-  {
-    "id": "32588",
-    "slug": "partido-vs-en-vivo-2026-03-08",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ligue 1",
-    "date": "2026-03-08",
-    "time": "14:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
-  },
-  {
-    "id": "32581",
-    "slug": "partido-vs-en-vivo-2026-03-08",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A",
-    "date": "2026-03-08",
-    "time": "14:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "32572",
