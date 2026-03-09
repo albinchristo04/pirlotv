@@ -70,16 +70,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even10"
   },
   {
-    "id": "32670",
-    "slug": "partido-vs-en-vivo-2026-03-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis",
-    "date": "2026-03-09",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "32652",
     "slug": "west-ham-united-vs-brentford-2026-03-09",
     "team_a": "West Ham United",
@@ -128,16 +118,6 @@
     "date": "2026-03-09",
     "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "32650",
-    "slug": "partido-vs-en-vivo-2026-03-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga",
-    "date": "2026-03-09",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   },
   {
     "id": "32658",
@@ -200,6 +180,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
   },
   {
+    "id": "32650",
+    "slug": "partido-vs-en-vivo-2026-03-09",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "LaLiga",
+    "date": "2026-03-09",
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espndeportes"
+  },
+  {
     "id": "32656",
     "slug": "partido-vs-en-vivo-2026-03-09",
     "team_a": "Equipo A",
@@ -238,16 +228,6 @@
     "date": "2026-03-09",
     "time": "16:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
-  },
-  {
-    "id": "32665",
-    "slug": "partido-vs-en-vivo-2026-03-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Super Lig",
-    "date": "2026-03-09",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
   },
   {
     "id": "32672",
