@@ -228,15 +228,5 @@
     "date": "2026-03-09",
     "time": "11:05",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=usanetwork\n"
-  },
-  {
-    "id": "32669",
-    "slug": "partido-vs-en-vivo-2026-03-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ciclismo",
-    "date": "2026-03-09",
-    "time": "08:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   }
 ]
