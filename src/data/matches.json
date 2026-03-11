@@ -140,26 +140,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
   },
   {
-    "id": "32681",
-    "slug": "atalanta-vs-bayern-münchen-2026-03-10",
-    "team_a": "Atalanta",
-    "team_b": "Bayern München",
-    "league": "UEFA Champions League",
-    "date": "2026-03-10",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "32680",
-    "slug": "partido-vs-en-vivo-2026-03-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Champions League",
-    "date": "2026-03-10",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
     "id": "32685",
     "slug": "partido-vs-en-vivo-2026-03-10",
     "team_a": "Equipo A",
@@ -178,16 +158,6 @@
     "date": "2026-03-10",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
-  },
-  {
-    "id": "32679",
-    "slug": "newcastle-united-vs-barcelona-2026-03-10",
-    "team_a": "Newcastle United",
-    "team_b": "Barcelona",
-    "league": "UEFA Champions League",
-    "date": "2026-03-10",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even7"
   },
   {
     "id": "32705",
@@ -308,15 +278,5 @@
     "date": "2026-03-10",
     "time": "20:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney9"
-  },
-  {
-    "id": "32695",
-    "slug": "partido-vs-en-vivo-2026-03-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Championship",
-    "date": "2026-03-10",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
   }
 ]
