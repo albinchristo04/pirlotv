@@ -180,16 +180,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "id": "32747",
-    "slug": "partido-vs-en-vivo-2026-03-11",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis",
-    "date": "2026-03-11",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
     "id": "32750",
     "slug": "partido-vs-en-vivo-2026-03-11",
     "team_a": "Equipo A",
@@ -198,26 +188,6 @@
     "date": "2026-03-11",
     "time": "21:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "32722",
-    "slug": "partido-vs-en-vivo-2026-03-11",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Champions League",
-    "date": "2026-03-11",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "32744",
-    "slug": "atletico-madrid-vs-ud-tenerife-2026-03-11",
-    "team_a": "Atletico Madrid",
-    "team_b": "UD Tenerife",
-    "league": "Copa de la Reina",
-    "date": "2026-03-11",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
   },
   {
     "id": "32742",
@@ -288,16 +258,6 @@
     "date": "2026-03-11",
     "time": "19:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere1"
-  },
-  {
-    "id": "32745",
-    "slug": "partido-vs-en-vivo-2026-03-11",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Eredivisie Femenina",
-    "date": "2026-03-11",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
   },
   {
     "id": "32748",
