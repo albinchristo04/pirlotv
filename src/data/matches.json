@@ -1,45 +1,5 @@
 [
   {
-    "id": "32706",
-    "slug": "partido-vs-en-vivo-2026-03-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-10",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
-  },
-  {
-    "id": "32709",
-    "slug": "partido-vs-en-vivo-2026-03-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-10",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
-  },
-  {
-    "id": "32710",
-    "slug": "partido-vs-en-vivo-2026-03-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-10",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
-  },
-  {
-    "id": "32693",
-    "slug": "partido-vs-en-vivo-2026-03-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Libertadores Sub-20",
-    "date": "2026-03-10",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
-  },
-  {
     "id": "32684",
     "slug": "partido-vs-en-vivo-2026-03-10",
     "team_a": "Equipo A",
@@ -48,46 +8,6 @@
     "date": "2026-03-10",
     "time": "22:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney11"
-  },
-  {
-    "id": "32715",
-    "slug": "partido-vs-en-vivo-2026-03-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "ATP, Indian Wells, Piso duro - Octavos de final",
-    "date": "2026-03-10",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "32688",
-    "slug": "partido-vs-en-vivo-2026-03-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga Profesional",
-    "date": "2026-03-10",
-    "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
-  },
-  {
-    "id": "32702",
-    "slug": "partido-vs-en-vivo-2026-03-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis",
-    "date": "2026-03-10",
-    "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "32704",
-    "slug": "partido-vs-en-vivo-2026-03-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-10",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
   },
   {
     "id": "32711",
@@ -110,76 +30,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
   },
   {
-    "id": "32686",
-    "slug": "independiente-vs-unión-santa-fe-2026-03-10",
-    "team_a": "Independiente",
-    "team_b": "Unión Santa Fe",
-    "league": "Liga Profesional",
-    "date": "2026-03-10",
-    "time": "17:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
-  },
-  {
-    "id": "32690",
-    "slug": "partido-vs-en-vivo-2026-03-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Categoría Primera A",
-    "date": "2026-03-10",
-    "time": "18:20",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "32697",
-    "slug": "atlético-nacional-vs-millonarios-2026-03-10",
-    "team_a": "Atlético Nacional",
-    "team_b": "Millonarios",
-    "league": "Liga Femenina",
-    "date": "2026-03-10",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
-  },
-  {
-    "id": "32685",
-    "slug": "partido-vs-en-vivo-2026-03-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga Profesional",
-    "date": "2026-03-10",
-    "time": "17:45",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium"
-  },
-  {
-    "id": "32694",
-    "slug": "ind.-medellin-vs-estudiantes-merida-2026-03-10",
-    "team_a": "Ind. Medellin",
-    "team_b": "Estudiantes Merida",
-    "league": "Copa Libertadores Sub-20",
-    "date": "2026-03-10",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
-  },
-  {
-    "id": "32705",
-    "slug": "partido-vs-en-vivo-2026-03-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-10",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
-  },
-  {
-    "id": "32708",
-    "slug": "partido-vs-en-vivo-2026-03-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-10",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
-  },
-  {
     "id": "32712",
     "slug": "partido-vs-en-vivo-2026-03-10",
     "team_a": "Equipo A",
@@ -190,26 +40,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
   },
   {
-    "id": "32689",
-    "slug": "partido-vs-en-vivo-2026-03-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Brasileirão",
-    "date": "2026-03-10",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere1"
-  },
-  {
-    "id": "32691",
-    "slug": "junior-vs-atlético-nacional-2026-03-10",
-    "team_a": "Junior",
-    "team_b": "Atlético Nacional",
-    "league": "Categoría Primera A",
-    "date": "2026-03-10",
-    "time": "20:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
     "id": "32714",
     "slug": "partido-vs-en-vivo-2026-03-10",
     "team_a": "Equipo A",
@@ -218,65 +48,5 @@
     "date": "2026-03-10",
     "time": "22:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
-  },
-  {
-    "id": "32682",
-    "slug": "partido-vs-en-vivo-2026-03-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa de Campeones de la Concacaf",
-    "date": "2026-03-10",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney7"
-  },
-  {
-    "id": "32698",
-    "slug": "guadalajara-vs-américa-2026-03-10",
-    "team_a": "Guadalajara",
-    "team_b": "América",
-    "league": "Liga MX Femenil",
-    "date": "2026-03-10",
-    "time": "20:05",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=universo"
-  },
-  {
-    "id": "32692",
-    "slug": "partido-vs-en-vivo-2026-03-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Libertadores",
-    "date": "2026-03-10",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "32687",
-    "slug": "partido-vs-en-vivo-2026-03-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga Profesional",
-    "date": "2026-03-10",
-    "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium"
-  },
-  {
-    "id": "32701",
-    "slug": "partido-vs-en-vivo-2026-03-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NHL",
-    "date": "2026-03-10",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "32683",
-    "slug": "monterrey-vs-cruz-azul-2026-03-10",
-    "team_a": "Monterrey",
-    "team_b": "Cruz Azul",
-    "league": "Copa de Campeones de la Concacaf",
-    "date": "2026-03-10",
-    "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney9"
   }
 ]
