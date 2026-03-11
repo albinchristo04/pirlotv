@@ -1,52 +1,22 @@
 [
   {
-    "id": "32684",
-    "slug": "partido-vs-en-vivo-2026-03-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa de Campeones de la Concacaf",
-    "date": "2026-03-10",
+    "id": "Barcelona-Real-Madrid-2026-03-11",
+    "slug": "barcelona-vs-real-madrid-2026-03-11",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-03-11",
+    "time": "20:00",
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
+  },
+  {
+    "id": "América-Chivas-2026-03-11",
+    "slug": "américa-vs-chivas-2026-03-11",
+    "team_a": "América",
+    "team_b": "Chivas",
+    "league": "Liga MX",
+    "date": "2026-03-11",
     "time": "22:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney11"
-  },
-  {
-    "id": "32711",
-    "slug": "partido-vs-en-vivo-2026-03-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-10",
-    "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
-  },
-  {
-    "id": "32713",
-    "slug": "partido-vs-en-vivo-2026-03-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-10",
-    "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
-  },
-  {
-    "id": "32712",
-    "slug": "partido-vs-en-vivo-2026-03-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-10",
-    "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
-  },
-  {
-    "id": "32714",
-    "slug": "partido-vs-en-vivo-2026-03-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-10",
-    "time": "22:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
