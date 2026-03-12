@@ -330,26 +330,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere1"
   },
   {
-    "id": "32785",
-    "slug": "partido-vs-en-vivo-2026-03-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Italia Femenina",
-    "date": "2026-03-12",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "32789",
-    "slug": "partido-vs-en-vivo-2026-03-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Golf",
-    "date": "2026-03-12",
-    "time": "11:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "32792",
     "slug": "partido-vs-en-vivo-2026-03-12",
     "team_a": "Equipo A",
