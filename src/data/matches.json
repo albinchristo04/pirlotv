@@ -10,26 +10,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
   },
   {
-    "id": "32787",
-    "slug": "partido-vs-en-vivo-2026-03-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Eredivisie Femenina",
-    "date": "2026-03-12",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
-  },
-  {
-    "id": "32790",
-    "slug": "partido-vs-en-vivo-2026-03-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis",
-    "date": "2026-03-12",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
-  },
-  {
     "id": "32793",
     "slug": "partido-vs-en-vivo-2026-03-12",
     "team_a": "Equipo A",
@@ -68,36 +48,6 @@
     "date": "2026-03-12",
     "time": "20:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "32759",
-    "slug": "partido-vs-en-vivo-2026-03-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Europa League",
-    "date": "2026-03-12",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "32766",
-    "slug": "partido-vs-en-vivo-2026-03-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Conference League",
-    "date": "2026-03-12",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
-  },
-  {
-    "id": "32768",
-    "slug": "samsunspor-vs-rayo-vallecano-2026-03-12",
-    "team_a": "Samsunspor",
-    "team_b": "Rayo Vallecano",
-    "league": "UEFA Conference League",
-    "date": "2026-03-12",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney8"
   },
   {
     "id": "32762",
@@ -220,36 +170,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "id": "32760",
-    "slug": "stuttgart-vs-porto-2026-03-12",
-    "team_a": "Stuttgart",
-    "team_b": "Porto",
-    "league": "UEFA Europa League",
-    "date": "2026-03-12",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "32765",
-    "slug": "partido-vs-en-vivo-2026-03-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Conference League",
-    "date": "2026-03-12",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
-  },
-  {
-    "id": "32757",
-    "slug": "partido-vs-en-vivo-2026-03-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Europa League",
-    "date": "2026-03-12",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
     "id": "32769",
     "slug": "partido-vs-en-vivo-2026-03-12",
     "team_a": "Equipo A",
@@ -368,26 +288,6 @@
     "date": "2026-03-12",
     "time": "20:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "32758",
-    "slug": "partido-vs-en-vivo-2026-03-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Europa League",
-    "date": "2026-03-12",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "32767",
-    "slug": "partido-vs-en-vivo-2026-03-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Conference League",
-    "date": "2026-03-12",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney7"
   },
   {
     "id": "32761",
