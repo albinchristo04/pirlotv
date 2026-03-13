@@ -10,6 +10,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
   },
   {
+    "id": "32805",
+    "slug": "partido-vs-en-vivo-2026-03-12",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Iga Świątek vs Elina Svitolina",
+    "date": "2026-03-12",
+    "time": "18:15",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
+  },
+  {
     "id": "32793",
     "slug": "partido-vs-en-vivo-2026-03-12",
     "team_a": "Equipo A",
@@ -48,46 +58,6 @@
     "date": "2026-03-12",
     "time": "20:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "32762",
-    "slug": "ferencváros-vs-sporting-braga-2026-03-12",
-    "team_a": "Ferencváros",
-    "team_b": "Sporting Braga",
-    "league": "UEFA Europa League",
-    "date": "2026-03-12",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "32763",
-    "slug": "genk-vs-freiburg-2026-03-12",
-    "team_a": "Genk",
-    "team_b": "Freiburg",
-    "league": "UEFA Europa League",
-    "date": "2026-03-12",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "32764",
-    "slug": "partido-vs-en-vivo-2026-03-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Europa League",
-    "date": "2026-03-12",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "32772",
-    "slug": "partido-vs-en-vivo-2026-03-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Conference League",
-    "date": "2026-03-12",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney15"
   },
   {
     "id": "32782",
@@ -170,26 +140,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "id": "32769",
-    "slug": "partido-vs-en-vivo-2026-03-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Conference League",
-    "date": "2026-03-12",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney13"
-  },
-  {
-    "id": "32770",
-    "slug": "partido-vs-en-vivo-2026-03-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Conference League",
-    "date": "2026-03-12",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney14"
-  },
-  {
     "id": "32804",
     "slug": "partido-vs-en-vivo-2026-03-12",
     "team_a": "Equipo A",
@@ -218,16 +168,6 @@
     "date": "2026-03-12",
     "time": "21:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tudn"
-  },
-  {
-    "id": "32775",
-    "slug": "partido-vs-en-vivo-2026-03-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga Profesional",
-    "date": "2026-03-12",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium"
   },
   {
     "id": "32777",
@@ -290,36 +230,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "id": "32761",
-    "slug": "partido-vs-en-vivo-2026-03-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Europa League",
-    "date": "2026-03-12",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "32771",
-    "slug": "fiorentina-vs-raków-częstochowa-2026-03-12",
-    "team_a": "Fiorentina",
-    "team_b": "Raków Częstochowa",
-    "league": "UEFA Conference League",
-    "date": "2026-03-12",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney14"
-  },
-  {
-    "id": "32786",
-    "slug": "badalona-vs-barcelona-2026-03-12",
-    "team_a": "Badalona",
-    "team_b": "Barcelona",
-    "league": "Copa de la Reina",
-    "date": "2026-03-12",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espndeportes"
-  },
-  {
     "id": "32781",
     "slug": "vasco-da-gama-vs-palmeiras-2026-03-12",
     "team_a": "Vasco da Gama",
@@ -338,15 +248,5 @@
     "date": "2026-03-12",
     "time": "19:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "32776",
-    "slug": "partido-vs-en-vivo-2026-03-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga Profesional",
-    "date": "2026-03-12",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
   }
 ]
