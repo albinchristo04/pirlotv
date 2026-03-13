@@ -50,6 +50,36 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
   },
   {
+    "id": "32843",
+    "slug": "partido-vs-en-vivo-2026-03-13",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
+    "date": "2026-03-13",
+    "time": "18:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "32847",
+    "slug": "partido-vs-en-vivo-2026-03-13",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
+    "date": "2026-03-13",
+    "time": "21:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "32848",
+    "slug": "partido-vs-en-vivo-2026-03-13",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
+    "date": "2026-03-13",
+    "time": "21:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
     "id": "32811",
     "slug": "estudiantes-vs-lanús-2026-03-13",
     "team_a": "Estudiantes",
@@ -80,16 +110,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
   },
   {
-    "id": "32823",
-    "slug": "partido-vs-en-vivo-2026-03-13",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga de Expansión MX",
-    "date": "2026-03-13",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2mx"
-  },
-  {
     "id": "32826",
     "slug": "partido-vs-en-vivo-2026-03-13",
     "team_a": "Equipo A",
@@ -110,14 +130,24 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even10"
   },
   {
-    "id": "32831",
+    "id": "32849",
     "slug": "partido-vs-en-vivo-2026-03-13",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Golf",
+    "league": "NBA",
     "date": "2026-03-13",
-    "time": "11:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+    "time": "21:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "32823",
+    "slug": "partido-vs-en-vivo-2026-03-13",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Liga de Expansión MX",
+    "date": "2026-03-13",
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2mx"
   },
   {
     "id": "32835",
@@ -140,26 +170,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2_nl"
   },
   {
-    "id": "32827",
-    "slug": "partido-vs-en-vivo-2026-03-13",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Super Lig",
-    "date": "2026-03-13",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=foxsports2"
-  },
-  {
-    "id": "32822",
-    "slug": "partido-vs-en-vivo-2026-03-13",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "2. Bundesliga",
-    "date": "2026-03-13",
-    "time": "12:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
-  },
-  {
     "id": "32809",
     "slug": "borussia-m'gladbach-vs-st.-pauli-2026-03-13",
     "team_a": "Borussia M'gladbach",
@@ -168,6 +178,16 @@
     "date": "2026-03-13",
     "time": "14:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
+  },
+  {
+    "id": "32841",
+    "slug": "partido-vs-en-vivo-2026-03-13",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa Libertadores Sub-20",
+    "date": "2026-03-13",
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
   },
   {
     "id": "32806",
@@ -207,6 +227,16 @@
     "league": "Primera División",
     "date": "2026-03-13",
     "time": "18:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "32845",
+    "slug": "partido-vs-en-vivo-2026-03-13",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
+    "date": "2026-03-13",
+    "time": "18:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
@@ -250,16 +280,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3_nl"
   },
   {
-    "id": "32821",
-    "slug": "partido-vs-en-vivo-2026-03-13",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "2. Bundesliga",
-    "date": "2026-03-13",
-    "time": "12:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
-  },
-  {
     "id": "32810",
     "slug": "olympique-marseille-vs-auxerre-2026-03-13",
     "team_a": "Olympique Marseille",
@@ -290,6 +310,46 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney8"
   },
   {
+    "id": "32842",
+    "slug": "partido-vs-en-vivo-2026-03-13",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
+    "date": "2026-03-13",
+    "time": "18:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "32844",
+    "slug": "partido-vs-en-vivo-2026-03-13",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
+    "date": "2026-03-13",
+    "time": "18:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "32846",
+    "slug": "partido-vs-en-vivo-2026-03-13",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
+    "date": "2026-03-13",
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "32850",
+    "slug": "partido-vs-en-vivo-2026-03-13",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa Libertadores Sub-20",
+    "date": "2026-03-13",
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
+  },
+  {
     "id": "32813",
     "slug": "partido-vs-en-vivo-2026-03-13",
     "team_a": "Equipo A",
@@ -318,16 +378,6 @@
     "date": "2026-03-13",
     "time": "16:30",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
-  },
-  {
-    "id": "32825",
-    "slug": "partido-vs-en-vivo-2026-03-13",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga de Expansión MX",
-    "date": "2026-03-13",
-    "time": "20:00",
-    "decoded_iframe_url": ""
   },
   {
     "id": "32828",
