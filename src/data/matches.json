@@ -410,16 +410,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
-    "id": "32864",
-    "slug": "partido-vs-en-vivo-2026-03-14",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A",
-    "date": "2026-03-14",
-    "time": "09:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
     "id": "32896",
     "slug": "leicester-city-vs-queens-park-rangers-2026-03-14",
     "team_a": "Leicester City",
@@ -648,16 +638,6 @@
     "date": "2026-03-14",
     "time": "22:10",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=canal5"
-  },
-  {
-    "id": "32923",
-    "slug": "partido-vs-en-vivo-2026-03-14",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby",
-    "date": "2026-03-14",
-    "time": "09:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
     "id": "32926",
