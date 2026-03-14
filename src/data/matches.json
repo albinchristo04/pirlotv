@@ -60,16 +60,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4mx"
   },
   {
-    "id": "32873",
-    "slug": "partido-vs-en-vivo-2026-03-14",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ligue 1",
-    "date": "2026-03-14",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "32874",
     "slug": "monaco-vs-brest-2026-03-14",
     "team_a": "Monaco",
@@ -220,36 +210,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "32898",
-    "slug": "eintracht-braunschweig-vs-fortuna-düsseldorf-2026-03-14",
-    "team_a": "Eintracht Braunschweig",
-    "team_b": "Fortuna Düsseldorf",
-    "league": "2. Bundesliga",
-    "date": "2026-03-14",
-    "time": "07:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
-  },
-  {
-    "id": "32899",
-    "slug": "holstein-kiel-vs-nürnberg-2026-03-14",
-    "team_a": "Holstein Kiel",
-    "team_b": "Nürnberg",
-    "league": "2. Bundesliga",
-    "date": "2026-03-14",
-    "time": "07:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
-  },
-  {
-    "id": "32895",
-    "slug": "partido-vs-en-vivo-2026-03-14",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Championship",
-    "date": "2026-03-14",
-    "time": "07:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
-  },
-  {
     "id": "32867",
     "slug": "partido-vs-en-vivo-2026-03-14",
     "team_a": "Equipo A",
@@ -298,6 +258,16 @@
     "date": "2026-03-14",
     "time": "12:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney19"
+  },
+  {
+    "id": "32873",
+    "slug": "partido-vs-en-vivo-2026-03-14",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Ligue 1",
+    "date": "2026-03-14",
+    "time": "13:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
   },
   {
     "id": "32851",
@@ -420,16 +390,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2_nl"
   },
   {
-    "id": "32922",
-    "slug": "partido-vs-en-vivo-2026-03-14",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ciclismo",
-    "date": "2026-03-14",
-    "time": "07:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
     "id": "32925",
     "slug": "partido-vs-en-vivo-2026-03-14",
     "team_a": "Equipo A",
@@ -448,26 +408,6 @@
     "date": "2026-03-14",
     "time": "18:25",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "32933",
-    "slug": "partido-vs-en-vivo-2026-03-14",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Segunda División",
-    "date": "2026-03-14",
-    "time": "07:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
-  },
-  {
-    "id": "32860",
-    "slug": "partido-vs-en-vivo-2026-03-14",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga",
-    "date": "2026-03-14",
-    "time": "08:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   },
   {
     "id": "32864",
@@ -738,26 +678,6 @@
     "date": "2026-03-14",
     "time": "19:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "32897",
-    "slug": "partido-vs-en-vivo-2026-03-14",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "2. Bundesliga",
-    "date": "2026-03-14",
-    "time": "07:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1"
-  },
-  {
-    "id": "32892",
-    "slug": "cerro-vs-progreso-2026-03-14",
-    "team_a": "Cerro",
-    "team_b": "Progreso",
-    "league": "Primera División",
-    "date": "2026-03-14",
-    "time": "08:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
   },
   {
     "id": "32869",
