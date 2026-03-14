@@ -1,52 +1,22 @@
 [
   {
-    "id": "32837",
-    "slug": "partido-vs-en-vivo-2026-03-13",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
+    "id": "Barcelona-Real-Madrid-2026-03-14",
+    "slug": "barcelona-vs-real-madrid-2026-03-14",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-03-14",
+    "time": "20:00",
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
+  },
+  {
+    "id": "América-Chivas-2026-03-14",
+    "slug": "américa-vs-chivas-2026-03-14",
+    "team_a": "América",
+    "team_b": "Chivas",
     "league": "Liga MX",
-    "date": "2026-03-13",
+    "date": "2026-03-14",
     "time": "22:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=azteca7"
-  },
-  {
-    "id": "32847",
-    "slug": "partido-vs-en-vivo-2026-03-13",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-13",
-    "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "32848",
-    "slug": "partido-vs-en-vivo-2026-03-13",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-13",
-    "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "32829",
-    "slug": "partido-vs-en-vivo-2026-03-13",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-03-13",
-    "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even10"
-  },
-  {
-    "id": "32849",
-    "slug": "partido-vs-en-vivo-2026-03-13",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-13",
-    "time": "21:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
