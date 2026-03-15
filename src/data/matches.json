@@ -120,16 +120,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
   },
   {
-    "id": "33017",
-    "slug": "partido-vs-en-vivo-2026-03-15",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "BOXEO",
-    "date": "2026-03-15",
-    "time": "02:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "32985",
     "slug": "guayaquil-city-vs-barcelona-2026-03-15",
     "team_a": "Guayaquil City",
