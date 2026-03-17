@@ -7,7 +7,7 @@
     "league": "NBA",
     "date": "2026-03-17",
     "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "33095",
@@ -17,7 +17,7 @@
     "league": "NBA",
     "date": "2026-03-17",
     "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "33096",
@@ -27,7 +27,7 @@
     "league": "NBA",
     "date": "2026-03-17",
     "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "33099",
@@ -37,7 +37,7 @@
     "league": "NBA",
     "date": "2026-03-17",
     "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "33065",
@@ -157,7 +157,7 @@
     "league": "NBA",
     "date": "2026-03-17",
     "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "33097",
@@ -167,7 +167,7 @@
     "league": "NBA",
     "date": "2026-03-17",
     "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "33063",
@@ -177,7 +177,7 @@
     "league": "UEFA Champions League",
     "date": "2026-03-17",
     "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney8"
   },
   {
     "id": "33068",
@@ -198,16 +198,6 @@
     "date": "2026-03-17",
     "time": "16:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
-    "id": "33082",
-    "slug": "sarmiento-vs-gimnasia-la-plata-2026-03-17",
-    "team_a": "Sarmiento",
-    "team_b": "Gimnasia La Plata",
-    "league": "Torneo de Reserva",
-    "date": "2026-03-17",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
   },
   {
     "id": "33084",
@@ -250,36 +240,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "33080",
-    "slug": "fenerbahçe-vs-gaziantep-fk-2026-03-17",
-    "team_a": "Fenerbahçe",
-    "team_b": "Gaziantep FK",
-    "league": "Super Lig",
-    "date": "2026-03-17",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4mx"
-  },
-  {
-    "id": "33060",
-    "slug": "partido-vs-en-vivo-2026-03-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Champions League",
-    "date": "2026-03-17",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "33079",
-    "slug": "ud-tenerife-vs-atletico-madrid-2026-03-17",
-    "team_a": "UD Tenerife",
-    "team_b": "Atletico Madrid",
-    "league": "Copa de la Reina",
-    "date": "2026-03-17",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2mx"
-  },
-  {
     "id": "33061",
     "slug": "partido-vs-en-vivo-2026-03-17",
     "team_a": "Equipo A",
@@ -297,7 +257,7 @@
     "league": "NBA",
     "date": "2026-03-17",
     "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "33098",
@@ -307,7 +267,7 @@
     "league": "NBA",
     "date": "2026-03-17",
     "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "33076",
