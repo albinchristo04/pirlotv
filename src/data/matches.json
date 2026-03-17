@@ -1,35 +1,5 @@
 [
   {
-    "id": "33045",
-    "slug": "albacete-vs-las-palmas-2026-03-16",
-    "team_a": "Albacete",
-    "team_b": "Las Palmas",
-    "league": "LaLiga SmartBank",
-    "date": "2026-03-16",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
-    "id": "33044",
-    "slug": "partido-vs-en-vivo-2026-03-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Championship",
-    "date": "2026-03-16",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "33031",
-    "slug": "brentford-vs-wolverhampton-wanderers-2026-03-16",
-    "team_a": "Brentford",
-    "team_b": "Wolverhampton Wanderers",
-    "league": "Premier League",
-    "date": "2026-03-16",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "33043",
     "slug": "liverpool-vs-torque-2026-03-16",
     "team_a": "Liverpool",
@@ -100,36 +70,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "33046",
-    "slug": "partido-vs-en-vivo-2026-03-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Eerste Divisie",
-    "date": "2026-03-16",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "33047",
-    "slug": "partido-vs-en-vivo-2026-03-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Eerste Divisie",
-    "date": "2026-03-16",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2_nl"
-  },
-  {
-    "id": "33048",
-    "slug": "partido-vs-en-vivo-2026-03-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Eerste Divisie",
-    "date": "2026-03-16",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3_nl"
-  },
-  {
     "id": "33051",
     "slug": "partido-vs-en-vivo-2026-03-16",
     "team_a": "Equipo A",
@@ -137,16 +77,6 @@
     "league": "NHL",
     "date": "2026-03-16",
     "time": "20:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "33032",
-    "slug": "partido-vs-en-vivo-2026-03-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga",
-    "date": "2026-03-16",
-    "time": "15:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
@@ -208,26 +138,6 @@
     "date": "2026-03-16",
     "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "33033",
-    "slug": "partido-vs-en-vivo-2026-03-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A",
-    "date": "2026-03-16",
-    "time": "14:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
-  },
-  {
-    "id": "33042",
-    "slug": "partido-vs-en-vivo-2026-03-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-03-16",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
   },
   {
     "id": "33037",
