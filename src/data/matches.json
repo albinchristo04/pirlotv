@@ -20,16 +20,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "33104",
-    "slug": "partido-vs-en-vivo-2026-03-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Europa League",
-    "date": "2026-03-18",
-    "time": "10:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
     "id": "33100",
     "slug": "partido-vs-en-vivo-2026-03-18",
     "team_a": "Equipo A",
@@ -58,6 +48,16 @@
     "date": "2026-03-18",
     "time": "19:30",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
+  },
+  {
+    "id": "33104",
+    "slug": "partido-vs-en-vivo-2026-03-18",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "UEFA Europa League",
+    "date": "2026-03-18",
+    "time": "10:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espnmx"
   },
   {
     "id": "33107",
@@ -188,16 +188,6 @@
     "date": "2026-03-18",
     "time": "15:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "33122",
-    "slug": "partido-vs-en-vivo-2026-03-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Youth League",
-    "date": "2026-03-18",
-    "time": "08:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
   },
   {
     "id": "33111",
@@ -350,16 +340,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
   },
   {
-    "id": "33123",
-    "slug": "inter-vs-benfica-2026-03-18",
-    "team_a": "Inter",
-    "team_b": "Benfica",
-    "league": "UEFA Youth League",
-    "date": "2026-03-18",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
-  },
-  {
     "id": "33124",
     "slug": "partido-vs-en-vivo-2026-03-18",
     "team_a": "Equipo A",
@@ -408,5 +388,15 @@
     "date": "2026-03-18",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
+  },
+  {
+    "id": "33123",
+    "slug": "inter-vs-benfica-2026-03-18",
+    "team_a": "Inter",
+    "team_b": "Benfica",
+    "league": "UEFA Youth League",
+    "date": "2026-03-18",
+    "time": "10:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   }
 ]
