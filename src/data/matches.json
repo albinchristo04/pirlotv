@@ -1,15 +1,5 @@
 [
   {
-    "id": "33129",
-    "slug": "partido-vs-en-vivo-2026-03-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis",
-    "date": "2026-03-18",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "33133",
     "slug": "partido-vs-en-vivo-2026-03-18",
     "team_a": "Equipo A",
@@ -18,16 +8,6 @@
     "date": "2026-03-18",
     "time": "20:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "33100",
-    "slug": "partido-vs-en-vivo-2026-03-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Champions League",
-    "date": "2026-03-18",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "33121",
@@ -50,14 +30,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
   },
   {
-    "id": "33104",
+    "id": "33100",
     "slug": "partido-vs-en-vivo-2026-03-18",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "UEFA Europa League",
+    "league": "UEFA Champions League",
     "date": "2026-03-18",
-    "time": "10:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espnmx"
+    "time": "12:45",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "33107",
@@ -388,15 +368,5 @@
     "date": "2026-03-18",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "33123",
-    "slug": "inter-vs-benfica-2026-03-18",
-    "team_a": "Inter",
-    "team_b": "Benfica",
-    "league": "UEFA Youth League",
-    "date": "2026-03-18",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   }
 ]
