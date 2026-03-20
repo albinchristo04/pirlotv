@@ -20,6 +20,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
+    "id": "33218",
+    "slug": "partido-vs-en-vivo-2026-03-20",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
+    "date": "2026-03-20",
+    "time": "18:30",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
+  },
+  {
     "id": "33192",
     "slug": "partido-vs-en-vivo-2026-03-20",
     "team_a": "Equipo A",
@@ -110,6 +120,26 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3_nl"
   },
   {
+    "id": "33219",
+    "slug": "partido-vs-en-vivo-2026-03-20",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
+    "date": "2026-03-20",
+    "time": "18:30",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
+  },
+  {
+    "id": "33224",
+    "slug": "partido-vs-en-vivo-2026-03-20",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Torneo amistoso de Verano",
+    "date": "2026-03-20",
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
+  },
+  {
     "id": "33194",
     "slug": "partido-vs-en-vivo-2026-03-20",
     "team_a": "Equipo A",
@@ -198,6 +228,36 @@
     "date": "2026-03-20",
     "time": "17:55",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
+  },
+  {
+    "id": "33220",
+    "slug": "partido-vs-en-vivo-2026-03-20",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
+    "date": "2026-03-20",
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
+  },
+  {
+    "id": "33221",
+    "slug": "partido-vs-en-vivo-2026-03-20",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
+    "date": "2026-03-20",
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
+  },
+  {
+    "id": "33223",
+    "slug": "partido-vs-en-vivo-2026-03-20",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
+    "date": "2026-03-20",
+    "time": "20:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
     "id": "33196",
