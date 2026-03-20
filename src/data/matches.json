@@ -10,16 +10,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
   },
   {
-    "id": "33151",
-    "slug": "partido-vs-en-vivo-2026-03-19",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Europa League",
-    "date": "2026-03-19",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
     "id": "33186",
     "slug": "partido-vs-en-vivo-2026-03-19",
     "team_a": "Equipo A",
@@ -60,16 +50,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
   },
   {
-    "id": "33173",
-    "slug": "emelec-vs-independiente-del-valle-2026-03-19",
-    "team_a": "Emelec",
-    "team_b": "Independiente del Valle",
-    "league": "Serie A",
-    "date": "2026-03-19",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
     "id": "33172",
     "slug": "orense-vs-mushuc-runa-2026-03-19",
     "team_a": "Orense",
@@ -80,14 +60,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
   },
   {
-    "id": "33152",
-    "slug": "real-betis-vs-panathinaikos-2026-03-19",
-    "team_a": "Real Betis",
-    "team_b": "Panathinaikos",
-    "league": "UEFA Europa League",
+    "id": "33184",
+    "slug": "partido-vs-en-vivo-2026-03-19",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
     "date": "2026-03-19",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
     "id": "33183",
@@ -97,17 +77,17 @@
     "league": "NBA",
     "date": "2026-03-19",
     "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even6"
   },
   {
-    "id": "33184",
-    "slug": "partido-vs-en-vivo-2026-03-19",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
+    "id": "33173",
+    "slug": "emelec-vs-independiente-del-valle-2026-03-19",
+    "team_a": "Emelec",
+    "team_b": "Independiente del Valle",
+    "league": "Serie A",
     "date": "2026-03-19",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
   },
   {
     "id": "33187",
@@ -138,36 +118,6 @@
     "date": "2026-03-19",
     "time": "20:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
-    "id": "33153",
-    "slug": "aston-villa-vs-lille-2026-03-19",
-    "team_a": "Aston Villa",
-    "team_b": "Lille",
-    "league": "UEFA Europa League",
-    "date": "2026-03-19",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "33161",
-    "slug": "rayo-vallecano-vs-samsunspor-2026-03-19",
-    "team_a": "Rayo Vallecano",
-    "team_b": "Samsunspor",
-    "league": "UEFA Conference League",
-    "date": "2026-03-19",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney13"
-  },
-  {
-    "id": "33159",
-    "slug": "sparta-praha-vs-az-2026-03-19",
-    "team_a": "Sparta Praha",
-    "team_b": "AZ",
-    "league": "UEFA Conference League",
-    "date": "2026-03-19",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney15"
   },
   {
     "id": "33164",
@@ -258,36 +208,6 @@
     "date": "2026-03-19",
     "time": "21:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
-    "id": "33160",
-    "slug": "shakhtar-donetsk-vs-lech-poznań-2026-03-19",
-    "team_a": "Shakhtar Donetsk",
-    "team_b": "Lech Poznań",
-    "league": "UEFA Conference League",
-    "date": "2026-03-19",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney14"
-  },
-  {
-    "id": "33162",
-    "slug": "partido-vs-en-vivo-2026-03-19",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Conference League",
-    "date": "2026-03-19",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney16"
-  },
-  {
-    "id": "33154",
-    "slug": "partido-vs-en-vivo-2026-03-19",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Europa League",
-    "date": "2026-03-19",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
     "id": "33163",
