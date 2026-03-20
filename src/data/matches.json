@@ -20,16 +20,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
-    "id": "33208",
-    "slug": "karlsruher-sc-vs-greuther-fürth-2026-03-20",
-    "team_a": "Karlsruher SC",
-    "team_b": "Greuther Fürth",
-    "league": "2. Bundesliga",
-    "date": "2026-03-20",
-    "time": "12:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
-  },
-  {
     "id": "33197",
     "slug": "genoa-vs-udinese-2026-03-20",
     "team_a": "Genoa",
@@ -48,6 +38,16 @@
     "date": "2026-03-20",
     "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "33208",
+    "slug": "karlsruher-sc-vs-greuther-fürth-2026-03-20",
+    "team_a": "Karlsruher SC",
+    "team_b": "Greuther Fürth",
+    "league": "2. Bundesliga",
+    "date": "2026-03-20",
+    "time": "12:30",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
   },
   {
     "id": "33192",
@@ -298,16 +298,6 @@
     "date": "2026-03-20",
     "time": "19:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney11"
-  },
-  {
-    "id": "33215",
-    "slug": "partido-vs-en-vivo-2026-03-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis",
-    "date": "2026-03-20",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "33200",
