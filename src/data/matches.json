@@ -1,32 +1,22 @@
 [
   {
-    "id": "33210",
-    "slug": "mazatlán-vs-cruz-azul-2026-03-20",
-    "team_a": "Mazatlán",
-    "team_b": "Cruz Azul",
+    "id": "Barcelona-Real-Madrid-2026-03-21",
+    "slug": "barcelona-vs-real-madrid-2026-03-21",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-03-21",
+    "time": "20:00",
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
+  },
+  {
+    "id": "América-Chivas-2026-03-21",
+    "slug": "américa-vs-chivas-2026-03-21",
+    "team_a": "América",
+    "team_b": "Chivas",
     "league": "Liga MX",
-    "date": "2026-03-20",
-    "time": "22:05",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=azteca7"
-  },
-  {
-    "id": "33212",
-    "slug": "guadalupe-vs-sporting-san-josé-2026-03-20",
-    "team_a": "Guadalupe",
-    "team_b": "Sporting San José",
-    "league": "Primera División",
-    "date": "2026-03-20",
-    "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
-    "id": "33228",
-    "slug": "partido-vs-en-vivo-2026-03-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga MX Femenil - Clausura Monterey vs Guadalajara",
-    "date": "2026-03-20",
-    "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
+    "date": "2026-03-21",
+    "time": "22:00",
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
