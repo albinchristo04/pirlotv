@@ -10,56 +10,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "33246",
-    "slug": "partido-vs-en-vivo-2026-03-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Bundesliga",
-    "date": "2026-03-21",
-    "time": "09:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney11"
-  },
-  {
-    "id": "33234",
-    "slug": "partido-vs-en-vivo-2026-03-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Premier League",
-    "date": "2026-03-21",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney14"
-  },
-  {
-    "id": "33269",
-    "slug": "torque-vs-central-español-2026-03-21",
-    "team_a": "Torque",
-    "team_b": "Central Español",
-    "league": "Primera División",
-    "date": "2026-03-21",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney20"
-  },
-  {
-    "id": "33243",
-    "slug": "milan-vs-torino-2026-03-21",
-    "team_a": "Milan",
-    "team_b": "Torino",
-    "league": "Serie A",
-    "date": "2026-03-21",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espnmx"
-  },
-  {
-    "id": "33274",
-    "slug": "partido-vs-en-vivo-2026-03-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Championship",
-    "date": "2026-03-21",
-    "time": "12:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
-  },
-  {
     "id": "33249",
     "slug": "borussia-dortmund-vs-hamburger-sv-2026-03-21",
     "team_a": "Borussia Dortmund",
@@ -68,16 +18,6 @@
     "date": "2026-03-21",
     "time": "12:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "33229",
-    "slug": "partido-vs-en-vivo-2026-03-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga 1",
-    "date": "2026-03-21",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
   },
   {
     "id": "33230",
@@ -160,36 +100,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
   },
   {
-    "id": "33291",
-    "slug": "partido-vs-en-vivo-2026-03-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Eredivisie",
-    "date": "2026-03-21",
-    "time": "10:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2_nl"
-  },
-  {
-    "id": "33295",
-    "slug": "partido-vs-en-vivo-2026-03-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Eredivisie Femenina",
-    "date": "2026-03-21",
-    "time": "10:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
-  },
-  {
-    "id": "33298",
-    "slug": "partido-vs-en-vivo-2026-03-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MotoGP – GP Brasil – Moto3 – Moto2 Clasificación / Sprint MotoGP",
-    "date": "2026-03-21",
-    "time": "10:40",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
     "id": "33302",
     "slug": "partido-vs-en-vivo-2026-03-21",
     "team_a": "Equipo A",
@@ -250,16 +160,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
-    "id": "33315",
-    "slug": "partido-vs-en-vivo-2026-03-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Huachipato vs Dep Concepcion",
-    "date": "2026-03-21",
-    "time": "10:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
     "id": "33317",
     "slug": "partido-vs-en-vivo-2026-03-21",
     "team_a": "Equipo A",
@@ -270,34 +170,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "33247",
+    "id": "33241",
     "slug": "partido-vs-en-vivo-2026-03-21",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Bundesliga",
+    "league": "LaLiga",
     "date": "2026-03-21",
-    "time": "09:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney12"
-  },
-  {
-    "id": "33273",
-    "slug": "partido-vs-en-vivo-2026-03-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Championship",
-    "date": "2026-03-21",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
-  },
-  {
-    "id": "33286",
-    "slug": "fc-andorra-vs-eibar-2026-03-21",
-    "team_a": "FC Andorra",
-    "team_b": "Eibar",
-    "league": "LaLiga SmartBank",
-    "date": "2026-03-21",
-    "time": "10:15",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=hypermotion2"
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   },
   {
     "id": "33231",
@@ -308,16 +188,6 @@
     "date": "2026-03-21",
     "time": "15:30",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
-  },
-  {
-    "id": "33241",
-    "slug": "partido-vs-en-vivo-2026-03-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga",
-    "date": "2026-03-21",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   },
   {
     "id": "33254",
@@ -460,16 +330,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "33238",
-    "slug": "espanyol-vs-getafe-2026-03-21",
-    "team_a": "Espanyol",
-    "team_b": "Getafe",
-    "league": "LaLiga",
-    "date": "2026-03-21",
-    "time": "10:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "33235",
     "slug": "partido-vs-en-vivo-2026-03-21",
     "team_a": "Equipo A",
@@ -550,44 +410,24 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
-    "id": "33245",
+    "id": "33263",
     "slug": "partido-vs-en-vivo-2026-03-21",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Bundesliga",
+    "league": "Serie A",
     "date": "2026-03-21",
-    "time": "09:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
   },
   {
-    "id": "33248",
+    "id": "33260",
     "slug": "partido-vs-en-vivo-2026-03-21",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Bundesliga",
+    "league": "Brasileirão",
     "date": "2026-03-21",
-    "time": "09:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney13"
-  },
-  {
-    "id": "33287",
-    "slug": "racing-santander-vs-albacete-2026-03-21",
-    "team_a": "Racing Santander",
-    "team_b": "Albacete",
-    "league": "LaLiga SmartBank",
-    "date": "2026-03-21",
-    "time": "10:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
-    "id": "33250",
-    "slug": "partido-vs-en-vivo-2026-03-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ligue 1",
-    "date": "2026-03-21",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=beinsport_xtra_espanol"
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
   },
   {
     "id": "33239",
@@ -690,26 +530,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
   },
   {
-    "id": "33260",
-    "slug": "partido-vs-en-vivo-2026-03-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Brasileirão",
-    "date": "2026-03-21",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
-    "id": "33263",
-    "slug": "partido-vs-en-vivo-2026-03-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A",
-    "date": "2026-03-21",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
-  },
-  {
     "id": "33290",
     "slug": "partido-vs-en-vivo-2026-03-21",
     "team_a": "Equipo A",
@@ -728,16 +548,6 @@
     "date": "2026-03-21",
     "time": "15:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
-  },
-  {
-    "id": "33297",
-    "slug": "partido-vs-en-vivo-2026-03-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis",
-    "date": "2026-03-21",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
     "id": "33301",
