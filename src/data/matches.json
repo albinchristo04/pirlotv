@@ -20,6 +20,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere2"
   },
   {
+    "id": "33327",
+    "slug": "partido-vs-en-vivo-2026-03-22",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "LaLiga",
+    "date": "2026-03-22",
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
     "id": "33358",
     "slug": "sportivo-san-lorenzo-vs-nacional-asunción-2026-03-22",
     "team_a": "Sportivo San Lorenzo",
@@ -28,16 +38,6 @@
     "date": "2026-03-22",
     "time": "16:30",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
-  },
-  {
-    "id": "33318",
-    "slug": "partido-vs-en-vivo-2026-03-22",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga 1",
-    "date": "2026-03-22",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
   },
   {
     "id": "33319",
@@ -150,26 +150,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "33334",
-    "slug": "partido-vs-en-vivo-2026-03-22",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Bundesliga",
-    "date": "2026-03-22",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
-  },
-  {
-    "id": "33331",
-    "slug": "partido-vs-en-vivo-2026-03-22",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A",
-    "date": "2026-03-22",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "33350",
     "slug": "partido-vs-en-vivo-2026-03-22",
     "team_a": "Equipo A",
@@ -178,16 +158,6 @@
     "date": "2026-03-22",
     "time": "14:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere1"
-  },
-  {
-    "id": "33327",
-    "slug": "partido-vs-en-vivo-2026-03-22",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga",
-    "date": "2026-03-22",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "33343",
@@ -230,16 +200,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
-    "id": "33355",
-    "slug": "técnico-universitario-vs-independiente-del-valle-2026-03-22",
-    "team_a": "Técnico Universitario",
-    "team_b": "Independiente del Valle",
-    "league": "Serie A",
-    "date": "2026-03-22",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
-  },
-  {
     "id": "33347",
     "slug": "partido-vs-en-vivo-2026-03-22",
     "team_a": "Equipo A",
@@ -258,16 +218,6 @@
     "date": "2026-03-22",
     "time": "18:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "33341",
-    "slug": "partido-vs-en-vivo-2026-03-22",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "EFL Cup",
-    "date": "2026-03-22",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
   },
   {
     "id": "33335",
@@ -320,16 +270,6 @@
     "decoded_iframe_url": ""
   },
   {
-    "id": "33368",
-    "slug": "partido-vs-en-vivo-2026-03-22",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga MX Femenil",
-    "date": "2026-03-22",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tudn"
-  },
-  {
     "id": "33398",
     "slug": "partido-vs-en-vivo-2026-03-22",
     "team_a": "Equipo A",
@@ -378,26 +318,6 @@
     "date": "2026-03-22",
     "time": "14:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere3"
-  },
-  {
-    "id": "33378",
-    "slug": "las-palmas-vs-sporting-gijón-2026-03-22",
-    "team_a": "Las Palmas",
-    "team_b": "Sporting Gijón",
-    "league": "LaLiga SmartBank",
-    "date": "2026-03-22",
-    "time": "12:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
-    "id": "33326",
-    "slug": "athletic-club-vs-real-betis-2026-03-22",
-    "team_a": "Athletic Club",
-    "team_b": "Real Betis",
-    "league": "LaLiga",
-    "date": "2026-03-22",
-    "time": "12:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   },
   {
     "id": "33361",
@@ -488,16 +408,6 @@
     "date": "2026-03-22",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
-  },
-  {
-    "id": "33388",
-    "slug": "partido-vs-en-vivo-2026-03-22",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis",
-    "date": "2026-03-22",
-    "time": "12:10",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
     "id": "33391",
