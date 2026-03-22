@@ -120,16 +120,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "33241",
-    "slug": "partido-vs-en-vivo-2026-03-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga",
-    "date": "2026-03-21",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
     "id": "33259",
     "slug": "fluminense-vs-atlético-mineiro-2026-03-21",
     "team_a": "Fluminense",
@@ -138,6 +128,16 @@
     "date": "2026-03-21",
     "time": "16:30",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even8"
+  },
+  {
+    "id": "33306",
+    "slug": "partido-vs-en-vivo-2026-03-21",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
+    "date": "2026-03-21",
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even7"
   },
   {
     "id": "33231",
@@ -220,26 +220,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=canal5"
   },
   {
-    "id": "33289",
-    "slug": "deportivo-la-coruña-vs-real-zaragoza-2026-03-21",
-    "team_a": "Deportivo La Coruña",
-    "team_b": "Real Zaragoza",
-    "league": "LaLiga SmartBank",
-    "date": "2026-03-21",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
-    "id": "33300",
-    "slug": "partido-vs-en-vivo-2026-03-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis",
-    "date": "2026-03-21",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "33303",
     "slug": "partido-vs-en-vivo-2026-03-21",
     "team_a": "Equipo A",
@@ -250,26 +230,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "33244",
-    "slug": "juventus-vs-sassuolo-2026-03-21",
-    "team_a": "Juventus",
-    "team_b": "Sassuolo",
-    "league": "Serie A",
-    "date": "2026-03-21",
-    "time": "14:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "33252",
-    "slug": "partido-vs-en-vivo-2026-03-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ligue 1",
-    "date": "2026-03-21",
-    "time": "15:05",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney11"
-  },
-  {
     "id": "33271",
     "slug": "partido-vs-en-vivo-2026-03-21",
     "team_a": "Equipo A",
@@ -278,16 +238,6 @@
     "date": "2026-03-21",
     "time": "17:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney13"
-  },
-  {
-    "id": "33306",
-    "slug": "partido-vs-en-vivo-2026-03-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-21",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
     "id": "33309",
@@ -320,24 +270,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
   },
   {
-    "id": "33280",
-    "slug": "darmstadt-98-vs-schalke-04-2026-03-21",
-    "team_a": "Darmstadt 98",
-    "team_b": "Schalke 04",
-    "league": "2. Bundesliga",
+    "id": "33307",
+    "slug": "partido-vs-en-vivo-2026-03-21",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
     "date": "2026-03-21",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney8"
-  },
-  {
-    "id": "33236",
-    "slug": "leeds-united-vs-brentford-2026-03-21",
-    "team_a": "Leeds United",
-    "team_b": "Brentford",
-    "league": "Premier League",
-    "date": "2026-03-21",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney10"
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even6"
   },
   {
     "id": "33284",
@@ -348,16 +288,6 @@
     "date": "2026-03-21",
     "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espnmx"
-  },
-  {
-    "id": "33307",
-    "slug": "partido-vs-en-vivo-2026-03-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-21",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
     "id": "33310",
@@ -398,26 +328,6 @@
     "date": "2026-03-21",
     "time": "21:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
-    "id": "33293",
-    "slug": "pec-zwolle-vs-nac-breda-2026-03-21",
-    "team_a": "PEC Zwolle",
-    "team_b": "NAC Breda",
-    "league": "Eredivisie",
-    "date": "2026-03-21",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
-  },
-  {
-    "id": "33301",
-    "slug": "partido-vs-en-vivo-2026-03-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby",
-    "date": "2026-03-21",
-    "time": "14:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
     "id": "33304",
