@@ -40,16 +40,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "33416",
-    "slug": "partido-vs-en-vivo-2026-03-23",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-23",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
     "id": "33417",
     "slug": "partido-vs-en-vivo-2026-03-23",
     "team_a": "Equipo A",
@@ -78,6 +68,16 @@
     "date": "2026-03-23",
     "time": "21:30",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
+  },
+  {
+    "id": "33416",
+    "slug": "partido-vs-en-vivo-2026-03-23",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
+    "date": "2026-03-23",
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even6"
   },
   {
     "id": "33401",
@@ -120,16 +120,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "33414",
-    "slug": "partido-vs-en-vivo-2026-03-23",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-23",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
     "id": "33419",
     "slug": "partido-vs-en-vivo-2026-03-23",
     "team_a": "Equipo A",
@@ -150,14 +140,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
-    "id": "33402",
+    "id": "33414",
     "slug": "partido-vs-en-vivo-2026-03-23",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Categoría Primera A",
+    "league": "NBA",
     "date": "2026-03-23",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even7"
   },
   {
     "id": "33403",
@@ -190,26 +180,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "33409",
-    "slug": "partido-vs-en-vivo-2026-03-23",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-03-23",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
-    "id": "33415",
-    "slug": "partido-vs-en-vivo-2026-03-23",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-23",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
     "id": "33420",
     "slug": "partido-vs-en-vivo-2026-03-23",
     "team_a": "Equipo A",
@@ -227,6 +197,16 @@
     "league": "NBA",
     "date": "2026-03-23",
     "time": "20:30",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
+  },
+  {
+    "id": "33415",
+    "slug": "partido-vs-en-vivo-2026-03-23",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
+    "date": "2026-03-23",
+    "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   }
 ]
