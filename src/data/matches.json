@@ -1,22 +1,22 @@
 [
   {
-    "id": "33442",
-    "slug": "partido-vs-en-vivo-2026-03-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-24",
-    "time": "22:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
+    "id": "Barcelona-Real-Madrid-2026-03-25",
+    "slug": "barcelona-vs-real-madrid-2026-03-25",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-03-25",
+    "time": "20:00",
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
   },
   {
-    "id": "33480",
-    "slug": "partido-vs-en-vivo-2026-03-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Halys vs Zverev",
-    "date": "2026-03-24",
-    "time": "21:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+    "id": "América-Chivas-2026-03-25",
+    "slug": "américa-vs-chivas-2026-03-25",
+    "team_a": "América",
+    "team_b": "Chivas",
+    "league": "Liga MX",
+    "date": "2026-03-25",
+    "time": "22:00",
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
