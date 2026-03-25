@@ -1,15 +1,5 @@
 [
   {
-    "id": "33454",
-    "slug": "partido-vs-en-vivo-2026-03-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Women's Champions League",
-    "date": "2026-03-25",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "33450",
     "slug": "partido-vs-en-vivo-2026-03-25",
     "team_a": "Equipo A",
@@ -150,16 +140,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
   },
   {
-    "id": "33456",
-    "slug": "newell's-old-boys-vs-belgrano-2026-03-25",
-    "team_a": "Newell's Old Boys",
-    "team_b": "Belgrano",
-    "league": "Torneo de Reserva",
-    "date": "2026-03-25",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
-  },
-  {
     "id": "33459",
     "slug": "partido-vs-en-vivo-2026-03-25",
     "team_a": "Equipo A",
@@ -237,7 +217,7 @@
     "league": "Copa de la Liga",
     "date": "2026-03-25",
     "time": "16:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
   },
   {
     "id": "33461",
