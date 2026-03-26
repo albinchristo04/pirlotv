@@ -1,15 +1,5 @@
 [
   {
-    "id": "33484",
-    "slug": "partido-vs-en-vivo-2026-03-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Clasificación Mundial",
-    "date": "2026-03-26",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "33497",
     "slug": "partido-vs-en-vivo-2026-03-26",
     "team_a": "Equipo A",
@@ -70,16 +60,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
   },
   {
-    "id": "33493",
-    "slug": "nueva-caledonia-vs-jamaica-2026-03-26",
-    "team_a": "Nueva Caledonia",
-    "team_b": "Jamaica",
-    "league": "Clasificación Mundial",
-    "date": "2026-03-26",
-    "time": "22:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
     "id": "33502",
     "slug": "partido-vs-en-vivo-2026-03-26",
     "team_a": "Equipo A",
@@ -120,34 +100,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "33496",
-    "slug": "partido-vs-en-vivo-2026-03-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
+    "id": "33493",
+    "slug": "nueva-caledonia-vs-jamaica-2026-03-26",
+    "team_a": "Nueva Caledonia",
+    "team_b": "Jamaica",
+    "league": "Clasificación Mundial",
     "date": "2026-03-26",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
-  },
-  {
-    "id": "33481",
-    "slug": "gibraltar-vs-letonia-2026-03-26",
-    "team_a": "Gibraltar",
-    "team_b": "Letonia",
-    "league": "UEFA Nations League",
-    "date": "2026-03-26",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
-  },
-  {
-    "id": "33500",
-    "slug": "georgia-vs-israel-2026-03-26",
-    "team_a": "Georgia",
-    "team_b": "Israel",
-    "league": "Amistoso",
-    "date": "2026-03-26",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
+    "time": "22:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   },
   {
     "id": "33485",
@@ -170,16 +130,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney14"
   },
   {
-    "id": "33491",
-    "slug": "partido-vs-en-vivo-2026-03-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Clasificación Mundial",
-    "date": "2026-03-26",
-    "time": "14:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney9"
-  },
-  {
     "id": "33515",
     "slug": "partido-vs-en-vivo-2026-03-26",
     "team_a": "Equipo A",
@@ -190,24 +140,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
   },
   {
-    "id": "33498",
+    "id": "33491",
     "slug": "partido-vs-en-vivo-2026-03-26",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Amistoso",
+    "league": "Clasificación Mundial",
     "date": "2026-03-26",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
-  },
-  {
-    "id": "33482",
-    "slug": "malta-vs-luxemburgo-2026-03-26",
-    "team_a": "Malta",
-    "team_b": "Luxemburgo",
-    "league": "UEFA Nations League",
-    "date": "2026-03-26",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
+    "time": "14:45",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney9"
   },
   {
     "id": "33494",
@@ -218,16 +158,6 @@
     "date": "2026-03-26",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
-  },
-  {
-    "id": "33499",
-    "slug": "partido-vs-en-vivo-2026-03-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Amistoso",
-    "date": "2026-03-26",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "33506",
@@ -270,6 +200,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
+    "id": "33492",
+    "slug": "partido-vs-en-vivo-2026-03-26",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Clasificación Mundial",
+    "date": "2026-03-26",
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
+  },
+  {
     "id": "33486",
     "slug": "italia-vs-irlanda-del-norte-2026-03-26",
     "team_a": "Italia",
@@ -290,26 +230,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "id": "33553",
-    "slug": "partido-vs-en-vivo-2026-03-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "<style>",
-    "date": "2026-03-26",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "33492",
-    "slug": "partido-vs-en-vivo-2026-03-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Clasificación Mundial",
-    "date": "2026-03-26",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
     "id": "33495",
     "slug": "deportivo-recoleta-vs-rubio-ñú-2026-03-26",
     "team_a": "Deportivo Recoleta",
@@ -318,6 +238,16 @@
     "date": "2026-03-26",
     "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
+  },
+  {
+    "id": "33553",
+    "slug": "partido-vs-en-vivo-2026-03-26",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Bolivia vs Surinam - Repechaje al Mundial",
+    "date": "2026-03-26",
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
   },
   {
     "id": "33504",
