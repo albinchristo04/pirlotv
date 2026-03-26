@@ -10,6 +10,26 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
   },
   {
+    "id": "33469",
+    "slug": "partido-vs-en-vivo-2026-03-25",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
+    "date": "2026-03-25",
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
+  },
+  {
+    "id": "33472",
+    "slug": "partido-vs-en-vivo-2026-03-25",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
+    "date": "2026-03-25",
+    "time": "18:30",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even7"
+  },
+  {
     "id": "33445",
     "slug": "partido-vs-en-vivo-2026-03-25",
     "team_a": "Equipo A",
@@ -50,26 +70,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "33469",
-    "slug": "partido-vs-en-vivo-2026-03-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-25",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
-    "id": "33472",
-    "slug": "partido-vs-en-vivo-2026-03-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-25",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
     "id": "33474",
     "slug": "partido-vs-en-vivo-2026-03-25",
     "team_a": "Equipo A",
@@ -77,7 +77,7 @@
     "league": "NBA",
     "date": "2026-03-25",
     "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even6"
   },
   {
     "id": "33478",
@@ -87,17 +87,17 @@
     "league": "NBA",
     "date": "2026-03-25",
     "time": "21:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even6"
   },
   {
-    "id": "33455",
-    "slug": "manchester-united-vs-bayern-2026-03-25",
-    "team_a": "Manchester United",
-    "team_b": "Bayern",
-    "league": "UEFA Women's Champions League",
+    "id": "33470",
+    "slug": "partido-vs-en-vivo-2026-03-25",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
     "date": "2026-03-25",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even6"
   },
   {
     "id": "33446",
@@ -150,16 +150,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "33460",
-    "slug": "envigado-vs-bogotá-2026-03-25",
-    "team_a": "Envigado",
-    "team_b": "Bogotá",
-    "league": "Primera B",
-    "date": "2026-03-25",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
-  },
-  {
     "id": "33467",
     "slug": "partido-vs-en-vivo-2026-03-25",
     "team_a": "Equipo A",
@@ -170,16 +160,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "33470",
-    "slug": "partido-vs-en-vivo-2026-03-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-25",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
     "id": "33473",
     "slug": "partido-vs-en-vivo-2026-03-25",
     "team_a": "Equipo A",
@@ -187,7 +167,7 @@
     "league": "NBA",
     "date": "2026-03-25",
     "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even6"
   },
   {
     "id": "33475",
@@ -197,17 +177,7 @@
     "league": "NBA",
     "date": "2026-03-25",
     "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
-    "id": "33449",
-    "slug": "partido-vs-en-vivo-2026-03-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-03-25",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even6"
   },
   {
     "id": "33457",
@@ -267,7 +237,7 @@
     "league": "NBA",
     "date": "2026-03-25",
     "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even6"
   },
   {
     "id": "33476",
@@ -277,7 +247,7 @@
     "league": "NBA",
     "date": "2026-03-25",
     "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even6"
   },
   {
     "id": "33477",
@@ -287,6 +257,6 @@
     "league": "NBA",
     "date": "2026-03-25",
     "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even6"
   }
 ]
