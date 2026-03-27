@@ -1,182 +1,22 @@
 [
   {
-    "id": "33505",
-    "slug": "deportes-limache-vs-palestino-2026-03-26",
-    "team_a": "Deportes Limache",
-    "team_b": "Palestino",
-    "league": "Copa de la Liga",
-    "date": "2026-03-26",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+    "id": "Barcelona-Real-Madrid-2026-03-27",
+    "slug": "barcelona-vs-real-madrid-2026-03-27",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-03-27",
+    "time": "20:00",
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
   },
   {
-    "id": "33513",
-    "slug": "partido-vs-en-vivo-2026-03-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "F1",
-    "date": "2026-03-26",
-    "time": "21:25",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "33493",
-    "slug": "nueva-caledonia-vs-jamaica-2026-03-26",
-    "team_a": "Nueva Caledonia",
-    "team_b": "Jamaica",
-    "league": "Clasificación Mundial",
-    "date": "2026-03-26",
+    "id": "América-Chivas-2026-03-27",
+    "slug": "américa-vs-chivas-2026-03-27",
+    "team_a": "América",
+    "team_b": "Chivas",
+    "league": "Liga MX",
+    "date": "2026-03-27",
     "time": "22:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "33502",
-    "slug": "partido-vs-en-vivo-2026-03-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Amistoso",
-    "date": "2026-03-26",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=caracol"
-  },
-  {
-    "id": "33514",
-    "slug": "partido-vs-en-vivo-2026-03-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-26",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even6"
-  },
-  {
-    "id": "33516",
-    "slug": "partido-vs-en-vivo-2026-03-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-26",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even7"
-  },
-  {
-    "id": "33515",
-    "slug": "partido-vs-en-vivo-2026-03-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-26",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
-    "id": "33494",
-    "slug": "partido-vs-en-vivo-2026-03-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga Profesional",
-    "date": "2026-03-26",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
-  },
-  {
-    "id": "33506",
-    "slug": "everton-vs-o'higgins-2026-03-26",
-    "team_a": "Everton",
-    "team_b": "O'Higgins",
-    "league": "Copa de la Liga",
-    "date": "2026-03-26",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "33507",
-    "slug": "partido-vs-en-vivo-2026-03-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa de la Liga",
-    "date": "2026-03-26",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "33503",
-    "slug": "chile-vs-islas-de-cabo-verde-2026-03-26",
-    "team_a": "Chile",
-    "team_b": "Islas de Cabo Verde",
-    "league": "Amistoso",
-    "date": "2026-03-26",
-    "time": "22:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=evento11"
-  },
-  {
-    "id": "33510",
-    "slug": "partido-vs-en-vivo-2026-03-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis",
-    "date": "2026-03-26",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "33495",
-    "slug": "deportivo-recoleta-vs-rubio-ñú-2026-03-26",
-    "team_a": "Deportivo Recoleta",
-    "team_b": "Rubio Ñú",
-    "league": "Primera División",
-    "date": "2026-03-26",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
-  },
-  {
-    "id": "33553",
-    "slug": "partido-vs-en-vivo-2026-03-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Bolivia vs Surinam - Repechaje al Mundial",
-    "date": "2026-03-26",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "33504",
-    "slug": "partido-vs-en-vivo-2026-03-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Torneo de Reserva",
-    "date": "2026-03-26",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
-  },
-  {
-    "id": "33492",
-    "slug": "partido-vs-en-vivo-2026-03-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Clasificación Mundial",
-    "date": "2026-03-26",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "33511",
-    "slug": "partido-vs-en-vivo-2026-03-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis",
-    "date": "2026-03-26",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "33512",
-    "slug": "partido-vs-en-vivo-2026-03-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB",
-    "date": "2026-03-26",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
