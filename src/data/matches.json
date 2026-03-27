@@ -1,65 +1,5 @@
 [
   {
-    "id": "33497",
-    "slug": "partido-vs-en-vivo-2026-03-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-03-26",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney7"
-  },
-  {
-    "id": "33490",
-    "slug": "partido-vs-en-vivo-2026-03-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Clasificación Mundial",
-    "date": "2026-03-26",
-    "time": "14:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney10"
-  },
-  {
-    "id": "33488",
-    "slug": "república-checa-vs-república-de-irlanda-2026-03-26",
-    "team_a": "República Checa",
-    "team_b": "República de Irlanda",
-    "league": "Clasificación Mundial",
-    "date": "2026-03-26",
-    "time": "14:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney8"
-  },
-  {
-    "id": "33489",
-    "slug": "partido-vs-en-vivo-2026-03-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Clasificación Mundial",
-    "date": "2026-03-26",
-    "time": "14:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney11"
-  },
-  {
-    "id": "33514",
-    "slug": "partido-vs-en-vivo-2026-03-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-26",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
-  },
-  {
-    "id": "33516",
-    "slug": "partido-vs-en-vivo-2026-03-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-26",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
-  },
-  {
     "id": "33505",
     "slug": "deportes-limache-vs-palestino-2026-03-26",
     "team_a": "Deportes Limache",
@@ -68,16 +8,6 @@
     "date": "2026-03-26",
     "time": "16:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "33509",
-    "slug": "partido-vs-en-vivo-2026-03-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB",
-    "date": "2026-03-26",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   },
   {
     "id": "33513",
@@ -110,24 +40,24 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=caracol"
   },
   {
-    "id": "33485",
+    "id": "33514",
     "slug": "partido-vs-en-vivo-2026-03-26",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Clasificación Mundial",
+    "league": "NBA",
     "date": "2026-03-26",
-    "time": "14:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney12"
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even6"
   },
   {
-    "id": "33487",
+    "id": "33516",
     "slug": "partido-vs-en-vivo-2026-03-26",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Clasificación Mundial",
+    "league": "NBA",
     "date": "2026-03-26",
-    "time": "14:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney14"
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even7"
   },
   {
     "id": "33515",
@@ -137,17 +67,7 @@
     "league": "NBA",
     "date": "2026-03-26",
     "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
-  },
-  {
-    "id": "33491",
-    "slug": "partido-vs-en-vivo-2026-03-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Clasificación Mundial",
-    "date": "2026-03-26",
-    "time": "14:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney9"
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
     "id": "33494",
@@ -200,26 +120,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "33486",
-    "slug": "italia-vs-irlanda-del-norte-2026-03-26",
-    "team_a": "Italia",
-    "team_b": "Irlanda del Norte",
-    "league": "Clasificación Mundial",
-    "date": "2026-03-26",
-    "time": "14:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "33501",
-    "slug": "partido-vs-en-vivo-2026-03-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Amistoso",
-    "date": "2026-03-26",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "33495",
     "slug": "deportivo-recoleta-vs-rubio-ñú-2026-03-26",
     "team_a": "Deportivo Recoleta",
@@ -237,7 +137,7 @@
     "league": "Bolivia vs Surinam - Repechaje al Mundial",
     "date": "2026-03-26",
     "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
   },
   {
     "id": "33504",
@@ -250,16 +150,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
   },
   {
-    "id": "33508",
-    "slug": "partido-vs-en-vivo-2026-03-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis",
-    "date": "2026-03-26",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
     "id": "33492",
     "slug": "partido-vs-en-vivo-2026-03-26",
     "team_a": "Equipo A",
@@ -267,7 +157,7 @@
     "league": "Clasificación Mundial",
     "date": "2026-03-26",
     "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
   },
   {
     "id": "33511",
