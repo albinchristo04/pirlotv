@@ -20,34 +20,24 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
   },
   {
-    "id": "33529",
+    "id": "33525",
     "slug": "partido-vs-en-vivo-2026-03-27",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
     "league": "Amistoso",
     "date": "2026-03-27",
-    "time": "14:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "time": "12:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
   },
   {
-    "id": "33532",
-    "slug": "argentina-vs-mauritania-2026-03-27",
-    "team_a": "Argentina",
-    "team_b": "Mauritania",
+    "id": "33524",
+    "slug": "partido-vs-en-vivo-2026-03-27",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
     "league": "Amistoso",
     "date": "2026-03-27",
-    "time": "18:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
-  },
-  {
-    "id": "33533",
-    "slug": "alebrijes-de-oaxaca-vs-leones-negros-udeg-2026-03-27",
-    "team_a": "Alebrijes de Oaxaca",
-    "team_b": "Leones Negros UdeG",
-    "league": "Liga de Expansión MX",
-    "date": "2026-03-27",
-    "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4mx"
+    "time": "12:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
   },
   {
     "id": "33537",
@@ -110,24 +100,34 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "33525",
+    "id": "33529",
     "slug": "partido-vs-en-vivo-2026-03-27",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
     "league": "Amistoso",
     "date": "2026-03-27",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
+    "time": "14:45",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "id": "33524",
-    "slug": "partido-vs-en-vivo-2026-03-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
+    "id": "33533",
+    "slug": "alebrijes-de-oaxaca-vs-leones-negros-udeg-2026-03-27",
+    "team_a": "Alebrijes de Oaxaca",
+    "team_b": "Leones Negros UdeG",
+    "league": "Liga de Expansión MX",
+    "date": "2026-03-27",
+    "time": "20:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4mx"
+  },
+  {
+    "id": "33532",
+    "slug": "argentina-vs-mauritania-2026-03-27",
+    "team_a": "Argentina",
+    "team_b": "Mauritania",
     "league": "Amistoso",
     "date": "2026-03-27",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
+    "time": "18:15",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
   },
   {
     "id": "33519",
@@ -148,26 +148,6 @@
     "date": "2026-03-27",
     "time": "20:15",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
-  },
-  {
-    "id": "33527",
-    "slug": "partido-vs-en-vivo-2026-03-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Amistoso",
-    "date": "2026-03-27",
-    "time": "14:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "33530",
-    "slug": "partido-vs-en-vivo-2026-03-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Amistoso",
-    "date": "2026-03-27",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "33534",
@@ -230,6 +210,26 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
   },
   {
+    "id": "33527",
+    "slug": "partido-vs-en-vivo-2026-03-27",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Amistoso",
+    "date": "2026-03-27",
+    "time": "14:45",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney7"
+  },
+  {
+    "id": "33530",
+    "slug": "partido-vs-en-vivo-2026-03-27",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Amistoso",
+    "date": "2026-03-27",
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
     "id": "33517",
     "slug": "partido-vs-en-vivo-2026-03-27",
     "team_a": "Equipo A",
@@ -248,16 +248,6 @@
     "date": "2026-03-27",
     "time": "18:30",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
-  },
-  {
-    "id": "33528",
-    "slug": "países-bajos-vs-noruega-2026-03-27",
-    "team_a": "Países Bajos",
-    "team_b": "Noruega",
-    "league": "Amistoso",
-    "date": "2026-03-27",
-    "time": "14:45",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
   },
   {
     "id": "33531",
@@ -338,5 +328,15 @@
     "date": "2026-03-27",
     "time": "10:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
+  },
+  {
+    "id": "33528",
+    "slug": "países-bajos-vs-noruega-2026-03-27",
+    "team_a": "Países Bajos",
+    "team_b": "Noruega",
+    "league": "Amistoso",
+    "date": "2026-03-27",
+    "time": "14:45",
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
   }
 ]
