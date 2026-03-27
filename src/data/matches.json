@@ -40,26 +40,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
-    "id": "33545",
-    "slug": "partido-vs-en-vivo-2026-03-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis",
-    "date": "2026-03-27",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "33532",
-    "slug": "argentina-vs-mauritania-2026-03-27",
-    "team_a": "Argentina",
-    "team_b": "Mauritania",
-    "league": "Amistoso",
-    "date": "2026-03-27",
-    "time": "18:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
     "id": "33548",
     "slug": "partido-vs-en-vivo-2026-03-27",
     "team_a": "Equipo A",
@@ -120,6 +100,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
   },
   {
+    "id": "33532",
+    "slug": "argentina-vs-mauritania-2026-03-27",
+    "team_a": "Argentina",
+    "team_b": "Mauritania",
+    "league": "Amistoso",
+    "date": "2026-03-27",
+    "time": "18:15",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
+  },
+  {
     "id": "33519",
     "slug": "partido-vs-en-vivo-2026-03-27",
     "team_a": "Equipo A",
@@ -160,16 +150,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "33534",
-    "slug": "partido-vs-en-vivo-2026-03-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-03-27",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
     "id": "33538",
     "slug": "partido-vs-en-vivo-2026-03-27",
     "team_a": "Equipo A",
@@ -208,16 +188,6 @@
     "date": "2026-03-27",
     "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "33526",
-    "slug": "grecia-vs-paraguay-2026-03-27",
-    "team_a": "Grecia",
-    "team_b": "Paraguay",
-    "league": "Amistoso",
-    "date": "2026-03-27",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
   },
   {
     "id": "33517",
