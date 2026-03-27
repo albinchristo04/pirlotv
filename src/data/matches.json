@@ -130,16 +130,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "33552",
-    "slug": "partido-vs-en-vivo-2026-03-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "F1",
-    "date": "2026-03-27",
-    "time": "00:55",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "33519",
     "slug": "partido-vs-en-vivo-2026-03-27",
     "team_a": "Equipo A",
