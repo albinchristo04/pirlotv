@@ -30,16 +30,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
   },
   {
-    "id": "33595",
-    "slug": "partido-vs-en-vivo-2026-03-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB",
-    "date": "2026-03-28",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
-  },
-  {
     "id": "33599",
     "slug": "partido-vs-en-vivo-2026-03-28",
     "team_a": "Equipo A",
@@ -90,16 +80,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
   },
   {
-    "id": "33565",
-    "slug": "partido-vs-en-vivo-2026-03-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Women's Super League",
-    "date": "2026-03-28",
-    "time": "12:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney9"
-  },
-  {
     "id": "33559",
     "slug": "partido-vs-en-vivo-2026-03-28",
     "team_a": "Equipo A",
@@ -108,16 +88,6 @@
     "date": "2026-03-28",
     "time": "14:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney10"
-  },
-  {
-    "id": "33594",
-    "slug": "partido-vs-en-vivo-2026-03-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby",
-    "date": "2026-03-28",
-    "time": "12:55",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   },
   {
     "id": "33570",
@@ -158,26 +128,6 @@
     "date": "2026-03-28",
     "time": "14:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "33576",
-    "slug": "málaga-vs-leganés-2026-03-28",
-    "team_a": "Málaga",
-    "team_b": "Leganés",
-    "league": "LaLiga SmartBank",
-    "date": "2026-03-28",
-    "time": "12:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
-    "id": "33580",
-    "slug": "willem-ii-vs-de-graafschap-2026-03-28",
-    "team_a": "Willem II",
-    "team_b": "De Graafschap",
-    "league": "Eerste Divisie",
-    "date": "2026-03-28",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
   },
   {
     "id": "33586",
