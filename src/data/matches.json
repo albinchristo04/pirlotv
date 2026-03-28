@@ -40,16 +40,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
   },
   {
-    "id": "33567",
-    "slug": "senegal-vs-perú-2026-03-28",
-    "team_a": "Senegal",
-    "team_b": "Perú",
-    "league": "Amistoso",
-    "date": "2026-03-28",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=movistar"
-  },
-  {
     "id": "33599",
     "slug": "partido-vs-en-vivo-2026-03-28",
     "team_a": "Equipo A",
@@ -130,16 +120,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney9"
   },
   {
-    "id": "33562",
-    "slug": "partido-vs-en-vivo-2026-03-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "League Two",
-    "date": "2026-03-28",
-    "time": "07:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
-  },
-  {
     "id": "33559",
     "slug": "partido-vs-en-vivo-2026-03-28",
     "team_a": "Equipo A",
@@ -160,16 +140,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney11"
   },
   {
-    "id": "33590",
-    "slug": "partido-vs-en-vivo-2026-03-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby",
-    "date": "2026-03-28",
-    "time": "08:20",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
     "id": "33594",
     "slug": "partido-vs-en-vivo-2026-03-28",
     "team_a": "Equipo A",
@@ -178,6 +148,16 @@
     "date": "2026-03-28",
     "time": "12:55",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
+  },
+  {
+    "id": "33567",
+    "slug": "senegal-vs-perú-2026-03-28",
+    "team_a": "Senegal",
+    "team_b": "Perú",
+    "league": "Amistoso",
+    "date": "2026-03-28",
+    "time": "11:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=movistar"
   },
   {
     "id": "33555",
@@ -258,16 +238,6 @@
     "date": "2026-03-28",
     "time": "17:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "33566",
-    "slug": "partido-vs-en-vivo-2026-03-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Amistoso",
-    "date": "2026-03-28",
-    "time": "09:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
   },
   {
     "id": "33575",
@@ -370,16 +340,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
-    "id": "33573",
-    "slug": "partido-vs-en-vivo-2026-03-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-03-28",
-    "time": "08:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
     "id": "33592",
     "slug": "partido-vs-en-vivo-2026-03-28",
     "team_a": "Equipo A",
@@ -388,16 +348,6 @@
     "date": "2026-03-28",
     "time": "10:25",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "33564",
-    "slug": "manchester-united-vs-manchester-city-2026-03-28",
-    "team_a": "Manchester United",
-    "team_b": "Manchester City",
-    "league": "Women's Super League",
-    "date": "2026-03-28",
-    "time": "08:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "33593",
