@@ -100,16 +100,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
-    "id": "33622",
-    "slug": "heerenveen-vs-feyenoord-2026-03-29",
-    "team_a": "Heerenveen",
-    "team_b": "Feyenoord",
-    "league": "Eredivisie Femenina",
-    "date": "2026-03-29",
-    "time": "09:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3_nl"
-  },
-  {
     "id": "33625",
     "slug": "real-zaragoza-vs-racing-santander-2026-03-29",
     "team_a": "Real Zaragoza",
@@ -140,16 +130,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
-    "id": "33642",
-    "slug": "partido-vs-en-vivo-2026-03-29",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "SBK Portugal – Carrera #2",
-    "date": "2026-03-29",
-    "time": "09:25",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "33645",
     "slug": "partido-vs-en-vivo-2026-03-29",
     "team_a": "Equipo A",
@@ -168,16 +148,6 @@
     "date": "2026-03-29",
     "time": "15:55",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
-  },
-  {
-    "id": "33608",
-    "slug": "juventud-vs-boston-river-2026-03-29",
-    "team_a": "Juventud",
-    "team_b": "Boston River",
-    "league": "Primera División",
-    "date": "2026-03-29",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
   },
   {
     "id": "33604",
@@ -208,16 +178,6 @@
     "date": "2026-03-29",
     "time": "16:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
-  },
-  {
-    "id": "33619",
-    "slug": "partido-vs-en-vivo-2026-03-29",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Italia Femenina",
-    "date": "2026-03-29",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "33627",
@@ -308,15 +268,5 @@
     "date": "2026-03-29",
     "time": "16:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "33629",
-    "slug": "coquimbo-unido-vs-deportes-concepción-2026-03-29",
-    "team_a": "Coquimbo Unido",
-    "team_b": "Deportes Concepción",
-    "league": "Copa de la Liga",
-    "date": "2026-03-29",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   }
 ]
