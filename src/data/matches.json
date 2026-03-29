@@ -50,16 +50,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "33582",
-    "slug": "partido-vs-en-vivo-2026-03-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-28",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
     "id": "33585",
     "slug": "partido-vs-en-vivo-2026-03-28",
     "team_a": "Equipo A",
@@ -80,26 +70,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
   },
   {
-    "id": "33559",
-    "slug": "partido-vs-en-vivo-2026-03-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-03-28",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney10"
-  },
-  {
-    "id": "33570",
-    "slug": "partido-vs-en-vivo-2026-03-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Amistoso",
-    "date": "2026-03-28",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
-  },
-  {
     "id": "33555",
     "slug": "partido-vs-en-vivo-2026-03-28",
     "team_a": "Equipo A",
@@ -118,16 +88,6 @@
     "date": "2026-03-28",
     "time": "20:20",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "33596",
-    "slug": "partido-vs-en-vivo-2026-03-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis",
-    "date": "2026-03-28",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
     "id": "33586",
@@ -180,36 +140,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
   },
   {
-    "id": "33597",
-    "slug": "partido-vs-en-vivo-2026-03-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Premier Padel Miami – Semifinales Masculinas",
-    "date": "2026-03-28",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "33577",
-    "slug": "partido-vs-en-vivo-2026-03-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-03-28",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
-    "id": "33581",
-    "slug": "partido-vs-en-vivo-2026-03-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Eerste Divisie",
-    "date": "2026-03-28",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
-  },
-  {
     "id": "33598",
     "slug": "partido-vs-en-vivo-2026-03-28",
     "team_a": "Equipo A",
@@ -238,16 +168,6 @@
     "date": "2026-03-28",
     "time": "21:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
-    "id": "33578",
-    "slug": "partido-vs-en-vivo-2026-03-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-03-28",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=hypermotion2"
   },
   {
     "id": "33601",
