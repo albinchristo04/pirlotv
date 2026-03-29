@@ -1,182 +1,22 @@
 [
   {
-    "id": "33554",
-    "slug": "partido-vs-en-vivo-2026-03-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Categoría Primera A",
-    "date": "2026-03-28",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "33558",
-    "slug": "partido-vs-en-vivo-2026-03-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-03-28",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
-  },
-  {
-    "id": "33561",
-    "slug": "partido-vs-en-vivo-2026-03-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Argentina",
-    "date": "2026-03-28",
-    "time": "19:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
-  },
-  {
-    "id": "33599",
-    "slug": "partido-vs-en-vivo-2026-03-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-28",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "33579",
-    "slug": "partido-vs-en-vivo-2026-03-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa de la Liga",
-    "date": "2026-03-28",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "33585",
-    "slug": "partido-vs-en-vivo-2026-03-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-28",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
-    "id": "33588",
-    "slug": "partido-vs-en-vivo-2026-03-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Torneo amistoso de Verano - Repechaje",
-    "date": "2026-03-28",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "33555",
-    "slug": "partido-vs-en-vivo-2026-03-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Categoría Primera A",
-    "date": "2026-03-28",
-    "time": "18:10",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "33556",
-    "slug": "deportivo-cali-vs-deportivo-pereira-2026-03-28",
-    "team_a": "Deportivo Cali",
-    "team_b": "Deportivo Pereira",
-    "league": "Categoría Primera A",
-    "date": "2026-03-28",
-    "time": "20:20",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "33586",
-    "slug": "partido-vs-en-vivo-2026-03-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-28",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
-    "id": "33600",
-    "slug": "partido-vs-en-vivo-2026-03-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "BOXEO",
-    "date": "2026-03-28",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "33560",
-    "slug": "torque-vs-nacional-2026-03-28",
-    "team_a": "Torque",
-    "team_b": "Nacional",
-    "league": "Primera División",
-    "date": "2026-03-28",
-    "time": "17:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney13"
-  },
-  {
-    "id": "33572",
-    "slug": "partido-vs-en-vivo-2026-03-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga de Expansión MX",
-    "date": "2026-03-28",
+    "id": "Barcelona-Real-Madrid-2026-03-29",
+    "slug": "barcelona-vs-real-madrid-2026-03-29",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-03-29",
     "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4mx"
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
   },
   {
-    "id": "33557",
-    "slug": "partido-vs-en-vivo-2026-03-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-03-28",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
-  },
-  {
-    "id": "33598",
-    "slug": "partido-vs-en-vivo-2026-03-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Queens League",
-    "date": "2026-03-28",
-    "time": "15:55",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "33584",
-    "slug": "partido-vs-en-vivo-2026-03-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-28",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
-    "id": "33587",
-    "slug": "partido-vs-en-vivo-2026-03-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-28",
-    "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
-    "id": "33601",
-    "slug": "partido-vs-en-vivo-2026-03-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Amistoso",
-    "date": "2026-03-28",
-    "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=azteca7"
+    "id": "América-Chivas-2026-03-29",
+    "slug": "américa-vs-chivas-2026-03-29",
+    "team_a": "América",
+    "team_b": "Chivas",
+    "league": "Liga MX",
+    "date": "2026-03-29",
+    "time": "22:00",
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
