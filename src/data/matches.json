@@ -1,15 +1,5 @@
 [
   {
-    "id": "33644",
-    "slug": "partido-vs-en-vivo-2026-03-29",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "IndyCar Series",
-    "date": "2026-03-29",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
     "id": "33647",
     "slug": "partido-vs-en-vivo-2026-03-29",
     "team_a": "Equipo A",
@@ -100,16 +90,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
-    "id": "33625",
-    "slug": "real-zaragoza-vs-racing-santander-2026-03-29",
-    "team_a": "Real Zaragoza",
-    "team_b": "Racing Santander",
-    "league": "LaLiga SmartBank",
-    "date": "2026-03-29",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
     "id": "33635",
     "slug": "partido-vs-en-vivo-2026-03-29",
     "team_a": "Equipo A",
@@ -180,16 +160,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
   },
   {
-    "id": "33627",
-    "slug": "partido-vs-en-vivo-2026-03-29",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Segunda División",
-    "date": "2026-03-29",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "33636",
     "slug": "partido-vs-en-vivo-2026-03-29",
     "team_a": "Equipo A",
@@ -198,16 +168,6 @@
     "date": "2026-03-29",
     "time": "17:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
-    "id": "33643",
-    "slug": "partido-vs-en-vivo-2026-03-29",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MotoGP",
-    "date": "2026-03-29",
-    "time": "11:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "33646",
