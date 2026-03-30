@@ -20,16 +20,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "33609",
-    "slug": "partido-vs-en-vivo-2026-03-29",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-03-29",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
-  },
-  {
     "id": "33602",
     "slug": "athletico-pr-vs-botafogo-2026-03-29",
     "team_a": "Athletico-PR",
@@ -70,16 +60,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
   },
   {
-    "id": "33631",
-    "slug": "partido-vs-en-vivo-2026-03-29",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-29",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
     "id": "33634",
     "slug": "partido-vs-en-vivo-2026-03-29",
     "team_a": "Equipo A",
@@ -107,17 +87,7 @@
     "league": "NBA",
     "date": "2026-03-29",
     "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
-    "id": "33645",
-    "slug": "partido-vs-en-vivo-2026-03-29",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis",
-    "date": "2026-03-29",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even7"
   },
   {
     "id": "33649",
@@ -170,24 +140,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
-    "id": "33646",
+    "id": "33633",
     "slug": "partido-vs-en-vivo-2026-03-29",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Premier Padel Miami – Final Femenina",
+    "league": "NBA",
     "date": "2026-03-29",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "33616",
-    "slug": "partido-vs-en-vivo-2026-03-29",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Amistoso",
-    "date": "2026-03-29",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=caracol"
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even6"
   },
   {
     "id": "33606",
@@ -208,16 +168,6 @@
     "date": "2026-03-29",
     "time": "18:15",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
-  },
-  {
-    "id": "33633",
-    "slug": "partido-vs-en-vivo-2026-03-29",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-29",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
     "id": "33628",
