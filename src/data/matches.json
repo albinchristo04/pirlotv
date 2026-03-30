@@ -80,26 +80,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
-    "id": "33658",
-    "slug": "azerbaiyán-vs-sierra-leona-2026-03-30",
-    "team_a": "Azerbaiyán",
-    "team_b": "Sierra Leona",
-    "league": "Amistoso",
-    "date": "2026-03-30",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1"
-  },
-  {
-    "id": "33659",
-    "slug": "partido-vs-en-vivo-2026-03-30",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Amistoso",
-    "date": "2026-03-30",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
-  },
-  {
     "id": "33655",
     "slug": "central-español-vs-deportivo-maldonado-2026-03-30",
     "team_a": "Central Español",
