@@ -238,15 +238,5 @@
     "date": "2026-03-30",
     "time": "20:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
-    "id": "33657",
-    "slug": "partido-vs-en-vivo-2026-03-30",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Amistoso",
-    "date": "2026-03-30",
-    "time": "01:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
   }
 ]
