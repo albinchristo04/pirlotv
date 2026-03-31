@@ -100,16 +100,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "33668",
-    "slug": "partido-vs-en-vivo-2026-03-30",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-30",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
     "id": "33671",
     "slug": "partido-vs-en-vivo-2026-03-30",
     "team_a": "Equipo A",
@@ -130,14 +120,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
-    "id": "33660",
-    "slug": "alemania-vs-ghana-2026-03-30",
-    "team_a": "Alemania",
-    "team_b": "Ghana",
-    "league": "Amistoso",
+    "id": "33668",
+    "slug": "partido-vs-en-vivo-2026-03-30",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
     "date": "2026-03-30",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
     "id": "33656",
@@ -160,16 +150,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "33664",
-    "slug": "partido-vs-en-vivo-2026-03-30",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB",
-    "date": "2026-03-30",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
     "id": "33665",
     "slug": "partido-vs-en-vivo-2026-03-30",
     "team_a": "Equipo A",
@@ -190,16 +170,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
-    "id": "33669",
-    "slug": "partido-vs-en-vivo-2026-03-30",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-03-30",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
     "id": "33672",
     "slug": "partido-vs-en-vivo-2026-03-30",
     "team_a": "Equipo A",
@@ -218,5 +188,15 @@
     "date": "2026-03-30",
     "time": "20:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
+  },
+  {
+    "id": "33669",
+    "slug": "partido-vs-en-vivo-2026-03-30",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
+    "date": "2026-03-30",
+    "time": "18:30",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even6"
   }
 ]
