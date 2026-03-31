@@ -20,56 +20,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
-    "id": "33677",
-    "slug": "partido-vs-en-vivo-2026-03-31",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga de Naciones de la UEFA",
-    "date": "2026-03-31",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
-  },
-  {
-    "id": "33693",
-    "slug": "partido-vs-en-vivo-2026-03-31",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Amistoso",
-    "date": "2026-03-31",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "33697",
-    "slug": "partido-vs-en-vivo-2026-03-31",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Amistoso",
-    "date": "2026-03-31",
-    "time": "13:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "33681",
-    "slug": "suecia-vs-polonia-2026-03-31",
-    "team_a": "Suecia",
-    "team_b": "Polonia",
-    "league": "Clasificación Mundial",
-    "date": "2026-03-31",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "33722",
-    "slug": "partido-vs-en-vivo-2026-03-31",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Amistoso",
-    "date": "2026-03-31",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney15"
-  },
-  {
     "id": "33705",
     "slug": "brasil-vs-croacia-2026-03-31",
     "team_a": "Brasil",
@@ -88,16 +38,6 @@
     "date": "2026-03-31",
     "time": "22:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "33701",
-    "slug": "españa-vs-egipto-2026-03-31",
-    "team_a": "España",
-    "team_b": "Egipto",
-    "league": "Amistoso",
-    "date": "2026-03-31",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney18"
   },
   {
     "id": "33688",
@@ -140,46 +80,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
-    "id": "33678",
-    "slug": "partido-vs-en-vivo-2026-03-31",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga de Naciones de la UEFA",
-    "date": "2026-03-31",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
-  },
-  {
-    "id": "33695",
-    "slug": "partido-vs-en-vivo-2026-03-31",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Amistoso",
-    "date": "2026-03-31",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=movistar"
-  },
-  {
-    "id": "33694",
-    "slug": "partido-vs-en-vivo-2026-03-31",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Amistoso",
-    "date": "2026-03-31",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney8"
-  },
-  {
-    "id": "33699",
-    "slug": "partido-vs-en-vivo-2026-03-31",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Amistoso",
-    "date": "2026-03-31",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney16"
-  },
-  {
     "id": "33683",
     "slug": "rd-del-congo-vs-jamaica-2026-03-31",
     "team_a": "RD del Congo",
@@ -200,16 +100,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=azteca7"
   },
   {
-    "id": "33689",
-    "slug": "partido-vs-en-vivo-2026-03-31",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-03-31",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
-  },
-  {
     "id": "33703",
     "slug": "partido-vs-en-vivo-2026-03-31",
     "team_a": "Equipo A",
@@ -220,14 +110,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telefe"
   },
   {
-    "id": "33710",
-    "slug": "belgrano-vs-lanús-2026-03-31",
-    "team_a": "Belgrano",
-    "team_b": "Lanús",
-    "league": "Torneo de Reserva",
+    "id": "33689",
+    "slug": "partido-vs-en-vivo-2026-03-31",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Primera División",
     "date": "2026-03-31",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+    "time": "18:30",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
   },
   {
     "id": "33711",
@@ -280,66 +170,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
-    "id": "33691",
-    "slug": "partido-vs-en-vivo-2026-03-31",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Amistoso",
-    "date": "2026-03-31",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
-  },
-  {
-    "id": "33692",
-    "slug": "partido-vs-en-vivo-2026-03-31",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Amistoso",
-    "date": "2026-03-31",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
-  },
-  {
-    "id": "33685",
-    "slug": "partido-vs-en-vivo-2026-03-31",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga Profesional",
-    "date": "2026-03-31",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium"
-  },
-  {
-    "id": "33708",
-    "slug": "partido-vs-en-vivo-2026-03-31",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-03-31",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=hypermotion2"
-  },
-  {
-    "id": "33679",
-    "slug": "república-checa-vs-dinamarca-2026-03-31",
-    "team_a": "República Checa",
-    "team_b": "Dinamarca",
-    "league": "Clasificación Mundial",
-    "date": "2026-03-31",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney14"
-  },
-  {
-    "id": "33682",
-    "slug": "partido-vs-en-vivo-2026-03-31",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Clasificación Mundial",
-    "date": "2026-03-31",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney11"
-  },
-  {
     "id": "33702",
     "slug": "partido-vs-en-vivo-2026-03-31",
     "team_a": "Equipo A",
@@ -348,26 +178,6 @@
     "date": "2026-03-31",
     "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2mx"
-  },
-  {
-    "id": "33680",
-    "slug": "partido-vs-en-vivo-2026-03-31",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Clasificación Mundial",
-    "date": "2026-03-31",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "33700",
-    "slug": "países-bajos-vs-ecuador-2026-03-31",
-    "team_a": "Países Bajos",
-    "team_b": "Ecuador",
-    "league": "Amistoso",
-    "date": "2026-03-31",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
   },
   {
     "id": "33686",
@@ -390,16 +200,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
   },
   {
-    "id": "33696",
-    "slug": "marruecos-vs-paraguay-2026-03-31",
-    "team_a": "Marruecos",
-    "team_b": "Paraguay",
-    "league": "Amistoso",
-    "date": "2026-03-31",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "33704",
     "slug": "partido-vs-en-vivo-2026-03-31",
     "team_a": "Equipo A",
@@ -408,16 +208,6 @@
     "date": "2026-03-31",
     "time": "18:30",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxsports2_usa"
-  },
-  {
-    "id": "33707",
-    "slug": "partido-vs-en-vivo-2026-03-31",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-03-31",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
   },
   {
     "id": "33713",
