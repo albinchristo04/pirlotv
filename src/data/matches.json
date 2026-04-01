@@ -20,6 +20,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
+    "id": "33684",
+    "slug": "iraq-vs-bolivia-2026-03-31",
+    "team_a": "Iraq",
+    "team_b": "Bolivia",
+    "league": "Clasificación Mundial",
+    "date": "2026-03-31",
+    "time": "22:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
+  },
+  {
     "id": "33705",
     "slug": "brasil-vs-croacia-2026-03-31",
     "team_a": "Brasil",
@@ -30,16 +40,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "id": "33684",
-    "slug": "iraq-vs-bolivia-2026-03-31",
-    "team_a": "Iraq",
-    "team_b": "Bolivia",
-    "league": "Clasificación Mundial",
-    "date": "2026-03-31",
-    "time": "22:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
     "id": "33688",
     "slug": "sportivo-san-lorenzo-vs-sportivo-ameliano-2026-03-31",
     "team_a": "Sportivo San Lorenzo",
@@ -48,16 +48,6 @@
     "date": "2026-03-31",
     "time": "18:30",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
-  },
-  {
-    "id": "33709",
-    "slug": "partido-vs-en-vivo-2026-03-31",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-03-31",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
   },
   {
     "id": "33714",
@@ -80,6 +70,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
+    "id": "33703",
+    "slug": "partido-vs-en-vivo-2026-03-31",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Amistoso",
+    "date": "2026-03-31",
+    "time": "18:15",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telefe"
+  },
+  {
     "id": "33683",
     "slug": "rd-del-congo-vs-jamaica-2026-03-31",
     "team_a": "RD del Congo",
@@ -87,7 +87,7 @@
     "league": "Clasificación Mundial",
     "date": "2026-03-31",
     "time": "16:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
   },
   {
     "id": "33706",
@@ -98,16 +98,6 @@
     "date": "2026-03-31",
     "time": "20:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=azteca7"
-  },
-  {
-    "id": "33703",
-    "slug": "partido-vs-en-vivo-2026-03-31",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Amistoso",
-    "date": "2026-03-31",
-    "time": "18:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telefe"
   },
   {
     "id": "33689",
