@@ -67,7 +67,7 @@
     "league": "Brasileirão",
     "date": "2026-04-02",
     "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere1"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere3"
   },
   {
     "id": "33766",
@@ -130,26 +130,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
   },
   {
-    "id": "33761",
-    "slug": "talleres-córdoba-vs-boca-juniors-2026-04-02",
-    "team_a": "Talleres Córdoba",
-    "team_b": "Boca Juniors",
-    "league": "Liga Profesional",
-    "date": "2026-04-02",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "33764",
-    "slug": "palmeiras-vs-grêmio-2026-04-02",
-    "team_a": "Palmeiras",
-    "team_b": "Grêmio",
-    "league": "Brasileirão",
-    "date": "2026-04-02",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere1"
-  },
-  {
     "id": "33767",
     "slug": "partido-vs-en-vivo-2026-04-02",
     "team_a": "Equipo A",
@@ -170,26 +150,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
   },
   {
-    "id": "33772",
-    "slug": "partido-vs-en-vivo-2026-04-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Women's Champions League",
-    "date": "2026-04-02",
-    "time": "11:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1"
-  },
-  {
-    "id": "33774",
-    "slug": "partido-vs-en-vivo-2026-04-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-04-02",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
     "id": "33777",
     "slug": "partido-vs-en-vivo-2026-04-02",
     "team_a": "Equipo A",
@@ -198,6 +158,26 @@
     "date": "2026-04-02",
     "time": "14:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
+  },
+  {
+    "id": "33761",
+    "slug": "talleres-córdoba-vs-boca-juniors-2026-04-02",
+    "team_a": "Talleres Córdoba",
+    "team_b": "Boca Juniors",
+    "league": "Liga Profesional",
+    "date": "2026-04-02",
+    "time": "18:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "33764",
+    "slug": "palmeiras-vs-grêmio-2026-04-02",
+    "team_a": "Palmeiras",
+    "team_b": "Grêmio",
+    "league": "Brasileirão",
+    "date": "2026-04-02",
+    "time": "19:30",
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
   },
   {
     "id": "33782",
