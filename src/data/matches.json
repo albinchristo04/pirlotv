@@ -120,16 +120,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
-    "id": "33772",
-    "slug": "partido-vs-en-vivo-2026-04-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Women's Champions League",
-    "date": "2026-04-02",
-    "time": "11:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "33760",
     "slug": "tigre-vs-independiente-rivadavia-2026-04-02",
     "team_a": "Tigre",
@@ -178,6 +168,16 @@
     "date": "2026-04-02",
     "time": "20:30",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
+  },
+  {
+    "id": "33772",
+    "slug": "partido-vs-en-vivo-2026-04-02",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "UEFA Women's Champions League",
+    "date": "2026-04-02",
+    "time": "11:45",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1"
   },
   {
     "id": "33774",
