@@ -70,16 +70,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
   },
   {
-    "id": "33773",
-    "slug": "ol-lyonnes-vs-wolfsburg-2026-04-02",
-    "team_a": "OL Lyonnes",
-    "team_b": "Wolfsburg",
-    "league": "UEFA Women's Champions League",
-    "date": "2026-04-02",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "33784",
     "slug": "partido-vs-en-vivo-2026-04-02",
     "team_a": "Equipo A",
@@ -100,16 +90,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
   },
   {
-    "id": "33767",
-    "slug": "partido-vs-en-vivo-2026-04-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Categoría Primera A",
-    "date": "2026-04-02",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
     "id": "33770",
     "slug": "once-caldas-vs-medellín-2026-04-02",
     "team_a": "Once Caldas",
@@ -118,16 +98,6 @@
     "date": "2026-04-02",
     "time": "20:30",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "33777",
-    "slug": "partido-vs-en-vivo-2026-04-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-04-02",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
   },
   {
     "id": "33761",
@@ -168,16 +138,6 @@
     "date": "2026-04-02",
     "time": "21:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
-    "id": "33771",
-    "slug": "partido-vs-en-vivo-2026-04-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "League Two",
-    "date": "2026-04-02",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
   },
   {
     "id": "33762",
