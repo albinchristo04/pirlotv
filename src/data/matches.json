@@ -1,32 +1,22 @@
 [
   {
-    "id": "33827",
-    "slug": "partido-vs-en-vivo-2026-04-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-04-03",
-    "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
+    "id": "Barcelona-Real-Madrid-2026-04-04",
+    "slug": "barcelona-vs-real-madrid-2026-04-04",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-04-04",
+    "time": "20:00",
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
   },
   {
-    "id": "33807",
-    "slug": "partido-vs-en-vivo-2026-04-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
+    "id": "América-Chivas-2026-04-04",
+    "slug": "américa-vs-chivas-2026-04-04",
+    "team_a": "América",
+    "team_b": "Chivas",
     "league": "Liga MX",
-    "date": "2026-04-03",
+    "date": "2026-04-04",
     "time": "22:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=azteca7"
-  },
-  {
-    "id": "33808",
-    "slug": "partido-vs-en-vivo-2026-04-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga MX",
-    "date": "2026-04-03",
-    "time": "22:05",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tudn"
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
