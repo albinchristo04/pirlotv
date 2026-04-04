@@ -1,25 +1,5 @@
 [
   {
-    "id": "33828",
-    "slug": "partido-vs-en-vivo-2026-04-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga 1",
-    "date": "2026-04-04",
-    "time": "13:15",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
-  },
-  {
-    "id": "33899",
-    "slug": "partido-vs-en-vivo-2026-04-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Sudamericano Sub-17",
-    "date": "2026-04-04",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-  },
-  {
     "id": "33857",
     "slug": "partido-vs-en-vivo-2026-04-04",
     "team_a": "Equipo A",
@@ -30,14 +10,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere3"
   },
   {
-    "id": "33854",
+    "id": "33899",
     "slug": "partido-vs-en-vivo-2026-04-04",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Primera División",
+    "league": "Sudamericano Sub-17",
     "date": "2026-04-04",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
   },
   {
     "id": "33860",
@@ -70,46 +50,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
   },
   {
-    "id": "33881",
-    "slug": "partido-vs-en-vivo-2026-04-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Eredivisie",
-    "date": "2026-04-04",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
-  },
-  {
-    "id": "33894",
-    "slug": "partido-vs-en-vivo-2026-04-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-04-04",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
-    "id": "33850",
-    "slug": "partido-vs-en-vivo-2026-04-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "FA Cup",
-    "date": "2026-04-04",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "33847",
-    "slug": "partido-vs-en-vivo-2026-04-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ligue 1",
-    "date": "2026-04-04",
-    "time": "14:05",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=beinsportes"
-  },
-  {
     "id": "33829",
     "slug": "melgar-vs-cusco-2026-04-04",
     "team_a": "Melgar",
@@ -138,6 +78,16 @@
     "date": "2026-04-04",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+  },
+  {
+    "id": "33900",
+    "slug": "partido-vs-en-vivo-2026-04-04",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Sudamericano Sub-17",
+    "date": "2026-04-04",
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
   },
   {
     "id": "33855",
@@ -180,36 +130,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=mls1es"
   },
   {
-    "id": "33895",
-    "slug": "partido-vs-en-vivo-2026-04-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-04-04",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
-    "id": "33863",
-    "slug": "independiente-del-valle-vs-orense-2026-04-04",
-    "team_a": "Independiente del Valle",
-    "team_b": "Orense",
-    "league": "Serie A",
-    "date": "2026-04-04",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
-  },
-  {
-    "id": "33882",
-    "slug": "ajax-vs-twente-2026-04-04",
-    "team_a": "Ajax",
-    "team_b": "Twente",
-    "league": "Eredivisie",
-    "date": "2026-04-04",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2mx"
-  },
-  {
     "id": "33891",
     "slug": "partido-vs-en-vivo-2026-04-04",
     "team_a": "Equipo A",
@@ -248,16 +168,6 @@
     "date": "2026-04-04",
     "time": "17:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney13"
-  },
-  {
-    "id": "33834",
-    "slug": "atlético-madrid-vs-barcelona-2026-04-04",
-    "team_a": "Atlético Madrid",
-    "team_b": "Barcelona",
-    "league": "LaLiga",
-    "date": "2026-04-04",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "33853",
@@ -300,16 +210,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "33892",
-    "slug": "al-hilal-vs-al-taawon-2026-04-04",
-    "team_a": "Al Hilal",
-    "team_b": "Al Taawon",
-    "league": "Pro League",
-    "date": "2026-04-04",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxsports2_usa"
-  },
-  {
     "id": "33896",
     "slug": "partido-vs-en-vivo-2026-04-04",
     "team_a": "Equipo A",
@@ -328,35 +228,5 @@
     "date": "2026-04-04",
     "time": "16:30",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
-  },
-  {
-    "id": "33870",
-    "slug": "partido-vs-en-vivo-2026-04-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-04-04",
-    "time": "13:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
-  },
-  {
-    "id": "33875",
-    "slug": "partido-vs-en-vivo-2026-04-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "2. Bundesliga",
-    "date": "2026-04-04",
-    "time": "13:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
-  },
-  {
-    "id": "33837",
-    "slug": "lazio-vs-parma-2026-04-04",
-    "team_a": "Lazio",
-    "team_b": "Parma",
-    "league": "Serie A",
-    "date": "2026-04-04",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   }
 ]
