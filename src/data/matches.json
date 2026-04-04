@@ -10,16 +10,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
-    "id": "33791",
-    "slug": "partido-vs-en-vivo-2026-04-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ligue 1",
-    "date": "2026-04-03",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "33789",
     "slug": "partido-vs-en-vivo-2026-04-03",
     "team_a": "Equipo A",
@@ -70,16 +60,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=azteca7"
   },
   {
-    "id": "33816",
-    "slug": "partido-vs-en-vivo-2026-04-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB",
-    "date": "2026-04-03",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
-  },
-  {
     "id": "33818",
     "slug": "partido-vs-en-vivo-2026-04-03",
     "team_a": "Equipo A",
@@ -88,16 +68,6 @@
     "date": "2026-04-03",
     "time": "20:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "33820",
-    "slug": "partido-vs-en-vivo-2026-04-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-04-03",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
     "id": "33823",
@@ -120,6 +90,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
+    "id": "33820",
+    "slug": "partido-vs-en-vivo-2026-04-03",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
+    "date": "2026-04-03",
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even6"
+  },
+  {
     "id": "33802",
     "slug": "partido-vs-en-vivo-2026-04-03",
     "team_a": "Equipo A",
@@ -127,17 +107,7 @@
     "league": "Serie A",
     "date": "2026-04-03",
     "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
-  },
-  {
-    "id": "33803",
-    "slug": "partido-vs-en-vivo-2026-04-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-04-03",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
   },
   {
     "id": "33804",
@@ -158,26 +128,6 @@
     "date": "2026-04-03",
     "time": "20:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espnmx"
-  },
-  {
-    "id": "33788",
-    "slug": "partido-vs-en-vivo-2026-04-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga 1",
-    "date": "2026-04-03",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
-  },
-  {
-    "id": "33793",
-    "slug": "partido-vs-en-vivo-2026-04-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga Profesional",
-    "date": "2026-04-03",
-    "time": "15:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
   },
   {
     "id": "33797",
@@ -260,26 +210,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
-    "id": "33790",
-    "slug": "partido-vs-en-vivo-2026-04-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga",
-    "date": "2026-04-03",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "33806",
-    "slug": "partido-vs-en-vivo-2026-04-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Championship",
-    "date": "2026-04-03",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
-  },
-  {
     "id": "33809",
     "slug": "partido-vs-en-vivo-2026-04-03",
     "team_a": "Equipo A",
@@ -288,16 +218,6 @@
     "date": "2026-04-03",
     "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2mx"
-  },
-  {
-    "id": "33795",
-    "slug": "partido-vs-en-vivo-2026-04-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-04-03",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
   },
   {
     "id": "33801",
