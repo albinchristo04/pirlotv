@@ -90,46 +90,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
-    "id": "33915",
-    "slug": "metz-vs-nantes-2026-04-05",
-    "team_a": "Metz",
-    "team_b": "Nantes",
-    "league": "Ligue 1",
-    "date": "2026-04-05",
-    "time": "10:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "33917",
-    "slug": "partido-vs-en-vivo-2026-04-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "FA Cup",
-    "date": "2026-04-05",
-    "time": "10:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "33911",
-    "slug": "partido-vs-en-vivo-2026-04-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Bundesliga",
-    "date": "2026-04-05",
-    "time": "10:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "33908",
-    "slug": "partido-vs-en-vivo-2026-04-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A",
-    "date": "2026-04-05",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espnmx"
-  },
-  {
     "id": "33985",
     "slug": "partido-vs-en-vivo-2026-04-05",
     "team_a": "Equipo A",
@@ -138,16 +98,6 @@
     "date": "2026-04-05",
     "time": "21:05",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=universo"
-  },
-  {
-    "id": "33960",
-    "slug": "fenerbahçe-vs-beşiktaş-2026-04-05",
-    "team_a": "Fenerbahçe",
-    "team_b": "Beşiktaş",
-    "league": "Super Lig",
-    "date": "2026-04-05",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
   },
   {
     "id": "33923",
@@ -168,6 +118,16 @@
     "date": "2026-04-05",
     "time": "16:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "33948",
+    "slug": "ecuador-vs-colombia-2026-04-05",
+    "team_a": "Ecuador",
+    "team_b": "Colombia",
+    "league": "Sudamericano Sub-17",
+    "date": "2026-04-05",
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
   },
   {
     "id": "33920",
@@ -230,26 +190,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
   },
   {
-    "id": "33948",
-    "slug": "ecuador-vs-colombia-2026-04-05",
-    "team_a": "Ecuador",
-    "team_b": "Colombia",
-    "league": "Sudamericano Sub-17",
-    "date": "2026-04-05",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-  },
-  {
-    "id": "33957",
-    "slug": "partido-vs-en-vivo-2026-04-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-04-05",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=hypermotion2"
-  },
-  {
     "id": "33971",
     "slug": "partido-vs-en-vivo-2026-04-05",
     "team_a": "Equipo A",
@@ -298,46 +238,6 @@
     "date": "2026-04-05",
     "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
-    "id": "33913",
-    "slug": "lorient-vs-paris-2026-04-05",
-    "team_a": "Lorient",
-    "team_b": "Paris",
-    "league": "Ligue 1",
-    "date": "2026-04-05",
-    "time": "10:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney16"
-  },
-  {
-    "id": "33961",
-    "slug": "partido-vs-en-vivo-2026-04-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Segunda División",
-    "date": "2026-04-05",
-    "time": "10:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney19"
-  },
-  {
-    "id": "33905",
-    "slug": "partido-vs-en-vivo-2026-04-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga",
-    "date": "2026-04-05",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "33958",
-    "slug": "partido-vs-en-vivo-2026-04-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-04-05",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
   },
   {
     "id": "33939",
@@ -490,16 +390,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
   },
   {
-    "id": "33952",
-    "slug": "partido-vs-en-vivo-2026-04-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Eredivisie",
-    "date": "2026-04-05",
-    "time": "09:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2_nl"
-  },
-  {
     "id": "33959",
     "slug": "real-zaragoza-vs-mirandés-2026-04-05",
     "team_a": "Real Zaragoza",
@@ -568,16 +458,6 @@
     "date": "2026-04-05",
     "time": "20:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
-    "id": "33914",
-    "slug": "partido-vs-en-vivo-2026-04-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ligue 1",
-    "date": "2026-04-05",
-    "time": "10:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney16"
   },
   {
     "id": "33906",
