@@ -40,16 +40,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
   },
   {
-    "id": "33967",
-    "slug": "al-ittifaq-vs-al-quadisiya-2026-04-05",
-    "team_a": "Al Ittifaq",
-    "team_b": "Al Quadisiya",
-    "league": "Pro League",
-    "date": "2026-04-05",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxsports2_usa"
-  },
-  {
     "id": "33970",
     "slug": "partido-vs-en-vivo-2026-04-05",
     "team_a": "Equipo A",
@@ -290,16 +280,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney10"
   },
   {
-    "id": "33901",
-    "slug": "partido-vs-en-vivo-2026-04-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga 1",
-    "date": "2026-04-05",
-    "time": "13:15",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
-  },
-  {
     "id": "33902",
     "slug": "juan-pablo-ii-college-vs-utc-cajamarca-2026-04-05",
     "team_a": "Juan Pablo II College",
@@ -358,16 +338,6 @@
     "date": "2026-04-05",
     "time": "17:30",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
-  },
-  {
-    "id": "33933",
-    "slug": "partido-vs-en-vivo-2026-04-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A",
-    "date": "2026-04-05",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
   },
   {
     "id": "33934",
