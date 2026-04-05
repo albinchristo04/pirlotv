@@ -1,212 +1,22 @@
 [
   {
-    "id": "33857",
-    "slug": "partido-vs-en-vivo-2026-04-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Brasileirão",
-    "date": "2026-04-04",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere3"
-  },
-  {
-    "id": "33860",
-    "slug": "deportes-limache-vs-unión-la-calera-2026-04-04",
-    "team_a": "Deportes Limache",
-    "team_b": "Unión La Calera",
-    "league": "Primera División",
-    "date": "2026-04-04",
-    "time": "15:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "33865",
-    "slug": "emelec-vs-deportivo-cuenca-2026-04-04",
-    "team_a": "Emelec",
-    "team_b": "Deportivo Cuenca",
-    "league": "Serie A",
-    "date": "2026-04-04",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
-  },
-  {
-    "id": "33862",
-    "slug": "partido-vs-en-vivo-2026-04-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Categoría Primera A",
-    "date": "2026-04-04",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "33829",
-    "slug": "melgar-vs-cusco-2026-04-04",
-    "team_a": "Melgar",
-    "team_b": "Cusco",
-    "league": "Liga 1",
-    "date": "2026-04-04",
-    "time": "15:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
-  },
-  {
-    "id": "33858",
-    "slug": "coritiba-vs-fluminense-2026-04-04",
-    "team_a": "Coritiba",
-    "team_b": "Fluminense",
-    "league": "Brasileirão",
-    "date": "2026-04-04",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere2"
-  },
-  {
-    "id": "33859",
-    "slug": "partido-vs-en-vivo-2026-04-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Brasileirão",
-    "date": "2026-04-04",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
-    "id": "33900",
-    "slug": "partido-vs-en-vivo-2026-04-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Sudamericano Sub-17",
-    "date": "2026-04-04",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
-  },
-  {
-    "id": "33855",
-    "slug": "real-potosí-vs-aurora-2026-04-04",
-    "team_a": "Real Potosí",
-    "team_b": "Aurora",
-    "league": "Primera División",
-    "date": "2026-04-04",
-    "time": "16:15",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "33866",
-    "slug": "partido-vs-en-vivo-2026-04-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-04-04",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
-  },
-  {
-    "id": "33868",
-    "slug": "deportivo-recoleta-vs-sportivo-san-lorenzo-2026-04-04",
-    "team_a": "Deportivo Recoleta",
-    "team_b": "Sportivo San Lorenzo",
-    "league": "Primera División",
-    "date": "2026-04-04",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
-  },
-  {
-    "id": "33889",
-    "slug": "partido-vs-en-vivo-2026-04-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Major League Soccer",
-    "date": "2026-04-04",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=mls1es"
-  },
-  {
-    "id": "33830",
-    "slug": "universitario-vs-alianza-lima-2026-04-04",
-    "team_a": "Universitario",
-    "team_b": "Alianza Lima",
-    "league": "Liga 1",
-    "date": "2026-04-04",
+    "id": "Barcelona-Real-Madrid-2026-04-05",
+    "slug": "barcelona-vs-real-madrid-2026-04-05",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-04-05",
     "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
   },
   {
-    "id": "33852",
-    "slug": "independiente-vs-racing-club-2026-04-04",
-    "team_a": "Independiente",
-    "team_b": "Racing Club",
-    "league": "Liga Profesional",
-    "date": "2026-04-04",
-    "time": "15:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium"
-  },
-  {
-    "id": "33871",
-    "slug": "partido-vs-en-vivo-2026-04-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-04-04",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney13"
-  },
-  {
-    "id": "33853",
-    "slug": "partido-vs-en-vivo-2026-04-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga Profesional",
-    "date": "2026-04-04",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
-  },
-  {
-    "id": "33856",
-    "slug": "partido-vs-en-vivo-2026-04-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-04-04",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "33867",
-    "slug": "partido-vs-en-vivo-2026-04-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-04-04",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
-  },
-  {
-    "id": "33861",
-    "slug": "everton-vs-ñublense-2026-04-04",
-    "team_a": "Everton",
-    "team_b": "Ñublense",
-    "league": "Primera División",
-    "date": "2026-04-04",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "33896",
-    "slug": "partido-vs-en-vivo-2026-04-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-04-04",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
-    "id": "33864",
-    "slug": "universidad-católica-vs-guayaquil-city-2026-04-04",
-    "team_a": "Universidad Católica",
-    "team_b": "Guayaquil City",
-    "league": "Serie A",
-    "date": "2026-04-04",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
+    "id": "América-Chivas-2026-04-05",
+    "slug": "américa-vs-chivas-2026-04-05",
+    "team_a": "América",
+    "team_b": "Chivas",
+    "league": "Liga MX",
+    "date": "2026-04-05",
+    "time": "22:00",
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
