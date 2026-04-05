@@ -10,16 +10,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere3"
   },
   {
-    "id": "33899",
-    "slug": "partido-vs-en-vivo-2026-04-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Sudamericano Sub-17",
-    "date": "2026-04-04",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
-  },
-  {
     "id": "33860",
     "slug": "deportes-limache-vs-unión-la-calera-2026-04-04",
     "team_a": "Deportes Limache",
@@ -128,16 +118,6 @@
     "date": "2026-04-04",
     "time": "18:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=mls1es"
-  },
-  {
-    "id": "33891",
-    "slug": "partido-vs-en-vivo-2026-04-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Segunda División",
-    "date": "2026-04-04",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney11"
   },
   {
     "id": "33830",
