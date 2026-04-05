@@ -90,16 +90,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
-    "id": "33904",
-    "slug": "valencia-vs-celta-de-vigo-2026-04-05",
-    "team_a": "Valencia",
-    "team_b": "Celta de Vigo",
-    "league": "LaLiga",
-    "date": "2026-04-05",
-    "time": "09:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
     "id": "33915",
     "slug": "metz-vs-nantes-2026-04-05",
     "team_a": "Metz",
@@ -308,26 +298,6 @@
     "date": "2026-04-05",
     "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
-    "id": "33942",
-    "slug": "charlton-athletic-vs-liverpool-2026-04-05",
-    "team_a": "Charlton Athletic",
-    "team_b": "Liverpool",
-    "league": "FA Women's Cup",
-    "date": "2026-04-05",
-    "time": "08:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney13"
-  },
-  {
-    "id": "33956",
-    "slug": "fc-andorra-vs-racing-santander-2026-04-05",
-    "team_a": "FC Andorra",
-    "team_b": "Racing Santander",
-    "league": "LaLiga SmartBank",
-    "date": "2026-04-05",
-    "time": "09:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
   },
   {
     "id": "33913",
@@ -598,16 +568,6 @@
     "date": "2026-04-05",
     "time": "20:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
-    "id": "33910",
-    "slug": "partido-vs-en-vivo-2026-04-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Bundesliga",
-    "date": "2026-04-05",
-    "time": "08:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   },
   {
     "id": "33914",
