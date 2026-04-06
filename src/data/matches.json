@@ -230,16 +230,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
-    "id": "34001",
-    "slug": "partido-vs-en-vivo-2026-04-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Championship",
-    "date": "2026-04-06",
-    "time": "09:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
-  },
-  {
     "id": "33988",
     "slug": "partido-vs-en-vivo-2026-04-06",
     "team_a": "Equipo A",
@@ -298,16 +288,6 @@
     "date": "2026-04-06",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
-    "id": "34002",
-    "slug": "partido-vs-en-vivo-2026-04-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Championship",
-    "date": "2026-04-06",
-    "time": "09:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
   },
   {
     "id": "33991",
