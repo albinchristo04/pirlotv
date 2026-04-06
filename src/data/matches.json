@@ -220,16 +220,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   },
   {
-    "id": "34015",
-    "slug": "partido-vs-en-vivo-2026-04-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Eerste Divisie",
-    "date": "2026-04-06",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
-  },
-  {
     "id": "34023",
     "slug": "partido-vs-en-vivo-2026-04-06",
     "team_a": "Equipo A",
