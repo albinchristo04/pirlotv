@@ -1,23 +1,13 @@
 [
   {
-    "id": "34043",
-    "slug": "gimnasia-mendoza-vs-gimnasia-y-tiro-2026-04-07",
-    "team_a": "Gimnasia Mendoza",
-    "team_b": "Gimnasia y Tiro",
-    "league": "Copa Argentina",
-    "date": "2026-04-07",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
-  },
-  {
-    "id": "34048",
+    "id": "34093",
     "slug": "partido-vs-en-vivo-2026-04-07",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "MLB",
+    "league": "Primera B",
     "date": "2026-04-07",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+    "time": "19:30",
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
   },
   {
     "id": "34051",
@@ -27,16 +17,6 @@
     "league": "NBA",
     "date": "2026-04-07",
     "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
-    "id": "34053",
-    "slug": "partido-vs-en-vivo-2026-04-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-04-07",
-    "time": "18:30",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
@@ -100,6 +80,26 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
   },
   {
+    "id": "34053",
+    "slug": "partido-vs-en-vivo-2026-04-07",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
+    "date": "2026-04-07",
+    "time": "18:30",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even7"
+  },
+  {
+    "id": "34048",
+    "slug": "partido-vs-en-vivo-2026-04-07",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "MLB",
+    "date": "2026-04-07",
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+  },
+  {
     "id": "34049",
     "slug": "partido-vs-en-vivo-2026-04-07",
     "team_a": "Equipo A",
@@ -108,16 +108,6 @@
     "date": "2026-04-07",
     "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "34052",
-    "slug": "partido-vs-en-vivo-2026-04-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-04-07",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
     "id": "34054",
@@ -220,14 +210,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports2"
   },
   {
-    "id": "34030",
-    "slug": "rionegro-águilas-vs-atlético-bucaramanga-2026-04-07",
-    "team_a": "Rionegro Águilas",
-    "team_b": "Atlético Bucaramanga",
-    "league": "Categoría Primera A",
+    "id": "34052",
+    "slug": "partido-vs-en-vivo-2026-04-07",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
     "date": "2026-04-07",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even6"
   },
   {
     "id": "34050",
@@ -270,16 +260,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
-    "id": "34046",
-    "slug": "partido-vs-en-vivo-2026-04-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga de Expansión MX",
-    "date": "2026-04-07",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2mx"
-  },
-  {
     "id": "34036",
     "slug": "partido-vs-en-vivo-2026-04-07",
     "team_a": "Equipo A",
@@ -288,5 +268,25 @@
     "date": "2026-04-07",
     "time": "17:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
+  },
+  {
+    "id": "34030",
+    "slug": "rionegro-águilas-vs-atlético-bucaramanga-2026-04-07",
+    "team_a": "Rionegro Águilas",
+    "team_b": "Atlético Bucaramanga",
+    "league": "Categoría Primera A",
+    "date": "2026-04-07",
+    "time": "16:00",
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
+  },
+  {
+    "id": "34046",
+    "slug": "partido-vs-en-vivo-2026-04-07",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Liga de Expansión MX",
+    "date": "2026-04-07",
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2mx"
   }
 ]
