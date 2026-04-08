@@ -1,25 +1,5 @@
 [
   {
-    "id": "34067",
-    "slug": "deportivo-riestra-vs-palestino-2026-04-08",
-    "team_a": "Deportivo Riestra",
-    "team_b": "Palestino",
-    "league": "Copa Sudamericana",
-    "date": "2026-04-08",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "34084",
-    "slug": "al-hilal-vs-al-kholood-2026-04-08",
-    "team_a": "Al Hilal",
-    "team_b": "Al Kholood",
-    "league": "Pro League",
-    "date": "2026-04-08",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
     "id": "34087",
     "slug": "partido-vs-en-vivo-2026-04-08",
     "team_a": "Equipo A",
@@ -38,16 +18,6 @@
     "date": "2026-04-08",
     "time": "20:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
-    "id": "34081",
-    "slug": "partido-vs-en-vivo-2026-04-08",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Super Lig",
-    "date": "2026-04-08",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=beinsportes"
   },
   {
     "id": "34075",
@@ -100,14 +70,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tudn"
   },
   {
-    "id": "34061",
-    "slug": "partido-vs-en-vivo-2026-04-08",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Champions League",
+    "id": "34067",
+    "slug": "deportivo-riestra-vs-palestino-2026-04-08",
+    "team_a": "Deportivo Riestra",
+    "team_b": "Palestino",
+    "league": "Copa Sudamericana",
     "date": "2026-04-08",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9kM3I4cGYxdTY0anNvYy5jbG91ZGZyb250Lm5ldC9vdXQvdjEvZWZlMjM5NmYzZDJkNDk1NTllZGI5OTJjMTQ5MDllNDIvaW5kZXgvaW5kZXgubTN1OA==&k=NmM0ZWYxNTRkZjJmMWMwNzcwNGY0ZmZhZTQwMDViZTY6Mjk0ZTBhMjdlNzZjNDNhZWIxNmMyYjcxZmMyMDFjZmI="
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "34091",
@@ -128,16 +98,6 @@
     "date": "2026-04-08",
     "time": "17:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "34074",
-    "slug": "partido-vs-en-vivo-2026-04-08",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Libertadores",
-    "date": "2026-04-08",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "34073",
@@ -170,24 +130,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tudn"
   },
   {
-    "id": "34082",
-    "slug": "u.d.-juvenil-vs-daquilema-2026-04-08",
-    "team_a": "U.d. Juvenil",
-    "team_b": "Daquilema",
-    "league": "Copa Ecuador",
-    "date": "2026-04-08",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
-    "id": "34062",
+    "id": "34074",
     "slug": "partido-vs-en-vivo-2026-04-08",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "UEFA Champions League",
+    "league": "Copa Libertadores",
     "date": "2026-04-08",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "34088",
@@ -270,16 +220,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
-    "id": "34068",
-    "slug": "deportivo-recoleta-vs-san-lorenzo-2026-04-08",
-    "team_a": "Deportivo Recoleta",
-    "team_b": "San Lorenzo",
-    "league": "Copa Sudamericana",
-    "date": "2026-04-08",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
-  },
-  {
     "id": "34076",
     "slug": "medellín-vs-estudiantes-2026-04-08",
     "team_a": "Medellín",
@@ -300,13 +240,13 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney9"
   },
   {
-    "id": "34063",
-    "slug": "sporting-braga-vs-real-betis-2026-04-08",
-    "team_a": "Sporting Braga",
-    "team_b": "Real Betis",
-    "league": "UEFA Europa League",
+    "id": "34068",
+    "slug": "deportivo-recoleta-vs-san-lorenzo-2026-04-08",
+    "team_a": "Deportivo Recoleta",
+    "team_b": "San Lorenzo",
+    "league": "Copa Sudamericana",
     "date": "2026-04-08",
-    "time": "11:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   }
 ]
