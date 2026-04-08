@@ -1,15 +1,5 @@
 [
   {
-    "id": "34081",
-    "slug": "partido-vs-en-vivo-2026-04-08",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Super Lig",
-    "date": "2026-04-08",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
-  },
-  {
     "id": "34061",
     "slug": "partido-vs-en-vivo-2026-04-08",
     "team_a": "Equipo A",
@@ -110,6 +100,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
+    "id": "34081",
+    "slug": "partido-vs-en-vivo-2026-04-08",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Super Lig",
+    "date": "2026-04-08",
+    "time": "12:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=beinsportes"
+  },
+  {
     "id": "34091",
     "slug": "partido-vs-en-vivo-2026-04-08",
     "team_a": "Equipo A",
@@ -128,6 +128,16 @@
     "date": "2026-04-08",
     "time": "14:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "34082",
+    "slug": "u.d.-juvenil-vs-daquilema-2026-04-08",
+    "team_a": "U.d. Juvenil",
+    "team_b": "Daquilema",
+    "league": "Copa Ecuador",
+    "date": "2026-04-08",
+    "time": "12:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
   },
   {
     "id": "34065",
@@ -178,16 +188,6 @@
     "date": "2026-04-08",
     "time": "21:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "34082",
-    "slug": "u.d.-juvenil-vs-daquilema-2026-04-08",
-    "team_a": "U.d. Juvenil",
-    "team_b": "Daquilema",
-    "league": "Copa Ecuador",
-    "date": "2026-04-08",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
   },
   {
     "id": "34088",
