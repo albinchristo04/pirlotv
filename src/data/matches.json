@@ -1,15 +1,5 @@
 [
   {
-    "id": "34100",
-    "slug": "partido-vs-en-vivo-2026-04-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Conference League",
-    "date": "2026-04-09",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney7"
-  },
-  {
     "id": "34109",
     "slug": "gimnasia-la-plata-vs-deportivo-camioneros-2026-04-09",
     "team_a": "Gimnasia La Plata",
@@ -50,16 +40,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
-    "id": "34094",
-    "slug": "partido-vs-en-vivo-2026-04-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Europa League",
-    "date": "2026-04-09",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "34106",
     "slug": "ucv-vs-libertad-2026-04-09",
     "team_a": "UCV",
@@ -88,46 +68,6 @@
     "date": "2026-04-09",
     "time": "19:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "34098",
-    "slug": "partido-vs-en-vivo-2026-04-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Conference League",
-    "date": "2026-04-09",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
-  },
-  {
-    "id": "34095",
-    "slug": "partido-vs-en-vivo-2026-04-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Europa League",
-    "date": "2026-04-09",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "34105",
-    "slug": "partido-vs-en-vivo-2026-04-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Libertadores",
-    "date": "2026-04-09",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "34101",
-    "slug": "partido-vs-en-vivo-2026-04-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Sudamericana",
-    "date": "2026-04-09",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
   },
   {
     "id": "34107",
@@ -170,16 +110,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
   },
   {
-    "id": "34117",
-    "slug": "partido-vs-en-vivo-2026-04-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Golf",
-    "date": "2026-04-09",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "34121",
     "slug": "partido-vs-en-vivo-2026-04-09",
     "team_a": "Equipo A",
@@ -190,24 +120,24 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
   },
   {
-    "id": "34099",
+    "id": "34105",
     "slug": "partido-vs-en-vivo-2026-04-09",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "UEFA Conference League",
+    "league": "Copa Libertadores",
     "date": "2026-04-09",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   },
   {
-    "id": "34096",
-    "slug": "freiburg-vs-celta-de-vigo-2026-04-09",
-    "team_a": "Freiburg",
-    "team_b": "Celta de Vigo",
-    "league": "UEFA Europa League",
+    "id": "34101",
+    "slug": "partido-vs-en-vivo-2026-04-09",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa Sudamericana",
     "date": "2026-04-09",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
   },
   {
     "id": "34102",
