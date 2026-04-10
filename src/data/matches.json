@@ -80,16 +80,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "id": "34110",
-    "slug": "colombia-vs-uruguay-2026-04-09",
-    "team_a": "Colombia",
-    "team_b": "Uruguay",
-    "league": "Sudamericano Sub-17",
-    "date": "2026-04-09",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "34111",
     "slug": "chile-vs-paraguay-2026-04-09",
     "team_a": "Chile",
@@ -160,16 +150,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney11"
   },
   {
-    "id": "34103",
-    "slug": "partido-vs-en-vivo-2026-04-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Sudamericana",
-    "date": "2026-04-09",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "34108",
     "slug": "partido-vs-en-vivo-2026-04-09",
     "team_a": "Equipo A",
@@ -198,5 +178,15 @@
     "date": "2026-04-09",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
+  },
+  {
+    "id": "34103",
+    "slug": "partido-vs-en-vivo-2026-04-09",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa Sudamericana",
+    "date": "2026-04-09",
+    "time": "19:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   }
 ]
