@@ -210,16 +210,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2mx"
   },
   {
-    "id": "34153",
-    "slug": "twente-vs-volendam-2026-04-10",
-    "team_a": "Twente",
-    "team_b": "Volendam",
-    "league": "Eredivisie",
-    "date": "2026-04-10",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2_nl"
-  },
-  {
     "id": "34156",
     "slug": "partido-vs-en-vivo-2026-04-10",
     "team_a": "Equipo A",
@@ -368,16 +358,6 @@
     "date": "2026-04-10",
     "time": "18:30",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even4"
-  },
-  {
-    "id": "34154",
-    "slug": "partido-vs-en-vivo-2026-04-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Eerste Divisie",
-    "date": "2026-04-10",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3_nl"
   },
   {
     "id": "34157",
