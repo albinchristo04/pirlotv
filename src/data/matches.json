@@ -360,16 +360,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "id": "34183",
-    "slug": "partido-vs-en-vivo-2026-04-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Monte Carlo – Cuartos de Final",
-    "date": "2026-04-10",
-    "time": "08:55",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "34132",
     "slug": "olympique-marseille-vs-metz-2026-04-10",
     "team_a": "Olympique Marseille",
