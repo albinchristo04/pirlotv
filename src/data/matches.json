@@ -30,26 +30,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere1"
   },
   {
-    "id": "34247",
-    "slug": "partido-vs-en-vivo-2026-04-11",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Segunda División",
-    "date": "2026-04-11",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
-  },
-  {
-    "id": "34204",
-    "slug": "partido-vs-en-vivo-2026-04-11",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga Profesional",
-    "date": "2026-04-11",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
-  },
-  {
     "id": "34210",
     "slug": "nacional-potosí-vs-universitario-de-vinto-2026-04-11",
     "team_a": "Nacional Potosí",
@@ -58,16 +38,6 @@
     "date": "2026-04-11",
     "time": "16:15",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "34253",
-    "slug": "al-akhdoud-vs-al-nassr-2026-04-11",
-    "team_a": "Al Akhdoud",
-    "team_b": "Al Nassr",
-    "league": "Pro League",
-    "date": "2026-04-11",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=foxsoccerplus"
   },
   {
     "id": "34219",
@@ -110,6 +80,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
   },
   {
+    "id": "34270",
+    "slug": "partido-vs-en-vivo-2026-04-11",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "MLS",
+    "date": "2026-04-11",
+    "time": "15:45",
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
+  },
+  {
     "id": "34236",
     "slug": "tapatío-vs-irapuato-2026-04-11",
     "team_a": "Tapatío",
@@ -120,36 +100,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "id": "34240",
-    "slug": "heracles-vs-ajax-2026-04-11",
-    "team_a": "Heracles",
-    "team_b": "Ajax",
-    "league": "Eredivisie",
-    "date": "2026-04-11",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3mx"
-  },
-  {
-    "id": "34244",
-    "slug": "córdoba-vs-real-zaragoza-2026-04-11",
-    "team_a": "Córdoba",
-    "team_b": "Real Zaragoza",
-    "league": "LaLiga SmartBank",
-    "date": "2026-04-11",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
-    "id": "34249",
-    "slug": "partido-vs-en-vivo-2026-04-11",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera B",
-    "date": "2026-04-11",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
     "id": "34259",
     "slug": "partido-vs-en-vivo-2026-04-11",
     "team_a": "Equipo A",
@@ -158,26 +108,6 @@
     "date": "2026-04-11",
     "time": "15:55",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "34228",
-    "slug": "defensor-sporting-vs-boston-river-2026-04-11",
-    "team_a": "Defensor Sporting",
-    "team_b": "Boston River",
-    "league": "Primera División",
-    "date": "2026-04-11",
-    "time": "13:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney8"
-  },
-  {
-    "id": "34235",
-    "slug": "partido-vs-en-vivo-2026-04-11",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "2. Bundesliga",
-    "date": "2026-04-11",
-    "time": "13:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney9"
   },
   {
     "id": "34216",
@@ -220,6 +150,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
+    "id": "34215",
+    "slug": "partido-vs-en-vivo-2026-04-11",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Brasileirão",
+    "date": "2026-04-11",
+    "time": "16:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere2"
+  },
+  {
     "id": "34211",
     "slug": "partido-vs-en-vivo-2026-04-11",
     "team_a": "Equipo A",
@@ -248,16 +188,6 @@
     "date": "2026-04-11",
     "time": "20:20",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "34223",
-    "slug": "mushuc-runa-vs-manta-2026-04-11",
-    "team_a": "Mushuc Runa",
-    "team_b": "Manta",
-    "league": "Serie A",
-    "date": "2026-04-11",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
   },
   {
     "id": "34251",
@@ -290,36 +220,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "34205",
-    "slug": "independiente-rivadavia-vs-argentinos-juniors-2026-04-11",
-    "team_a": "Independiente Rivadavia",
-    "team_b": "Argentinos Juniors",
-    "league": "Liga Profesional",
-    "date": "2026-04-11",
-    "time": "13:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium"
-  },
-  {
-    "id": "34196",
-    "slug": "partido-vs-en-vivo-2026-04-11",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A",
-    "date": "2026-04-11",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "34192",
-    "slug": "partido-vs-en-vivo-2026-04-11",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga",
-    "date": "2026-04-11",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "34212",
     "slug": "vitória-vs-são-paulo-2026-04-11",
     "team_a": "Vitória",
@@ -330,24 +230,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere3"
   },
   {
-    "id": "34215",
+    "id": "34248",
     "slug": "partido-vs-en-vivo-2026-04-11",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Brasileirão",
+    "league": "Segunda División",
     "date": "2026-04-11",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=fanatiz7"
-  },
-  {
-    "id": "34218",
-    "slug": "partido-vs-en-vivo-2026-04-11",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-04-11",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+    "time": "19:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney17"
   },
   {
     "id": "34206",
@@ -360,16 +250,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
   },
   {
-    "id": "34209",
-    "slug": "partido-vs-en-vivo-2026-04-11",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-04-11",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
     "id": "34224",
     "slug": "partido-vs-en-vivo-2026-04-11",
     "team_a": "Equipo A",
@@ -378,56 +258,6 @@
     "date": "2026-04-11",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
-  },
-  {
-    "id": "34230",
-    "slug": "partido-vs-en-vivo-2026-04-11",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Ecuador",
-    "date": "2026-04-11",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
-  },
-  {
-    "id": "34239",
-    "slug": "groningen-vs-go-ahead-eagles-2026-04-11",
-    "team_a": "Groningen",
-    "team_b": "Go Ahead Eagles",
-    "league": "Eredivisie",
-    "date": "2026-04-11",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
-  },
-  {
-    "id": "34248",
-    "slug": "partido-vs-en-vivo-2026-04-11",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Segunda División",
-    "date": "2026-04-11",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "34258",
-    "slug": "partido-vs-en-vivo-2026-04-11",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Golf",
-    "date": "2026-04-11",
-    "time": "12:55",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "34203",
-    "slug": "rennes-vs-angers-sco-2026-04-11",
-    "team_a": "Rennes",
-    "team_b": "Angers SCO",
-    "league": "Ligue 1",
-    "date": "2026-04-11",
-    "time": "14:05",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney13"
   },
   {
     "id": "34213",
