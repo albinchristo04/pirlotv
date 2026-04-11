@@ -60,16 +60,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "id": "34130",
-    "slug": "augsburg-vs-hoffenheim-2026-04-10",
-    "team_a": "Augsburg",
-    "team_b": "Hoffenheim",
-    "league": "Bundesliga",
-    "date": "2026-04-10",
-    "time": "13:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
-  },
-  {
     "id": "34165",
     "slug": "partido-vs-en-vivo-2026-04-10",
     "team_a": "Equipo A",
@@ -88,16 +78,6 @@
     "date": "2026-04-10",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "34159",
-    "slug": "ceuta-vs-real-sociedad-ii-2026-04-10",
-    "team_a": "Ceuta",
-    "team_b": "Real Sociedad II",
-    "league": "LaLiga SmartBank",
-    "date": "2026-04-10",
-    "time": "13:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
   },
   {
     "id": "34169",
@@ -138,26 +118,6 @@
     "date": "2026-04-10",
     "time": "21:30",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
-    "id": "34127",
-    "slug": "west-ham-united-vs-wolverhampton-wanderers-2026-04-10",
-    "team_a": "West Ham United",
-    "team_b": "Wolverhampton Wanderers",
-    "league": "Premier League",
-    "date": "2026-04-10",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney8"
-  },
-  {
-    "id": "34143",
-    "slug": "partido-vs-en-vivo-2026-04-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Championship",
-    "date": "2026-04-10",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   },
   {
     "id": "34142",
@@ -218,16 +178,6 @@
     "date": "2026-04-10",
     "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxsports2_usa"
-  },
-  {
-    "id": "34163",
-    "slug": "partido-vs-en-vivo-2026-04-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Golf",
-    "date": "2026-04-10",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "34167",
@@ -298,16 +248,6 @@
     "date": "2026-04-10",
     "time": "21:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
-    "id": "34128",
-    "slug": "real-madrid-vs-girona-2026-04-10",
-    "team_a": "Real Madrid",
-    "team_b": "Girona",
-    "league": "LaLiga",
-    "date": "2026-04-10",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "34160",
@@ -428,36 +368,6 @@
     "date": "2026-04-10",
     "time": "21:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
-    "id": "34129",
-    "slug": "partido-vs-en-vivo-2026-04-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A",
-    "date": "2026-04-10",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
-    "id": "34261",
-    "slug": "partido-vs-en-vivo-2026-04-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Sudamericano Sub-17",
-    "date": "2026-04-10",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-  },
-  {
-    "id": "34132",
-    "slug": "olympique-marseille-vs-metz-2026-04-10",
-    "team_a": "Olympique Marseille",
-    "team_b": "Metz",
-    "league": "Ligue 1",
-    "date": "2026-04-10",
-    "time": "14:05",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=beinsportes"
   },
   {
     "id": "34146",
