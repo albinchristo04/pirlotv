@@ -20,26 +20,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
   },
   {
-    "id": "34360",
-    "slug": "pumas-unam-vs-mazatlán-2026-04-12",
-    "team_a": "Pumas UNAM",
-    "team_b": "Mazatlán",
-    "league": "Liga MX",
-    "date": "2026-04-12",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tudn"
-  },
-  {
-    "id": "34366",
-    "slug": "partido-vs-en-vivo-2026-04-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Golf",
-    "date": "2026-04-12",
-    "time": "12:55",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "34307",
     "slug": "the-strongest-vs-san-antonio-bulo-bulo-2026-04-12",
     "team_a": "The Strongest",
@@ -80,16 +60,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "34300",
-    "slug": "partido-vs-en-vivo-2026-04-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ligue 1",
-    "date": "2026-04-12",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
     "id": "34303",
     "slug": "partido-vs-en-vivo-2026-04-12",
     "team_a": "Equipo A",
@@ -128,16 +98,6 @@
     "date": "2026-04-12",
     "time": "17:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
-    "id": "34316",
-    "slug": "partido-vs-en-vivo-2026-04-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Categoría Primera A",
-    "date": "2026-04-12",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
   },
   {
     "id": "34319",
@@ -250,26 +210,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
   },
   {
-    "id": "34327",
-    "slug": "juventud-vs-progreso-2026-04-12",
-    "team_a": "Juventud",
-    "team_b": "Progreso",
-    "league": "Primera División",
-    "date": "2026-04-12",
-    "time": "13:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney9"
-  },
-  {
-    "id": "34301",
-    "slug": "partido-vs-en-vivo-2026-04-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga Profesional",
-    "date": "2026-04-12",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
-  },
-  {
     "id": "34367",
     "slug": "partido-vs-en-vivo-2026-04-12",
     "team_a": "Equipo A",
@@ -288,26 +228,6 @@
     "date": "2026-04-12",
     "time": "17:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
-    "id": "34294",
-    "slug": "partido-vs-en-vivo-2026-04-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A",
-    "date": "2026-04-12",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "34290",
-    "slug": "athletic-club-vs-villarreal-2026-04-12",
-    "team_a": "Athletic Club",
-    "team_b": "Villarreal",
-    "league": "LaLiga",
-    "date": "2026-04-12",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   },
   {
     "id": "34373",
@@ -390,16 +310,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney17"
   },
   {
-    "id": "34306",
-    "slug": "partido-vs-en-vivo-2026-04-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-04-12",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
     "id": "34308",
     "slug": "oriente-petrolero-vs-gualberto-villarroel-sj-2026-04-12",
     "team_a": "Oriente Petrolero",
@@ -428,16 +338,6 @@
     "date": "2026-04-12",
     "time": "18:20",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "34321",
-    "slug": "deportivo-cuenca-vs-independiente-del-valle-2026-04-12",
-    "team_a": "Deportivo Cuenca",
-    "team_b": "Independiente del Valle",
-    "league": "Serie A",
-    "date": "2026-04-12",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
   },
   {
     "id": "34325",
@@ -528,56 +428,6 @@
     "date": "2026-04-12",
     "time": "19:30",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
-    "id": "34297",
-    "slug": "mainz-05-vs-freiburg-2026-04-12",
-    "team_a": "Mainz 05",
-    "team_b": "Freiburg",
-    "league": "Bundesliga",
-    "date": "2026-04-12",
-    "time": "12:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "34302",
-    "slug": "newell's-old-boys-vs-san-lorenzo-2026-04-12",
-    "team_a": "Newell's Old Boys",
-    "team_b": "San Lorenzo",
-    "league": "Liga Profesional",
-    "date": "2026-04-12",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium"
-  },
-  {
-    "id": "34355",
-    "slug": "partido-vs-en-vivo-2026-04-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Segunda División",
-    "date": "2026-04-12",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney13"
-  },
-  {
-    "id": "34351",
-    "slug": "partido-vs-en-vivo-2026-04-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-04-12",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
-    "id": "34310",
-    "slug": "botafogo-vs-coritiba-2026-04-12",
-    "team_a": "Botafogo",
-    "team_b": "Coritiba",
-    "league": "Brasileirão",
-    "date": "2026-04-12",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
   },
   {
     "id": "34331",
