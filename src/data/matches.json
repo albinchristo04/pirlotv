@@ -260,16 +260,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3_nl"
   },
   {
-    "id": "34347",
-    "slug": "partido-vs-en-vivo-2026-04-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-04-12",
-    "time": "07:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
     "id": "34382",
     "slug": "partido-vs-en-vivo-2026-04-12",
     "team_a": "Equipo A",
@@ -600,16 +590,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
   },
   {
-    "id": "34287",
-    "slug": "osasuna-vs-real-betis-2026-04-12",
-    "team_a": "Osasuna",
-    "team_b": "Real Betis",
-    "league": "LaLiga",
-    "date": "2026-04-12",
-    "time": "07:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
     "id": "34325",
     "slug": "libertad-vs-sportivo-trinidense-2026-04-12",
     "team_a": "Libertad",
@@ -628,6 +608,16 @@
     "date": "2026-04-12",
     "time": "08:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "34330",
+    "slug": "partido-vs-en-vivo-2026-04-12",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa Ecuador",
+    "date": "2026-04-12",
+    "time": "12:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   },
   {
     "id": "34315",
@@ -698,16 +688,6 @@
     "date": "2026-04-12",
     "time": "10:15",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney13"
-  },
-  {
-    "id": "34330",
-    "slug": "partido-vs-en-vivo-2026-04-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Ecuador",
-    "date": "2026-04-12",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
   },
   {
     "id": "34337",
