@@ -50,16 +50,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
   },
   {
-    "id": "34402",
-    "slug": "partido-vs-en-vivo-2026-04-13",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "BOXEO",
-    "date": "2026-04-13",
-    "time": "03:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "34405",
     "slug": "partido-vs-en-vivo-2026-04-13",
     "team_a": "Equipo A",
