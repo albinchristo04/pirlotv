@@ -200,16 +200,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
   },
   {
-    "id": "34358",
-    "slug": "partido-vs-en-vivo-2026-04-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga Femenina",
-    "date": "2026-04-12",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
     "id": "34367",
     "slug": "partido-vs-en-vivo-2026-04-12",
     "team_a": "Equipo A",
@@ -350,26 +340,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=fanatiz2"
   },
   {
-    "id": "34337",
-    "slug": "partido-vs-en-vivo-2026-04-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Sudamericano Sub-17",
-    "date": "2026-04-12",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "34338",
-    "slug": "partido-vs-en-vivo-2026-04-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Sudamericano Sub-17",
-    "date": "2026-04-12",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "34340",
     "slug": "partido-vs-en-vivo-2026-04-12",
     "team_a": "Equipo A",
@@ -428,16 +398,6 @@
     "date": "2026-04-12",
     "time": "19:30",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even5"
-  },
-  {
-    "id": "34331",
-    "slug": "partido-vs-en-vivo-2026-04-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Ecuador",
-    "date": "2026-04-12",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   },
   {
     "id": "34313",
