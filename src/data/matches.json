@@ -40,16 +40,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   },
   {
-    "id": "34406",
-    "slug": "partido-vs-en-vivo-2026-04-13",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "AFC Champions League Elite",
-    "date": "2026-04-13",
-    "time": "09:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1"
-  },
-  {
     "id": "34407",
     "slug": "partido-vs-en-vivo-2026-04-13",
     "team_a": "Equipo A",
@@ -148,6 +138,16 @@
     "date": "2026-04-13",
     "time": "13:45",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
+  },
+  {
+    "id": "34408",
+    "slug": "partido-vs-en-vivo-2026-04-13",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Liga Profesional",
+    "date": "2026-04-13",
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium"
   },
   {
     "id": "34387",
