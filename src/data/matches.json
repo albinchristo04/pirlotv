@@ -150,6 +150,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
+    "id": "34412",
+    "slug": "partido-vs-en-vivo-2026-04-14",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "UEFA Champions League",
+    "date": "2026-04-14",
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
     "id": "34416",
     "slug": "são-paulo-vs-o'higgins-2026-04-14",
     "team_a": "São Paulo",
@@ -220,16 +230,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espnmx"
   },
   {
-    "id": "34412",
-    "slug": "partido-vs-en-vivo-2026-04-14",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Champions League",
-    "date": "2026-04-14",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "34435",
     "slug": "partido-vs-en-vivo-2026-04-14",
     "team_a": "Equipo A",
@@ -258,6 +258,16 @@
     "date": "2026-04-14",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "34413",
+    "slug": "atlético-madrid-vs-barcelona-2026-04-14",
+    "team_a": "Atlético Madrid",
+    "team_b": "Barcelona",
+    "league": "UEFA Champions League",
+    "date": "2026-04-14",
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9kM3I4cGYxdTY0anNvYy5jbG91ZGZyb250Lm5ldC9vdXQvdjEvZWZlMjM5NmYzZDJkNDk1NTllZGI5OTJjMTQ5MDllNDIvaW5kZXgvaW5kZXgubTN1OA==&k=NmM0ZWYxNTRkZjJmMWMwNzcwNGY0ZmZhZTQwMDViZTY6Mjk0ZTBhMjdlNzZjNDNhZWIxNmMyYjcxZmMyMDFjZmI="
   },
   {
     "id": "34409",
@@ -298,16 +308,6 @@
     "date": "2026-04-14",
     "time": "21:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "34429",
-    "slug": "partido-vs-en-vivo-2026-04-14",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "AFC Champions League Elite",
-    "date": "2026-04-14",
-    "time": "09:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
   },
   {
     "id": "34438",
@@ -368,15 +368,5 @@
     "date": "2026-04-14",
     "time": "14:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney8"
-  },
-  {
-    "id": "34413",
-    "slug": "atlético-madrid-vs-barcelona-2026-04-14",
-    "team_a": "Atlético Madrid",
-    "team_b": "Barcelona",
-    "league": "UEFA Champions League",
-    "date": "2026-04-14",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   }
 ]
