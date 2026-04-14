@@ -1,15 +1,5 @@
 [
   {
-    "id": "34388",
-    "slug": "partido-vs-en-vivo-2026-04-13",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga Profesional",
-    "date": "2026-04-13",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
-  },
-  {
     "id": "34392",
     "slug": "unión-la-calera-vs-deportes-concepción-2026-04-13",
     "team_a": "Unión La Calera",
@@ -20,26 +10,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "34385",
-    "slug": "levante-vs-getafe-2026-04-13",
-    "team_a": "Levante",
-    "team_b": "Getafe",
-    "league": "LaLiga",
-    "date": "2026-04-13",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "34384",
-    "slug": "partido-vs-en-vivo-2026-04-13",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Premier League",
-    "date": "2026-04-13",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
-  },
-  {
     "id": "34405",
     "slug": "partido-vs-en-vivo-2026-04-13",
     "team_a": "Equipo A",
@@ -48,16 +18,6 @@
     "date": "2026-04-13",
     "time": "21:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "34394",
-    "slug": "primero-de-mayo-vs-santo-domingo-2026-04-13",
-    "team_a": "Primero de Mayo",
-    "team_b": "Santo Domingo",
-    "league": "Copa Ecuador",
-    "date": "2026-04-13",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
   },
   {
     "id": "34395",
@@ -80,16 +40,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "id": "34386",
-    "slug": "fiorentina-vs-lazio-2026-04-13",
-    "team_a": "Fiorentina",
-    "team_b": "Lazio",
-    "league": "Serie A",
-    "date": "2026-04-13",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
-  },
-  {
     "id": "34408",
     "slug": "partido-vs-en-vivo-2026-04-13",
     "team_a": "Equipo A",
@@ -108,16 +58,6 @@
     "date": "2026-04-13",
     "time": "17:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "34387",
-    "slug": "defensa-y-justicia-vs-talleres-córdoba-2026-04-13",
-    "team_a": "Defensa y Justicia",
-    "team_b": "Talleres Córdoba",
-    "league": "Liga Profesional",
-    "date": "2026-04-13",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium"
   },
   {
     "id": "34390",
