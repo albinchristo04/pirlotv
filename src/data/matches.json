@@ -20,16 +20,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tudn"
   },
   {
-    "id": "34453",
-    "slug": "caracas-vs-independiente-petrolero-2026-04-15",
-    "team_a": "Caracas",
-    "team_b": "Independiente Petrolero",
-    "league": "Copa Sudamericana",
-    "date": "2026-04-15",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
     "id": "34457",
     "slug": "millonarios-vs-boston-river-2026-04-15",
     "team_a": "Millonarios",
@@ -38,16 +28,6 @@
     "date": "2026-04-15",
     "time": "21:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "34459",
-    "slug": "partido-vs-en-vivo-2026-04-15",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Libertadores",
-    "date": "2026-04-15",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "34463",
@@ -68,6 +48,26 @@
     "date": "2026-04-15",
     "time": "13:00",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
+  },
+  {
+    "id": "34459",
+    "slug": "partido-vs-en-vivo-2026-04-15",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa Libertadores",
+    "date": "2026-04-15",
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "34453",
+    "slug": "caracas-vs-independiente-petrolero-2026-04-15",
+    "team_a": "Caracas",
+    "team_b": "Independiente Petrolero",
+    "league": "Copa Sudamericana",
+    "date": "2026-04-15",
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
     "id": "34451",
@@ -117,17 +117,7 @@
     "league": "UEFA Champions League",
     "date": "2026-04-15",
     "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "34452",
-    "slug": "partido-vs-en-vivo-2026-04-15",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Sudamericana",
-    "date": "2026-04-15",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLXB2LXRhLmFtYXpvbi5mYXN0bHktZWRnZS5jb20vc3lkLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy9jbGxla2lnenpuL291dC92MS9iZDNiMGMzMTRmZmY0YmIxYWI0NjkzMzU4ZjNjZDJkMy9jZW5jLm1wZA==&k=Mjk0YjU3NjFjZWZjMjJkMGM2MzEyOTM5ZTEzZDgyNzg6NTIxNDhmMTA0MmQyMzg4NDlmMGE3ODEzZjFkYThhN2I="
   },
   {
     "id": "34454",
@@ -138,16 +128,6 @@
     "date": "2026-04-15",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "34458",
-    "slug": "partido-vs-en-vivo-2026-04-15",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Libertadores",
-    "date": "2026-04-15",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "34460",
@@ -180,6 +160,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
   },
   {
+    "id": "34452",
+    "slug": "partido-vs-en-vivo-2026-04-15",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa Sudamericana",
+    "date": "2026-04-15",
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
+  },
+  {
     "id": "34449",
     "slug": "bayern-münchen-vs-real-madrid-2026-04-15",
     "team_a": "Bayern München",
@@ -187,6 +177,16 @@
     "league": "UEFA Champions League",
     "date": "2026-04-15",
     "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLXB2LXRhLmFtYXpvbi5mYXN0bHktZWRnZS5jb20vc3lkLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy9mYjZqeTRweHRzL291dC92MS9mOGZhMTdmMDg3NTY0ZjUxYWE0ZDVjNzAwYmU0M2VjNC9jZW5jLm1wZA==&k=ZjI4ODM4MGNhNGNlZjlhZDNmMjdhOTJhMDhlOWJiOGI6OWYxOGQyNjI5MWQ5MjMwODMzNTAxZjdmODIyZjY4NzU="
+  },
+  {
+    "id": "34458",
+    "slug": "partido-vs-en-vivo-2026-04-15",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa Libertadores",
+    "date": "2026-04-15",
+    "time": "17:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   }
 ]
