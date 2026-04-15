@@ -30,26 +30,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   },
   {
-    "id": "34463",
-    "slug": "partido-vs-en-vivo-2026-04-15",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Argentina",
-    "date": "2026-04-15",
-    "time": "12:10",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
-  },
-  {
-    "id": "34466",
-    "slug": "al-nassr-vs-al-ittifaq-2026-04-15",
-    "team_a": "Al Nassr",
-    "team_b": "Al Ittifaq",
-    "league": "Pro League",
-    "date": "2026-04-15",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
     "id": "34459",
     "slug": "partido-vs-en-vivo-2026-04-15",
     "team_a": "Equipo A",
@@ -170,16 +150,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   },
   {
-    "id": "34449",
-    "slug": "bayern-münchen-vs-real-madrid-2026-04-15",
-    "team_a": "Bayern München",
-    "team_b": "Real Madrid",
-    "league": "UEFA Champions League",
-    "date": "2026-04-15",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLXB2LXRhLmFtYXpvbi5mYXN0bHktZWRnZS5jb20vc3lkLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy9mYjZqeTRweHRzL291dC92MS9mOGZhMTdmMDg3NTY0ZjUxYWE0ZDVjNzAwYmU0M2VjNC9jZW5jLm1wZA==&k=ZjI4ODM4MGNhNGNlZjlhZDNmMjdhOTJhMDhlOWJiOGI6OWYxOGQyNjI5MWQ5MjMwODMzNTAxZjdmODIyZjY4NzU="
-  },
-  {
     "id": "34458",
     "slug": "partido-vs-en-vivo-2026-04-15",
     "team_a": "Equipo A",
@@ -188,5 +158,15 @@
     "date": "2026-04-15",
     "time": "17:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "34449",
+    "slug": "bayern-münchen-vs-real-madrid-2026-04-15",
+    "team_a": "Bayern München",
+    "team_b": "Real Madrid",
+    "league": "UEFA Champions League",
+    "date": "2026-04-15",
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLXB2LXRhLmFtYXpvbi5mYXN0bHktZWRnZS5jb20vc3lkLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy9mYjZqeTRweHRzL291dC92MS9mOGZhMTdmMDg3NTY0ZjUxYWE0ZDVjNzAwYmU0M2VjNC9jZW5jLm1wZA==&k=ZjI4ODM4MGNhNGNlZjlhZDNmMjdhOTJhMDhlOWJiOGI6OWYxOGQyNjI5MWQ5MjMwODMzNTAxZjdmODIyZjY4NzU="
   }
 ]
