@@ -1,15 +1,5 @@
 [
   {
-    "id": "34436",
-    "slug": "partido-vs-en-vivo-2026-04-14",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Campeonato W de CONCACAF",
-    "date": "2026-04-14",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney10"
-  },
-  {
     "id": "34423",
     "slug": "partido-vs-en-vivo-2026-04-14",
     "team_a": "Equipo A",
@@ -30,26 +20,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
   },
   {
-    "id": "34414",
-    "slug": "partido-vs-en-vivo-2026-04-14",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa de Campeones de la Concacaf",
-    "date": "2026-04-14",
-    "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "34415",
-    "slug": "américa-vs-nashville-sc-2026-04-14",
-    "team_a": "América",
-    "team_b": "Nashville SC",
-    "league": "Copa de Campeones de la Concacaf",
-    "date": "2026-04-14",
-    "time": "22:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "34424",
     "slug": "partido-vs-en-vivo-2026-04-14",
     "team_a": "Equipo A",
@@ -58,16 +28,6 @@
     "date": "2026-04-14",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
-  },
-  {
-    "id": "34427",
-    "slug": "universitario-vs-coquimbo-unido-2026-04-14",
-    "team_a": "Universitario",
-    "team_b": "Coquimbo Unido",
-    "league": "Copa Libertadores",
-    "date": "2026-04-14",
-    "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "34420",
@@ -100,14 +60,34 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
-    "id": "34428",
+    "id": "34427",
+    "slug": "universitario-vs-coquimbo-unido-2026-04-14",
+    "team_a": "Universitario",
+    "team_b": "Coquimbo Unido",
+    "league": "Copa Libertadores",
+    "date": "2026-04-14",
+    "time": "21:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "34414",
     "slug": "partido-vs-en-vivo-2026-04-14",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Championship",
+    "league": "Copa de Campeones de la Concacaf",
     "date": "2026-04-14",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney7"
+    "time": "20:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tudn"
+  },
+  {
+    "id": "34415",
+    "slug": "américa-vs-nashville-sc-2026-04-14",
+    "team_a": "América",
+    "team_b": "Nashville SC",
+    "league": "Copa de Campeones de la Concacaf",
+    "date": "2026-04-14",
+    "time": "22:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tudn"
   },
   {
     "id": "34421",
@@ -118,46 +98,6 @@
     "date": "2026-04-14",
     "time": "17:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "34425",
-    "slug": "partido-vs-en-vivo-2026-04-14",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Libertadores",
-    "date": "2026-04-14",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "34412",
-    "slug": "partido-vs-en-vivo-2026-04-14",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Champions League",
-    "date": "2026-04-14",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLXB2LXRhLmFtYXpvbi5mYXN0bHktZWRnZS5jb20vZ3J1LW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy9rNnJyanRvbnFkL291dC92MS84ZTRkYmU5ODFkNTc0OTgzYTVhMGM5NmI4NzRjYzViOS9jZW5jLm1wZA==&k=ZWQ3MTE0NTAwZjljYjgwODI3ZDQzNzg0OWQzNGRmNDY6MGY4NDNjOWJkN2Q5NTgzNDE1MDFhODRmYTAxMGQ4ODg="
-  },
-  {
-    "id": "34419",
-    "slug": "partido-vs-en-vivo-2026-04-14",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Sudamericana",
-    "date": "2026-04-14",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "34440",
-    "slug": "partido-vs-en-vivo-2026-04-14",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "CONMEBOL Nations League Femenina",
-    "date": "2026-04-14",
-    "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=caracol"
   },
   {
     "id": "34443",
@@ -200,14 +140,34 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports2"
   },
   {
-    "id": "34435",
+    "id": "34419",
     "slug": "partido-vs-en-vivo-2026-04-14",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Campeonato W de CONCACAF",
+    "league": "Copa Sudamericana",
     "date": "2026-04-14",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney9"
+    "time": "19:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
+  },
+  {
+    "id": "34425",
+    "slug": "partido-vs-en-vivo-2026-04-14",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa Libertadores",
+    "date": "2026-04-14",
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "34440",
+    "slug": "partido-vs-en-vivo-2026-04-14",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "CONMEBOL Nations League Femenina",
+    "date": "2026-04-14",
+    "time": "20:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=caracol"
   },
   {
     "id": "34422",
@@ -230,36 +190,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "34413",
-    "slug": "atlético-madrid-vs-barcelona-2026-04-14",
-    "team_a": "Atlético Madrid",
-    "team_b": "Barcelona",
-    "league": "UEFA Champions League",
-    "date": "2026-04-14",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9kM3I4cGYxdTY0anNvYy5jbG91ZGZyb250Lm5ldC9vdXQvdjEvZWZlMjM5NmYzZDJkNDk1NTllZGI5OTJjMTQ5MDllNDIvaW5kZXgvaW5kZXgubTN1OA==&k=NmM0ZWYxNTRkZjJmMWMwNzcwNGY0ZmZhZTQwMDViZTY6Mjk0ZTBhMjdlNzZjNDNhZWIxNmMyYjcxZmMyMDFjZmI="
-  },
-  {
-    "id": "34410",
-    "slug": "partido-vs-en-vivo-2026-04-14",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga 1",
-    "date": "2026-04-14",
-    "time": "15:15",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
-  },
-  {
-    "id": "34426",
-    "slug": "ldu-quito-vs-mirassol-2026-04-14",
-    "team_a": "LDU Quito",
-    "team_b": "Mirassol",
-    "league": "Copa Libertadores",
-    "date": "2026-04-14",
-    "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "34417",
     "slug": "grêmio-vs-deportivo-riestra-2026-04-14",
     "team_a": "Grêmio",
@@ -268,16 +198,6 @@
     "date": "2026-04-14",
     "time": "17:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "34441",
-    "slug": "partido-vs-en-vivo-2026-04-14",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Ecuador",
-    "date": "2026-04-14",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
   },
   {
     "id": "34444",
@@ -290,13 +210,13 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=universo"
   },
   {
-    "id": "34434",
-    "slug": "partido-vs-en-vivo-2026-04-14",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Campeonato W de CONCACAF",
+    "id": "34426",
+    "slug": "ldu-quito-vs-mirassol-2026-04-14",
+    "team_a": "LDU Quito",
+    "team_b": "Mirassol",
+    "league": "Copa Libertadores",
     "date": "2026-04-14",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney8"
+    "time": "21:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   }
 ]
