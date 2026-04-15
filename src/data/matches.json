@@ -70,16 +70,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
   },
   {
-    "id": "34448",
-    "slug": "arsenal-vs-sporting-cp-2026-04-15",
-    "team_a": "Arsenal",
-    "team_b": "Sporting CP",
-    "league": "UEFA Champions League",
-    "date": "2026-04-15",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "34451",
     "slug": "seattle-sounders-fc-vs-tigres-uanl-2026-04-15",
     "team_a": "Seattle Sounders FC",
@@ -130,14 +120,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
   },
   {
-    "id": "34449",
-    "slug": "bayern-münchen-vs-real-madrid-2026-04-15",
-    "team_a": "Bayern München",
-    "team_b": "Real Madrid",
+    "id": "34448",
+    "slug": "arsenal-vs-sporting-cp-2026-04-15",
+    "team_a": "Arsenal",
+    "team_b": "Sporting CP",
     "league": "UEFA Champions League",
     "date": "2026-04-15",
     "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "34452",
@@ -198,5 +188,15 @@
     "date": "2026-04-15",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
+  },
+  {
+    "id": "34449",
+    "slug": "bayern-münchen-vs-real-madrid-2026-04-15",
+    "team_a": "Bayern München",
+    "team_b": "Real Madrid",
+    "league": "UEFA Champions League",
+    "date": "2026-04-15",
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   }
 ]
