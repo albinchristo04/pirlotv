@@ -1,15 +1,5 @@
 [
   {
-    "id": "34447",
-    "slug": "partido-vs-en-vivo-2026-04-15",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga 1",
-    "date": "2026-04-15",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
-  },
-  {
     "id": "34450",
     "slug": "partido-vs-en-vivo-2026-04-15",
     "team_a": "Equipo A",
@@ -50,16 +40,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "34451",
-    "slug": "seattle-sounders-fc-vs-tigres-uanl-2026-04-15",
-    "team_a": "Seattle Sounders FC",
-    "team_b": "Tigres UANL",
-    "league": "Copa de Campeones de la Concacaf",
-    "date": "2026-04-15",
-    "time": "22:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tudn"
-  },
-  {
     "id": "34455",
     "slug": "partido-vs-en-vivo-2026-04-15",
     "team_a": "Equipo A",
@@ -68,16 +48,6 @@
     "date": "2026-04-15",
     "time": "19:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "34456",
-    "slug": "américa-de-cali-vs-alianza-atlético-2026-04-15",
-    "team_a": "América de Cali",
-    "team_b": "Alianza Atlético",
-    "league": "Copa Sudamericana",
-    "date": "2026-04-15",
-    "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "34461",
@@ -90,14 +60,24 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
   },
   {
-    "id": "34448",
-    "slug": "arsenal-vs-sporting-cp-2026-04-15",
-    "team_a": "Arsenal",
-    "team_b": "Sporting CP",
-    "league": "UEFA Champions League",
+    "id": "34451",
+    "slug": "seattle-sounders-fc-vs-tigres-uanl-2026-04-15",
+    "team_a": "Seattle Sounders FC",
+    "team_b": "Tigres UANL",
+    "league": "Copa de Campeones de la Concacaf",
     "date": "2026-04-15",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLXB2LXRhLmFtYXpvbi5mYXN0bHktZWRnZS5jb20vc3lkLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy9jbGxla2lnenpuL291dC92MS9iZDNiMGMzMTRmZmY0YmIxYWI0NjkzMzU4ZjNjZDJkMy9jZW5jLm1wZA==&k=Mjk0YjU3NjFjZWZjMjJkMGM2MzEyOTM5ZTEzZDgyNzg6NTIxNDhmMTA0MmQyMzg4NDlmMGE3ODEzZjFkYThhN2I="
+    "time": "22:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tudn"
+  },
+  {
+    "id": "34456",
+    "slug": "américa-de-cali-vs-alianza-atlético-2026-04-15",
+    "team_a": "América de Cali",
+    "team_b": "Alianza Atlético",
+    "league": "Copa Sudamericana",
+    "date": "2026-04-15",
+    "time": "21:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "34454",
@@ -120,16 +100,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "34462",
-    "slug": "independiente-del-valle-vs-ucv-2026-04-15",
-    "team_a": "Independiente del Valle",
-    "team_b": "UCV",
-    "league": "Copa Libertadores",
-    "date": "2026-04-15",
-    "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn6"
-  },
-  {
     "id": "34465",
     "slug": "san-antonio-vs-deportivo-cuenca-juniors-2026-04-15",
     "team_a": "San Antonio",
@@ -138,6 +108,16 @@
     "date": "2026-04-15",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
+  },
+  {
+    "id": "34462",
+    "slug": "independiente-del-valle-vs-ucv-2026-04-15",
+    "team_a": "Independiente del Valle",
+    "team_b": "UCV",
+    "league": "Copa Libertadores",
+    "date": "2026-04-15",
+    "time": "21:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn6"
   },
   {
     "id": "34452",
@@ -158,15 +138,5 @@
     "date": "2026-04-15",
     "time": "17:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "34449",
-    "slug": "bayern-münchen-vs-real-madrid-2026-04-15",
-    "team_a": "Bayern München",
-    "team_b": "Real Madrid",
-    "league": "UEFA Champions League",
-    "date": "2026-04-15",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLXB2LXRhLmFtYXpvbi5mYXN0bHktZWRnZS5jb20vc3lkLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy9mYjZqeTRweHRzL291dC92MS9mOGZhMTdmMDg3NTY0ZjUxYWE0ZDVjNzAwYmU0M2VjNC9jZW5jLm1wZA==&k=ZjI4ODM4MGNhNGNlZjlhZDNmMjdhOTJhMDhlOWJiOGI6OWYxOGQyNjI5MWQ5MjMwODMzNTAxZjdmODIyZjY4NzU="
   }
 ]
