@@ -1,25 +1,5 @@
 [
   {
-    "id": "34470",
-    "slug": "nottingham-forest-vs-porto-2026-04-16",
-    "team_a": "Nottingham Forest",
-    "team_b": "Porto",
-    "league": "UEFA Europa League",
-    "date": "2026-04-16",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "34484",
-    "slug": "bromley-vs-cambridge-united-2026-04-16",
-    "team_a": "Bromley",
-    "team_b": "Cambridge United",
-    "league": "League Two",
-    "date": "2026-04-16",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney9"
-  },
-  {
     "id": "34476",
     "slug": "partido-vs-en-vivo-2026-04-16",
     "team_a": "Equipo A",
@@ -60,46 +40,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
   },
   {
-    "id": "34472",
-    "slug": "partido-vs-en-vivo-2026-04-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Conference League",
-    "date": "2026-04-16",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney7"
-  },
-  {
-    "id": "34474",
-    "slug": "partido-vs-en-vivo-2026-04-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Conference League",
-    "date": "2026-04-16",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney9"
-  },
-  {
-    "id": "34468",
-    "slug": "aston-villa-vs-bologna-2026-04-16",
-    "team_a": "Aston Villa",
-    "team_b": "Bologna",
-    "league": "UEFA Europa League",
-    "date": "2026-04-16",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "34473",
-    "slug": "partido-vs-en-vivo-2026-04-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Conference League",
-    "date": "2026-04-16",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney8"
-  },
-  {
     "id": "34482",
     "slug": "flamengo-vs-medellín-2026-04-16",
     "team_a": "Flamengo",
@@ -117,16 +57,6 @@
     "league": "Copa Sudamericana",
     "date": "2026-04-16",
     "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "34469",
-    "slug": "real-betis-vs-sporting-braga-2026-04-16",
-    "team_a": "Real Betis",
-    "team_b": "Sporting Braga",
-    "league": "UEFA Europa League",
-    "date": "2026-04-16",
-    "time": "14:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
