@@ -1,112 +1,22 @@
 [
   {
-    "id": "34476",
-    "slug": "partido-vs-en-vivo-2026-04-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Sudamericana",
-    "date": "2026-04-16",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
+    "id": "Barcelona-Real-Madrid-2026-04-17",
+    "slug": "barcelona-vs-real-madrid-2026-04-17",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-04-17",
+    "time": "20:00",
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
   },
   {
-    "id": "34477",
-    "slug": "partido-vs-en-vivo-2026-04-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Sudamericana",
-    "date": "2026-04-16",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "34480",
-    "slug": "partido-vs-en-vivo-2026-04-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Libertadores",
-    "date": "2026-04-16",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "34487",
-    "slug": "partido-vs-en-vivo-2026-04-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga Nacional",
-    "date": "2026-04-16",
-    "time": "20:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
-    "id": "34482",
-    "slug": "flamengo-vs-medellín-2026-04-16",
-    "team_a": "Flamengo",
-    "team_b": "Medellín",
-    "league": "Copa Libertadores",
-    "date": "2026-04-16",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "34478",
-    "slug": "partido-vs-en-vivo-2026-04-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Sudamericana",
-    "date": "2026-04-16",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "34475",
-    "slug": "atlético-mineiro-vs-juventud-2026-04-16",
-    "team_a": "Atlético Mineiro",
-    "team_b": "Juventud",
-    "league": "Copa Sudamericana",
-    "date": "2026-04-16",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports2"
-  },
-  {
-    "id": "34481",
-    "slug": "partido-vs-en-vivo-2026-04-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Libertadores",
-    "date": "2026-04-16",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "34479",
-    "slug": "cienciano-vs-academia-puerto-cabello-2026-04-16",
-    "team_a": "Cienciano",
-    "team_b": "Academia Puerto Cabello",
-    "league": "Copa Sudamericana",
-    "date": "2026-04-16",
-    "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "34483",
-    "slug": "peñarol-vs-platense-2026-04-16",
-    "team_a": "Peñarol",
-    "team_b": "Platense",
-    "league": "Copa Libertadores",
-    "date": "2026-04-16",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "34490",
-    "slug": "partido-vs-en-vivo-2026-04-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NHL",
-    "date": "2026-04-16",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
+    "id": "América-Chivas-2026-04-17",
+    "slug": "américa-vs-chivas-2026-04-17",
+    "team_a": "América",
+    "team_b": "Chivas",
+    "league": "Liga MX",
+    "date": "2026-04-17",
+    "time": "22:00",
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
