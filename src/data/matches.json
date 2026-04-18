@@ -1,15 +1,5 @@
 [
   {
-    "id": "34561",
-    "slug": "vasco-da-gama-vs-são-paulo-2026-04-18",
-    "team_a": "Vasco da Gama",
-    "team_b": "São Paulo",
-    "league": "Brasileirão",
-    "date": "2026-04-18",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=fanatiz7"
-  },
-  {
     "id": "34565",
     "slug": "partido-vs-en-vivo-2026-04-18",
     "team_a": "Equipo A",
@@ -170,6 +160,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=mls5en"
   },
   {
+    "id": "34561",
+    "slug": "vasco-da-gama-vs-são-paulo-2026-04-18",
+    "team_a": "Vasco da Gama",
+    "team_b": "São Paulo",
+    "league": "Brasileirão",
+    "date": "2026-04-18",
+    "time": "16:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=amazon_prime1"
+  },
+  {
     "id": "34581",
     "slug": "partido-vs-en-vivo-2026-04-18",
     "team_a": "Equipo A",
@@ -188,16 +188,6 @@
     "date": "2026-04-18",
     "time": "18:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere3"
-  },
-  {
-    "id": "34556",
-    "slug": "gimnasia-la-plata-vs-estudiantes-río-cuarto-2026-04-18",
-    "team_a": "Gimnasia La Plata",
-    "team_b": "Estudiantes Río Cuarto",
-    "league": "Liga Profesional",
-    "date": "2026-04-18",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium"
   },
   {
     "id": "34566",
@@ -228,16 +218,6 @@
     "date": "2026-04-18",
     "time": "16:15",
     "decoded_iframe_url": ""
-  },
-  {
-    "id": "34611",
-    "slug": "partido-vs-en-vivo-2026-04-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Major League Soccer",
-    "date": "2026-04-18",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=mls1en"
   },
   {
     "id": "34584",
@@ -510,16 +490,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
   },
   {
-    "id": "34603",
-    "slug": "partido-vs-en-vivo-2026-04-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Golf",
-    "date": "2026-04-18",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
     "id": "34606",
     "slug": "partido-vs-en-vivo-2026-04-18",
     "team_a": "Equipo A",
@@ -528,26 +498,6 @@
     "date": "2026-04-18",
     "time": "15:55",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "34553",
-    "slug": "angers-sco-vs-le-havre-2026-04-18",
-    "team_a": "Angers SCO",
-    "team_b": "Le Havre",
-    "league": "Ligue 1",
-    "date": "2026-04-18",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
-  },
-  {
-    "id": "34596",
-    "slug": "partido-vs-en-vivo-2026-04-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Super Lig",
-    "date": "2026-04-18",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
   },
   {
     "id": "34578",
@@ -578,16 +528,6 @@
     "date": "2026-04-18",
     "time": "14:10",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espnmx"
-  },
-  {
-    "id": "34535",
-    "slug": "fc-cajamarca-vs-adt-2026-04-18",
-    "team_a": "FC Cajamarca",
-    "team_b": "ADT",
-    "league": "Liga 1",
-    "date": "2026-04-18",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
   },
   {
     "id": "34537",
