@@ -110,26 +110,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "34533",
-    "slug": "partido-vs-en-vivo-2026-04-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-04-18",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney19"
-  },
-  {
-    "id": "34579",
-    "slug": "buriram-united-vs-shabab-al-ahli-2026-04-18",
-    "team_a": "Buriram United",
-    "team_b": "Shabab Al Ahli",
-    "league": "AFC Champions League Elite",
-    "date": "2026-04-18",
-    "time": "11:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney20"
-  },
-  {
     "id": "34555",
     "slug": "atlético-madrid-vs-real-sociedad-2026-04-18",
     "team_a": "Atlético Madrid",
@@ -320,36 +300,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=mls2en"
   },
   {
-    "id": "34552",
-    "slug": "partido-vs-en-vivo-2026-04-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ligue 1",
-    "date": "2026-04-18",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney17"
-  },
-  {
-    "id": "34545",
-    "slug": "napoli-vs-lazio-2026-04-18",
-    "team_a": "Napoli",
-    "team_b": "Lazio",
-    "league": "Serie A",
-    "date": "2026-04-18",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "34595",
-    "slug": "cd-castellon-vs-burgos-2026-04-18",
-    "team_a": "CD Castellon",
-    "team_b": "Burgos",
-    "league": "LaLiga SmartBank",
-    "date": "2026-04-18",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
     "id": "34531",
     "slug": "bélgica-vs-escocia-2026-04-18",
     "team_a": "Bélgica",
@@ -510,6 +460,16 @@
     "decoded_iframe_url": ""
   },
   {
+    "id": "34613",
+    "slug": "partido-vs-en-vivo-2026-04-18",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Major League Soccer",
+    "date": "2026-04-18",
+    "time": "18:30",
+    "decoded_iframe_url": "https://futbollibrelibre.com/canales.php?stream=mls4en"
+  },
+  {
     "id": "34582",
     "slug": "ecuador-vs-perú-2026-04-18",
     "team_a": "Ecuador",
@@ -540,16 +500,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "id": "34594",
-    "slug": "partido-vs-en-vivo-2026-04-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-04-18",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=hypermotion2"
-  },
-  {
     "id": "34599",
     "slug": "partido-vs-en-vivo-2026-04-18",
     "team_a": "Equipo A",
@@ -558,16 +508,6 @@
     "date": "2026-04-18",
     "time": "20:30",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
-    "id": "34602",
-    "slug": "partido-vs-en-vivo-2026-04-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby",
-    "date": "2026-04-18",
-    "time": "11:20",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
     "id": "34603",
@@ -588,26 +528,6 @@
     "date": "2026-04-18",
     "time": "15:55",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "34542",
-    "slug": "tottenham-hotspur-vs-brighton-&-hove-albion-2026-04-18",
-    "team_a": "Tottenham Hotspur",
-    "team_b": "Brighton & Hove Albion",
-    "league": "Premier League",
-    "date": "2026-04-18",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1"
-  },
-  {
-    "id": "34551",
-    "slug": "eintracht-frankfurt-vs-rb-leipzig-2026-04-18",
-    "team_a": "Eintracht Frankfurt",
-    "team_b": "RB Leipzig",
-    "league": "Bundesliga",
-    "date": "2026-04-18",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "34553",
