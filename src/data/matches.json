@@ -20,16 +20,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2mx"
   },
   {
-    "id": "34491",
-    "slug": "los-chankas-vs-atlético-grau-2026-04-17",
-    "team_a": "Los Chankas",
-    "team_b": "Atlético Grau",
-    "league": "Liga 1",
-    "date": "2026-04-17",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
-  },
-  {
     "id": "34499",
     "slug": "partido-vs-en-vivo-2026-04-17",
     "team_a": "Equipo A",
@@ -90,26 +80,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "34493",
-    "slug": "internazionale-vs-cagliari-2026-04-17",
-    "team_a": "Internazionale",
-    "team_b": "Cagliari",
-    "league": "Serie A",
-    "date": "2026-04-17",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "34528",
-    "slug": "partido-vs-en-vivo-2026-04-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa de Primera",
-    "date": "2026-04-17",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=fanatiz2"
-  },
-  {
     "id": "34497",
     "slug": "partido-vs-en-vivo-2026-04-17",
     "team_a": "Equipo A",
@@ -150,26 +120,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "34495",
-    "slug": "partido-vs-en-vivo-2026-04-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ligue 1",
-    "date": "2026-04-17",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "34503",
-    "slug": "blackburn-rovers-vs-coventry-city-2026-04-17",
-    "team_a": "Blackburn Rovers",
-    "team_b": "Coventry City",
-    "league": "Championship",
-    "date": "2026-04-17",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
     "id": "34498",
     "slug": "partido-vs-en-vivo-2026-04-17",
     "team_a": "Equipo A",
@@ -208,16 +158,6 @@
     "date": "2026-04-17",
     "time": "22:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2mx"
-  },
-  {
-    "id": "34515",
-    "slug": "partido-vs-en-vivo-2026-04-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-04-17",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
   },
   {
     "id": "34526",
