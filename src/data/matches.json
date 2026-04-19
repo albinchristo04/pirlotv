@@ -40,16 +40,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
   },
   {
-    "id": "34587",
-    "slug": "partido-vs-en-vivo-2026-04-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga MX",
-    "date": "2026-04-18",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tudn"
-  },
-  {
     "id": "34589",
     "slug": "partido-vs-en-vivo-2026-04-18",
     "team_a": "Equipo A",
@@ -80,16 +70,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
   },
   {
-    "id": "34604",
-    "slug": "partido-vs-en-vivo-2026-04-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby",
-    "date": "2026-04-18",
-    "time": "13:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
     "id": "34607",
     "slug": "partido-vs-en-vivo-2026-04-18",
     "team_a": "Equipo A",
@@ -100,26 +80,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "34555",
-    "slug": "atlético-madrid-vs-real-sociedad-2026-04-18",
-    "team_a": "Atlético Madrid",
-    "team_b": "Real Sociedad",
-    "league": "Copa del Rey",
-    "date": "2026-04-18",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=movistar"
-  },
-  {
-    "id": "34609",
-    "slug": "partido-vs-en-vivo-2026-04-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ligue 1",
-    "date": "2026-04-18",
-    "time": "14:05",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney12"
-  },
-  {
     "id": "34615",
     "slug": "partido-vs-en-vivo-2026-04-18",
     "team_a": "Equipo A",
@@ -128,16 +88,6 @@
     "date": "2026-04-18",
     "time": "18:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=mls6en"
-  },
-  {
-    "id": "34536",
-    "slug": "juan-pablo-ii-college-vs-comerciantes-unidos-2026-04-18",
-    "team_a": "Juan Pablo II College",
-    "team_b": "Comerciantes Unidos",
-    "league": "Liga 1",
-    "date": "2026-04-18",
-    "time": "15:15",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
   },
   {
     "id": "34617",
@@ -168,6 +118,16 @@
     "date": "2026-04-18",
     "time": "16:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=amazon_prime1"
+  },
+  {
+    "id": "34587",
+    "slug": "partido-vs-en-vivo-2026-04-18",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Liga MX",
+    "date": "2026-04-18",
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tudn"
   },
   {
     "id": "34581",
@@ -260,56 +220,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
   },
   {
-    "id": "34605",
-    "slug": "partido-vs-en-vivo-2026-04-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "BOXEO",
-    "date": "2026-04-18",
-    "time": "13:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "34612",
-    "slug": "partido-vs-en-vivo-2026-04-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Major League Soccer",
-    "date": "2026-04-18",
-    "time": "13:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=mls2en"
-  },
-  {
-    "id": "34531",
-    "slug": "bélgica-vs-escocia-2026-04-18",
-    "team_a": "Bélgica",
-    "team_b": "Escocia",
-    "league": "Clasificatorias para el Mundial Femenino de la FIFA",
-    "date": "2026-04-18",
-    "time": "13:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney7"
-  },
-  {
-    "id": "34543",
-    "slug": "chelsea-vs-manchester-united-2026-04-18",
-    "team_a": "Chelsea",
-    "team_b": "Manchester United",
-    "league": "Premier League",
-    "date": "2026-04-18",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "34534",
-    "slug": "partido-vs-en-vivo-2026-04-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-04-18",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney10"
-  },
-  {
     "id": "34616",
     "slug": "partido-vs-en-vivo-2026-04-18",
     "team_a": "Equipo A",
@@ -318,16 +228,6 @@
     "date": "2026-04-18",
     "time": "18:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=mls7en"
-  },
-  {
-    "id": "34580",
-    "slug": "partido-vs-en-vivo-2026-04-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Campeonato W de CONCACAF",
-    "date": "2026-04-18",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney11"
   },
   {
     "id": "34618",
@@ -380,16 +280,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
   },
   {
-    "id": "34557",
-    "slug": "instituto-vs-estudiantes-2026-04-18",
-    "team_a": "Instituto",
-    "team_b": "Estudiantes",
-    "league": "Liga Profesional",
-    "date": "2026-04-18",
-    "time": "15:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
-  },
-  {
     "id": "34559",
     "slug": "partido-vs-en-vivo-2026-04-18",
     "team_a": "Equipo A",
@@ -408,16 +298,6 @@
     "date": "2026-04-18",
     "time": "16:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "34568",
-    "slug": "partido-vs-en-vivo-2026-04-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A",
-    "date": "2026-04-18",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
   },
   {
     "id": "34569",
@@ -498,36 +378,6 @@
     "date": "2026-04-18",
     "time": "15:55",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "34578",
-    "slug": "partido-vs-en-vivo-2026-04-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "2. Bundesliga",
-    "date": "2026-04-18",
-    "time": "13:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
-  },
-  {
-    "id": "34546",
-    "slug": "roma-vs-atalanta-2026-04-18",
-    "team_a": "Roma",
-    "team_b": "Atalanta",
-    "league": "Serie A",
-    "date": "2026-04-18",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney8"
-  },
-  {
-    "id": "34532",
-    "slug": "partido-vs-en-vivo-2026-04-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Clasificatorias para el Mundial Femenino de la FIFA",
-    "date": "2026-04-18",
-    "time": "14:10",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espnmx"
   },
   {
     "id": "34537",
