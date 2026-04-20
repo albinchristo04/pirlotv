@@ -40,16 +40,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
   },
   {
-    "id": "34685",
-    "slug": "partido-vs-en-vivo-2026-04-19",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby",
-    "date": "2026-04-19",
-    "time": "14:55",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
     "id": "34646",
     "slug": "partido-vs-en-vivo-2026-04-19",
     "team_a": "Equipo A",
@@ -110,16 +100,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
   },
   {
-    "id": "34640",
-    "slug": "river-plate-vs-boca-juniors-2026-04-19",
-    "team_a": "River Plate",
-    "team_b": "Boca Juniors",
-    "league": "Liga Profesional",
-    "date": "2026-04-19",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "34676",
     "slug": "partido-vs-en-vivo-2026-04-19",
     "team_a": "Equipo A",
@@ -170,16 +150,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
   },
   {
-    "id": "34650",
-    "slug": "partido-vs-en-vivo-2026-04-19",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-04-19",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
     "id": "34656",
     "slug": "américa-de-cali-vs-millonarios-2026-04-19",
     "team_a": "América de Cali",
@@ -210,16 +180,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espnmx"
   },
   {
-    "id": "34696",
-    "slug": "partido-vs-en-vivo-2026-04-19",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga 1",
-    "date": "2026-04-19",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
-  },
-  {
     "id": "34663",
     "slug": "liverpool-vs-nacional-2026-04-19",
     "team_a": "Liverpool",
@@ -228,15 +188,5 @@
     "date": "2026-04-19",
     "time": "17:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
-  },
-  {
-    "id": "34684",
-    "slug": "partido-vs-en-vivo-2026-04-19",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-04-19",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   }
 ]
