@@ -40,16 +40,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   },
   {
-    "id": "34719",
-    "slug": "den-bosch-vs-utrecht-ii-2026-04-20",
-    "team_a": "Den Bosch",
-    "team_b": "Utrecht II",
-    "league": "Eerste Divisie",
-    "date": "2026-04-20",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
-  },
-  {
     "id": "34697",
     "slug": "crystal-palace-vs-west-ham-united-2026-04-20",
     "team_a": "Crystal Palace",
@@ -150,16 +140,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium"
   },
   {
-    "id": "34699",
-    "slug": "partido-vs-en-vivo-2026-04-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga Profesional",
-    "date": "2026-04-20",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium"
-  },
-  {
     "id": "34706",
     "slug": "once-caldas-vs-inter-bogotá-2026-04-20",
     "team_a": "Once Caldas",
@@ -198,16 +178,6 @@
     "date": "2026-04-20",
     "time": "18:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "34715",
-    "slug": "deportivo-la-coruña-vs-mirandés-2026-04-20",
-    "team_a": "Deportivo La Coruña",
-    "team_b": "Mirandés",
-    "league": "LaLiga SmartBank",
-    "date": "2026-04-20",
-    "time": "13:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
   },
   {
     "id": "34710",
