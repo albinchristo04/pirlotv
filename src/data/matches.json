@@ -1,15 +1,5 @@
 [
   {
-    "id": "34701",
-    "slug": "central-córdoba-sde-vs-platense-2026-04-20",
-    "team_a": "Central Córdoba SdE",
-    "team_b": "Platense",
-    "league": "Liga Profesional",
-    "date": "2026-04-20",
-    "time": "15:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
-  },
-  {
     "id": "34702",
     "slug": "partido-vs-en-vivo-2026-04-20",
     "team_a": "Equipo A",
@@ -28,36 +18,6 @@
     "date": "2026-04-20",
     "time": "20:30",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "34712",
-    "slug": "astillero-vs-22-de-julio-2026-04-20",
-    "team_a": "Astillero",
-    "team_b": "22 de Julio",
-    "league": "Copa Ecuador",
-    "date": "2026-04-20",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "34697",
-    "slug": "crystal-palace-vs-west-ham-united-2026-04-20",
-    "team_a": "Crystal Palace",
-    "team_b": "West Ham United",
-    "league": "Premier League",
-    "date": "2026-04-20",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
-  },
-  {
-    "id": "34700",
-    "slug": "partido-vs-en-vivo-2026-04-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga Profesional",
-    "date": "2026-04-20",
-    "time": "15:15",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium"
   },
   {
     "id": "34716",
@@ -120,16 +80,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
-    "id": "34698",
-    "slug": "lecce-vs-fiorentina-2026-04-20",
-    "team_a": "Lecce",
-    "team_b": "Fiorentina",
-    "league": "Serie A",
-    "date": "2026-04-20",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2mx"
-  },
-  {
     "id": "34704",
     "slug": "partido-vs-en-vivo-2026-04-20",
     "team_a": "Equipo A",
@@ -178,16 +128,6 @@
     "date": "2026-04-20",
     "time": "18:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "34710",
-    "slug": "partido-vs-en-vivo-2026-04-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-04-20",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
   },
   {
     "id": "34711",
