@@ -1,142 +1,22 @@
 [
   {
-    "id": "34702",
-    "slug": "partido-vs-en-vivo-2026-04-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga Profesional",
-    "date": "2026-04-20",
-    "time": "17:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
+    "id": "Barcelona-Real-Madrid-2026-04-21",
+    "slug": "barcelona-vs-real-madrid-2026-04-21",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-04-21",
+    "time": "20:00",
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
   },
   {
-    "id": "34707",
-    "slug": "atlético-nacional-vs-atlético-bucaramanga-2026-04-20",
-    "team_a": "Atlético Nacional",
-    "team_b": "Atlético Bucaramanga",
-    "league": "Categoría Primera A",
-    "date": "2026-04-20",
-    "time": "20:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "34716",
-    "slug": "partido-vs-en-vivo-2026-04-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Segunda División",
-    "date": "2026-04-20",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney7"
-  },
-  {
-    "id": "34703",
-    "slug": "partido-vs-en-vivo-2026-04-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga Profesional",
-    "date": "2026-04-20",
-    "time": "19:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
-  },
-  {
-    "id": "34705",
-    "slug": "universidad-católica-vs-unión-la-calera-2026-04-20",
-    "team_a": "Universidad Católica",
-    "team_b": "Unión La Calera",
-    "league": "Primera División",
-    "date": "2026-04-20",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "34708",
-    "slug": "partido-vs-en-vivo-2026-04-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-04-20",
-    "time": "16:15",
-    "decoded_iframe_url": ""
-  },
-  {
-    "id": "34717",
-    "slug": "flamengo-vs-bahia-2026-04-20",
-    "team_a": "Flamengo",
-    "team_b": "Bahia",
-    "league": "Brasileiro Femenino",
-    "date": "2026-04-20",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
-    "id": "34721",
-    "slug": "partido-vs-en-vivo-2026-04-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby",
-    "date": "2026-04-20",
-    "time": "17:55",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "34704",
-    "slug": "partido-vs-en-vivo-2026-04-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga Profesional",
-    "date": "2026-04-20",
-    "time": "19:45",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium"
-  },
-  {
-    "id": "34706",
-    "slug": "once-caldas-vs-inter-bogotá-2026-04-20",
-    "team_a": "Once Caldas",
-    "team_b": "Inter Bogotá",
-    "league": "Categoría Primera A",
-    "date": "2026-04-20",
-    "time": "18:20",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "34709",
-    "slug": "sportivo-ameliano-vs-nacional-asunción-2026-04-20",
-    "team_a": "Sportivo Ameliano",
-    "team_b": "Nacional Asunción",
-    "league": "Primera División",
-    "date": "2026-04-20",
-    "time": "18:30",
-    "decoded_iframe_url": ""
-  },
-  {
-    "id": "34718",
-    "slug": "partido-vs-en-vivo-2026-04-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Brasileiro Femenino",
-    "date": "2026-04-20",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
-    "id": "34722",
-    "slug": "partido-vs-en-vivo-2026-04-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB",
-    "date": "2026-04-20",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "34711",
-    "slug": "partido-vs-en-vivo-2026-04-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-04-20",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney8"
+    "id": "América-Chivas-2026-04-21",
+    "slug": "américa-vs-chivas-2026-04-21",
+    "team_a": "América",
+    "team_b": "Chivas",
+    "league": "Liga MX",
+    "date": "2026-04-21",
+    "time": "22:00",
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
