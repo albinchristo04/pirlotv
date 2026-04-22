@@ -1,35 +1,5 @@
 [
   {
-    "id": "34758",
-    "slug": "partido-vs-en-vivo-2026-04-22",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga",
-    "date": "2026-04-22",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "34759",
-    "slug": "partido-vs-en-vivo-2026-04-22",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga",
-    "date": "2026-04-22",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports2"
-  },
-  {
-    "id": "34782",
-    "slug": "partido-vs-en-vivo-2026-04-22",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Championship",
-    "date": "2026-04-22",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1pl"
-  },
-  {
     "id": "34762",
     "slug": "partido-vs-en-vivo-2026-04-22",
     "team_a": "Equipo A",
@@ -48,16 +18,6 @@
     "date": "2026-04-22",
     "time": "20:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4mx"
-  },
-  {
-    "id": "34798",
-    "slug": "partido-vs-en-vivo-2026-04-22",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis",
-    "date": "2026-04-22",
-    "time": "11:50",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
     "id": "34754",
@@ -120,16 +80,6 @@
     "decoded_iframe_url": ""
   },
   {
-    "id": "34780",
-    "slug": "partido-vs-en-vivo-2026-04-22",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Ecuador",
-    "date": "2026-04-22",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
     "id": "34785",
     "slug": "partido-vs-en-vivo-2026-04-22",
     "team_a": "Equipo A",
@@ -160,16 +110,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
   },
   {
-    "id": "34793",
-    "slug": "telstar-vs-sparta-rotterdam-2026-04-22",
-    "team_a": "Telstar",
-    "team_b": "Sparta Rotterdam",
-    "league": "Eredivisie",
-    "date": "2026-04-22",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
-  },
-  {
     "id": "34801",
     "slug": "partido-vs-en-vivo-2026-04-22",
     "team_a": "Equipo A",
@@ -180,14 +120,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "34763",
+    "id": "34780",
     "slug": "partido-vs-en-vivo-2026-04-22",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "DFB Pokal",
+    "league": "Copa Ecuador",
     "date": "2026-04-22",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   },
   {
     "id": "34756",
@@ -198,16 +138,6 @@
     "date": "2026-04-22",
     "time": "14:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "34783",
-    "slug": "partido-vs-en-vivo-2026-04-22",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa de Francia",
-    "date": "2026-04-22",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
   },
   {
     "id": "34760",
@@ -228,16 +158,6 @@
     "date": "2026-04-22",
     "time": "19:30",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
-    "id": "34752",
-    "slug": "comerciantes-unidos-vs-alianza-atlético-2026-04-22",
-    "team_a": "Comerciantes Unidos",
-    "team_b": "Alianza Atlético",
-    "league": "Liga 1",
-    "date": "2026-04-22",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
   },
   {
     "id": "34778",
@@ -320,24 +240,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
   },
   {
-    "id": "34799",
+    "id": "34783",
     "slug": "partido-vs-en-vivo-2026-04-22",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "MLB",
+    "league": "Copa de Francia",
     "date": "2026-04-22",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
-  },
-  {
-    "id": "34761",
-    "slug": "partido-vs-en-vivo-2026-04-22",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ligue 1",
-    "date": "2026-04-22",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
   },
   {
     "id": "34757",
@@ -450,16 +360,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=mls1en"
   },
   {
-    "id": "34794",
-    "slug": "partido-vs-en-vivo-2026-04-22",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Eredivisie Femenina",
-    "date": "2026-04-22",
-    "time": "11:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2_nl"
-  },
-  {
     "id": "34800",
     "slug": "partido-vs-en-vivo-2026-04-22",
     "team_a": "Equipo A",
@@ -468,5 +368,15 @@
     "date": "2026-04-22",
     "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "34831",
+    "slug": "partido-vs-en-vivo-2026-04-22",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "MLS",
+    "date": "2026-04-22",
+    "time": "18:45",
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
   }
 ]
