@@ -330,16 +330,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
   },
   {
-    "id": "34784",
-    "slug": "partido-vs-en-vivo-2026-04-22",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "AFC Champions League Two",
-    "date": "2026-04-22",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espnmx"
-  },
-  {
     "id": "34761",
     "slug": "partido-vs-en-vivo-2026-04-22",
     "team_a": "Equipo A",
@@ -468,16 +458,6 @@
     "date": "2026-04-22",
     "time": "11:45",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2_nl"
-  },
-  {
-    "id": "34797",
-    "slug": "partido-vs-en-vivo-2026-04-22",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ciclismo",
-    "date": "2026-04-22",
-    "time": "09:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
     "id": "34800",
