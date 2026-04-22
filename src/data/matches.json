@@ -30,26 +30,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
   },
   {
-    "id": "34734",
-    "slug": "botafogo-vs-chapecoense-2026-04-21",
-    "team_a": "Botafogo",
-    "team_b": "Chapecoense",
-    "league": "Copa de Brasil",
-    "date": "2026-04-21",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
-    "id": "34739",
-    "slug": "partido-vs-en-vivo-2026-04-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Ecuador",
-    "date": "2026-04-21",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
     "id": "34745",
     "slug": "querétaro-vs-cruz-azul-2026-04-21",
     "team_a": "Querétaro",
@@ -58,26 +38,6 @@
     "date": "2026-04-21",
     "time": "20:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tudn"
-  },
-  {
-    "id": "34723",
-    "slug": "brighton-&-hove-albion-vs-chelsea-2026-04-21",
-    "team_a": "Brighton & Hove Albion",
-    "team_b": "Chelsea",
-    "league": "Premier League",
-    "date": "2026-04-21",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
-  },
-  {
-    "id": "34726",
-    "slug": "real-madrid-vs-deportivo-alavés-2026-04-21",
-    "team_a": "Real Madrid",
-    "team_b": "Deportivo Alavés",
-    "league": "LaLiga",
-    "date": "2026-04-21",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espndeportes"
   },
   {
     "id": "34749",
@@ -110,16 +70,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
   },
   {
-    "id": "34741",
-    "slug": "partido-vs-en-vivo-2026-04-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa de Francia",
-    "date": "2026-04-21",
-    "time": "14:10",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
     "id": "34746",
     "slug": "partido-vs-en-vivo-2026-04-21",
     "team_a": "Equipo A",
@@ -130,26 +80,6 @@
     "decoded_iframe_url": ""
   },
   {
-    "id": "34728",
-    "slug": "internazionale-vs-como-2026-04-21",
-    "team_a": "Internazionale",
-    "team_b": "Como",
-    "league": "Copa de Italia",
-    "date": "2026-04-21",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
-  },
-  {
-    "id": "34727",
-    "slug": "girona-vs-real-betis-2026-04-21",
-    "team_a": "Girona",
-    "team_b": "Real Betis",
-    "league": "LaLiga",
-    "date": "2026-04-21",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "34735",
     "slug": "partido-vs-en-vivo-2026-04-21",
     "team_a": "Equipo A",
@@ -158,16 +88,6 @@
     "date": "2026-04-21",
     "time": "17:15",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
-    "id": "34729",
-    "slug": "partido-vs-en-vivo-2026-04-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-04-21",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
   },
   {
     "id": "34732",
@@ -188,16 +108,6 @@
     "date": "2026-04-21",
     "time": "19:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
-    "id": "34740",
-    "slug": "partido-vs-en-vivo-2026-04-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Championship",
-    "date": "2026-04-21",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   },
   {
     "id": "34743",
