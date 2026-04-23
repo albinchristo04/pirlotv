@@ -1,15 +1,5 @@
 [
   {
-    "id": "34762",
-    "slug": "partido-vs-en-vivo-2026-04-22",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa de Portugal",
-    "date": "2026-04-22",
-    "time": "14:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=foxsports\n"
-  },
-  {
     "id": "34802",
     "slug": "partido-vs-en-vivo-2026-04-22",
     "team_a": "Equipo A",
@@ -30,16 +20,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
   },
   {
-    "id": "34765",
-    "slug": "always-ready-vs-oriente-petrolero-2026-04-22",
-    "team_a": "Always Ready",
-    "team_b": "Oriente Petrolero",
-    "league": "Primera División",
-    "date": "2026-04-22",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
     "id": "34766",
     "slug": "partido-vs-en-vivo-2026-04-22",
     "team_a": "Equipo A",
@@ -58,16 +38,6 @@
     "date": "2026-04-22",
     "time": "20:30",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "34773",
-    "slug": "bahia-vs-remo-2026-04-22",
-    "team_a": "Bahia",
-    "team_b": "Remo",
-    "league": "Copa de Brasil",
-    "date": "2026-04-22",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=sportv3"
   },
   {
     "id": "34777",
@@ -120,34 +90,24 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "34780",
+    "id": "34832",
     "slug": "partido-vs-en-vivo-2026-04-22",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Copa Ecuador",
+    "league": "Liga Nacional",
     "date": "2026-04-22",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
+    "time": "16:00",
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
   },
   {
-    "id": "34756",
-    "slug": "burnley-vs-manchester-city-2026-04-22",
-    "team_a": "Burnley",
-    "team_b": "Manchester City",
-    "league": "Premier League",
+    "id": "34773",
+    "slug": "bahia-vs-remo-2026-04-22",
+    "team_a": "Bahia",
+    "team_b": "Remo",
+    "league": "Copa de Brasil",
     "date": "2026-04-22",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "34760",
-    "slug": "partido-vs-en-vivo-2026-04-22",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga",
-    "date": "2026-04-22",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=sportv3"
   },
   {
     "id": "34779",
@@ -220,16 +180,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
   },
   {
-    "id": "34774",
-    "slug": "partido-vs-en-vivo-2026-04-22",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa de Brasil",
-    "date": "2026-04-22",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
     "id": "34792",
     "slug": "deportivo-saprissa-vs-guadalupe-2026-04-22",
     "team_a": "Deportivo Saprissa",
@@ -240,34 +190,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
   },
   {
-    "id": "34783",
+    "id": "34774",
     "slug": "partido-vs-en-vivo-2026-04-22",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Copa de Francia",
+    "league": "Copa de Brasil",
     "date": "2026-04-22",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-  },
-  {
-    "id": "34757",
-    "slug": "afc-bournemouth-vs-leeds-united-2026-04-22",
-    "team_a": "AFC Bournemouth",
-    "team_b": "Leeds United",
-    "league": "Premier League",
-    "date": "2026-04-22",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2pl"
-  },
-  {
-    "id": "34764",
-    "slug": "partido-vs-en-vivo-2026-04-22",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa de Italia",
-    "date": "2026-04-22",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
   },
   {
     "id": "34775",
@@ -288,16 +218,6 @@
     "date": "2026-04-22",
     "time": "20:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=azteca7"
-  },
-  {
-    "id": "34753",
-    "slug": "atlético-grau-vs-sporting-cristal-2026-04-22",
-    "team_a": "Atlético Grau",
-    "team_b": "Sporting Cristal",
-    "league": "Liga 1",
-    "date": "2026-04-22",
-    "time": "15:15",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
   },
   {
     "id": "34768",
