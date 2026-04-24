@@ -10,16 +10,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
   },
   {
-    "id": "34809",
-    "slug": "stuttgart-vs-freiburg-2026-04-23",
-    "team_a": "Stuttgart",
-    "team_b": "Freiburg",
-    "league": "DFB Pokal",
-    "date": "2026-04-23",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
     "id": "34815",
     "slug": "partido-vs-en-vivo-2026-04-23",
     "team_a": "Equipo A",
@@ -68,16 +58,6 @@
     "date": "2026-04-23",
     "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3mx"
-  },
-  {
-    "id": "34807",
-    "slug": "real-oviedo-vs-villarreal-2026-04-23",
-    "team_a": "Real Oviedo",
-    "team_b": "Villarreal",
-    "league": "LaLiga",
-    "date": "2026-04-23",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "34817",
@@ -140,36 +120,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
-    "id": "34822",
-    "slug": "partido-vs-en-vivo-2026-04-23",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "League Two",
-    "date": "2026-04-23",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1pl"
-  },
-  {
-    "id": "34825",
-    "slug": "psv-vs-pec-zwolle-2026-04-23",
-    "team_a": "PSV",
-    "team_b": "PEC Zwolle",
-    "league": "Eredivisie",
-    "date": "2026-04-23",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4mx"
-  },
-  {
-    "id": "34804",
-    "slug": "partido-vs-en-vivo-2026-04-23",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga 1",
-    "date": "2026-04-23",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
-  },
-  {
     "id": "34818",
     "slug": "palmeiras-vs-jacuipense-2026-04-23",
     "team_a": "Palmeiras",
@@ -178,25 +128,5 @@
     "date": "2026-04-23",
     "time": "17:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=amazon_prime1"
-  },
-  {
-    "id": "34808",
-    "slug": "partido-vs-en-vivo-2026-04-23",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa de Portugal",
-    "date": "2026-04-23",
-    "time": "14:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=foxsports\n"
-  },
-  {
-    "id": "34811",
-    "slug": "partido-vs-en-vivo-2026-04-23",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-04-23",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
   }
 ]
