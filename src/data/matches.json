@@ -1,25 +1,5 @@
 [
   {
-    "id": "34869",
-    "slug": "partido-vs-en-vivo-2026-04-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "2. Bundesliga",
-    "date": "2026-04-24",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1"
-  },
-  {
-    "id": "34850",
-    "slug": "kaiserslautern-vs-eintracht-braunschweig-2026-04-24",
-    "team_a": "Kaiserslautern",
-    "team_b": "Eintracht Braunschweig",
-    "league": "2. Bundesliga",
-    "date": "2026-04-24",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
-  },
-  {
     "id": "34837",
     "slug": "partido-vs-en-vivo-2026-04-24",
     "team_a": "Equipo A",
