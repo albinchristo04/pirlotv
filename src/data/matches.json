@@ -220,16 +220,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2_nl"
   },
   {
-    "id": "34863",
-    "slug": "partido-vs-en-vivo-2026-04-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis",
-    "date": "2026-04-24",
-    "time": "08:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "34866",
     "slug": "partido-vs-en-vivo-2026-04-24",
     "team_a": "Equipo A",
