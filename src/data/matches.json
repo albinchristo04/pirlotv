@@ -1,25 +1,5 @@
 [
   {
-    "id": "34837",
-    "slug": "partido-vs-en-vivo-2026-04-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ligue 1",
-    "date": "2026-04-24",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
-  },
-  {
-    "id": "34833",
-    "slug": "partido-vs-en-vivo-2026-04-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Premier League",
-    "date": "2026-04-24",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1pl"
-  },
-  {
     "id": "34862",
     "slug": "partido-vs-en-vivo-2026-04-24",
     "team_a": "Equipo A",
@@ -80,36 +60,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "34835",
-    "slug": "napoli-vs-cremonese-2026-04-24",
-    "team_a": "Napoli",
-    "team_b": "Cremonese",
-    "league": "Serie A",
-    "date": "2026-04-24",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "34834",
-    "slug": "partido-vs-en-vivo-2026-04-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga",
-    "date": "2026-04-24",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "34848",
-    "slug": "leicester-city-vs-millwall-2026-04-24",
-    "team_a": "Leicester City",
-    "team_b": "Millwall",
-    "league": "Championship",
-    "date": "2026-04-24",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2pl"
-  },
-  {
     "id": "34870",
     "slug": "partido-vs-en-vivo-2026-04-24",
     "team_a": "Equipo A",
@@ -160,16 +110,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=azteca7"
   },
   {
-    "id": "34838",
-    "slug": "partido-vs-en-vivo-2026-04-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga Profesional",
-    "date": "2026-04-24",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium"
-  },
-  {
     "id": "34845",
     "slug": "partido-vs-en-vivo-2026-04-24",
     "team_a": "Equipo A",
@@ -208,16 +148,6 @@
     "date": "2026-04-24",
     "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "34851",
-    "slug": "bolivia-vs-chile-2026-04-24",
-    "team_a": "Bolivia",
-    "team_b": "Chile",
-    "league": "Sudamericano Sub-17 Femenino",
-    "date": "2026-04-24",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
   },
   {
     "id": "34840",
