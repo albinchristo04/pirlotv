@@ -30,16 +30,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "34913",
-    "slug": "deportivo-llacuabamba-vs-deportiva-agropecuaria-2026-04-25",
-    "team_a": "Deportivo Llacuabamba",
-    "team_b": "Deportiva Agropecuaria",
-    "league": "Liga 2",
-    "date": "2026-04-25",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
-  },
-  {
     "id": "34938",
     "slug": "partido-vs-en-vivo-2026-04-25",
     "team_a": "Equipo A",
@@ -210,26 +200,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
   },
   {
-    "id": "34894",
-    "slug": "angers-sco-vs-psg-2026-04-25",
-    "team_a": "Angers SCO",
-    "team_b": "PSG",
-    "league": "Ligue 1",
-    "date": "2026-04-25",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "34933",
-    "slug": "partido-vs-en-vivo-2026-04-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Eredivisie",
-    "date": "2026-04-25",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2_nl"
-  },
-  {
     "id": "34915",
     "slug": "deportivo-maldonado-vs-albion-2026-04-25",
     "team_a": "Deportivo Maldonado",
@@ -330,16 +300,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
   },
   {
-    "id": "34932",
-    "slug": "heerenveen-vs-fortuna-sittard-2026-04-25",
-    "team_a": "Heerenveen",
-    "team_b": "Fortuna Sittard",
-    "league": "Eredivisie",
-    "date": "2026-04-25",
-    "time": "11:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
-  },
-  {
     "id": "34906",
     "slug": "são-paulo-vs-mirassol-2026-04-25",
     "team_a": "São Paulo",
@@ -400,16 +360,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "34872",
-    "slug": "partido-vs-en-vivo-2026-04-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga 1",
-    "date": "2026-04-25",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
-  },
-  {
     "id": "34899",
     "slug": "partido-vs-en-vivo-2026-04-25",
     "team_a": "Equipo A",
@@ -458,16 +408,6 @@
     "date": "2026-04-25",
     "time": "20:30",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "34940",
-    "slug": "partido-vs-en-vivo-2026-04-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Segunda División",
-    "date": "2026-04-25",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
   },
   {
     "id": "34886",
