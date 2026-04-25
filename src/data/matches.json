@@ -130,36 +130,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
   },
   {
-    "id": "34925",
-    "slug": "partido-vs-en-vivo-2026-04-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Women's Champions League",
-    "date": "2026-04-25",
-    "time": "11:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "34882",
-    "slug": "partido-vs-en-vivo-2026-04-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga",
-    "date": "2026-04-25",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "34892",
-    "slug": "partido-vs-en-vivo-2026-04-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Bundesliga",
-    "date": "2026-04-25",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney20"
-  },
-  {
     "id": "34897",
     "slug": "estudiantes-vs-talleres-córdoba-2026-04-25",
     "team_a": "Estudiantes",
@@ -340,16 +310,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=universo"
   },
   {
-    "id": "34953",
-    "slug": "partido-vs-en-vivo-2026-04-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NFL Draft – Día #3",
-    "date": "2026-04-25",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
-  },
-  {
     "id": "34954",
     "slug": "partido-vs-en-vivo-2026-04-25",
     "team_a": "Equipo A",
@@ -388,16 +348,6 @@
     "date": "2026-04-25",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
-    "id": "34936",
-    "slug": "partido-vs-en-vivo-2026-04-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-04-25",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
   },
   {
     "id": "34942",
@@ -508,46 +458,6 @@
     "date": "2026-04-25",
     "time": "20:30",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "34885",
-    "slug": "bologna-vs-roma-2026-04-25",
-    "team_a": "Bologna",
-    "team_b": "Roma",
-    "league": "Serie A",
-    "date": "2026-04-25",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "34896",
-    "slug": "manchester-city-vs-southampton-2026-04-25",
-    "team_a": "Manchester City",
-    "team_b": "Southampton",
-    "league": "FA Cup",
-    "date": "2026-04-25",
-    "time": "11:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1pl"
-  },
-  {
-    "id": "34924",
-    "slug": "al-ahli-vs-machida-zelvia-2026-04-25",
-    "team_a": "Al-Ahli",
-    "team_b": "Machida Zelvia",
-    "league": "AFC Champions League Elite",
-    "date": "2026-04-25",
-    "time": "11:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney19"
-  },
-  {
-    "id": "34879",
-    "slug": "arsenal-vs-newcastle-united-2026-04-25",
-    "team_a": "Arsenal",
-    "team_b": "Newcastle United",
-    "league": "Premier League",
-    "date": "2026-04-25",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2pl"
   },
   {
     "id": "34940",
