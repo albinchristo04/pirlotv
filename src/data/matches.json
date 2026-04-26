@@ -200,26 +200,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
   },
   {
-    "id": "35028",
-    "slug": "partido-vs-en-vivo-2026-04-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MotoGP – GP Estrella Galicia – Moto3 / Moto2 / MotoGP",
-    "date": "2026-04-26",
-    "time": "04:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "35029",
-    "slug": "partido-vs-en-vivo-2026-04-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ciclismo – Liege-Bastogne – Liege – Masculino",
-    "date": "2026-04-26",
-    "time": "05:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
     "id": "35032",
     "slug": "partido-vs-en-vivo-2026-04-26",
     "team_a": "Equipo A",
