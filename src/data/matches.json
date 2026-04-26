@@ -50,16 +50,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "id": "34934",
-    "slug": "partido-vs-en-vivo-2026-04-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Eredivisie",
-    "date": "2026-04-25",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
-  },
-  {
     "id": "34944",
     "slug": "toluca-vs-león-2026-04-25",
     "team_a": "Toluca",
@@ -110,36 +100,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
   },
   {
-    "id": "34900",
-    "slug": "partido-vs-en-vivo-2026-04-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-04-25",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "34897",
-    "slug": "estudiantes-vs-talleres-córdoba-2026-04-25",
-    "team_a": "Estudiantes",
-    "team_b": "Talleres Córdoba",
-    "league": "Liga Profesional",
-    "date": "2026-04-25",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
-  },
-  {
-    "id": "34926",
-    "slug": "uruguay-vs-perú-2026-04-25",
-    "team_a": "Uruguay",
-    "team_b": "Perú",
-    "league": "Sudamericano Sub-17 Femenino",
-    "date": "2026-04-25",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-  },
-  {
     "id": "34905",
     "slug": "partido-vs-en-vivo-2026-04-25",
     "team_a": "Equipo A",
@@ -148,16 +108,6 @@
     "date": "2026-04-25",
     "time": "16:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere3"
-  },
-  {
-    "id": "34895",
-    "slug": "partido-vs-en-vivo-2026-04-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ligue 1",
-    "date": "2026-04-25",
-    "time": "14:05",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "34898",
@@ -180,16 +130,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
   },
   {
-    "id": "34909",
-    "slug": "atlético-bucaramanga-vs-jaguares-de-córdoba-2026-04-25",
-    "team_a": "Atlético Bucaramanga",
-    "team_b": "Jaguares de Córdoba",
-    "league": "Categoría Primera A",
-    "date": "2026-04-25",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
     "id": "34911",
     "slug": "partido-vs-en-vivo-2026-04-25",
     "team_a": "Equipo A",
@@ -198,36 +138,6 @@
     "date": "2026-04-25",
     "time": "18:10",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "34915",
-    "slug": "deportivo-maldonado-vs-albion-2026-04-25",
-    "team_a": "Deportivo Maldonado",
-    "team_b": "Albion",
-    "league": "Primera División",
-    "date": "2026-04-25",
-    "time": "13:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
-  },
-  {
-    "id": "34923",
-    "slug": "darmstadt-98-vs-elversberg-2026-04-25",
-    "team_a": "Darmstadt 98",
-    "team_b": "Elversberg",
-    "league": "2. Bundesliga",
-    "date": "2026-04-25",
-    "time": "13:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
-  },
-  {
-    "id": "34883",
-    "slug": "atlético-madrid-vs-athletic-club-2026-04-25",
-    "team_a": "Atlético Madrid",
-    "team_b": "Athletic Club",
-    "league": "LaLiga",
-    "date": "2026-04-25",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   },
   {
     "id": "34929",
@@ -248,16 +158,6 @@
     "date": "2026-04-25",
     "time": "22:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3mx"
-  },
-  {
-    "id": "34937",
-    "slug": "málaga-vs-cd-castellon-2026-04-25",
-    "team_a": "Málaga",
-    "team_b": "CD Castellon",
-    "league": "LaLiga SmartBank",
-    "date": "2026-04-25",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
   },
   {
     "id": "34941",
@@ -380,16 +280,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere1"
   },
   {
-    "id": "34907",
-    "slug": "partido-vs-en-vivo-2026-04-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-04-25",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
     "id": "34910",
     "slug": "deportivo-pereira-vs-atlético-nacional-2026-04-25",
     "team_a": "Deportivo Pereira",
@@ -408,15 +298,5 @@
     "date": "2026-04-25",
     "time": "20:30",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "34886",
-    "slug": "partido-vs-en-vivo-2026-04-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A",
-    "date": "2026-04-25",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4mx"
   }
 ]
