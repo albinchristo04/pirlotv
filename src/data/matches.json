@@ -10,26 +10,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium"
   },
   {
-    "id": "34958",
-    "slug": "partido-vs-en-vivo-2026-04-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A",
-    "date": "2026-04-26",
-    "time": "05:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "34961",
-    "slug": "partido-vs-en-vivo-2026-04-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Bundesliga 2",
-    "date": "2026-04-26",
-    "time": "06:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=foxsports\n"
-  },
-  {
     "id": "34990",
     "slug": "partido-vs-en-vivo-2026-04-26",
     "team_a": "Equipo A",
@@ -48,16 +28,6 @@
     "date": "2026-04-26",
     "time": "11:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "34963",
-    "slug": "partido-vs-en-vivo-2026-04-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Women's Super League",
-    "date": "2026-04-26",
-    "time": "06:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2pl"
   },
   {
     "id": "34964",
@@ -190,16 +160,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=canal5"
   },
   {
-    "id": "35025",
-    "slug": "heracles-vs-volendam-2026-04-26",
-    "team_a": "Heracles",
-    "team_b": "Volendam",
-    "league": "Eredivisie",
-    "date": "2026-04-26",
-    "time": "07:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
-  },
-  {
     "id": "35032",
     "slug": "partido-vs-en-vivo-2026-04-26",
     "team_a": "Equipo A",
@@ -268,16 +228,6 @@
     "date": "2026-04-26",
     "time": "14:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "34959",
-    "slug": "partido-vs-en-vivo-2026-04-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Bundesliga 2",
-    "date": "2026-04-26",
-    "time": "06:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
   },
   {
     "id": "34979",
@@ -400,16 +350,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=canal5"
   },
   {
-    "id": "35026",
-    "slug": "partido-vs-en-vivo-2026-04-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Eredivisie Femenina",
-    "date": "2026-04-26",
-    "time": "05:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
-  },
-  {
     "id": "35030",
     "slug": "partido-vs-en-vivo-2026-04-26",
     "team_a": "Equipo A",
@@ -440,36 +380,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "34962",
-    "slug": "partido-vs-en-vivo-2026-04-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Championship",
-    "date": "2026-04-26",
-    "time": "06:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1pl"
-  },
-  {
-    "id": "34969",
-    "slug": "partido-vs-en-vivo-2026-04-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga",
-    "date": "2026-04-26",
-    "time": "07:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "35011",
-    "slug": "partido-vs-en-vivo-2026-04-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-04-26",
-    "time": "07:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
     "id": "34978",
     "slug": "lorient-vs-strasbourg-2026-04-26",
     "team_a": "Lorient",
@@ -498,16 +408,6 @@
     "date": "2026-04-26",
     "time": "09:15",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "34960",
-    "slug": "partido-vs-en-vivo-2026-04-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Bundesliga 2",
-    "date": "2026-04-26",
-    "time": "06:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
   },
   {
     "id": "34965",
@@ -708,16 +608,6 @@
     "date": "2026-04-26",
     "time": "18:15",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
-    "id": "35024",
-    "slug": "excelsior-vs-utrecht-2026-04-26",
-    "team_a": "Excelsior",
-    "team_b": "Utrecht",
-    "league": "Eredivisie",
-    "date": "2026-04-26",
-    "time": "05:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2_nl"
   },
   {
     "id": "35027",
