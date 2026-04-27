@@ -1,45 +1,5 @@
 [
   {
-    "id": "34990",
-    "slug": "partido-vs-en-vivo-2026-04-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-04-26",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "34968",
-    "slug": "partido-vs-en-vivo-2026-04-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga 1",
-    "date": "2026-04-26",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
-  },
-  {
-    "id": "34999",
-    "slug": "everton-vs-cobresal-2026-04-26",
-    "team_a": "Everton",
-    "team_b": "Cobresal",
-    "league": "Primera División",
-    "date": "2026-04-26",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "35001",
-    "slug": "partido-vs-en-vivo-2026-04-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Categoría Primera A",
-    "date": "2026-04-26",
-    "time": "18:10",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
     "id": "35002",
     "slug": "inter-bogotá-vs-boyacá-chicó-2026-04-26",
     "team_a": "Inter Bogotá",
@@ -48,46 +8,6 @@
     "date": "2026-04-26",
     "time": "20:20",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "35036",
-    "slug": "partido-vs-en-vivo-2026-04-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby",
-    "date": "2026-04-26",
-    "time": "15:55",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "35005",
-    "slug": "partido-vs-en-vivo-2026-04-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-04-26",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney7"
-  },
-  {
-    "id": "34987",
-    "slug": "partido-vs-en-vivo-2026-04-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga Profesional",
-    "date": "2026-04-26",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium"
-  },
-  {
-    "id": "35022",
-    "slug": "partido-vs-en-vivo-2026-04-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga MX",
-    "date": "2026-04-26",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=canal5"
   },
   {
     "id": "35010",
@@ -100,26 +20,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2mx"
   },
   {
-    "id": "35037",
-    "slug": "partido-vs-en-vivo-2026-04-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB",
-    "date": "2026-04-26",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "34995",
-    "slug": "atlético-mineiro-vs-flamengo-2026-04-26",
-    "team_a": "Atlético Mineiro",
-    "team_b": "Flamengo",
-    "league": "Brasileirão",
-    "date": "2026-04-26",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
     "id": "35023",
     "slug": "partido-vs-en-vivo-2026-04-26",
     "team_a": "Equipo A",
@@ -128,105 +28,5 @@
     "date": "2026-04-26",
     "time": "20:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=canal5"
-  },
-  {
-    "id": "34996",
-    "slug": "partido-vs-en-vivo-2026-04-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Brasileirão",
-    "date": "2026-04-26",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere3"
-  },
-  {
-    "id": "35008",
-    "slug": "bolivia-vs-paraguay-2026-04-26",
-    "team_a": "Bolivia",
-    "team_b": "Paraguay",
-    "league": "Sudamericano Sub-17 Femenino",
-    "date": "2026-04-26",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-  },
-  {
-    "id": "34989",
-    "slug": "partido-vs-en-vivo-2026-04-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-04-26",
-    "time": "16:15",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "34993",
-    "slug": "athletico-pr-vs-vitória-2026-04-26",
-    "team_a": "Athletico-PR",
-    "team_b": "Vitória",
-    "league": "Brasileirão",
-    "date": "2026-04-26",
-    "time": "16:30",
-    "decoded_iframe_url": ""
-  },
-  {
-    "id": "35000",
-    "slug": "rionegro-águilas-vs-once-caldas-2026-04-26",
-    "team_a": "Rionegro Águilas",
-    "team_b": "Once Caldas",
-    "league": "Categoría Primera A",
-    "date": "2026-04-26",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "35020",
-    "slug": "municipal-liberia-vs-alajuelense-2026-04-26",
-    "team_a": "Municipal Liberia",
-    "team_b": "Alajuelense",
-    "league": "Primera División",
-    "date": "2026-04-26",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
-  },
-  {
-    "id": "35021",
-    "slug": "motagua-vs-choloma-2026-04-26",
-    "team_a": "Motagua",
-    "team_b": "Choloma",
-    "league": "Liga Nacional",
-    "date": "2026-04-26",
-    "time": "18:15",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
-    "id": "35038",
-    "slug": "partido-vs-en-vivo-2026-04-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NHL",
-    "date": "2026-04-26",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "34994",
-    "slug": "rb-bragantino-vs-palmeiras-2026-04-26",
-    "team_a": "RB Bragantino",
-    "team_b": "Palmeiras",
-    "league": "Brasileirão",
-    "date": "2026-04-26",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere2"
-  },
-  {
-    "id": "35009",
-    "slug": "partido-vs-en-vivo-2026-04-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga de Expansión MX",
-    "date": "2026-04-26",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3mx"
   }
 ]
