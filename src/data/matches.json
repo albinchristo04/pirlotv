@@ -20,26 +20,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
   },
   {
-    "id": "35042",
-    "slug": "partido-vs-en-vivo-2026-04-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga",
-    "date": "2026-04-27",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "35044",
-    "slug": "lazio-vs-udinese-2026-04-27",
-    "team_a": "Lazio",
-    "team_b": "Udinese",
-    "league": "Serie A",
-    "date": "2026-04-27",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3mx"
-  },
-  {
     "id": "35047",
     "slug": "partido-vs-en-vivo-2026-04-27",
     "team_a": "Equipo A",
@@ -48,26 +28,6 @@
     "date": "2026-04-27",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "35051",
-    "slug": "uruguay-vs-brasil-2026-04-27",
-    "team_a": "Uruguay",
-    "team_b": "Brasil",
-    "league": "Sudamericano Sub-17 Femenino",
-    "date": "2026-04-27",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "35055",
-    "slug": "partido-vs-en-vivo-2026-04-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Segunda División",
-    "date": "2026-04-27",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "35057",
@@ -100,14 +60,44 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=beinsport_xtra_espanol"
   },
   {
-    "id": "35060",
+    "id": "35044",
+    "slug": "lazio-vs-udinese-2026-04-27",
+    "team_a": "Lazio",
+    "team_b": "Udinese",
+    "league": "Serie A",
+    "date": "2026-04-27",
+    "time": "13:45",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3mx"
+  },
+  {
+    "id": "35042",
     "slug": "partido-vs-en-vivo-2026-04-27",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Rugby",
+    "league": "LaLiga",
     "date": "2026-04-27",
-    "time": "09:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "35051",
+    "slug": "uruguay-vs-brasil-2026-04-27",
+    "team_a": "Uruguay",
+    "team_b": "Brasil",
+    "league": "Sudamericano Sub-17 Femenino",
+    "date": "2026-04-27",
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
+  },
+  {
+    "id": "35055",
+    "slug": "partido-vs-en-vivo-2026-04-27",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Segunda División",
+    "date": "2026-04-27",
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
   },
   {
     "id": "35040",
@@ -140,16 +130,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
   },
   {
-    "id": "35048",
-    "slug": "partido-vs-en-vivo-2026-04-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-04-27",
-    "time": "17:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "35049",
     "slug": "partido-vs-en-vivo-2026-04-27",
     "team_a": "Equipo A",
@@ -180,6 +160,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
+    "id": "35048",
+    "slug": "partido-vs-en-vivo-2026-04-27",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Primera División",
+    "date": "2026-04-27",
+    "time": "17:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney7"
+  },
+  {
     "id": "35041",
     "slug": "partido-vs-en-vivo-2026-04-27",
     "team_a": "Equipo A",
@@ -187,7 +177,17 @@
     "league": "Premier League",
     "date": "2026-04-27",
     "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1pl"
+  },
+  {
+    "id": "35050",
+    "slug": "venezuela-vs-ecuador-2026-04-27",
+    "team_a": "Venezuela",
+    "team_b": "Ecuador",
+    "league": "Sudamericano Sub-17 Femenino",
+    "date": "2026-04-27",
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
   },
   {
     "id": "35046",
@@ -198,26 +198,6 @@
     "date": "2026-04-27",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium"
-  },
-  {
-    "id": "35050",
-    "slug": "venezuela-vs-ecuador-2026-04-27",
-    "team_a": "Venezuela",
-    "team_b": "Ecuador",
-    "league": "Sudamericano Sub-17 Femenino",
-    "date": "2026-04-27",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "35059",
-    "slug": "partido-vs-en-vivo-2026-04-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis",
-    "date": "2026-04-27",
-    "time": "08:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "35062",
