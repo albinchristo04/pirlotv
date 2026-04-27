@@ -1,15 +1,5 @@
 [
   {
-    "id": "35043",
-    "slug": "cagliari-vs-atalanta-2026-04-27",
-    "team_a": "Cagliari",
-    "team_b": "Atalanta",
-    "league": "Serie A",
-    "date": "2026-04-27",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
     "id": "35039",
     "slug": "adt-vs-los-chankas-2026-04-27",
     "team_a": "ADT",
@@ -28,46 +18,6 @@
     "date": "2026-04-27",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "35057",
-    "slug": "bogotá-vs-unión-magdalena-2026-04-27",
-    "team_a": "Bogotá",
-    "team_b": "Unión Magdalena",
-    "league": "Primera B",
-    "date": "2026-04-27",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=winsports2"
-  },
-  {
-    "id": "35058",
-    "slug": "barranquilla-vs-real-cartagena-2026-04-27",
-    "team_a": "Barranquilla",
-    "team_b": "Real Cartagena",
-    "league": "Primera B",
-    "date": "2026-04-27",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
-  },
-  {
-    "id": "35044",
-    "slug": "lazio-vs-udinese-2026-04-27",
-    "team_a": "Lazio",
-    "team_b": "Udinese",
-    "league": "Serie A",
-    "date": "2026-04-27",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3mx"
-  },
-  {
-    "id": "35042",
-    "slug": "partido-vs-en-vivo-2026-04-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga",
-    "date": "2026-04-27",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
     "id": "35051",
@@ -90,16 +40,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
   },
   {
-    "id": "35063",
-    "slug": "partido-vs-en-vivo-2026-04-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Super Lig",
-    "date": "2026-04-27",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
-  },
-  {
     "id": "35066",
     "slug": "partido-vs-en-vivo-2026-04-27",
     "team_a": "Equipo A",
@@ -108,6 +48,26 @@
     "date": "2026-04-27",
     "time": "20:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2mx"
+  },
+  {
+    "id": "35057",
+    "slug": "bogotá-vs-unión-magdalena-2026-04-27",
+    "team_a": "Bogotá",
+    "team_b": "Unión Magdalena",
+    "league": "Primera B",
+    "date": "2026-04-27",
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=winsports2"
+  },
+  {
+    "id": "35058",
+    "slug": "barranquilla-vs-real-cartagena-2026-04-27",
+    "team_a": "Barranquilla",
+    "team_b": "Real Cartagena",
+    "league": "Primera B",
+    "date": "2026-04-27",
+    "time": "19:30",
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
   },
   {
     "id": "35040",
@@ -120,16 +80,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
   },
   {
-    "id": "35064",
-    "slug": "beşiktaş-vs-fatih-karagümrük-2026-04-27",
-    "team_a": "Beşiktaş",
-    "team_b": "Fatih Karagümrük",
-    "league": "Super Lig",
-    "date": "2026-04-27",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=foxsports2"
-  },
-  {
     "id": "35045",
     "slug": "partido-vs-en-vivo-2026-04-27",
     "team_a": "Equipo A",
@@ -138,16 +88,6 @@
     "date": "2026-04-27",
     "time": "16:45",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
-  },
-  {
-    "id": "35052",
-    "slug": "cádiz-vs-las-palmas-2026-04-27",
-    "team_a": "Cádiz",
-    "team_b": "Las Palmas",
-    "league": "LaLiga SmartBank",
-    "date": "2026-04-27",
-    "time": "13:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
   },
   {
     "id": "35048",
@@ -218,15 +158,5 @@
     "date": "2026-04-27",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espnmx"
-  },
-  {
-    "id": "35041",
-    "slug": "partido-vs-en-vivo-2026-04-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Premier League",
-    "date": "2026-04-27",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1pl"
   }
 ]
