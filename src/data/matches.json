@@ -1,35 +1,5 @@
 [
   {
-    "id": "35047",
-    "slug": "partido-vs-en-vivo-2026-04-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-04-27",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "35051",
-    "slug": "uruguay-vs-brasil-2026-04-27",
-    "team_a": "Uruguay",
-    "team_b": "Brasil",
-    "league": "Sudamericano Sub-17 Femenino",
-    "date": "2026-04-27",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-  },
-  {
-    "id": "35055",
-    "slug": "partido-vs-en-vivo-2026-04-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Segunda División",
-    "date": "2026-04-27",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
-  },
-  {
     "id": "35066",
     "slug": "partido-vs-en-vivo-2026-04-27",
     "team_a": "Equipo A",
@@ -38,16 +8,6 @@
     "date": "2026-04-27",
     "time": "20:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2mx"
-  },
-  {
-    "id": "35057",
-    "slug": "bogotá-vs-unión-magdalena-2026-04-27",
-    "team_a": "Bogotá",
-    "team_b": "Unión Magdalena",
-    "league": "Primera B",
-    "date": "2026-04-27",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=winsports2"
   },
   {
     "id": "35058",
@@ -60,46 +20,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
   },
   {
-    "id": "35040",
-    "slug": "partido-vs-en-vivo-2026-04-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga 1",
-    "date": "2026-04-27",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
-  },
-  {
-    "id": "35045",
-    "slug": "partido-vs-en-vivo-2026-04-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga Profesional",
-    "date": "2026-04-27",
-    "time": "16:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
-  },
-  {
-    "id": "35048",
-    "slug": "partido-vs-en-vivo-2026-04-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-04-27",
-    "time": "17:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney7"
-  },
-  {
-    "id": "35061",
-    "slug": "partido-vs-en-vivo-2026-04-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NHL",
-    "date": "2026-04-27",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
     "id": "35067",
     "slug": "partido-vs-en-vivo-2026-04-27",
     "team_a": "Equipo A",
@@ -107,36 +27,6 @@
     "league": "NBA",
     "date": "2026-04-27",
     "time": "21:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espnmx"
-  },
-  {
-    "id": "35062",
-    "slug": "partido-vs-en-vivo-2026-04-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB",
-    "date": "2026-04-27",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "35046",
-    "slug": "huracán-vs-argentinos-juniors-2026-04-27",
-    "team_a": "Huracán",
-    "team_b": "Argentinos Juniors",
-    "league": "Liga Profesional",
-    "date": "2026-04-27",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium"
-  },
-  {
-    "id": "35065",
-    "slug": "partido-vs-en-vivo-2026-04-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-04-27",
-    "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espnmx"
   }
 ]
