@@ -130,16 +130,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "35068",
-    "slug": "partido-vs-en-vivo-2026-04-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Champions League",
-    "date": "2026-04-28",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "35077",
     "slug": "partido-vs-en-vivo-2026-04-28",
     "team_a": "Equipo A",
@@ -148,6 +138,16 @@
     "date": "2026-04-28",
     "time": "17:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "35068",
+    "slug": "partido-vs-en-vivo-2026-04-28",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "UEFA Champions League",
+    "date": "2026-04-28",
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=foxsports\n"
   },
   {
     "id": "35072",
