@@ -10,26 +10,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "35082",
-    "slug": "southampton-vs-ipswich-town-2026-04-28",
-    "team_a": "Southampton",
-    "team_b": "Ipswich Town",
-    "league": "Championship",
-    "date": "2026-04-28",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1pl"
-  },
-  {
-    "id": "35086",
-    "slug": "partido-vs-en-vivo-2026-04-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Pro League",
-    "date": "2026-04-28",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
     "id": "35069",
     "slug": "partido-vs-en-vivo-2026-04-28",
     "team_a": "Equipo A",
