@@ -20,6 +20,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1pl"
   },
   {
+    "id": "35086",
+    "slug": "partido-vs-en-vivo-2026-04-28",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Pro League",
+    "date": "2026-04-28",
+    "time": "13:00",
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
+  },
+  {
     "id": "35069",
     "slug": "partido-vs-en-vivo-2026-04-28",
     "team_a": "Equipo A",
@@ -48,16 +58,6 @@
     "date": "2026-04-28",
     "time": "19:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
-  },
-  {
-    "id": "35086",
-    "slug": "partido-vs-en-vivo-2026-04-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Pro League",
-    "date": "2026-04-28",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
   },
   {
     "id": "35070",
@@ -147,7 +147,7 @@
     "league": "UEFA Champions League",
     "date": "2026-04-28",
     "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=foxsports\n"
+    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9tYWcwMS50dngucHJkLnR2Lm9kaWRvLm5sL1BMVFYvODYvMjI0LzMyMjEyNDE1OTAvMzIyMTI0MTU5MC5tcGQ/em9uZW9mZnNldD0wJmRldmticHM9MS03MDAwJnNlcnZpY2V0eXBlPTEmaWNwaWQ9ODYmYWNjb3VudHR5cGU9MSZsaW1pdGZsdXg9LTEmbGltaXRkdXI9LTEmdGVuYW50SWQ9MzEwMyZhY2NvdW50aW5mbz0lN0UlN0VWMi4wJTdFcWJjc0poX2pVNUM5QmNaYzk1OWVfd2FlNDRiNDg2N2IzNDE3YWE3NmI1ZGIyZGEyMGZlNDZjJTdFS1p6VFdqQjhxRDF6ZGdiSmpSUFZMSlgtdFYwcWlOOVJCSENfaXNlR3JzbVRTUmpqMDZvR0R0R2xwU0NSR093RjM2MjZjZjA4NWMwOGQwMjRjN2U0YWFmYzE4YzMyNDQwJTdFRXh0SW5mbzVSbzNWcHBXaVV1c2oyaXBwcVVQa1ElM0QlM0Q0YTJkMmM4Y2UxMzNmNDMwMjZkMGUzMWI4MjJiODQ3NCUzQTIwMjQwNjAxMDEyODI5JTNBVVRDJTJDMTAwMDEwMDMzMjkyMjIlMkM4Ny4yMTIuMTQwLjE3MSUyQzIwMjQwNjAxMDEyODI5JTJDMzEwM19TUDFTJTJDMTAwMDEwMDMzMjkyMjIlMkMtMSUyQzAlMkMxJTJDJTJDJTJDMiUyQzMxMDNfU3BvcnQxJTJDJTJDJTJDMiUyQzEwMDAwMDQ0NDQ0MzAzJTJDMCUyQzEwMDAwMDI1MDUwMjU1JTJDTkRFek9EZzJOVFkzTXpFd016STJOek13TmpNd05UWSUzRCUyQyUyQyUyQzUlMkMxJTJDRU5EJkd1YXJkRW5jVHlwZT0y&k=ZWYzNGFlOTFiNGYyNDE1ZTg0MzliMmFkMTA1ZTc0ODg6MjQzMjQ4ZDhkZTFmZjhjN2M1ODdlZTIwNTczMTc1MjM="
   },
   {
     "id": "35072",
@@ -198,15 +198,5 @@
     "date": "2026-04-28",
     "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-  },
-  {
-    "id": "35085",
-    "slug": "partido-vs-en-vivo-2026-04-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Eredivisie",
-    "date": "2026-04-28",
-    "time": "11:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
   }
 ]
