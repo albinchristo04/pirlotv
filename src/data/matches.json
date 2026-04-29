@@ -10,16 +10,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
   },
   {
-    "id": "35115",
-    "slug": "partido-vs-en-vivo-2026-04-29",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Pro League",
-    "date": "2026-04-29",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
     "id": "35121",
     "slug": "partido-vs-en-vivo-2026-04-29",
     "team_a": "Equipo A",
@@ -28,16 +18,6 @@
     "date": "2026-04-29",
     "time": "21:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "35118",
-    "slug": "partido-vs-en-vivo-2026-04-29",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis WTA Madrid Open – Cuartos de Final",
-    "date": "2026-04-29",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "35096",
@@ -100,16 +80,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
   },
   {
-    "id": "35109",
-    "slug": "argentinos-juniors-vs-vélez-sársfield-2026-04-29",
-    "team_a": "Argentinos Juniors",
-    "team_b": "Vélez Sársfield",
-    "league": "Torneo de Reserva",
-    "date": "2026-04-29",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
-  },
-  {
     "id": "35113",
     "slug": "partido-vs-en-vivo-2026-04-29",
     "team_a": "Equipo A",
@@ -150,16 +120,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2dydS1uaXRyby9saXZlL2NsaWVudHMvZGFzaC9lbmMvc2Z1dHpwMnM1aC9vdXQvdjEvMGE1ZmJjYzNmYzEyNGNmOWI5OTYyMDEwODdhNThiMmYvY2VuYy5tcGQ=&k=OTdjMmIwNTk0MjNjOThkYjI2ZmY5NWQ5ZGUxNjY2OGE6NzM0ZmUwMDUzZjdjYWZiNDFhYjg1YTBjOWFkZTgxYWI="
   },
   {
-    "id": "35097",
-    "slug": "partido-vs-en-vivo-2026-04-29",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Sudamericana",
-    "date": "2026-04-29",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "35101",
     "slug": "barcelona-vs-universidad-católica-2026-04-29",
     "team_a": "Barcelona",
@@ -168,6 +128,16 @@
     "date": "2026-04-29",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "35097",
+    "slug": "partido-vs-en-vivo-2026-04-29",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa Sudamericana",
+    "date": "2026-04-29",
+    "time": "19:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   },
   {
     "id": "35104",
@@ -210,16 +180,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "35105",
-    "slug": "arsenal-vs-leicester-city-wfc-2026-04-29",
-    "team_a": "Arsenal",
-    "team_b": "Leicester City WFC",
-    "league": "Women's Super League",
-    "date": "2026-04-29",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1pl"
-  },
-  {
     "id": "35099",
     "slug": "partido-vs-en-vivo-2026-04-29",
     "team_a": "Equipo A",
@@ -240,6 +200,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports2"
   },
   {
+    "id": "35108",
+    "slug": "partido-vs-en-vivo-2026-04-29",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Segunda División",
+    "date": "2026-04-29",
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
+  },
+  {
     "id": "35102",
     "slug": "partido-vs-en-vivo-2026-04-29",
     "team_a": "Equipo A",
@@ -248,16 +218,6 @@
     "date": "2026-04-29",
     "time": "19:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "35108",
-    "slug": "partido-vs-en-vivo-2026-04-29",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Segunda División",
-    "date": "2026-04-29",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "35111",
