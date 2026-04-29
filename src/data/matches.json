@@ -220,16 +220,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "35117",
-    "slug": "partido-vs-en-vivo-2026-04-29",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis Madrid Open – 16vos de Final",
-    "date": "2026-04-29",
-    "time": "09:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "35105",
     "slug": "arsenal-vs-leicester-city-wfc-2026-04-29",
     "team_a": "Arsenal",
