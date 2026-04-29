@@ -90,26 +90,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "35083",
-    "slug": "argentina-vs-bolivia-2026-04-28",
-    "team_a": "Argentina",
-    "team_b": "Bolivia",
-    "league": "Sudamericano Sub-17 Femenino",
-    "date": "2026-04-28",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-  },
-  {
-    "id": "35088",
-    "slug": "partido-vs-en-vivo-2026-04-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-04-28",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
     "id": "35077",
     "slug": "partido-vs-en-vivo-2026-04-28",
     "team_a": "Equipo A",
@@ -120,14 +100,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "35068",
+    "id": "35078",
     "slug": "partido-vs-en-vivo-2026-04-28",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "UEFA Champions League",
+    "league": "Copa Libertadores",
     "date": "2026-04-28",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9tYWcwMS50dngucHJkLnR2Lm9kaWRvLm5sL1BMVFYvODYvMjI0LzMyMjEyNDE1OTAvMzIyMTI0MTU5MC5tcGQ/em9uZW9mZnNldD0wJmRldmticHM9MS03MDAwJnNlcnZpY2V0eXBlPTEmaWNwaWQ9ODYmYWNjb3VudHR5cGU9MSZsaW1pdGZsdXg9LTEmbGltaXRkdXI9LTEmdGVuYW50SWQ9MzEwMyZhY2NvdW50aW5mbz0lN0UlN0VWMi4wJTdFcWJjc0poX2pVNUM5QmNaYzk1OWVfd2FlNDRiNDg2N2IzNDE3YWE3NmI1ZGIyZGEyMGZlNDZjJTdFS1p6VFdqQjhxRDF6ZGdiSmpSUFZMSlgtdFYwcWlOOVJCSENfaXNlR3JzbVRTUmpqMDZvR0R0R2xwU0NSR093RjM2MjZjZjA4NWMwOGQwMjRjN2U0YWFmYzE4YzMyNDQwJTdFRXh0SW5mbzVSbzNWcHBXaVV1c2oyaXBwcVVQa1ElM0QlM0Q0YTJkMmM4Y2UxMzNmNDMwMjZkMGUzMWI4MjJiODQ3NCUzQTIwMjQwNjAxMDEyODI5JTNBVVRDJTJDMTAwMDEwMDMzMjkyMjIlMkM4Ny4yMTIuMTQwLjE3MSUyQzIwMjQwNjAxMDEyODI5JTJDMzEwM19TUDFTJTJDMTAwMDEwMDMzMjkyMjIlMkMtMSUyQzAlMkMxJTJDJTJDJTJDMiUyQzMxMDNfU3BvcnQxJTJDJTJDJTJDMiUyQzEwMDAwMDQ0NDQ0MzAzJTJDMCUyQzEwMDAwMDI1MDUwMjU1JTJDTkRFek9EZzJOVFkzTXpFd016STJOek13TmpNd05UWSUzRCUyQyUyQyUyQzUlMkMxJTJDRU5EJkd1YXJkRW5jVHlwZT0y&k=ZWYzNGFlOTFiNGYyNDE1ZTg0MzliMmFkMTA1ZTc0ODg6MjQzMjQ4ZDhkZTFmZjhjN2M1ODdlZTIwNTczMTc1MjM="
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "35072",
@@ -140,6 +120,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   },
   {
+    "id": "35088",
+    "slug": "partido-vs-en-vivo-2026-04-28",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
+    "date": "2026-04-28",
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+  },
+  {
     "id": "35075",
     "slug": "o'higgins-vs-boston-river-2026-04-28",
     "team_a": "O'Higgins",
@@ -148,16 +138,6 @@
     "date": "2026-04-28",
     "time": "21:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "35078",
-    "slug": "partido-vs-en-vivo-2026-04-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Libertadores",
-    "date": "2026-04-28",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "35081",
