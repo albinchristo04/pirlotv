@@ -90,16 +90,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=vix1"
   },
   {
-    "id": "35119",
-    "slug": "partido-vs-en-vivo-2026-04-29",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis",
-    "date": "2026-04-29",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "35094",
     "slug": "partido-vs-en-vivo-2026-04-29",
     "team_a": "Equipo A",
@@ -108,16 +98,6 @@
     "date": "2026-04-29",
     "time": "17:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "35091",
-    "slug": "partido-vs-en-vivo-2026-04-29",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Champions League",
-    "date": "2026-04-29",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2dydS1uaXRyby9saXZlL2NsaWVudHMvZGFzaC9lbmMvc2Z1dHpwMnM1aC9vdXQvdjEvMGE1ZmJjYzNmYzEyNGNmOWI5OTYyMDEwODdhNThiMmYvY2VuYy5tcGQ=&k=OTdjMmIwNTk0MjNjOThkYjI2ZmY5NWQ5ZGUxNjY2OGE6NzM0ZmUwMDUzZjdjYWZiNDFhYjg1YTBjOWFkZTgxYWI="
   },
   {
     "id": "35101",
