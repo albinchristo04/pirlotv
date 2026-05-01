@@ -1,25 +1,5 @@
 [
   {
-    "id": "35125",
-    "slug": "partido-vs-en-vivo-2026-04-30",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Conference League",
-    "date": "2026-04-30",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
-  },
-  {
-    "id": "35122",
-    "slug": "partido-vs-en-vivo-2026-04-30",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Europa League",
-    "date": "2026-04-30",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "35127",
     "slug": "vasco-da-gama-vs-olimpia-2026-04-30",
     "team_a": "Vasco da Gama",
@@ -67,7 +47,7 @@
     "league": "Copa Sudamericana",
     "date": "2026-04-30",
     "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   },
   {
     "id": "35135",
@@ -88,26 +68,6 @@
     "date": "2026-04-30",
     "time": "22:05",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3mx"
-  },
-  {
-    "id": "35149",
-    "slug": "partido-vs-en-vivo-2026-04-30",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – WTA Madrid Open – Semifinal #2",
-    "date": "2026-04-30",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "35123",
-    "slug": "partido-vs-en-vivo-2026-04-30",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Europa League",
-    "date": "2026-04-30",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "35126",
@@ -148,16 +108,6 @@
     "date": "2026-04-30",
     "time": "18:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "35124",
-    "slug": "partido-vs-en-vivo-2026-04-30",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Conference League",
-    "date": "2026-04-30",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
   },
   {
     "id": "35132",
