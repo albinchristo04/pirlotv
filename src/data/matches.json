@@ -30,16 +30,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
   },
   {
-    "id": "35170",
-    "slug": "partido-vs-en-vivo-2026-05-01",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "F1 GP Miami – Práctica #1",
-    "date": "2026-05-01",
-    "time": "11:25",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "35173",
     "slug": "partido-vs-en-vivo-2026-05-01",
     "team_a": "Equipo A",
@@ -68,16 +58,6 @@
     "date": "2026-05-01",
     "time": "14:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1pl"
-  },
-  {
-    "id": "35156",
-    "slug": "san-antonio-bulo-bulo-vs-independiente-petrolero-2026-05-01",
-    "team_a": "San Antonio Bulo Bulo",
-    "team_b": "Independiente Petrolero",
-    "league": "Primera División",
-    "date": "2026-05-01",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
   },
   {
     "id": "35157",
