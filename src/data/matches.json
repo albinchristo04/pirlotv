@@ -1,25 +1,5 @@
 [
   {
-    "id": "35127",
-    "slug": "vasco-da-gama-vs-olimpia-2026-04-30",
-    "team_a": "Vasco da Gama",
-    "team_b": "Olimpia",
-    "league": "Copa Sudamericana",
-    "date": "2026-04-30",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "35128",
-    "slug": "tigre-vs-américa-de-cali-2026-04-30",
-    "team_a": "Tigre",
-    "team_b": "América de Cali",
-    "league": "Copa Sudamericana",
-    "date": "2026-04-30",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "35152",
     "slug": "partido-vs-en-vivo-2026-04-30",
     "team_a": "Equipo A",
@@ -28,16 +8,6 @@
     "date": "2026-04-30",
     "time": "21:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "35131",
-    "slug": "bolívar-vs-fluminense-2026-04-30",
-    "team_a": "Bolívar",
-    "team_b": "Fluminense",
-    "league": "Copa Libertadores",
-    "date": "2026-04-30",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
   },
   {
     "id": "35130",
@@ -50,16 +20,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   },
   {
-    "id": "35135",
-    "slug": "partido-vs-en-vivo-2026-04-30",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Argentina",
-    "date": "2026-04-30",
-    "time": "19:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
-  },
-  {
     "id": "35141",
     "slug": "partido-vs-en-vivo-2026-04-30",
     "team_a": "Equipo A",
@@ -68,26 +28,6 @@
     "date": "2026-04-30",
     "time": "22:05",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3mx"
-  },
-  {
-    "id": "35126",
-    "slug": "partido-vs-en-vivo-2026-04-30",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Sudamericana",
-    "date": "2026-04-30",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-  },
-  {
-    "id": "35133",
-    "slug": "partido-vs-en-vivo-2026-04-30",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Libertadores",
-    "date": "2026-04-30",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "35142",
@@ -100,44 +40,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
   },
   {
-    "id": "35150",
+    "id": "35151",
     "slug": "partido-vs-en-vivo-2026-04-30",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "NBA – Playoffs Juego #6 – Atlanta Hawks vs New York Knicks",
+    "league": "NBA – Playoffs Juego #6 – Minnesota Timberwolves vs Denver Nuggets",
     "date": "2026-04-30",
-    "time": "18:30",
+    "time": "20:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "35132",
-    "slug": "independiente-rivadavia-vs-deportivo-la-guaira-2026-04-30",
-    "team_a": "Independiente Rivadavia",
-    "team_b": "Deportivo La Guaira",
-    "league": "Copa Libertadores",
-    "date": "2026-04-30",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "35129",
-    "slug": "partido-vs-en-vivo-2026-04-30",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Sudamericana",
-    "date": "2026-04-30",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "35137",
-    "slug": "chile-vs-paraguay-2026-04-30",
-    "team_a": "Chile",
-    "team_b": "Paraguay",
-    "league": "Sudamericano Sub-17 Femenino",
-    "date": "2026-04-30",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   },
   {
     "id": "35140",
@@ -147,26 +57,6 @@
     "league": "Liga de Expansión MX",
     "date": "2026-04-30",
     "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3mx"
-  },
-  {
-    "id": "35143",
-    "slug": "partido-vs-en-vivo-2026-04-30",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga MX Femenil",
-    "date": "2026-04-30",
-    "time": "22:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=vix2"
-  },
-  {
-    "id": "35151",
-    "slug": "partido-vs-en-vivo-2026-04-30",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA – Playoffs Juego #6 – Minnesota Timberwolves vs Denver Nuggets",
-    "date": "2026-04-30",
-    "time": "20:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney13"
   }
 ]
