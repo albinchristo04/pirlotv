@@ -1,15 +1,5 @@
 [
   {
-    "id": "35155",
-    "slug": "pisa-vs-lecce-2026-05-01",
-    "team_a": "Pisa",
-    "team_b": "Lecce",
-    "league": "Serie A",
-    "date": "2026-05-01",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
     "id": "35162",
     "slug": "perú-vs-brasil-2026-05-01",
     "team_a": "Perú",
@@ -30,16 +20,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
   },
   {
-    "id": "35173",
-    "slug": "partido-vs-en-vivo-2026-05-01",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Golf",
-    "date": "2026-05-01",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
     "id": "35177",
     "slug": "partido-vs-en-vivo-2026-05-01",
     "team_a": "Equipo A",
@@ -48,16 +28,6 @@
     "date": "2026-05-01",
     "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "35153",
-    "slug": "leeds-united-vs-burnley-2026-05-01",
-    "team_a": "Leeds United",
-    "team_b": "Burnley",
-    "league": "Premier League",
-    "date": "2026-05-01",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1pl"
   },
   {
     "id": "35157",
@@ -90,26 +60,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
   },
   {
-    "id": "35167",
-    "slug": "rkc-waalwijk-vs-roda-jc-2026-05-01",
-    "team_a": "RKC Waalwijk",
-    "team_b": "Roda JC",
-    "league": "Eredivisie",
-    "date": "2026-05-01",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
-  },
-  {
-    "id": "35171",
-    "slug": "partido-vs-en-vivo-2026-05-01",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Madrid Open – Semifinal #2",
-    "date": "2026-05-01",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "35174",
     "slug": "partido-vs-en-vivo-2026-05-01",
     "team_a": "Equipo A",
@@ -120,16 +70,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "35154",
-    "slug": "girona-vs-mallorca-2026-05-01",
-    "team_a": "Girona",
-    "team_b": "Mallorca",
-    "league": "LaLiga",
-    "date": "2026-05-01",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
     "id": "35158",
     "slug": "partido-vs-en-vivo-2026-05-01",
     "team_a": "Equipo A",
@@ -138,16 +78,6 @@
     "date": "2026-05-01",
     "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "35172",
-    "slug": "partido-vs-en-vivo-2026-05-01",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "F2 Miami Gardens – Clasificación",
-    "date": "2026-05-01",
-    "time": "13:20",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   },
   {
     "id": "35175",
