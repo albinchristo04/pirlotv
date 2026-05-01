@@ -30,16 +30,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
   },
   {
-    "id": "35168",
-    "slug": "partido-vs-en-vivo-2026-05-01",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "F2 Miami Gardens – Práctica",
-    "date": "2026-05-01",
-    "time": "08:50",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "35170",
     "slug": "partido-vs-en-vivo-2026-05-01",
     "team_a": "Equipo A",
@@ -120,16 +110,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
   },
   {
-    "id": "35163",
-    "slug": "partido-vs-en-vivo-2026-05-01",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-05-01",
-    "time": "09:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
     "id": "35167",
     "slug": "rkc-waalwijk-vs-roda-jc-2026-05-01",
     "team_a": "RKC Waalwijk",
@@ -178,16 +158,6 @@
     "date": "2026-05-01",
     "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "35169",
-    "slug": "partido-vs-en-vivo-2026-05-01",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Madrid Open – Semifinal #1",
-    "date": "2026-05-01",
-    "time": "09:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   },
   {
     "id": "35172",
