@@ -10,16 +10,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
   },
   {
-    "id": "35166",
-    "slug": "partido-vs-en-vivo-2026-05-01",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Brasileiro Femenino",
-    "date": "2026-05-01",
-    "time": "15:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
     "id": "35177",
     "slug": "partido-vs-en-vivo-2026-05-01",
     "team_a": "Equipo A",
@@ -50,26 +40,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
   },
   {
-    "id": "35161",
-    "slug": "ecuador-vs-uruguay-2026-05-01",
-    "team_a": "Ecuador",
-    "team_b": "Uruguay",
-    "league": "Sudamericano Sub-17 Femenino",
-    "date": "2026-05-01",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-  },
-  {
-    "id": "35174",
-    "slug": "partido-vs-en-vivo-2026-05-01",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby – SR Americas",
-    "date": "2026-05-01",
-    "time": "14:55",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
     "id": "35158",
     "slug": "partido-vs-en-vivo-2026-05-01",
     "team_a": "Equipo A",
@@ -78,16 +48,6 @@
     "date": "2026-05-01",
     "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "35175",
-    "slug": "partido-vs-en-vivo-2026-05-01",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "F1",
-    "date": "2026-05-01",
-    "time": "15:25",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "35176",
