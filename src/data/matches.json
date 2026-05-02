@@ -20,16 +20,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=foxsports3"
   },
   {
-    "id": "35200",
-    "slug": "psg-vs-lorient-2026-05-02",
-    "team_a": "PSG",
-    "team_b": "Lorient",
-    "league": "Ligue 1",
-    "date": "2026-05-02",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
     "id": "35231",
     "slug": "partido-vs-en-vivo-2026-05-02",
     "team_a": "Equipo A",
@@ -38,16 +28,6 @@
     "date": "2026-05-02",
     "time": "11:45",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3_nl"
-  },
-  {
-    "id": "35219",
-    "slug": "juventud-vs-wanderers-2026-05-02",
-    "team_a": "Juventud",
-    "team_b": "Wanderers",
-    "league": "Primera División",
-    "date": "2026-05-02",
-    "time": "10:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney14"
   },
   {
     "id": "35242",
@@ -378,16 +358,6 @@
     "date": "2026-05-02",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere3"
-  },
-  {
-    "id": "35248",
-    "slug": "partido-vs-en-vivo-2026-05-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – WTA Madrid Open – Final",
-    "date": "2026-05-02",
-    "time": "10:05",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2mx"
   },
   {
     "id": "35208",
