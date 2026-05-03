@@ -30,16 +30,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3_nl"
   },
   {
-    "id": "35322",
-    "slug": "univ.-concepción-vs-universidad-católica-2026-05-03",
-    "team_a": "Univ. Concepción",
-    "team_b": "Universidad Católica",
-    "league": "Copa de la Liga",
-    "date": "2026-05-03",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=max1"
-  },
-  {
     "id": "35325",
     "slug": "partido-vs-en-vivo-2026-05-03",
     "team_a": "Equipo A",
@@ -88,16 +78,6 @@
     "date": "2026-05-03",
     "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "35312",
-    "slug": "partido-vs-en-vivo-2026-05-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Women's Champions League",
-    "date": "2026-05-03",
-    "time": "09:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espndeportes"
   },
   {
     "id": "35277",
@@ -168,6 +148,16 @@
     "date": "2026-05-03",
     "time": "15:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
+  },
+  {
+    "id": "35322",
+    "slug": "univ.-concepción-vs-universidad-católica-2026-05-03",
+    "team_a": "Univ. Concepción",
+    "team_b": "Universidad Católica",
+    "league": "Copa de la Liga",
+    "date": "2026-05-03",
+    "time": "11:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
     "id": "35259",
@@ -330,36 +320,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium"
   },
   {
-    "id": "35261",
-    "slug": "afc-bournemouth-vs-crystal-palace-2026-05-03",
-    "team_a": "AFC Bournemouth",
-    "team_b": "Crystal Palace",
-    "league": "Premier League",
-    "date": "2026-05-03",
-    "time": "08:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1pl"
-  },
-  {
-    "id": "35275",
-    "slug": "lille-vs-le-havre-2026-05-03",
-    "team_a": "Lille",
-    "team_b": "Le Havre",
-    "league": "Ligue 1",
-    "date": "2026-05-03",
-    "time": "08:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=beinsportes"
-  },
-  {
-    "id": "35262",
-    "slug": "partido-vs-en-vivo-2026-05-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Premier League",
-    "date": "2026-05-03",
-    "time": "09:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3pl"
-  },
-  {
     "id": "35278",
     "slug": "partido-vs-en-vivo-2026-05-03",
     "team_a": "Equipo A",
@@ -510,16 +470,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "35319",
-    "slug": "partido-vs-en-vivo-2026-05-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-05-03",
-    "time": "09:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
     "id": "35323",
     "slug": "partido-vs-en-vivo-2026-05-03",
     "team_a": "Equipo A",
@@ -570,36 +520,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "35269",
-    "slug": "partido-vs-en-vivo-2026-05-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A",
-    "date": "2026-05-03",
-    "time": "08:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "35272",
-    "slug": "partido-vs-en-vivo-2026-05-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Bundesliga",
-    "date": "2026-05-03",
-    "time": "08:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "35306",
-    "slug": "partido-vs-en-vivo-2026-05-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Women's Super League",
-    "date": "2026-05-03",
-    "time": "08:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2pl"
-  },
-  {
     "id": "35294",
     "slug": "partido-vs-en-vivo-2026-05-03",
     "team_a": "Equipo A",
@@ -628,16 +548,6 @@
     "date": "2026-05-03",
     "time": "17:45",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "35265",
-    "slug": "getafe-vs-rayo-vallecano-2026-05-03",
-    "team_a": "Getafe",
-    "team_b": "Rayo Vallecano",
-    "league": "LaLiga",
-    "date": "2026-05-03",
-    "time": "09:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "35316",
