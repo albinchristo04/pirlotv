@@ -330,46 +330,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium"
   },
   {
-    "id": "35264",
-    "slug": "celta-de-vigo-vs-elche-2026-05-03",
-    "team_a": "Celta de Vigo",
-    "team_b": "Elche",
-    "league": "LaLiga",
-    "date": "2026-05-03",
-    "time": "07:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "35318",
-    "slug": "partido-vs-en-vivo-2026-05-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-05-03",
-    "time": "07:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
-    "id": "35301",
-    "slug": "progreso-vs-cerro-largo-2026-05-03",
-    "team_a": "Progreso",
-    "team_b": "Cerro Largo",
-    "league": "Primera División",
-    "date": "2026-05-03",
-    "time": "07:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney9"
-  },
-  {
-    "id": "35314",
-    "slug": "fortuna-sittard-vs-feyenoord-2026-05-03",
-    "team_a": "Fortuna Sittard",
-    "team_b": "Feyenoord",
-    "league": "Eredivisie",
-    "date": "2026-05-03",
-    "time": "07:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2mx"
-  },
-  {
     "id": "35261",
     "slug": "afc-bournemouth-vs-crystal-palace-2026-05-03",
     "team_a": "AFC Bournemouth",
@@ -520,16 +480,6 @@
     "decoded_iframe_url": ""
   },
   {
-    "id": "35315",
-    "slug": "partido-vs-en-vivo-2026-05-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Eredivisie",
-    "date": "2026-05-03",
-    "time": "07:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
-  },
-  {
     "id": "35290",
     "slug": "partido-vs-en-vivo-2026-05-03",
     "team_a": "Equipo A",
@@ -598,16 +548,6 @@
     "date": "2026-05-03",
     "time": "22:10",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=eventos"
-  },
-  {
-    "id": "35334",
-    "slug": "partido-vs-en-vivo-2026-05-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby – The Rugby Championship U20",
-    "date": "2026-05-03",
-    "time": "06:50",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
     "id": "35337",
