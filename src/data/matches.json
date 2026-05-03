@@ -10,26 +10,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere1"
   },
   {
-    "id": "35282",
-    "slug": "partido-vs-en-vivo-2026-05-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga Profesional",
-    "date": "2026-05-03",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium"
-  },
-  {
-    "id": "35317",
-    "slug": "partido-vs-en-vivo-2026-05-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Eredivisie",
-    "date": "2026-05-03",
-    "time": "09:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3_nl"
-  },
-  {
     "id": "35325",
     "slug": "partido-vs-en-vivo-2026-05-03",
     "team_a": "Equipo A",
@@ -50,16 +30,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3mx"
   },
   {
-    "id": "35335",
-    "slug": "partido-vs-en-vivo-2026-05-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Madrid Open – Final",
-    "date": "2026-05-03",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
     "id": "35338",
     "slug": "partido-vs-en-vivo-2026-05-03",
     "team_a": "Equipo A",
@@ -78,26 +48,6 @@
     "date": "2026-05-03",
     "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "35277",
-    "slug": "strasbourg-vs-toulouse-2026-05-03",
-    "team_a": "Strasbourg",
-    "team_b": "Toulouse",
-    "league": "Ligue 1",
-    "date": "2026-05-03",
-    "time": "10:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney18"
-  },
-  {
-    "id": "35273",
-    "slug": "partido-vs-en-vivo-2026-05-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Bundesliga",
-    "date": "2026-05-03",
-    "time": "10:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney20"
   },
   {
     "id": "35270",
@@ -158,6 +108,16 @@
     "date": "2026-05-03",
     "time": "11:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "35282",
+    "slug": "partido-vs-en-vivo-2026-05-03",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Liga Profesional",
+    "date": "2026-05-03",
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium"
   },
   {
     "id": "35259",
@@ -280,16 +240,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
   },
   {
-    "id": "35332",
-    "slug": "partido-vs-en-vivo-2026-05-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Pro League",
-    "date": "2026-05-03",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "35336",
     "slug": "partido-vs-en-vivo-2026-05-03",
     "team_a": "Equipo A",
@@ -320,14 +270,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium"
   },
   {
-    "id": "35278",
+    "id": "35332",
     "slug": "partido-vs-en-vivo-2026-05-03",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Ligue 1",
+    "league": "Pro League",
     "date": "2026-05-03",
-    "time": "10:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney17"
+    "time": "13:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=foxsoccerplus"
   },
   {
     "id": "35280",
@@ -548,36 +498,6 @@
     "date": "2026-05-03",
     "time": "17:45",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "35316",
-    "slug": "partido-vs-en-vivo-2026-05-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Eredivisie",
-    "date": "2026-05-03",
-    "time": "09:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2mx"
-  },
-  {
-    "id": "35276",
-    "slug": "paris-vs-brest-2026-05-03",
-    "team_a": "Paris",
-    "team_b": "Brest",
-    "league": "Ligue 1",
-    "date": "2026-05-03",
-    "time": "10:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney19"
-  },
-  {
-    "id": "35302",
-    "slug": "boston-river-vs-central-español-2026-05-03",
-    "team_a": "Boston River",
-    "team_b": "Central Español",
-    "league": "Primera División",
-    "date": "2026-05-03",
-    "time": "10:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1"
   },
   {
     "id": "35274",
