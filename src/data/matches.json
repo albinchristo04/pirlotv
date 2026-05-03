@@ -1,15 +1,5 @@
 [
   {
-    "id": "35209",
-    "slug": "partido-vs-en-vivo-2026-05-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-05-02",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
     "id": "35242",
     "slug": "partido-vs-en-vivo-2026-05-02",
     "team_a": "Equipo A",
@@ -30,16 +20,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=vix1"
   },
   {
-    "id": "35251",
-    "slug": "partido-vs-en-vivo-2026-05-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby",
-    "date": "2026-05-02",
-    "time": "13:55",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
     "id": "35255",
     "slug": "partido-vs-en-vivo-2026-05-02",
     "team_a": "Equipo A",
@@ -48,26 +28,6 @@
     "date": "2026-05-02",
     "time": "17:55",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "35192",
-    "slug": "atalanta-vs-genoa-2026-05-02",
-    "team_a": "Atalanta",
-    "team_b": "Genoa",
-    "league": "Serie A",
-    "date": "2026-05-02",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espnmx"
-  },
-  {
-    "id": "35212",
-    "slug": "partido-vs-en-vivo-2026-05-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Brasileirão",
-    "date": "2026-05-02",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere3"
   },
   {
     "id": "35206",
@@ -120,16 +80,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tudn"
   },
   {
-    "id": "35252",
-    "slug": "partido-vs-en-vivo-2026-05-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "F1 GP Miami – Clasificación",
-    "date": "2026-05-02",
-    "time": "14:55",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "35253",
     "slug": "partido-vs-en-vivo-2026-05-02",
     "team_a": "Equipo A",
@@ -138,36 +88,6 @@
     "date": "2026-05-02",
     "time": "15:55",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
-  },
-  {
-    "id": "35179",
-    "slug": "partido-vs-en-vivo-2026-05-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga 1",
-    "date": "2026-05-02",
-    "time": "15:15",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
-  },
-  {
-    "id": "35189",
-    "slug": "partido-vs-en-vivo-2026-05-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga",
-    "date": "2026-05-02",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "35236",
-    "slug": "eibar-vs-málaga-2026-05-02",
-    "team_a": "Eibar",
-    "team_b": "Málaga",
-    "league": "LaLiga SmartBank",
-    "date": "2026-05-02",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
   },
   {
     "id": "35213",
@@ -240,16 +160,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
   },
   {
-    "id": "35217",
-    "slug": "boyacá-chicó-vs-llaneros-2026-05-02",
-    "team_a": "Boyacá Chicó",
-    "team_b": "Llaneros",
-    "league": "Categoría Primera A",
-    "date": "2026-05-02",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
     "id": "35180",
     "slug": "cienciano-vs-comerciantes-unidos-2026-05-02",
     "team_a": "Cienciano",
@@ -290,26 +200,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
-    "id": "35233",
-    "slug": "partido-vs-en-vivo-2026-05-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Eredivisie",
-    "date": "2026-05-02",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2_nl"
-  },
-  {
-    "id": "35202",
-    "slug": "nice-vs-lens-2026-05-02",
-    "team_a": "Nice",
-    "team_b": "Lens",
-    "league": "Ligue 1",
-    "date": "2026-05-02",
-    "time": "14:05",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
     "id": "35221",
     "slug": "liverpool-vs-danubio-2026-05-02",
     "team_a": "Liverpool",
@@ -328,15 +218,5 @@
     "date": "2026-05-02",
     "time": "16:30",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=fanatiz9"
-  },
-  {
-    "id": "35205",
-    "slug": "central-córdoba-sde-vs-boca-juniors-2026-05-02",
-    "team_a": "Central Córdoba SdE",
-    "team_b": "Boca Juniors",
-    "league": "Liga Profesional",
-    "date": "2026-05-02",
-    "time": "14:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
   }
 ]
