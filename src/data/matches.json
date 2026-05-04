@@ -1,15 +1,5 @@
 [
   {
-    "id": "35325",
-    "slug": "partido-vs-en-vivo-2026-05-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga MX",
-    "date": "2026-05-03",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=canal5"
-  },
-  {
     "id": "35328",
     "slug": "partido-vs-en-vivo-2026-05-03",
     "team_a": "Equipo A",
@@ -17,47 +7,7 @@
     "league": "Liga de Expansión MX",
     "date": "2026-05-03",
     "time": "20:05",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney12"
-  },
-  {
-    "id": "35341",
-    "slug": "partido-vs-en-vivo-2026-05-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB",
-    "date": "2026-05-03",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "35304",
-    "slug": "partido-vs-en-vivo-2026-05-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-05-03",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney10"
-  },
-  {
-    "id": "35300",
-    "slug": "partido-vs-en-vivo-2026-05-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Categoría Primera A",
-    "date": "2026-05-03",
-    "time": "17:45",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "35292",
-    "slug": "partido-vs-en-vivo-2026-05-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Brasileirão",
-    "date": "2026-05-03",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere3"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3mx"
   },
   {
     "id": "35326",
@@ -80,66 +30,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
   },
   {
-    "id": "35285",
-    "slug": "partido-vs-en-vivo-2026-05-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga Profesional",
-    "date": "2026-05-03",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium"
-  },
-  {
-    "id": "35260",
-    "slug": "partido-vs-en-vivo-2026-05-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga 1",
-    "date": "2026-05-03",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
-  },
-  {
-    "id": "35287",
-    "slug": "partido-vs-en-vivo-2026-05-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-05-03",
-    "time": "16:15",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "35290",
-    "slug": "partido-vs-en-vivo-2026-05-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Brasileirão",
-    "date": "2026-05-03",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
-    "id": "35291",
-    "slug": "chapecoense-vs-rb-bragantino-2026-05-03",
-    "team_a": "Chapecoense",
-    "team_b": "RB Bragantino",
-    "league": "Brasileirão",
-    "date": "2026-05-03",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere2"
-  },
-  {
-    "id": "35293",
-    "slug": "partido-vs-en-vivo-2026-05-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-05-03",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
     "id": "35330",
     "slug": "pachuca-vs-guadalajara-2026-05-03",
     "team_a": "Pachuca",
@@ -148,55 +38,5 @@
     "date": "2026-05-03",
     "time": "22:10",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=eventos"
-  },
-  {
-    "id": "35327",
-    "slug": "partido-vs-en-vivo-2026-05-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga de Expansión MX",
-    "date": "2026-05-03",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3mx"
-  },
-  {
-    "id": "35369",
-    "slug": "partido-vs-en-vivo-2026-05-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Volleyball World Beach Pro Tour – Elite16 de Brasília",
-    "date": "2026-05-03",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=sportv2"
-  },
-  {
-    "id": "35323",
-    "slug": "partido-vs-en-vivo-2026-05-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa de la Liga",
-    "date": "2026-05-03",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "35340",
-    "slug": "partido-vs-en-vivo-2026-05-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-05-03",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "35299",
-    "slug": "partido-vs-en-vivo-2026-05-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Categoría Primera A",
-    "date": "2026-05-03",
-    "time": "17:45",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
   }
 ]
