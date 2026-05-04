@@ -70,26 +70,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "35355",
-    "slug": "alianza-universidad-vs-santos-2026-05-04",
-    "team_a": "Alianza Universidad",
-    "team_b": "Santos",
-    "league": "Liga 2",
-    "date": "2026-05-04",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=nativa"
-  },
-  {
-    "id": "35344",
-    "slug": "partido-vs-en-vivo-2026-05-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga 1",
-    "date": "2026-05-04",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
-  },
-  {
     "id": "35353",
     "slug": "estudiantes-río-cuarto-vs-instituto-2026-05-04",
     "team_a": "Estudiantes Río Cuarto",
@@ -170,16 +150,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
   },
   {
-    "id": "35357",
-    "slug": "partido-vs-en-vivo-2026-05-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-05-04",
-    "time": "13:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
     "id": "35360",
     "slug": "envigado-vs-internacional-palmira-2026-05-04",
     "team_a": "Envigado",
@@ -188,16 +158,6 @@
     "date": "2026-05-04",
     "time": "14:00",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "35350",
-    "slug": "partido-vs-en-vivo-2026-05-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A",
-    "date": "2026-05-04",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
     "id": "35373",
