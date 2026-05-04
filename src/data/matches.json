@@ -80,16 +80,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=nativa"
   },
   {
-    "id": "35374",
-    "slug": "partido-vs-en-vivo-2026-05-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "CONMEBOL Libertadores Fútbol Playa",
-    "date": "2026-05-04",
-    "time": "10:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=sportv2"
-  },
-  {
     "id": "35344",
     "slug": "partido-vs-en-vivo-2026-05-04",
     "team_a": "Equipo A",
@@ -138,16 +128,6 @@
     "date": "2026-05-04",
     "time": "19:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "35349",
-    "slug": "partido-vs-en-vivo-2026-05-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A",
-    "date": "2026-05-04",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2mx"
   },
   {
     "id": "35346",
