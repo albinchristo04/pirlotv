@@ -70,16 +70,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "id": "35380",
-    "slug": "independiente-petrolero-vs-caracas-2026-05-05",
-    "team_a": "Independiente Petrolero",
-    "team_b": "Caracas",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-05",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
     "id": "35376",
     "slug": "partido-vs-en-vivo-2026-05-05",
     "team_a": "Equipo A",
@@ -90,6 +80,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
+    "id": "35380",
+    "slug": "independiente-petrolero-vs-caracas-2026-05-05",
+    "team_a": "Independiente Petrolero",
+    "team_b": "Caracas",
+    "league": "Copa Sudamericana",
+    "date": "2026-05-05",
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+  },
+  {
     "id": "35388",
     "slug": "always-ready-vs-lanús-2026-05-05",
     "team_a": "Always Ready",
@@ -98,16 +98,6 @@
     "date": "2026-05-05",
     "time": "19:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
-  },
-  {
-    "id": "35395",
-    "slug": "partido-vs-en-vivo-2026-05-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Champions League",
-    "date": "2026-05-05",
-    "time": "14:00",
-    "decoded_iframe_url": ""
   },
   {
     "id": "35377",
