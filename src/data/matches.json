@@ -1,15 +1,5 @@
 [
   {
-    "id": "35351",
-    "slug": "gimnasia-mendoza-vs-defensa-y-justicia-2026-05-04",
-    "team_a": "Gimnasia Mendoza",
-    "team_b": "Defensa y Justicia",
-    "league": "Liga Profesional",
-    "date": "2026-05-04",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espnpremium"
-  },
-  {
     "id": "35352",
     "slug": "partido-vs-en-vivo-2026-05-04",
     "team_a": "Equipo A",
@@ -110,26 +100,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "35346",
-    "slug": "everton-vs-manchester-city-2026-05-04",
-    "team_a": "Everton",
-    "team_b": "Manchester City",
-    "league": "Premier League",
-    "date": "2026-05-04",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1pl"
-  },
-  {
-    "id": "35347",
-    "slug": "partido-vs-en-vivo-2026-05-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga",
-    "date": "2026-05-04",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "35356",
     "slug": "peñarol-vs-defensor-sporting-2026-05-04",
     "team_a": "Peñarol",
@@ -148,25 +118,5 @@
     "date": "2026-05-04",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "35360",
-    "slug": "envigado-vs-internacional-palmira-2026-05-04",
-    "team_a": "Envigado",
-    "team_b": "Internacional Palmira",
-    "league": "Primera B",
-    "date": "2026-05-04",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "35373",
-    "slug": "partido-vs-en-vivo-2026-05-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "CONMEBOL Libertadores Fútbol Playa",
-    "date": "2026-05-04",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=sportv2"
   }
 ]
