@@ -1,93 +1,13 @@
 [
   {
-    "id": "35384",
+    "id": "35396",
     "slug": "partido-vs-en-vivo-2026-05-05",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Copa Libertadores",
+    "league": "básquetbol profesional de México",
     "date": "2026-05-05",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "35386",
-    "slug": "barcelona-vs-boca-juniors-2026-05-05",
-    "team_a": "Barcelona",
-    "team_b": "Boca Juniors",
-    "league": "Copa Libertadores",
-    "date": "2026-05-05",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "35387",
-    "slug": "ucv-vs-independiente-del-valle-2026-05-05",
-    "team_a": "UCV",
-    "team_b": "Independiente del Valle",
-    "league": "Copa Libertadores",
-    "date": "2026-05-05",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "35378",
-    "slug": "partido-vs-en-vivo-2026-05-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-05",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "35382",
-    "slug": "deportivo-recoleta-vs-santos-2026-05-05",
-    "team_a": "Deportivo Recoleta",
-    "team_b": "Santos",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-05",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-  },
-  {
-    "id": "35379",
-    "slug": "partido-vs-en-vivo-2026-05-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-05",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "35380",
-    "slug": "independiente-petrolero-vs-caracas-2026-05-05",
-    "team_a": "Independiente Petrolero",
-    "team_b": "Caracas",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-05",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "35388",
-    "slug": "always-ready-vs-lanús-2026-05-05",
-    "team_a": "Always Ready",
-    "team_b": "Lanús",
-    "league": "Copa Libertadores",
-    "date": "2026-05-05",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
-  },
-  {
-    "id": "35385",
-    "slug": "partido-vs-en-vivo-2026-05-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Libertadores",
-    "date": "2026-05-05",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "time": "21:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3mx"
   },
   {
     "id": "35383",
@@ -108,35 +28,5 @@
     "date": "2026-05-05",
     "time": "20:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2_nl"
-  },
-  {
-    "id": "35381",
-    "slug": "academia-puerto-cabello-vs-cienciano-2026-05-05",
-    "team_a": "Academia Puerto Cabello",
-    "team_b": "Cienciano",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-05",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "35392",
-    "slug": "partido-vs-en-vivo-2026-05-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB",
-    "date": "2026-05-05",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "35393",
-    "slug": "partido-vs-en-vivo-2026-05-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB",
-    "date": "2026-05-05",
-    "time": "20:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   }
 ]
