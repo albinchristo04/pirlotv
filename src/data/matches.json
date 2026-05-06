@@ -110,16 +110,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
   },
   {
-    "id": "35411",
-    "slug": "brighton-&-hove-albion-vs-arsenal-2026-05-06",
-    "team_a": "Brighton & Hove Albion",
-    "team_b": "Arsenal",
-    "league": "Women's Super League",
-    "date": "2026-05-06",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1pl"
-  },
-  {
     "id": "35415",
     "slug": "partido-vs-en-vivo-2026-05-06",
     "team_a": "Equipo A",
@@ -138,26 +128,6 @@
     "date": "2026-05-06",
     "time": "15:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports2"
-  },
-  {
-    "id": "35412",
-    "slug": "brasil-vs-chile-2026-05-06",
-    "team_a": "Brasil",
-    "team_b": "Chile",
-    "league": "Sudamericano Sub-17 Femenino",
-    "date": "2026-05-06",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-  },
-  {
-    "id": "35423",
-    "slug": "partido-vs-en-vivo-2026-05-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Internazionali BNL d’Italia – Primera Ronda",
-    "date": "2026-05-06",
-    "time": "13:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "35398",
