@@ -10,26 +10,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "id": "35443",
-    "slug": "partido-vs-en-vivo-2026-05-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Internazionali BNL d’Italia – Primera Ronda",
-    "date": "2026-05-07",
-    "time": "13:40",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "35446",
-    "slug": "al-shabab-vs-al-nassr-2026-05-07",
-    "team_a": "Al Shabab",
-    "team_b": "Al Nassr",
-    "league": "Pro League",
-    "date": "2026-05-07",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
     "id": "35450",
     "slug": "toluca-vs-américa-2026-05-07",
     "team_a": "Toluca",
@@ -68,16 +48,6 @@
     "date": "2026-05-07",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "35438",
-    "slug": "partido-vs-en-vivo-2026-05-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Torneo de Reserva",
-    "date": "2026-05-07",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
   },
   {
     "id": "35447",
@@ -148,16 +118,6 @@
     "date": "2026-05-07",
     "time": "19:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "35442",
-    "slug": "partido-vs-en-vivo-2026-05-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Golf",
-    "date": "2026-05-07",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
     "id": "35436",
