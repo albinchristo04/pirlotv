@@ -1,15 +1,5 @@
 [
   {
-    "id": "35453",
-    "slug": "partido-vs-en-vivo-2026-05-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "ciclista Paris–Roubaix",
-    "date": "2026-05-07",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
     "id": "35437",
     "slug": "partido-vs-en-vivo-2026-05-07",
     "team_a": "Equipo A",
@@ -18,6 +8,16 @@
     "date": "2026-05-07",
     "time": "21:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "35443",
+    "slug": "partido-vs-en-vivo-2026-05-07",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Tenis – Internazionali BNL d’Italia – Primera Ronda",
+    "date": "2026-05-07",
+    "time": "13:40",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
     "id": "35446",
@@ -60,16 +60,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "35443",
-    "slug": "partido-vs-en-vivo-2026-05-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Internazionali BNL d’Italia – Primera Ronda",
-    "date": "2026-05-07",
-    "time": "13:40",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "35435",
     "slug": "coquimbo-unido-vs-universitario-2026-05-07",
     "team_a": "Coquimbo Unido",
@@ -88,16 +78,6 @@
     "date": "2026-05-07",
     "time": "13:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
-  },
-  {
-    "id": "35441",
-    "slug": "partido-vs-en-vivo-2026-05-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB",
-    "date": "2026-05-07",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
   },
   {
     "id": "35447",
@@ -218,16 +198,6 @@
     "date": "2026-05-07",
     "time": "20:00",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "35439",
-    "slug": "partido-vs-en-vivo-2026-05-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Internazionali BNL d’Italia – Primera Ronda",
-    "date": "2026-05-07",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "35426",
