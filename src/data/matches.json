@@ -20,16 +20,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tudn"
   },
   {
-    "id": "35427",
-    "slug": "partido-vs-en-vivo-2026-05-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Conference League",
-    "date": "2026-05-07",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
-  },
-  {
     "id": "35434",
     "slug": "partido-vs-en-vivo-2026-05-07",
     "team_a": "Equipo A",
@@ -68,26 +58,6 @@
     "date": "2026-05-07",
     "time": "20:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=eventos"
-  },
-  {
-    "id": "35425",
-    "slug": "freiburg-vs-sporting-braga-2026-05-07",
-    "team_a": "Freiburg",
-    "team_b": "Sporting Braga",
-    "league": "UEFA Europa League",
-    "date": "2026-05-07",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "35428",
-    "slug": "partido-vs-en-vivo-2026-05-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "UEFA Conference League",
-    "date": "2026-05-07",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
   },
   {
     "id": "35430",
@@ -130,16 +100,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=foxsports\n"
   },
   {
-    "id": "35445",
-    "slug": "partido-vs-en-vivo-2026-05-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB",
-    "date": "2026-05-07",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3mx"
-  },
-  {
     "id": "35448",
     "slug": "partido-vs-en-vivo-2026-05-07",
     "team_a": "Equipo A",
@@ -158,16 +118,6 @@
     "date": "2026-05-07",
     "time": "20:00",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "35426",
-    "slug": "aston-villa-vs-nottingham-forest-2026-05-07",
-    "team_a": "Aston Villa",
-    "team_b": "Nottingham Forest",
-    "league": "UEFA Europa League",
-    "date": "2026-05-07",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "35452",
