@@ -1,142 +1,22 @@
 [
   {
-    "id": "35437",
-    "slug": "partido-vs-en-vivo-2026-05-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Libertadores",
-    "date": "2026-05-07",
-    "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "id": "Barcelona-Real-Madrid-2026-05-08",
+    "slug": "barcelona-vs-real-madrid-2026-05-08",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-05-08",
+    "time": "20:00",
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
   },
   {
-    "id": "35450",
-    "slug": "toluca-vs-américa-2026-05-07",
-    "team_a": "Toluca",
-    "team_b": "América",
-    "league": "Liga MX Femenil",
-    "date": "2026-05-07",
+    "id": "América-Chivas-2026-05-08",
+    "slug": "américa-vs-chivas-2026-05-08",
+    "team_a": "América",
+    "team_b": "Chivas",
+    "league": "Liga MX",
+    "date": "2026-05-08",
     "time": "22:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tudn"
-  },
-  {
-    "id": "35434",
-    "slug": "partido-vs-en-vivo-2026-05-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Libertadores",
-    "date": "2026-05-07",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "35435",
-    "slug": "coquimbo-unido-vs-universitario-2026-05-07",
-    "team_a": "Coquimbo Unido",
-    "team_b": "Universitario",
-    "league": "Copa Libertadores",
-    "date": "2026-05-07",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "35447",
-    "slug": "partido-vs-en-vivo-2026-05-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Colombia",
-    "date": "2026-05-07",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "35451",
-    "slug": "partido-vs-en-vivo-2026-05-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga MX Femenil",
-    "date": "2026-05-07",
-    "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=eventos"
-  },
-  {
-    "id": "35430",
-    "slug": "o'higgins-vs-são-paulo-2026-05-07",
-    "team_a": "O'Higgins",
-    "team_b": "São Paulo",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-07",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "35431",
-    "slug": "blooming-vs-rb-bragantino-2026-05-07",
-    "team_a": "Blooming",
-    "team_b": "RB Bragantino",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-07",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "35432",
-    "slug": "partido-vs-en-vivo-2026-05-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-07",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "35436",
-    "slug": "partido-vs-en-vivo-2026-05-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Libertadores",
-    "date": "2026-05-07",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=foxsports\n"
-  },
-  {
-    "id": "35448",
-    "slug": "partido-vs-en-vivo-2026-05-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Colombia",
-    "date": "2026-05-07",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "35449",
-    "slug": "atlético-bucaramanga-vs-real-santander-2026-05-07",
-    "team_a": "Atlético Bucaramanga",
-    "team_b": "Real Santander",
-    "league": "Copa Colombia",
-    "date": "2026-05-07",
-    "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "35452",
-    "slug": "partido-vs-en-vivo-2026-05-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-07",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "35433",
-    "slug": "partido-vs-en-vivo-2026-05-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Libertadores",
-    "date": "2026-05-07",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
