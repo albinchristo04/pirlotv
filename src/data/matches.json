@@ -270,16 +270,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
-    "id": "35570",
-    "slug": "partido-vs-en-vivo-2026-05-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "fútbol femenino peruano",
-    "date": "2026-05-09",
-    "time": "10:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=goltv"
-  },
-  {
     "id": "35537",
     "slug": "toronto-fc-vs-inter-miami-2026-05-09",
     "team_a": "Toronto FC",
@@ -468,16 +458,6 @@
     "date": "2026-05-09",
     "time": "13:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
-  },
-  {
-    "id": "35554",
-    "slug": "partido-vs-en-vivo-2026-05-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby",
-    "date": "2026-05-09",
-    "time": "10:25",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   },
   {
     "id": "35557",
