@@ -1,35 +1,5 @@
 [
   {
-    "id": "35476",
-    "slug": "partido-vs-en-vivo-2026-05-08",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB",
-    "date": "2026-05-08",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "35459",
-    "slug": "partido-vs-en-vivo-2026-05-08",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-05-08",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "35469",
-    "slug": "partido-vs-en-vivo-2026-05-08",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera B",
-    "date": "2026-05-08",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
     "id": "35477",
     "slug": "partido-vs-en-vivo-2026-05-08",
     "team_a": "Equipo A",
@@ -37,26 +7,6 @@
     "league": "NHL",
     "date": "2026-05-08",
     "time": "20:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "35460",
-    "slug": "partido-vs-en-vivo-2026-05-08",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-05-08",
-    "time": "17:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
-  },
-  {
-    "id": "35475",
-    "slug": "partido-vs-en-vivo-2026-05-08",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby",
-    "date": "2026-05-08",
-    "time": "16:55",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
@@ -68,25 +18,5 @@
     "date": "2026-05-08",
     "time": "21:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "35461",
-    "slug": "partido-vs-en-vivo-2026-05-08",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Argentina",
-    "date": "2026-05-08",
-    "time": "19:10",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
-  },
-  {
-    "id": "35468",
-    "slug": "barranquilla-vs-bogotá-2026-05-08",
-    "team_a": "Barranquilla",
-    "team_b": "Bogotá",
-    "league": "Primera B",
-    "date": "2026-05-08",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
   }
 ]
