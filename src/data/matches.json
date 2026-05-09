@@ -100,16 +100,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=beinsportes"
   },
   {
-    "id": "35551",
-    "slug": "partido-vs-en-vivo-2026-05-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MotoGP – GP Francia – Sprint",
-    "date": "2026-05-09",
-    "time": "07:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
     "id": "35555",
     "slug": "partido-vs-en-vivo-2026-05-09",
     "team_a": "Equipo A",
@@ -280,16 +270,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
   },
   {
-    "id": "35506",
-    "slug": "partido-vs-en-vivo-2026-05-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Brasileirão",
-    "date": "2026-05-09",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere1"
-  },
-  {
     "id": "35564",
     "slug": "partido-vs-en-vivo-2026-05-09",
     "team_a": "Equipo A",
@@ -300,6 +280,26 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
+    "id": "35506",
+    "slug": "partido-vs-en-vivo-2026-05-09",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Brasileirão",
+    "date": "2026-05-09",
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere1"
+  },
+  {
+    "id": "35567",
+    "slug": "partido-vs-en-vivo-2026-05-09",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Liga 2",
+    "date": "2026-05-09",
+    "time": "15:15",
+    "decoded_iframe_url": ""
+  },
+  {
     "id": "35511",
     "slug": "partido-vs-en-vivo-2026-05-09",
     "team_a": "Equipo A",
@@ -308,16 +308,6 @@
     "date": "2026-05-09",
     "time": "20:20",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "35526",
-    "slug": "partido-vs-en-vivo-2026-05-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-05-09",
-    "time": "07:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
   },
   {
     "id": "35495",
@@ -560,16 +550,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
   },
   {
-    "id": "35550",
-    "slug": "partido-vs-en-vivo-2026-05-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby – Rugby Championship U20",
-    "date": "2026-05-09",
-    "time": "06:50",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
     "id": "35553",
     "slug": "partido-vs-en-vivo-2026-05-09",
     "team_a": "Equipo A",
@@ -710,14 +690,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
   },
   {
-    "id": "35487",
+    "id": "35566",
     "slug": "partido-vs-en-vivo-2026-05-09",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "LaLiga",
+    "league": "NBA",
     "date": "2026-05-09",
-    "time": "07:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espnmx"
   },
   {
     "id": "35481",
