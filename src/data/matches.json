@@ -20,24 +20,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
   },
   {
-    "id": "35547",
+    "id": "35571",
     "slug": "partido-vs-en-vivo-2026-05-09",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Amistoso Legends",
+    "league": "Liga de Fútbol Americano Profesional",
     "date": "2026-05-09",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=clarosports1"
-  },
-  {
-    "id": "35540",
-    "slug": "partido-vs-en-vivo-2026-05-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Segunda División",
-    "date": "2026-05-09",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "time": "20:20",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4mx"
   },
   {
     "id": "35543",
@@ -60,56 +50,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=canal5"
   },
   {
-    "id": "35561",
-    "slug": "partido-vs-en-vivo-2026-05-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Premier Padel Asunción – Semifinales Masculinas",
-    "date": "2026-05-09",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "35510",
-    "slug": "partido-vs-en-vivo-2026-05-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Categoría Primera A",
-    "date": "2026-05-09",
-    "time": "18:10",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "35513",
-    "slug": "partido-vs-en-vivo-2026-05-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-05-09",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
-  },
-  {
-    "id": "35500",
-    "slug": "partido-vs-en-vivo-2026-05-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga Profesional",
-    "date": "2026-05-09",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "35508",
-    "slug": "bahia-vs-cruzeiro-2026-05-09",
-    "team_a": "Bahia",
-    "team_b": "Cruzeiro",
-    "league": "Brasileirão",
-    "date": "2026-05-09",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
     "id": "35502",
     "slug": "partido-vs-en-vivo-2026-05-09",
     "team_a": "Equipo A",
@@ -130,66 +70,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
   },
   {
-    "id": "35563",
-    "slug": "partido-vs-en-vivo-2026-05-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-05-09",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "35541",
-    "slug": "orsomarso-vs-cúcuta-deportivo-2026-05-09",
-    "team_a": "Orsomarso",
-    "team_b": "Cúcuta Deportivo",
-    "league": "Copa Colombia",
-    "date": "2026-05-09",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "35504",
-    "slug": "partido-vs-en-vivo-2026-05-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-05-09",
-    "time": "16:15",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "35565",
-    "slug": "partido-vs-en-vivo-2026-05-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa de la Liga",
-    "date": "2026-05-09",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "35507",
-    "slug": "partido-vs-en-vivo-2026-05-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Brasileirão",
-    "date": "2026-05-09",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
-    "id": "35568",
-    "slug": "partido-vs-en-vivo-2026-05-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa de la Liga",
-    "date": "2026-05-09",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=max2"
-  },
-  {
     "id": "35542",
     "slug": "partido-vs-en-vivo-2026-05-09",
     "team_a": "Equipo A",
@@ -198,16 +78,6 @@
     "date": "2026-05-09",
     "time": "21:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even2"
-  },
-  {
-    "id": "35560",
-    "slug": "partido-vs-en-vivo-2026-05-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Queens League – A Confirmar",
-    "date": "2026-05-09",
-    "time": "15:55",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   },
   {
     "id": "35501",
@@ -228,35 +98,5 @@
     "date": "2026-05-09",
     "time": "20:00",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
-  },
-  {
-    "id": "35505",
-    "slug": "partido-vs-en-vivo-2026-05-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-05-09",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "35509",
-    "slug": "inter-bogotá-vs-atlético-nacional-2026-05-09",
-    "team_a": "Inter Bogotá",
-    "team_b": "Atlético Nacional",
-    "league": "Categoría Primera A",
-    "date": "2026-05-09",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "35524",
-    "slug": "argentina-vs-brasil-2026-05-09",
-    "team_a": "Argentina",
-    "team_b": "Brasil",
-    "league": "Sudamericano Sub-17 Femenino",
-    "date": "2026-05-09",
-    "time": "17:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
   }
 ]
