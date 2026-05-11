@@ -50,16 +50,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1pl"
   },
   {
-    "id": "35660",
-    "slug": "deportivo-garcilaso-vs-alianza-atlético-2026-05-11",
-    "team_a": "Deportivo Garcilaso",
-    "team_b": "Alianza Atlético",
-    "league": "Liga 1",
-    "date": "2026-05-11",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
-  },
-  {
     "id": "35667",
     "slug": "deportivo-maldonado-vs-boston-river-2026-05-11",
     "team_a": "Deportivo Maldonado",
@@ -98,16 +88,6 @@
     "date": "2026-05-11",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "35676",
-    "slug": "partido-vs-en-vivo-2026-05-11",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Pro League",
-    "date": "2026-05-11",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
   },
   {
     "id": "35680",
