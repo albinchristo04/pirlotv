@@ -1,65 +1,5 @@
 [
   {
-    "id": "35682",
-    "slug": "partido-vs-en-vivo-2026-05-11",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-05-11",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espnmx"
-  },
-  {
-    "id": "35666",
-    "slug": "partido-vs-en-vivo-2026-05-11",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A",
-    "date": "2026-05-11",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
-  },
-  {
-    "id": "35675",
-    "slug": "millonarios-vs-llaneros-2026-05-11",
-    "team_a": "Millonarios",
-    "team_b": "Llaneros",
-    "league": "Copa Colombia",
-    "date": "2026-05-11",
-    "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "35668",
-    "slug": "partido-vs-en-vivo-2026-05-11",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-05-11",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
-  },
-  {
-    "id": "35671",
-    "slug": "partido-vs-en-vivo-2026-05-11",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa de la Liga",
-    "date": "2026-05-11",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "35680",
-    "slug": "partido-vs-en-vivo-2026-05-11",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB – Toronto Blue Jays vs Tampa Bay Rays",
-    "date": "2026-05-11",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
     "id": "35661",
     "slug": "partido-vs-en-vivo-2026-05-11",
     "team_a": "Equipo A",
@@ -68,25 +8,5 @@
     "date": "2026-05-11",
     "time": "20:30",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
-  },
-  {
-    "id": "35673",
-    "slug": "partido-vs-en-vivo-2026-05-11",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Colombia",
-    "date": "2026-05-11",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "35681",
-    "slug": "partido-vs-en-vivo-2026-05-11",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB",
-    "date": "2026-05-11",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   }
 ]
