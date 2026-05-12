@@ -90,16 +90,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
   },
   {
-    "id": "35683",
-    "slug": "partido-vs-en-vivo-2026-05-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis",
-    "date": "2026-05-12",
-    "time": "08:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "35686",
     "slug": "partido-vs-en-vivo-2026-05-12",
     "team_a": "Equipo A",
