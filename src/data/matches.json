@@ -10,16 +10,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
   },
   {
-    "id": "35699",
-    "slug": "partido-vs-en-vivo-2026-05-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Ecuador",
-    "date": "2026-05-12",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
     "id": "35697",
     "slug": "partido-vs-en-vivo-2026-05-12",
     "team_a": "Equipo A",
@@ -110,16 +100,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
   },
   {
-    "id": "35687",
-    "slug": "partido-vs-en-vivo-2026-05-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga",
-    "date": "2026-05-12",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
     "id": "35684",
     "slug": "partido-vs-en-vivo-2026-05-12",
     "team_a": "Equipo A",
@@ -138,16 +118,6 @@
     "date": "2026-05-12",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "35705",
-    "slug": "partido-vs-en-vivo-2026-05-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera B",
-    "date": "2026-05-12",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
   },
   {
     "id": "35696",
