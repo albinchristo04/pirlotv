@@ -40,36 +40,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
   },
   {
-    "id": "35733",
-    "slug": "partido-vs-en-vivo-2026-05-13",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Women's Super League",
-    "date": "2026-05-13",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1pl"
-  },
-  {
-    "id": "35708",
-    "slug": "partido-vs-en-vivo-2026-05-13",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Premier League",
-    "date": "2026-05-13",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2pl"
-  },
-  {
-    "id": "35732",
-    "slug": "partido-vs-en-vivo-2026-05-13",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "League One",
-    "date": "2026-05-13",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3pl"
-  },
-  {
     "id": "35711",
     "slug": "partido-vs-en-vivo-2026-05-13",
     "team_a": "Equipo A",
@@ -168,26 +138,6 @@
     "date": "2026-05-13",
     "time": "21:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=canal5"
-  },
-  {
-    "id": "35737",
-    "slug": "partido-vs-en-vivo-2026-05-13",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Colombia",
-    "date": "2026-05-13",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "35740",
-    "slug": "almere-city-vs-willem-ii-2026-05-13",
-    "team_a": "Almere City",
-    "team_b": "Willem II",
-    "league": "Eerste Divisie",
-    "date": "2026-05-13",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
   },
   {
     "id": "35747",
@@ -308,46 +258,6 @@
     "date": "2026-05-13",
     "time": "21:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "35716",
-    "slug": "lazio-vs-internazionale-2026-05-13",
-    "team_a": "Lazio",
-    "team_b": "Internazionale",
-    "league": "Copa de Italia",
-    "date": "2026-05-13",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
-  },
-  {
-    "id": "35745",
-    "slug": "partido-vs-en-vivo-2026-05-13",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Internazionali BNL d’Italia – Cuartos de Final",
-    "date": "2026-05-13",
-    "time": "13:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "35715",
-    "slug": "partido-vs-en-vivo-2026-05-13",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ligue 1",
-    "date": "2026-05-13",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=eventos"
-  },
-  {
-    "id": "35719",
-    "slug": "partido-vs-en-vivo-2026-05-13",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-05-13",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
   },
   {
     "id": "35722",
