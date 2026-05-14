@@ -40,26 +40,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
   },
   {
-    "id": "35711",
-    "slug": "partido-vs-en-vivo-2026-05-13",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga",
-    "date": "2026-05-13",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "35712",
-    "slug": "partido-vs-en-vivo-2026-05-13",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga",
-    "date": "2026-05-13",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
     "id": "35717",
     "slug": "rosario-central-vs-racing-club-2026-05-13",
     "team_a": "Rosario Central",
@@ -78,16 +58,6 @@
     "date": "2026-05-13",
     "time": "17:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "35724",
-    "slug": "partido-vs-en-vivo-2026-05-13",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Argentina",
-    "date": "2026-05-13",
-    "time": "14:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
   },
   {
     "id": "35727",
@@ -168,16 +138,6 @@
     "date": "2026-05-13",
     "time": "19:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "35751",
-    "slug": "partido-vs-en-vivo-2026-05-13",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga de Basket de Lima",
-    "date": "2026-05-13",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=goltv"
   },
   {
     "id": "35721",
