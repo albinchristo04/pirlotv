@@ -50,16 +50,6 @@
     "decoded_iframe_url": ""
   },
   {
-    "id": "35765",
-    "slug": "huracán-vs-independiente-2026-05-14",
-    "team_a": "Huracán",
-    "team_b": "Independiente",
-    "league": "Torneo de Reserva",
-    "date": "2026-05-14",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
     "id": "35766",
     "slug": "partido-vs-en-vivo-2026-05-14",
     "team_a": "Equipo A",
@@ -220,14 +210,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tudn"
   },
   {
-    "id": "35771",
+    "id": "35806",
     "slug": "partido-vs-en-vivo-2026-05-14",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Tenis – Internazionali BNL d’Italia – WTA Semifinal #1",
+    "league": "Primera Division",
     "date": "2026-05-14",
-    "time": "08:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=fanatiz1"
   },
   {
     "id": "35776",
