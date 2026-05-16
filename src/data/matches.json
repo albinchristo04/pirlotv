@@ -1,15 +1,5 @@
 [
   {
-    "id": "35862",
-    "slug": "partido-vs-en-vivo-2026-05-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Women's Super League",
-    "date": "2026-05-16",
-    "time": "07:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1pl"
-  },
-  {
     "id": "35864",
     "slug": "partido-vs-en-vivo-2026-05-16",
     "team_a": "Equipo A",
@@ -380,16 +370,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "35840",
-    "slug": "partido-vs-en-vivo-2026-05-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-05-16",
-    "time": "07:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
     "id": "35821",
     "slug": "partido-vs-en-vivo-2026-05-16",
     "team_a": "Equipo A",
@@ -518,16 +498,6 @@
     "date": "2026-05-16",
     "time": "13:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
-  },
-  {
-    "id": "35852",
-    "slug": "partido-vs-en-vivo-2026-05-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MotoGP – GP Cataluña – Sprint",
-    "date": "2026-05-16",
-    "time": "07:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
     "id": "35855",
