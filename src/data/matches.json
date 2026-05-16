@@ -1,15 +1,5 @@
 [
   {
-    "id": "35835",
-    "slug": "partido-vs-en-vivo-2026-05-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-05-16",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney13"
-  },
-  {
     "id": "35844",
     "slug": "partido-vs-en-vivo-2026-05-16",
     "team_a": "Equipo A",
@@ -120,16 +110,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "35867",
-    "slug": "partido-vs-en-vivo-2026-05-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Segunda División",
-    "date": "2026-05-16",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
-  },
-  {
     "id": "35836",
     "slug": "juventud-vs-progreso-2026-05-16",
     "team_a": "Juventud",
@@ -218,16 +198,6 @@
     "date": "2026-05-16",
     "time": "13:00",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
-    "id": "35854",
-    "slug": "partido-vs-en-vivo-2026-05-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – WTA Internazionali BNL d’Italia – Final",
-    "date": "2026-05-16",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
     "id": "35856",
