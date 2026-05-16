@@ -1,25 +1,5 @@
 [
   {
-    "id": "35844",
-    "slug": "partido-vs-en-vivo-2026-05-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-05-16",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
-    "id": "35838",
-    "slug": "al-nassr-vs-gamba-osaka-2026-05-16",
-    "team_a": "Al Nassr",
-    "team_b": "Gamba Osaka",
-    "league": "AFC Champions League Two",
-    "date": "2026-05-16",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3mx"
-  },
-  {
     "id": "35869",
     "slug": "partido-vs-en-vivo-2026-05-16",
     "team_a": "Equipo A",
@@ -28,16 +8,6 @@
     "date": "2026-05-16",
     "time": "14:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney19"
-  },
-  {
-    "id": "35809",
-    "slug": "partido-vs-en-vivo-2026-05-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga 1",
-    "date": "2026-05-16",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
   },
   {
     "id": "35825",
@@ -90,36 +60,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
   },
   {
-    "id": "35850",
-    "slug": "al-hilal-vs-neom-2026-05-16",
-    "team_a": "Al Hilal",
-    "team_b": "NEOM",
-    "league": "Pro League",
-    "date": "2026-05-16",
-    "time": "11:05",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
-    "id": "35857",
-    "slug": "partido-vs-en-vivo-2026-05-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A Fecha #36 –",
-    "date": "2026-05-16",
-    "time": "13:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "35836",
-    "slug": "juventud-vs-progreso-2026-05-16",
-    "team_a": "Juventud",
-    "team_b": "Progreso",
-    "league": "Primera División",
-    "date": "2026-05-16",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney18"
-  },
-  {
     "id": "35870",
     "slug": "partido-vs-en-vivo-2026-05-16",
     "team_a": "Equipo A",
@@ -170,16 +110,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
   },
   {
-    "id": "35845",
-    "slug": "partido-vs-en-vivo-2026-05-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-05-16",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=hypermotion3"
-  },
-  {
     "id": "35848",
     "slug": "partido-vs-en-vivo-2026-05-16",
     "team_a": "Equipo A",
@@ -190,26 +120,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=universo"
   },
   {
-    "id": "35851",
-    "slug": "partido-vs-en-vivo-2026-05-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Pro League",
-    "date": "2026-05-16",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
-    "id": "35856",
-    "slug": "partido-vs-en-vivo-2026-05-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Golf",
-    "date": "2026-05-16",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "35858",
     "slug": "partido-vs-en-vivo-2026-05-16",
     "team_a": "Equipo A",
@@ -218,26 +128,6 @@
     "date": "2026-05-16",
     "time": "15:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "35843",
-    "slug": "partido-vs-en-vivo-2026-05-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-05-16",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=hypermotion2"
-  },
-  {
-    "id": "35868",
-    "slug": "partido-vs-en-vivo-2026-05-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga 2",
-    "date": "2026-05-16",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=goltv"
   },
   {
     "id": "35871",
@@ -308,26 +198,6 @@
     "date": "2026-05-16",
     "time": "20:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espnmx"
-  },
-  {
-    "id": "35849",
-    "slug": "partido-vs-en-vivo-2026-05-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Eerste Divisie",
-    "date": "2026-05-16",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
-  },
-  {
-    "id": "35855",
-    "slug": "partido-vs-en-vivo-2026-05-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Premier Padel Buenos Aires – Semifinales Femeninas",
-    "date": "2026-05-16",
-    "time": "11:35",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
     "id": "35859",
