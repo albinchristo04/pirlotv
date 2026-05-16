@@ -1,55 +1,5 @@
 [
   {
-    "id": "35864",
-    "slug": "partido-vs-en-vivo-2026-05-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Segunda División",
-    "date": "2026-05-16",
-    "time": "08:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
-  },
-  {
-    "id": "35820",
-    "slug": "partido-vs-en-vivo-2026-05-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Bundesliga",
-    "date": "2026-05-16",
-    "time": "08:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
-  },
-  {
-    "id": "35819",
-    "slug": "eintracht-frankfurt-vs-stuttgart-2026-05-16",
-    "team_a": "Eintracht Frankfurt",
-    "team_b": "Stuttgart",
-    "league": "Bundesliga",
-    "date": "2026-05-16",
-    "time": "08:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
-  },
-  {
-    "id": "35866",
-    "slug": "partido-vs-en-vivo-2026-05-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Bundesliga",
-    "date": "2026-05-16",
-    "time": "08:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney10"
-  },
-  {
-    "id": "35822",
-    "slug": "chelsea-vs-manchester-city-2026-05-16",
-    "team_a": "Chelsea",
-    "team_b": "Manchester City",
-    "league": "FA Cup",
-    "date": "2026-05-16",
-    "time": "09:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2pl"
-  },
-  {
     "id": "35835",
     "slug": "partido-vs-en-vivo-2026-05-16",
     "team_a": "Equipo A",
@@ -140,16 +90,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
   },
   {
-    "id": "35841",
-    "slug": "ceuta-vs-málaga-2026-05-16",
-    "team_a": "Ceuta",
-    "team_b": "Málaga",
-    "league": "LaLiga SmartBank",
-    "date": "2026-05-16",
-    "time": "09:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
     "id": "35847",
     "slug": "cúcuta-deportivo-vs-leones-2026-05-16",
     "team_a": "Cúcuta Deportivo",
@@ -170,16 +110,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
   },
   {
-    "id": "35853",
-    "slug": "partido-vs-en-vivo-2026-05-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby",
-    "date": "2026-05-16",
-    "time": "09:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
     "id": "35857",
     "slug": "partido-vs-en-vivo-2026-05-16",
     "team_a": "Equipo A",
@@ -188,56 +118,6 @@
     "date": "2026-05-16",
     "time": "13:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "35863",
-    "slug": "partido-vs-en-vivo-2026-05-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A femenina",
-    "date": "2026-05-16",
-    "time": "08:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-  },
-  {
-    "id": "35818",
-    "slug": "bayern-münchen-vs-köln-2026-05-16",
-    "team_a": "Bayern München",
-    "team_b": "Köln",
-    "league": "Bundesliga",
-    "date": "2026-05-16",
-    "time": "08:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
-  },
-  {
-    "id": "35813",
-    "slug": "heidenheim-vs-mainz-05-2026-05-16",
-    "team_a": "Heidenheim",
-    "team_b": "Mainz 05",
-    "league": "Bundesliga",
-    "date": "2026-05-16",
-    "time": "08:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney11"
-  },
-  {
-    "id": "35817",
-    "slug": "partido-vs-en-vivo-2026-05-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Bundesliga",
-    "date": "2026-05-16",
-    "time": "08:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "35842",
-    "slug": "partido-vs-en-vivo-2026-05-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-05-16",
-    "time": "09:15",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=hypermotion2"
   },
   {
     "id": "35867",
@@ -368,36 +248,6 @@
     "date": "2026-05-16",
     "time": "15:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "35821",
-    "slug": "partido-vs-en-vivo-2026-05-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Bundesliga",
-    "date": "2026-05-16",
-    "time": "08:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
-  },
-  {
-    "id": "35865",
-    "slug": "partido-vs-en-vivo-2026-05-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Bundesliga",
-    "date": "2026-05-16",
-    "time": "08:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney8"
-  },
-  {
-    "id": "35815",
-    "slug": "partido-vs-en-vivo-2026-05-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Bundesliga",
-    "date": "2026-05-16",
-    "time": "08:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney9"
   },
   {
     "id": "35843",
