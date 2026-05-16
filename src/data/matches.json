@@ -1,15 +1,5 @@
 [
   {
-    "id": "35860",
-    "slug": "partido-vs-en-vivo-2026-05-15",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa de Primera",
-    "date": "2026-05-15",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=fanatiz2"
-  },
-  {
     "id": "35784",
     "slug": "palestino-vs-la-serena-2026-05-15",
     "team_a": "Palestino",
@@ -18,16 +8,6 @@
     "date": "2026-05-15",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/mpd/drm?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2dydS1uaXRyby9saXZlL2NsaWVudHMvZGFzaC9lbmMvYnRyY2h2anQxdi9vdXQvdjEvMGE1ZmJjYzNmYzEyNGNmOWI5OTYyMDEwODdhNThiMmYvY2VuYy5tcGQ=&k=NTkzM2JkNjA1ZWI3YTFlNWI4NDAzZWIzNzRkNmQ2MGI6OGViMTNjMjg3ZjcxZTk0ZDQwZjYwNGNkMTJlMzVkN2I="
-  },
-  {
-    "id": "35779",
-    "slug": "fc-cajamarca-vs-sporting-cristal-2026-05-15",
-    "team_a": "FC Cajamarca",
-    "team_b": "Sporting Cristal",
-    "league": "Liga 1",
-    "date": "2026-05-15",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
   },
   {
     "id": "35783",
@@ -130,16 +110,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "35861",
-    "slug": "partido-vs-en-vivo-2026-05-15",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa de Primera",
-    "date": "2026-05-15",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=fanatiz3"
-  },
-  {
     "id": "35789",
     "slug": "partido-vs-en-vivo-2026-05-15",
     "team_a": "Equipo A",
@@ -150,16 +120,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
   },
   {
-    "id": "35788",
-    "slug": "fbc-melgar-vs-universidad-nacional-de-san-agustín-2026-05-15",
-    "team_a": "FBC Melgar",
-    "team_b": "Universidad Nacional de San Agustín",
-    "league": "Liga de Naciones Femenina de CONMEBOL",
-    "date": "2026-05-15",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=goltv"
-  },
-  {
     "id": "35786",
     "slug": "partido-vs-en-vivo-2026-05-15",
     "team_a": "Equipo A",
@@ -168,15 +128,5 @@
     "date": "2026-05-15",
     "time": "16:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
-    "id": "35803",
-    "slug": "partido-vs-en-vivo-2026-05-15",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Premier Padel Buenos Aires – Cuartos de final",
-    "date": "2026-05-15",
-    "time": "15:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   }
 ]
