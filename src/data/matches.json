@@ -1,35 +1,5 @@
 [
   {
-    "id": "35904",
-    "slug": "udinese-vs-cremonese-2026-05-17",
-    "team_a": "Udinese",
-    "team_b": "Cremonese",
-    "league": "Serie A",
-    "date": "2026-05-17",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney15"
-  },
-  {
-    "id": "35892",
-    "slug": "partido-vs-en-vivo-2026-05-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga",
-    "date": "2026-05-17",
-    "time": "12:00",
-    "decoded_iframe_url": ""
-  },
-  {
-    "id": "35902",
-    "slug": "cagliari-vs-torino-2026-05-17",
-    "team_a": "Cagliari",
-    "team_b": "Torino",
-    "league": "Serie A",
-    "date": "2026-05-17",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney13"
-  },
-  {
     "id": "35878",
     "slug": "partido-vs-en-vivo-2026-05-17",
     "team_a": "Equipo A",
@@ -90,16 +60,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1"
   },
   {
-    "id": "35941",
-    "slug": "catanzaro-vs-palermo-2026-05-17",
-    "team_a": "Catanzaro",
-    "team_b": "Palermo",
-    "league": "Serie B",
-    "date": "2026-05-17",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=foxsoccerplus"
-  },
-  {
     "id": "35915",
     "slug": "partido-vs-en-vivo-2026-05-17",
     "team_a": "Equipo A",
@@ -117,17 +77,7 @@
     "league": "Brasileirão",
     "date": "2026-05-17",
     "time": "16:30",
-    "decoded_iframe_url": ""
-  },
-  {
-    "id": "35922",
-    "slug": "partido-vs-en-vivo-2026-05-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-05-17",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere1"
   },
   {
     "id": "35924",
@@ -160,14 +110,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
   },
   {
-    "id": "35940",
-    "slug": "alemania-vs-francia-2026-05-17",
-    "team_a": "Alemania",
-    "team_b": "Francia",
-    "league": "Campeonato de Europa Femenino Sub-17 de la UEFA",
+    "id": "35968",
+    "slug": "partido-vs-en-vivo-2026-05-17",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Segunda División",
     "date": "2026-05-17",
-    "time": "12:00",
-    "decoded_iframe_url": ""
+    "time": "18:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney8"
   },
   {
     "id": "35948",
@@ -180,16 +130,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
   },
   {
-    "id": "35955",
-    "slug": "partido-vs-en-vivo-2026-05-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga MX Femenil",
-    "date": "2026-05-17",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tudn"
-  },
-  {
     "id": "35961",
     "slug": "partido-vs-en-vivo-2026-05-17",
     "team_a": "Equipo A",
@@ -200,46 +140,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
-    "id": "35888",
-    "slug": "partido-vs-en-vivo-2026-05-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga",
-    "date": "2026-05-17",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "35887",
-    "slug": "elche-vs-getafe-2026-05-17",
-    "team_a": "Elche",
-    "team_b": "Getafe",
-    "league": "LaLiga",
-    "date": "2026-05-17",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "35891",
-    "slug": "real-sociedad-vs-valencia-2026-05-17",
-    "team_a": "Real Sociedad",
-    "team_b": "Valencia",
-    "league": "LaLiga",
-    "date": "2026-05-17",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "35951",
-    "slug": "partido-vs-en-vivo-2026-05-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Super Lig",
-    "date": "2026-05-17",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=foxsports\n"
-  },
-  {
     "id": "35917",
     "slug": "partido-vs-en-vivo-2026-05-17",
     "team_a": "Equipo A",
@@ -248,26 +148,6 @@
     "date": "2026-05-17",
     "time": "14:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere3"
-  },
-  {
-    "id": "35929",
-    "slug": "partido-vs-en-vivo-2026-05-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-05-17",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney12"
-  },
-  {
-    "id": "35903",
-    "slug": "sassuolo-vs-lecce-2026-05-17",
-    "team_a": "Sassuolo",
-    "team_b": "Lecce",
-    "league": "Serie A",
-    "date": "2026-05-17",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney14"
   },
   {
     "id": "35907",
@@ -290,26 +170,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
   },
   {
-    "id": "35912",
-    "slug": "partido-vs-en-vivo-2026-05-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ligue 1",
-    "date": "2026-05-17",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
-  },
-  {
-    "id": "35920",
-    "slug": "partido-vs-en-vivo-2026-05-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Brasileirão",
-    "date": "2026-05-17",
-    "time": "16:30",
-    "decoded_iframe_url": ""
-  },
-  {
     "id": "35923",
     "slug": "partido-vs-en-vivo-2026-05-17",
     "team_a": "Equipo A",
@@ -318,26 +178,6 @@
     "date": "2026-05-17",
     "time": "14:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "35884",
-    "slug": "partido-vs-en-vivo-2026-05-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Premier League",
-    "date": "2026-05-17",
-    "time": "11:30",
-    "decoded_iframe_url": "https://la14hd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
-  },
-  {
-    "id": "35893",
-    "slug": "partido-vs-en-vivo-2026-05-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga",
-    "date": "2026-05-17",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "35953",
@@ -350,14 +190,24 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
   },
   {
-    "id": "35959",
+    "id": "35966",
     "slug": "partido-vs-en-vivo-2026-05-17",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Golf – PGA Championship – Última Vuelta",
+    "league": "MLS",
     "date": "2026-05-17",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=mls1en"
+  },
+  {
+    "id": "35920",
+    "slug": "partido-vs-en-vivo-2026-05-17",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Brasileirão",
+    "date": "2026-05-17",
+    "time": "16:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere5"
   },
   {
     "id": "35962",
@@ -370,24 +220,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "35889",
-    "slug": "osasuna-vs-espanyol-2026-05-17",
-    "team_a": "Osasuna",
-    "team_b": "Espanyol",
-    "league": "LaLiga",
+    "id": "35912",
+    "slug": "partido-vs-en-vivo-2026-05-17",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Ligue 1",
     "date": "2026-05-17",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
-  },
-  {
-    "id": "35949",
-    "slug": "kasımpaşa-vs-galatasaray-2026-05-17",
-    "team_a": "Kasımpaşa",
-    "team_b": "Galatasaray",
-    "league": "Super Lig",
-    "date": "2026-05-17",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney9"
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
   },
   {
     "id": "35918",
@@ -420,16 +260,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney16"
   },
   {
-    "id": "35877",
-    "slug": "deportivo-garcilaso-vs-utc-cajamarca-2026-05-17",
-    "team_a": "Deportivo Garcilaso",
-    "team_b": "UTC Cajamarca",
-    "league": "Liga 1",
-    "date": "2026-05-17",
-    "time": "13:15",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
-  },
-  {
     "id": "35908",
     "slug": "lorient-vs-le-havre-2026-05-17",
     "team_a": "Lorient",
@@ -438,6 +268,16 @@
     "date": "2026-05-17",
     "time": "14:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney19"
+  },
+  {
+    "id": "35960",
+    "slug": "partido-vs-en-vivo-2026-05-17",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "torneo regional de softbol universitario de la NCAA",
+    "date": "2026-05-17",
+    "time": "14:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3mx"
   },
   {
     "id": "35894",
@@ -450,14 +290,24 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   },
   {
-    "id": "35914",
+    "id": "35967",
     "slug": "partido-vs-en-vivo-2026-05-17",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Liga Profesional",
+    "league": "Primera División",
     "date": "2026-05-17",
     "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=fanatiz7"
+  },
+  {
+    "id": "35930",
+    "slug": "albion-vs-wanderers-2026-05-17",
+    "team_a": "Albion",
+    "team_b": "Wanderers",
+    "league": "Primera División",
+    "date": "2026-05-17",
+    "time": "16:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney7"
   },
   {
     "id": "35921",
@@ -470,24 +320,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
   },
   {
-    "id": "35926",
-    "slug": "leones-del-norte-vs-mushuc-runa-2026-05-17",
-    "team_a": "Leones del Norte",
-    "team_b": "Mushuc Runa",
-    "league": "Serie A",
+    "id": "35914",
+    "slug": "partido-vs-en-vivo-2026-05-17",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Liga Profesional",
     "date": "2026-05-17",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
-    "id": "35930",
-    "slug": "albion-vs-wanderers-2026-05-17",
-    "team_a": "Albion",
-    "team_b": "Wanderers",
-    "league": "Primera División",
-    "date": "2026-05-17",
-    "time": "16:00",
-    "decoded_iframe_url": ""
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "35954",
@@ -498,55 +338,5 @@
     "date": "2026-05-17",
     "time": "20:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=canal5"
-  },
-  {
-    "id": "35960",
-    "slug": "partido-vs-en-vivo-2026-05-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA – Semifinales de Conferencia – Juego #7 – A Confirmar",
-    "date": "2026-05-17",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "35886",
-    "slug": "partido-vs-en-vivo-2026-05-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga",
-    "date": "2026-05-17",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "35890",
-    "slug": "rayo-vallecano-vs-villarreal-2026-05-17",
-    "team_a": "Rayo Vallecano",
-    "team_b": "Villarreal",
-    "league": "LaLiga",
-    "date": "2026-05-17",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports2"
-  },
-  {
-    "id": "35885",
-    "slug": "partido-vs-en-vivo-2026-05-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga",
-    "date": "2026-05-17",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-  },
-  {
-    "id": "35950",
-    "slug": "partido-vs-en-vivo-2026-05-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Super Lig",
-    "date": "2026-05-17",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney10"
   }
 ]
