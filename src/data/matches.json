@@ -190,16 +190,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tudn"
   },
   {
-    "id": "35958",
-    "slug": "partido-vs-en-vivo-2026-05-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Internazionali BNL d’Italia – Final",
-    "date": "2026-05-17",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "35961",
     "slug": "partido-vs-en-vivo-2026-05-17",
     "team_a": "Equipo A",
@@ -208,16 +198,6 @@
     "date": "2026-05-17",
     "time": "14:55",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "35964",
-    "slug": "partido-vs-en-vivo-2026-05-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Segunda División",
-    "date": "2026-05-17",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
   },
   {
     "id": "35888",
@@ -290,16 +270,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney14"
   },
   {
-    "id": "35876",
-    "slug": "adt-vs-comerciantes-unidos-2026-05-17",
-    "team_a": "ADT",
-    "team_b": "Comerciantes Unidos",
-    "league": "Liga 1",
-    "date": "2026-05-17",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
-  },
-  {
     "id": "35907",
     "slug": "partido-vs-en-vivo-2026-05-17",
     "team_a": "Equipo A",
@@ -348,16 +318,6 @@
     "date": "2026-05-17",
     "time": "14:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "35942",
-    "slug": "partido-vs-en-vivo-2026-05-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A femenina",
-    "date": "2026-05-17",
-    "time": "11:00",
-    "decoded_iframe_url": ""
   },
   {
     "id": "35884",
@@ -488,16 +448,6 @@
     "date": "2026-05-17",
     "time": "14:15",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "35901",
-    "slug": "partido-vs-en-vivo-2026-05-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A",
-    "date": "2026-05-17",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
   },
   {
     "id": "35914",
