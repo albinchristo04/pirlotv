@@ -120,16 +120,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "id": "35997",
-    "slug": "quilmes-2-vs-lanús-2026-05-19",
-    "team_a": "Quilmes 2",
-    "team_b": "Lanús",
-    "league": "Torneo de Reserva",
-    "date": "2026-05-19",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "35982",
     "slug": "partido-vs-en-vivo-2026-05-19",
     "team_a": "Equipo A",
