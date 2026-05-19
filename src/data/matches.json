@@ -50,16 +50,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
   },
   {
-    "id": "35974",
-    "slug": "partido-vs-en-vivo-2026-05-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera B",
-    "date": "2026-05-18",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
     "id": "35976",
     "slug": "partido-vs-en-vivo-2026-05-18",
     "team_a": "Equipo A",
@@ -80,14 +70,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "35969",
+    "id": "35974",
     "slug": "partido-vs-en-vivo-2026-05-18",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Premier League",
+    "league": "Primera B",
     "date": "2026-05-18",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1pl"
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
     "id": "35970",
@@ -98,15 +88,5 @@
     "date": "2026-05-18",
     "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "35975",
-    "slug": "partido-vs-en-vivo-2026-05-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera B",
-    "date": "2026-05-18",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
   }
 ]
