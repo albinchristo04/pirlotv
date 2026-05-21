@@ -1,75 +1,5 @@
 [
   {
-    "id": "36005",
-    "slug": "partido-vs-en-vivo-2026-05-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-20",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36010",
-    "slug": "partido-vs-en-vivo-2026-05-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Libertadores",
-    "date": "2026-05-20",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn6"
-  },
-  {
-    "id": "36023",
-    "slug": "partido-vs-en-vivo-2026-05-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Colombia",
-    "date": "2026-05-20",
-    "time": "19:45",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "36006",
-    "slug": "partido-vs-en-vivo-2026-05-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-20",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36015",
-    "slug": "partido-vs-en-vivo-2026-05-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Ecuador",
-    "date": "2026-05-20",
-    "time": "15:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
-    "id": "36007",
-    "slug": "river-plate-vs-rb-bragantino-2026-05-20",
-    "team_a": "River Plate",
-    "team_b": "RB Bragantino",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-20",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "36011",
-    "slug": "flamengo-vs-estudiantes-2026-05-20",
-    "team_a": "Flamengo",
-    "team_b": "Estudiantes",
-    "league": "Copa Libertadores",
-    "date": "2026-05-20",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
-  },
-  {
     "id": "36013",
     "slug": "partido-vs-en-vivo-2026-05-20",
     "team_a": "Equipo A",
@@ -78,46 +8,6 @@
     "date": "2026-05-20",
     "time": "21:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36016",
-    "slug": "américa-vs-gotham-fc-2026-05-20",
-    "team_a": "América",
-    "team_b": "Gotham FC",
-    "league": "Copa de Campeonas CONCACAF W",
-    "date": "2026-05-20",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espnmx"
-  },
-  {
-    "id": "36002",
-    "slug": "partido-vs-en-vivo-2026-05-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-20",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "36003",
-    "slug": "olimpia-vs-vasco-da-gama-2026-05-20",
-    "team_a": "Olimpia",
-    "team_b": "Vasco da Gama",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-20",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-  },
-  {
-    "id": "36008",
-    "slug": "partido-vs-en-vivo-2026-05-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Libertadores",
-    "date": "2026-05-20",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "36012",
@@ -130,16 +20,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "id": "36009",
-    "slug": "palmeiras-vs-cerro-porteño-2026-05-20",
-    "team_a": "Palmeiras",
-    "team_b": "Cerro Porteño",
-    "league": "Copa Libertadores",
-    "date": "2026-05-20",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
     "id": "36017",
     "slug": "partido-vs-en-vivo-2026-05-20",
     "team_a": "Equipo A",
@@ -150,16 +30,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espnmx"
   },
   {
-    "id": "36021",
-    "slug": "partido-vs-en-vivo-2026-05-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NHL Finales de Conferencia – Juego #1 – A Confirmar",
-    "date": "2026-05-20",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
     "id": "36022",
     "slug": "partido-vs-en-vivo-2026-05-20",
     "team_a": "Equipo A",
@@ -168,15 +38,5 @@
     "date": "2026-05-20",
     "time": "20:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "36004",
-    "slug": "santos-vs-san-lorenzo-2026-05-20",
-    "team_a": "Santos",
-    "team_b": "San Lorenzo",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-20",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   }
 ]
