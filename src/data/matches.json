@@ -1,42 +1,22 @@
 [
   {
-    "id": "36013",
-    "slug": "partido-vs-en-vivo-2026-05-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Libertadores",
-    "date": "2026-05-20",
-    "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+    "id": "Barcelona-Real-Madrid-2026-05-21",
+    "slug": "barcelona-vs-real-madrid-2026-05-21",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-05-21",
+    "time": "20:00",
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
   },
   {
-    "id": "36012",
-    "slug": "junior-vs-sporting-cristal-2026-05-20",
-    "team_a": "Junior",
-    "team_b": "Sporting Cristal",
-    "league": "Copa Libertadores",
-    "date": "2026-05-20",
-    "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36017",
-    "slug": "partido-vs-en-vivo-2026-05-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa de Campeonas CONCACAF W",
-    "date": "2026-05-20",
-    "time": "21:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espnmx"
-  },
-  {
-    "id": "36022",
-    "slug": "partido-vs-en-vivo-2026-05-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB",
-    "date": "2026-05-20",
-    "time": "20:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
+    "id": "América-Chivas-2026-05-21",
+    "slug": "américa-vs-chivas-2026-05-21",
+    "team_a": "América",
+    "team_b": "Chivas",
+    "league": "Liga MX",
+    "date": "2026-05-21",
+    "time": "22:00",
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
