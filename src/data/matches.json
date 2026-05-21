@@ -50,26 +50,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
   },
   {
-    "id": "36001",
-    "slug": "freiburg-vs-aston-villa-2026-05-20",
-    "team_a": "Freiburg",
-    "team_b": "Aston Villa",
-    "league": "UEFA Europa League",
-    "date": "2026-05-20",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36014",
-    "slug": "talleres-córdoba-vs-atlético-tucumán-2026-05-20",
-    "team_a": "Talleres Córdoba",
-    "team_b": "Atlético Tucumán",
-    "league": "Copa Argentina",
-    "date": "2026-05-20",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
-  },
-  {
     "id": "36007",
     "slug": "river-plate-vs-rb-bragantino-2026-05-20",
     "team_a": "River Plate",
