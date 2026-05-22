@@ -1,25 +1,5 @@
 [
   {
-    "id": "36070",
-    "slug": "partido-vs-en-vivo-2026-05-22",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga 2",
-    "date": "2026-05-22",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=goltv"
-  },
-  {
-    "id": "36053",
-    "slug": "partido-vs-en-vivo-2026-05-22",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa de Francia",
-    "date": "2026-05-22",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
     "id": "36074",
     "slug": "partido-vs-en-vivo-2026-05-22",
     "team_a": "Equipo A",
@@ -90,36 +70,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "36054",
-    "slug": "rot-weiss-essen-vs-greuther-fürth-2026-05-22",
-    "team_a": "Rot-Weiss Essen",
-    "team_b": "Greuther Fürth",
-    "league": "2. Bundesliga",
-    "date": "2026-05-22",
-    "time": "13:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1"
-  },
-  {
-    "id": "36046",
-    "slug": "fiorentina-vs-atalanta-2026-05-22",
-    "team_a": "Fiorentina",
-    "team_b": "Atalanta",
-    "league": "Serie A",
-    "date": "2026-05-22",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36071",
-    "slug": "partido-vs-en-vivo-2026-05-22",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División de Chile",
-    "date": "2026-05-22",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
     "id": "36067",
     "slug": "partido-vs-en-vivo-2026-05-22",
     "team_a": "Equipo A",
@@ -180,26 +130,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "36055",
-    "slug": "heerenveen-vs-ajax-2026-05-22",
-    "team_a": "Heerenveen",
-    "team_b": "Ajax",
-    "league": "Eredivisie Femenina",
-    "date": "2026-05-22",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3_nl"
-  },
-  {
-    "id": "36062",
-    "slug": "partido-vs-en-vivo-2026-05-22",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "F2 Montreal – Clasificación",
-    "date": "2026-05-22",
-    "time": "12:50",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "36072",
     "slug": "partido-vs-en-vivo-2026-05-22",
     "team_a": "Equipo A",
@@ -220,16 +150,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
   },
   {
-    "id": "36047",
-    "slug": "partido-vs-en-vivo-2026-05-22",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-05-22",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
     "id": "36052",
     "slug": "nueve-de-octubre-vs-manta-2026-05-22",
     "team_a": "Nueve de Octubre",
@@ -238,16 +158,6 @@
     "date": "2026-05-22",
     "time": "15:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
-    "id": "36056",
-    "slug": "twente-vs-psv-2026-05-22",
-    "team_a": "Twente",
-    "team_b": "PSV",
-    "league": "Eredivisie Femenina",
-    "date": "2026-05-22",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2_nl"
   },
   {
     "id": "36059",
