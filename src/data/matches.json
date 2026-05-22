@@ -1,122 +1,22 @@
 [
   {
-    "id": "36026",
-    "slug": "partido-vs-en-vivo-2026-05-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-21",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+    "id": "Barcelona-Real-Madrid-2026-05-22",
+    "slug": "barcelona-vs-real-madrid-2026-05-22",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-05-22",
+    "time": "20:00",
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
   },
   {
-    "id": "36069",
-    "slug": "partido-vs-en-vivo-2026-05-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Libertadores",
-    "date": "2026-05-21",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36044",
-    "slug": "partido-vs-en-vivo-2026-05-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NHL Finales de Conferencia – Juego #2 – A Confirmar",
-    "date": "2026-05-21",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "36036",
-    "slug": "partido-vs-en-vivo-2026-05-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Torneo BetPlay Dimayor",
-    "date": "2026-05-21",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "36032",
-    "slug": "universidad-católica-vs-barcelona-2026-05-21",
-    "team_a": "Universidad Católica",
-    "team_b": "Barcelona",
-    "league": "Copa Libertadores",
-    "date": "2026-05-21",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "36028",
-    "slug": "partido-vs-en-vivo-2026-05-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-21",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-  },
-  {
-    "id": "36037",
-    "slug": "cruz-azul-vs-pumas-unam-2026-05-21",
-    "team_a": "Cruz Azul",
-    "team_b": "Pumas UNAM",
+    "id": "América-Chivas-2026-05-22",
+    "slug": "américa-vs-chivas-2026-05-22",
+    "team_a": "América",
+    "team_b": "Chivas",
     "league": "Liga MX",
-    "date": "2026-05-21",
-    "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=canal5"
-  },
-  {
-    "id": "36025",
-    "slug": "partido-vs-en-vivo-2026-05-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-21",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "36030",
-    "slug": "deportivo-la-guaira-vs-independiente-rivadavia-2026-05-21",
-    "team_a": "Deportivo La Guaira",
-    "team_b": "Independiente Rivadavia",
-    "league": "Copa Libertadores",
-    "date": "2026-05-21",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36027",
-    "slug": "partido-vs-en-vivo-2026-05-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-21",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36029",
-    "slug": "macará-vs-alianza-atlético-2026-05-21",
-    "team_a": "Macará",
-    "team_b": "Alianza Atlético",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-21",
-    "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "36043",
-    "slug": "partido-vs-en-vivo-2026-05-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA Finales de Conferencia – Juego #2 – A Confirmar",
-    "date": "2026-05-21",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+    "date": "2026-05-22",
+    "time": "22:00",
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
