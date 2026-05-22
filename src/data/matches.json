@@ -10,6 +10,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
+    "id": "36069",
+    "slug": "partido-vs-en-vivo-2026-05-21",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa Libertadores",
+    "date": "2026-05-21",
+    "time": "19:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
     "id": "36044",
     "slug": "partido-vs-en-vivo-2026-05-21",
     "team_a": "Equipo A",
@@ -30,16 +40,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
   },
   {
-    "id": "36028",
-    "slug": "partido-vs-en-vivo-2026-05-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-21",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "36032",
     "slug": "universidad-católica-vs-barcelona-2026-05-21",
     "team_a": "Universidad Católica",
@@ -48,6 +48,16 @@
     "date": "2026-05-21",
     "time": "19:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
+  },
+  {
+    "id": "36028",
+    "slug": "partido-vs-en-vivo-2026-05-21",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa Sudamericana",
+    "date": "2026-05-21",
+    "time": "19:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
   },
   {
     "id": "36037",
@@ -97,7 +107,7 @@
     "league": "Copa Sudamericana",
     "date": "2026-05-21",
     "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   },
   {
     "id": "36043",
