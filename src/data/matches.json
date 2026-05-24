@@ -1,65 +1,5 @@
 [
   {
-    "id": "36146",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Premier League",
-    "date": "2026-05-24",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1pl"
-  },
-  {
-    "id": "36154",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Premier League",
-    "date": "2026-05-24",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3pl"
-  },
-  {
-    "id": "36188",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-05-24",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney8"
-  },
-  {
-    "id": "36149",
-    "slug": "tottenham-hotspur-vs-everton-2026-05-24",
-    "team_a": "Tottenham Hotspur",
-    "team_b": "Everton",
-    "league": "Premier League",
-    "date": "2026-05-24",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/pl.php?stream=espn3"
-  },
-  {
-    "id": "36150",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Premier League",
-    "date": "2026-05-24",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/pl.php?stream=espn2"
-  },
-  {
-    "id": "36158",
-    "slug": "napoli-vs-udinese-2026-05-24",
-    "team_a": "Napoli",
-    "team_b": "Udinese",
-    "league": "Serie A",
-    "date": "2026-05-24",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
-  },
-  {
     "id": "36161",
     "slug": "partido-vs-en-vivo-2026-05-24",
     "team_a": "Equipo A",
@@ -78,16 +18,6 @@
     "date": "2026-05-24",
     "time": "18:30",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "36171",
-    "slug": "deportes-concepción-vs-huachipato-2026-05-24",
-    "team_a": "Deportes Concepción",
-    "team_b": "Huachipato",
-    "league": "Primera División",
-    "date": "2026-05-24",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
     "id": "36162",
@@ -120,16 +50,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "id": "36187",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-05-24",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
     "id": "36193",
     "slug": "partido-vs-en-vivo-2026-05-24",
     "team_a": "Equipo A",
@@ -138,16 +58,6 @@
     "date": "2026-05-24",
     "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
-    "id": "36198",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "F2 Montreal – Carrera",
-    "date": "2026-05-24",
-    "time": "10:55",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   },
   {
     "id": "36201",
@@ -188,26 +98,6 @@
     "date": "2026-05-24",
     "time": "19:45",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36151",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Premier League",
-    "date": "2026-05-24",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/pl.php?stream=disney6pl"
-  },
-  {
-    "id": "36147",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Premier League",
-    "date": "2026-05-24",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/pl.php?stream=espn"
   },
   {
     "id": "36209",
@@ -260,26 +150,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=fanatiz1"
   },
   {
-    "id": "36143",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga 1",
-    "date": "2026-05-24",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
-  },
-  {
-    "id": "36164",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa de Portugal",
-    "date": "2026-05-24",
-    "time": "11:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=foxsports3"
-  },
-  {
     "id": "36169",
     "slug": "partido-vs-en-vivo-2026-05-24",
     "team_a": "Equipo A",
@@ -320,46 +190,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=goltv"
   },
   {
-    "id": "36184",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-05-24",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
-    "id": "36185",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-05-24",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
-    "id": "36189",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-05-24",
-    "time": "11:30",
-    "decoded_iframe_url": ""
-  },
-  {
-    "id": "36190",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-05-24",
-    "time": "11:30",
-    "decoded_iframe_url": ""
-  },
-  {
     "id": "36194",
     "slug": "pumas-unam-vs-cruz-azul-2026-05-24",
     "team_a": "Pumas UNAM",
@@ -370,16 +200,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=canal5"
   },
   {
-    "id": "36199",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "IndyCar Series – 110th Indianapolis 500",
-    "date": "2026-05-24",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
     "id": "36202",
     "slug": "partido-vs-en-vivo-2026-05-24",
     "team_a": "Equipo A",
@@ -388,66 +208,6 @@
     "date": "2026-05-24",
     "time": "14:50",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "36155",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Premier League",
-    "date": "2026-05-24",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2pl"
-  },
-  {
-    "id": "36152",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Premier League",
-    "date": "2026-05-24",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5pl"
-  },
-  {
-    "id": "36181",
-    "slug": "ajax-vs-utrecht-2026-05-24",
-    "team_a": "Ajax",
-    "team_b": "Utrecht",
-    "league": "Eredivisie",
-    "date": "2026-05-24",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn1_nl"
-  },
-  {
-    "id": "36192",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-05-24",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney10"
-  },
-  {
-    "id": "36191",
-    "slug": "cultural-leonesa-vs-burgos-2026-05-24",
-    "team_a": "Cultural Leonesa",
-    "team_b": "Burgos",
-    "league": "LaLiga SmartBank",
-    "date": "2026-05-24",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney9"
-  },
-  {
-    "id": "36153",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Premier League",
-    "date": "2026-05-24",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4pl"
   },
   {
     "id": "36177",
@@ -510,16 +270,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
   },
   {
-    "id": "36148",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Premier League",
-    "date": "2026-05-24",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "36170",
     "slug": "vasco-da-gama-vs-rb-bragantino-2026-05-24",
     "team_a": "Vasco da Gama",
@@ -528,36 +278,6 @@
     "date": "2026-05-24",
     "time": "18:30",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
-    "id": "36180",
-    "slug": "juventus-vs-roma-2026-05-24",
-    "team_a": "Juventus",
-    "team_b": "Roma",
-    "league": "Copa Italia Femenina",
-    "date": "2026-05-24",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36186",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-05-24",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=hypermotion3"
-  },
-  {
-    "id": "36200",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Roland Garros – Día #1 – Primera Ronda",
-    "date": "2026-05-24",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn6"
   },
   {
     "id": "36203",
