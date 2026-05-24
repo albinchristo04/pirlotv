@@ -340,16 +340,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=goltv"
   },
   {
-    "id": "36179",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "League One",
-    "date": "2026-05-24",
-    "time": "07:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1pl"
-  },
-  {
     "id": "36184",
     "slug": "partido-vs-en-vivo-2026-05-24",
     "team_a": "Equipo A",
@@ -500,6 +490,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney9"
   },
   {
+    "id": "36177",
+    "slug": "wanderers-vs-deportivo-maldonado-2026-05-24",
+    "team_a": "Wanderers",
+    "team_b": "Deportivo Maldonado",
+    "league": "Primera División",
+    "date": "2026-05-24",
+    "time": "13:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
     "id": "36144",
     "slug": "sport-huancayo-vs-cienciano-2026-05-24",
     "team_a": "Sport Huancayo",
@@ -570,16 +570,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
   },
   {
-    "id": "36177",
-    "slug": "wanderers-vs-deportivo-maldonado-2026-05-24",
-    "team_a": "Wanderers",
-    "team_b": "Deportivo Maldonado",
-    "league": "Primera División",
-    "date": "2026-05-24",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "36180",
     "slug": "juventus-vs-roma-2026-05-24",
     "team_a": "Juventus",
@@ -598,16 +588,6 @@
     "date": "2026-05-24",
     "time": "11:30",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=hypermotion3"
-  },
-  {
-    "id": "36196",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Roland Garros – Día #1 – Primera Ronda",
-    "date": "2026-05-24",
-    "time": "07:50",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
     "id": "36197",
