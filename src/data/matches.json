@@ -1,15 +1,5 @@
 [
   {
-    "id": "36161",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A",
-    "date": "2026-05-24",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney14"
-  },
-  {
     "id": "36166",
     "slug": "partido-vs-en-vivo-2026-05-24",
     "team_a": "Equipo A",
@@ -18,16 +8,6 @@
     "date": "2026-05-24",
     "time": "18:30",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "36162",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A",
-    "date": "2026-05-24",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney15"
   },
   {
     "id": "36173",
@@ -60,16 +40,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
   },
   {
-    "id": "36201",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Roland Garros – Día #1 – Primera Ronda",
-    "date": "2026-05-24",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
     "id": "36205",
     "slug": "partido-vs-en-vivo-2026-05-24",
     "team_a": "Equipo A",
@@ -98,36 +68,6 @@
     "date": "2026-05-24",
     "time": "19:45",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36209",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Segunda División",
-    "date": "2026-05-24",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney12"
-  },
-  {
-    "id": "36159",
-    "slug": "lecce-vs-genoa-2026-05-24",
-    "team_a": "Lecce",
-    "team_b": "Genoa",
-    "league": "Serie A",
-    "date": "2026-05-24",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney16"
-  },
-  {
-    "id": "36163",
-    "slug": "verona-vs-roma-2026-05-24",
-    "team_a": "Verona",
-    "team_b": "Roma",
-    "league": "Serie A",
-    "date": "2026-05-24",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney18"
   },
   {
     "id": "36156",
@@ -170,16 +110,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36174",
-    "slug": "deportivo-llacuabamba-vs-academia-cantolao-2026-05-24",
-    "team_a": "Deportivo Llacuabamba",
-    "team_b": "Academia Cantolao",
-    "league": "Liga 2",
-    "date": "2026-05-24",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=goltv"
-  },
-  {
     "id": "36175",
     "slug": "partido-vs-en-vivo-2026-05-24",
     "team_a": "Equipo A",
@@ -210,36 +140,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
-    "id": "36177",
-    "slug": "wanderers-vs-deportivo-maldonado-2026-05-24",
-    "team_a": "Wanderers",
-    "team_b": "Deportivo Maldonado",
-    "league": "Primera División",
-    "date": "2026-05-24",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney11"
-  },
-  {
-    "id": "36165",
-    "slug": "river-plate-vs-belgrano-2026-05-24",
-    "team_a": "River Plate",
-    "team_b": "Belgrano",
-    "league": "Liga Profesional",
-    "date": "2026-05-24",
-    "time": "13:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36160",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A",
-    "date": "2026-05-24",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
     "id": "36168",
     "slug": "remo-vs-athletico-pr-2026-05-24",
     "team_a": "Remo",
@@ -248,16 +148,6 @@
     "date": "2026-05-24",
     "time": "14:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere3"
-  },
-  {
-    "id": "36144",
-    "slug": "sport-huancayo-vs-cienciano-2026-05-24",
-    "team_a": "Sport Huancayo",
-    "team_b": "Cienciano",
-    "league": "Liga 1",
-    "date": "2026-05-24",
-    "time": "13:15",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
   },
   {
     "id": "36145",
