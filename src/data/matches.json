@@ -1,132 +1,22 @@
 [
   {
-    "id": "36210",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLS",
-    "date": "2026-05-24",
+    "id": "Barcelona-Real-Madrid-2026-05-25",
+    "slug": "barcelona-vs-real-madrid-2026-05-25",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-05-25",
     "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
   },
   {
-    "id": "36178",
-    "slug": "defensor-sporting-vs-peñarol-2026-05-24",
-    "team_a": "Defensor Sporting",
-    "team_b": "Peñarol",
-    "league": "Primera División",
-    "date": "2026-05-24",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney19"
-  },
-  {
-    "id": "36166",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-05-24",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "36173",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-05-24",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36193",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Major League Soccer",
-    "date": "2026-05-24",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
-    "id": "36205",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Imposible 2026 – Fase de Grupos – Fecha #1 – Colombia vs. Deportivo Cali",
-    "date": "2026-05-24",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36206",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NHL Finales de Conferencia – Juego #3 – Vegas Golden Knights vs Colorado Avalanche",
-    "date": "2026-05-24",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "36207",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Imposible 2026 – Fase de Grupos – Fecha #1 – Flamengo vs. Selección Antioquia",
-    "date": "2026-05-24",
-    "time": "19:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36169",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Brasileirão",
-    "date": "2026-05-24",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=fanatiz1"
-  },
-  {
-    "id": "36194",
-    "slug": "pumas-unam-vs-cruz-azul-2026-05-24",
-    "team_a": "Pumas UNAM",
-    "team_b": "Cruz Azul",
+    "id": "América-Chivas-2026-05-25",
+    "slug": "américa-vs-chivas-2026-05-25",
+    "team_a": "América",
+    "team_b": "Chivas",
     "league": "Liga MX",
-    "date": "2026-05-24",
-    "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=canal5"
-  },
-  {
-    "id": "36170",
-    "slug": "vasco-da-gama-vs-rb-bragantino-2026-05-24",
-    "team_a": "Vasco da Gama",
-    "team_b": "RB Bragantino",
-    "league": "Brasileirão",
-    "date": "2026-05-24",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
-    "id": "36203",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Imposible 2026 – Fase de Grupos – Fecha #1 – Fluminense vs. DIM",
-    "date": "2026-05-24",
-    "time": "16:25",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36204",
-    "slug": "partido-vs-en-vivo-2026-05-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB – Los Angeles Angels vs Texas Rangers",
-    "date": "2026-05-24",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+    "date": "2026-05-25",
+    "time": "22:00",
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
