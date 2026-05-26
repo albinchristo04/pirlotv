@@ -10,16 +10,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
   },
   {
-    "id": "36216",
-    "slug": "partido-vs-en-vivo-2026-05-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera C Metropolitana",
-    "date": "2026-05-25",
-    "time": "13:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
-  },
-  {
     "id": "36220",
     "slug": "copiapó-vs-unión-española-2026-05-25",
     "team_a": "Copiapó",
@@ -28,16 +18,6 @@
     "date": "2026-05-25",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36223",
-    "slug": "partido-vs-en-vivo-2026-05-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB",
-    "date": "2026-05-25",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
     "id": "36225",
@@ -60,16 +40,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
   },
   {
-    "id": "36215",
-    "slug": "deportiva-agropecuaria-vs-césar-vallejo-2026-05-25",
-    "team_a": "Deportiva Agropecuaria",
-    "team_b": "César Vallejo",
-    "league": "Liga 2",
-    "date": "2026-05-25",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=goltv"
-  },
-  {
     "id": "36219",
     "slug": "real-cartagena-vs-envigado-2026-05-25",
     "team_a": "Real Cartagena",
@@ -78,16 +48,6 @@
     "date": "2026-05-25",
     "time": "20:00",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "36222",
-    "slug": "partido-vs-en-vivo-2026-05-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Roland Garros – Día #2 – Primera Ronda",
-    "date": "2026-05-25",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
     "id": "36224",
@@ -118,16 +78,6 @@
     "date": "2026-05-25",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "36213",
-    "slug": "paderborn-vs-wolfsburg-2026-05-25",
-    "team_a": "Paderborn",
-    "team_b": "Wolfsburg",
-    "league": "Bundesliga",
-    "date": "2026-05-25",
-    "time": "13:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   },
   {
     "id": "36218",
