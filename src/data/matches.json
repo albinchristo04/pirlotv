@@ -1,13 +1,13 @@
 [
   {
-    "id": "36277",
-    "slug": "vasco-da-gama-vs-barracas-central-2026-05-27",
-    "team_a": "Vasco da Gama",
-    "team_b": "Barracas Central",
+    "id": "36280",
+    "slug": "cienciano-vs-juventud-2026-05-27",
+    "team_a": "Cienciano",
+    "team_b": "Juventud",
     "league": "Copa Sudamericana",
     "date": "2026-05-27",
     "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   },
   {
     "id": "36278",
@@ -20,34 +20,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   },
   {
-    "id": "36280",
-    "slug": "cienciano-vs-juventud-2026-05-27",
-    "team_a": "Cienciano",
-    "team_b": "Juventud",
+    "id": "36277",
+    "slug": "vasco-da-gama-vs-barracas-central-2026-05-27",
+    "team_a": "Vasco da Gama",
+    "team_b": "Barracas Central",
     "league": "Copa Sudamericana",
     "date": "2026-05-27",
     "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-  },
-  {
-    "id": "36282",
-    "slug": "rb-bragantino-vs-carabobo-2026-05-27",
-    "team_a": "RB Bragantino",
-    "team_b": "Carabobo",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-27",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-  },
-  {
-    "id": "36283",
-    "slug": "river-plate-vs-blooming-2026-05-27",
-    "team_a": "River Plate",
-    "team_b": "Blooming",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-27",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "36284",
@@ -57,7 +37,27 @@
     "league": "Copa Libertadores",
     "date": "2026-05-27",
     "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
+  },
+  {
+    "id": "36283",
+    "slug": "river-plate-vs-blooming-2026-05-27",
+    "team_a": "River Plate",
+    "team_b": "Blooming",
+    "league": "Copa Sudamericana",
+    "date": "2026-05-27",
+    "time": "19:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36288",
+    "slug": "corinthians-vs-platense-2026-05-27",
+    "team_a": "Corinthians",
+    "team_b": "Platense",
+    "league": "Copa Libertadores",
+    "date": "2026-05-27",
+    "time": "19:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
   },
   {
     "id": "36286",
@@ -70,14 +70,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "id": "36288",
-    "slug": "corinthians-vs-platense-2026-05-27",
-    "team_a": "Corinthians",
-    "team_b": "Platense",
-    "league": "Copa Libertadores",
+    "id": "36282",
+    "slug": "rb-bragantino-vs-carabobo-2026-05-27",
+    "team_a": "RB Bragantino",
+    "team_b": "Carabobo",
+    "league": "Copa Sudamericana",
     "date": "2026-05-27",
     "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
   },
   {
     "id": "36291",
@@ -120,6 +120,26 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
+    "id": "36285",
+    "slug": "independiente-del-valle-vs-rosario-central-2026-05-27",
+    "team_a": "Independiente del Valle",
+    "team_b": "Rosario Central",
+    "league": "Copa Libertadores",
+    "date": "2026-05-27",
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "36279",
+    "slug": "racing-club-vs-independiente-petrolero-2026-05-27",
+    "team_a": "Racing Club",
+    "team_b": "Independiente Petrolero",
+    "league": "Copa Sudamericana",
+    "date": "2026-05-27",
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
+  },
+  {
     "id": "36276",
     "slug": "partido-vs-en-vivo-2026-05-27",
     "team_a": "Equipo A",
@@ -130,16 +150,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
-    "id": "36279",
-    "slug": "racing-club-vs-independiente-petrolero-2026-05-27",
-    "team_a": "Racing Club",
-    "team_b": "Independiente Petrolero",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-27",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
     "id": "36281",
     "slug": "partido-vs-en-vivo-2026-05-27",
     "team_a": "Equipo A",
@@ -148,16 +158,6 @@
     "date": "2026-05-27",
     "time": "17:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-  },
-  {
-    "id": "36285",
-    "slug": "independiente-del-valle-vs-rosario-central-2026-05-27",
-    "team_a": "Independiente del Valle",
-    "team_b": "Rosario Central",
-    "league": "Copa Libertadores",
-    "date": "2026-05-27",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "36287",
