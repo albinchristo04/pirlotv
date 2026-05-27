@@ -90,26 +90,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
   },
   {
-    "id": "36293",
-    "slug": "partido-vs-en-vivo-2026-05-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB – Toronto Blue Jays vs Miami Marlins",
-    "date": "2026-05-27",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
-  },
-  {
-    "id": "36290",
-    "slug": "partido-vs-en-vivo-2026-05-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Torneo de Reserva",
-    "date": "2026-05-27",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
     "id": "36275",
     "slug": "crystal-palace-vs-rayo-vallecano-2026-05-27",
     "team_a": "Crystal Palace",
@@ -178,16 +158,6 @@
     "date": "2026-05-27",
     "time": "19:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36294",
-    "slug": "partido-vs-en-vivo-2026-05-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Roland Garros – Día #4 – Segunda Ronda",
-    "date": "2026-05-27",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "36295",
