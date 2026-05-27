@@ -40,16 +40,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn6"
   },
   {
-    "id": "36273",
-    "slug": "real-cundinamarca-vs-rionegro-águilas-2026-05-26",
-    "team_a": "Real Cundinamarca",
-    "team_b": "Rionegro Águilas",
-    "league": "Copa Colombia",
-    "date": "2026-05-26",
-    "time": "15:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
     "id": "36260",
     "slug": "millonarios-vs-o'higgins-2026-05-26",
     "team_a": "Millonarios",
@@ -118,16 +108,6 @@
     "date": "2026-05-26",
     "time": "19:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36274",
-    "slug": "partido-vs-en-vivo-2026-05-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Imposible 2026 – Fase de Grupos – Fecha #3 – Fluminense vs River Plate",
-    "date": "2026-05-26",
-    "time": "15:25",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
     "id": "36259",
