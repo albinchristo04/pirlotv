@@ -1,132 +1,22 @@
 [
   {
-    "id": "36263",
-    "slug": "san-lorenzo-vs-deportivo-recoleta-2026-05-26",
-    "team_a": "San Lorenzo",
-    "team_b": "Deportivo Recoleta",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-26",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+    "id": "Barcelona-Real-Madrid-2026-05-27",
+    "slug": "barcelona-vs-real-madrid-2026-05-27",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-05-27",
+    "time": "20:00",
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
   },
   {
-    "id": "36268",
-    "slug": "flamengo-vs-cusco-2026-05-26",
-    "team_a": "Flamengo",
-    "team_b": "Cusco",
-    "league": "Copa Libertadores",
-    "date": "2026-05-26",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
-  },
-  {
-    "id": "36257",
-    "slug": "partido-vs-en-vivo-2026-05-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB – Texas Rangers vs Houston Astros",
-    "date": "2026-05-26",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36270",
-    "slug": "universitario-vs-deportes-tolima-2026-05-26",
-    "team_a": "Universitario",
-    "team_b": "Deportes Tolima",
-    "league": "Copa Libertadores",
-    "date": "2026-05-26",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn6"
-  },
-  {
-    "id": "36260",
-    "slug": "millonarios-vs-o'higgins-2026-05-26",
-    "team_a": "Millonarios",
-    "team_b": "O'Higgins",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-26",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "36262",
-    "slug": "partido-vs-en-vivo-2026-05-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-26",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports2"
-  },
-  {
-    "id": "36265",
-    "slug": "lanús-vs-mirassol-2026-05-26",
-    "team_a": "Lanús",
-    "team_b": "Mirassol",
-    "league": "Copa Libertadores",
-    "date": "2026-05-26",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36266",
-    "slug": "ldu-quito-vs-always-ready-2026-05-26",
-    "team_a": "LDU Quito",
-    "team_b": "Always Ready",
-    "league": "Copa Libertadores",
-    "date": "2026-05-26",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36264",
-    "slug": "santos-vs-deportivo-cuenca-2026-05-26",
-    "team_a": "Santos",
-    "team_b": "Deportivo Cuenca",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-26",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "36269",
-    "slug": "nacional-vs-coquimbo-unido-2026-05-26",
-    "team_a": "Nacional",
-    "team_b": "Coquimbo Unido",
-    "league": "Copa Libertadores",
-    "date": "2026-05-26",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "36267",
-    "slug": "estudiantes-vs-medellín-2026-05-26",
-    "team_a": "Estudiantes",
-    "team_b": "Medellín",
-    "league": "Copa Libertadores",
-    "date": "2026-05-26",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36259",
-    "slug": "grêmio-vs-torque-2026-05-26",
-    "team_a": "Grêmio",
-    "team_b": "Torque",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-26",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-  },
-  {
-    "id": "36261",
-    "slug": "palestino-vs-deportivo-riestra-2026-05-26",
-    "team_a": "Palestino",
-    "team_b": "Deportivo Riestra",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-26",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
+    "id": "América-Chivas-2026-05-27",
+    "slug": "américa-vs-chivas-2026-05-27",
+    "team_a": "América",
+    "team_b": "Chivas",
+    "league": "Liga MX",
+    "date": "2026-05-27",
+    "time": "22:00",
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
