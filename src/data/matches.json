@@ -1,15 +1,5 @@
 [
   {
-    "id": "36309",
-    "slug": "egipto-vs-rusia-2026-05-28",
-    "team_a": "Egipto",
-    "team_b": "Rusia",
-    "league": "Amistoso",
-    "date": "2026-05-28",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
     "id": "36311",
     "slug": "partido-vs-en-vivo-2026-05-28",
     "team_a": "Equipo A",
@@ -18,36 +8,6 @@
     "date": "2026-05-28",
     "time": "17:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
-  },
-  {
-    "id": "36302",
-    "slug": "república-de-irlanda-vs-qatar-2026-05-28",
-    "team_a": "República de Irlanda",
-    "team_b": "Qatar",
-    "league": "Amistoso",
-    "date": "2026-05-28",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxsports2_usa"
-  },
-  {
-    "id": "36313",
-    "slug": "partido-vs-en-vivo-2026-05-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Roland Garros",
-    "date": "2026-05-28",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2mx"
-  },
-  {
-    "id": "36296",
-    "slug": "américa-de-cali-vs-macará-2026-05-28",
-    "team_a": "América de Cali",
-    "team_b": "Macará",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-28",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "36298",
@@ -70,14 +30,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "36304",
-    "slug": "partido-vs-en-vivo-2026-05-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Roland Garros – Día #5 – Segunda Ronda",
+    "id": "36296",
+    "slug": "américa-de-cali-vs-macará-2026-05-28",
+    "team_a": "América de Cali",
+    "team_b": "Macará",
+    "league": "Copa Sudamericana",
     "date": "2026-05-28",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+    "time": "19:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "36306",
@@ -100,16 +60,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "36310",
-    "slug": "partido-vs-en-vivo-2026-05-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Torneo de Reserva",
-    "date": "2026-05-28",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
-  },
-  {
     "id": "36312",
     "slug": "atletico-cali-fc-vs-millonarios-2026-05-28",
     "team_a": "Atletico Cali FC",
@@ -118,16 +68,6 @@
     "date": "2026-05-28",
     "time": "20:10",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "36314",
-    "slug": "partido-vs-en-vivo-2026-05-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Roland Garros",
-    "date": "2026-05-28",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4mx"
   },
   {
     "id": "36299",
@@ -140,16 +80,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "id": "36297",
-    "slug": "tigre-vs-alianza-atlético-2026-05-28",
-    "team_a": "Tigre",
-    "team_b": "Alianza Atlético",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-28",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
     "id": "36301",
     "slug": "partido-vs-en-vivo-2026-05-28",
     "team_a": "Equipo A",
@@ -158,6 +88,16 @@
     "date": "2026-05-28",
     "time": "19:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
+  },
+  {
+    "id": "36297",
+    "slug": "tigre-vs-alianza-atlético-2026-05-28",
+    "team_a": "Tigre",
+    "team_b": "Alianza Atlético",
+    "league": "Copa Sudamericana",
+    "date": "2026-05-28",
+    "time": "19:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   },
   {
     "id": "36305",
