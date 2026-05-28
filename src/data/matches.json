@@ -90,16 +90,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
   },
   {
-    "id": "36275",
-    "slug": "crystal-palace-vs-rayo-vallecano-2026-05-27",
-    "team_a": "Crystal Palace",
-    "team_b": "Rayo Vallecano",
-    "league": "UEFA Conference League",
-    "date": "2026-05-27",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "36285",
     "slug": "independiente-del-valle-vs-rosario-central-2026-05-27",
     "team_a": "Independiente del Valle",
