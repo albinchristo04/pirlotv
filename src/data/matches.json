@@ -20,6 +20,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
   },
   {
+    "id": "36302",
+    "slug": "república-de-irlanda-vs-qatar-2026-05-28",
+    "team_a": "República de Irlanda",
+    "team_b": "Qatar",
+    "league": "Amistoso",
+    "date": "2026-05-28",
+    "time": "13:45",
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxsports2_usa"
+  },
+  {
     "id": "36296",
     "slug": "américa-de-cali-vs-macará-2026-05-28",
     "team_a": "América de Cali",
@@ -48,16 +58,6 @@
     "date": "2026-05-28",
     "time": "19:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36302",
-    "slug": "república-de-irlanda-vs-qatar-2026-05-28",
-    "team_a": "República de Irlanda",
-    "team_b": "Qatar",
-    "league": "Amistoso",
-    "date": "2026-05-28",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxsports2_usa"
   },
   {
     "id": "36304",
