@@ -1,162 +1,22 @@
 [
   {
-    "id": "36280",
-    "slug": "cienciano-vs-juventud-2026-05-27",
-    "team_a": "Cienciano",
-    "team_b": "Juventud",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-27",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
+    "id": "Barcelona-Real-Madrid-2026-05-28",
+    "slug": "barcelona-vs-real-madrid-2026-05-28",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-05-28",
+    "time": "20:00",
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
   },
   {
-    "id": "36278",
-    "slug": "olimpia-vs-audax-italiano-2026-05-27",
-    "team_a": "Olimpia",
-    "team_b": "Audax Italiano",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-27",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "36277",
-    "slug": "vasco-da-gama-vs-barracas-central-2026-05-27",
-    "team_a": "Vasco da Gama",
-    "team_b": "Barracas Central",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-27",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36284",
-    "slug": "libertad-vs-ucv-2026-05-27",
-    "team_a": "Libertad",
-    "team_b": "UCV",
-    "league": "Copa Libertadores",
-    "date": "2026-05-27",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
-  },
-  {
-    "id": "36283",
-    "slug": "river-plate-vs-blooming-2026-05-27",
-    "team_a": "River Plate",
-    "team_b": "Blooming",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-27",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36288",
-    "slug": "corinthians-vs-platense-2026-05-27",
-    "team_a": "Corinthians",
-    "team_b": "Platense",
-    "league": "Copa Libertadores",
-    "date": "2026-05-27",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
-  },
-  {
-    "id": "36286",
-    "slug": "peñarol-vs-santa-fe-2026-05-27",
-    "team_a": "Peñarol",
-    "team_b": "Santa Fe",
-    "league": "Copa Libertadores",
-    "date": "2026-05-27",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36282",
-    "slug": "rb-bragantino-vs-carabobo-2026-05-27",
-    "team_a": "RB Bragantino",
-    "team_b": "Carabobo",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-27",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-  },
-  {
-    "id": "36291",
-    "slug": "boyacá-chicó-vs-llaneros-2026-05-27",
-    "team_a": "Boyacá Chicó",
-    "team_b": "Llaneros",
-    "league": "Copa Colombia",
-    "date": "2026-05-27",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
-    "id": "36285",
-    "slug": "independiente-del-valle-vs-rosario-central-2026-05-27",
-    "team_a": "Independiente del Valle",
-    "team_b": "Rosario Central",
-    "league": "Copa Libertadores",
-    "date": "2026-05-27",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36279",
-    "slug": "racing-club-vs-independiente-petrolero-2026-05-27",
-    "team_a": "Racing Club",
-    "team_b": "Independiente Petrolero",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-27",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
-  },
-  {
-    "id": "36276",
-    "slug": "partido-vs-en-vivo-2026-05-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-27",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "36281",
-    "slug": "partido-vs-en-vivo-2026-05-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Sudamericana",
-    "date": "2026-05-27",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-  },
-  {
-    "id": "36287",
-    "slug": "bolívar-vs-independiente-rivadavia-2026-05-27",
-    "team_a": "Bolívar",
-    "team_b": "Independiente Rivadavia",
-    "league": "Copa Libertadores",
-    "date": "2026-05-27",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn6"
-  },
-  {
-    "id": "36289",
-    "slug": "fluminense-vs-deportivo-la-guaira-2026-05-27",
-    "team_a": "Fluminense",
-    "team_b": "Deportivo La Guaira",
-    "league": "Copa Libertadores",
-    "date": "2026-05-27",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36295",
-    "slug": "partido-vs-en-vivo-2026-05-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA – Final de Conferencia Este – Juego #5 – New York Knicks vs Cleveland Cavaliers",
-    "date": "2026-05-27",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
+    "id": "América-Chivas-2026-05-28",
+    "slug": "américa-vs-chivas-2026-05-28",
+    "team_a": "América",
+    "team_b": "Chivas",
+    "league": "Liga MX",
+    "date": "2026-05-28",
+    "time": "22:00",
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
