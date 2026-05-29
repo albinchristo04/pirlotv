@@ -1,15 +1,5 @@
 [
   {
-    "id": "36335",
-    "slug": "partido-vs-en-vivo-2026-05-29",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie B",
-    "date": "2026-05-29",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3mx"
-  },
-  {
     "id": "36337",
     "slug": "partido-vs-en-vivo-2026-05-29",
     "team_a": "Equipo A",
@@ -20,16 +10,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
   },
   {
-    "id": "36315",
-    "slug": "atlético-grau-vs-deportivo-moquegua-2026-05-29",
-    "team_a": "Atlético Grau",
-    "team_b": "Deportivo Moquegua",
-    "league": "Liga 1",
-    "date": "2026-05-29",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
-  },
-  {
     "id": "36317",
     "slug": "cobresal-vs-ñublense-2026-05-29",
     "team_a": "Cobresal",
@@ -38,26 +18,6 @@
     "date": "2026-05-29",
     "time": "17:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36319",
-    "slug": "santos-vs-minas-2026-05-29",
-    "team_a": "Santos",
-    "team_b": "Minas",
-    "league": "Liga 2",
-    "date": "2026-05-29",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=goltv"
-  },
-  {
-    "id": "36324",
-    "slug": "partido-vs-en-vivo-2026-05-29",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Roland Garros – Día #6 – Tercera Ronda",
-    "date": "2026-05-29",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "36326",
@@ -100,26 +60,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
-    "id": "36336",
-    "slug": "partido-vs-en-vivo-2026-05-29",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Amistoso",
-    "date": "2026-05-29",
-    "time": "13:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
-  },
-  {
-    "id": "36316",
-    "slug": "nice-vs-saint-étienne-2026-05-29",
-    "team_a": "Nice",
-    "team_b": "Saint-Étienne",
-    "league": "Ligue 1",
-    "date": "2026-05-29",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
     "id": "36320",
     "slug": "cerro-largo-vs-cerro-2026-05-29",
     "team_a": "Cerro Largo",
@@ -140,16 +80,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36321",
-    "slug": "envigado-vs-real-cartagena-2026-05-29",
-    "team_a": "Envigado",
-    "team_b": "Real Cartagena",
-    "league": "Primera B",
-    "date": "2026-05-29",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
-  },
-  {
     "id": "36318",
     "slug": "univ.-concepción-vs-unión-la-calera-2026-05-29",
     "team_a": "Univ. Concepción",
@@ -158,16 +88,6 @@
     "date": "2026-05-29",
     "time": "19:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36325",
-    "slug": "partido-vs-en-vivo-2026-05-29",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Imposible 2026 – Semifinal – Copa Oro – A Confirmar",
-    "date": "2026-05-29",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
     "id": "36327",
