@@ -140,16 +140,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36318",
-    "slug": "univ.-concepción-vs-unión-la-calera-2026-05-29",
-    "team_a": "Univ. Concepción",
-    "team_b": "Unión La Calera",
-    "league": "Primera División",
-    "date": "2026-05-29",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
     "id": "36321",
     "slug": "envigado-vs-real-cartagena-2026-05-29",
     "team_a": "Envigado",
@@ -158,6 +148,16 @@
     "date": "2026-05-29",
     "time": "15:00",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
+  },
+  {
+    "id": "36318",
+    "slug": "univ.-concepción-vs-unión-la-calera-2026-05-29",
+    "team_a": "Univ. Concepción",
+    "team_b": "Unión La Calera",
+    "league": "Primera División",
+    "date": "2026-05-29",
+    "time": "19:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
     "id": "36325",
