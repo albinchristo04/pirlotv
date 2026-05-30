@@ -80,24 +80,74 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   },
   {
-    "id": "36345",
-    "slug": "escocia-vs-curazao-2026-05-30",
-    "team_a": "Escocia",
-    "team_b": "Curazao",
-    "league": "Amistoso",
+    "id": "36369",
+    "slug": "santos-vs-vitória-2026-05-30",
+    "team_a": "Santos",
+    "team_b": "Vitória",
+    "league": "Brasileirão",
     "date": "2026-05-30",
-    "time": "07:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1"
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
   },
   {
-    "id": "36356",
+    "id": "36371",
+    "slug": "universidad-chile-vs-deportes-concepción-2026-05-30",
+    "team_a": "Universidad Chile",
+    "team_b": "Deportes Concepción",
+    "league": "Primera División",
+    "date": "2026-05-30",
+    "time": "16:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36373",
+    "slug": "gimnasia-jujuy-vs-belgrano-2026-05-30",
+    "team_a": "Gimnasia Jujuy",
+    "team_b": "Belgrano",
+    "league": "Copa Argentina",
+    "date": "2026-05-30",
+    "time": "13:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
+  },
+  {
+    "id": "36375",
+    "slug": "cds-tampico-madero-vs-tepatitlán-2026-05-30",
+    "team_a": "CDS Tampico Madero",
+    "team_b": "Tepatitlán",
+    "league": "Liga de Expansión MX",
+    "date": "2026-05-30",
+    "time": "20:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espnmx"
+  },
+  {
+    "id": "36366",
+    "slug": "flamengo-vs-coritiba-2026-05-30",
+    "team_a": "Flamengo",
+    "team_b": "Coritiba",
+    "league": "Brasileirão",
+    "date": "2026-05-30",
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+  },
+  {
+    "id": "36377",
     "slug": "partido-vs-en-vivo-2026-05-30",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "MotoGP – GP Italia – Sprint",
+    "league": "LaLiga SmartBank",
     "date": "2026-05-30",
-    "time": "07:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
+  },
+  {
+    "id": "36379",
+    "slug": "partido-vs-en-vivo-2026-05-30",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Segunda División",
+    "date": "2026-05-30",
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney8"
   },
   {
     "id": "36359",
@@ -150,14 +200,34 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
   },
   {
-    "id": "36346",
-    "slug": "racing-vs-defensor-sporting-2026-05-30",
-    "team_a": "Racing",
-    "team_b": "Defensor Sporting",
+    "id": "36370",
+    "slug": "la-serena-vs-colo-colo-2026-05-30",
+    "team_a": "La Serena",
+    "team_b": "Colo-Colo",
     "league": "Primera División",
     "date": "2026-05-30",
-    "time": "08:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36374",
+    "slug": "instituto-vs-lanús-2026-05-30",
+    "team_a": "Instituto",
+    "team_b": "Lanús",
+    "league": "Copa Argentina",
+    "date": "2026-05-30",
+    "time": "16:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
+  },
+  {
+    "id": "36376",
+    "slug": "ceuta-vs-albacete-2026-05-30",
+    "team_a": "Ceuta",
+    "team_b": "Albacete",
+    "league": "LaLiga SmartBank",
+    "date": "2026-05-30",
+    "time": "09:15",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
   },
   {
     "id": "36352",
@@ -167,16 +237,66 @@
     "league": "LaLiga SmartBank",
     "date": "2026-05-30",
     "time": "09:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
+  },
+  {
+    "id": "36365",
+    "slug": "partido-vs-en-vivo-2026-05-30",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Brasileirão",
+    "date": "2026-05-30",
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=fanatiz2"
+  },
+  {
+    "id": "36372",
+    "slug": "danubio-vs-progreso-2026-05-30",
+    "team_a": "Danubio",
+    "team_b": "Progreso",
+    "league": "Primera División",
+    "date": "2026-05-30",
+    "time": "13:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
+  },
+  {
+    "id": "36378",
+    "slug": "partido-vs-en-vivo-2026-05-30",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Segunda División",
+    "date": "2026-05-30",
+    "time": "11:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
+  },
+  {
+    "id": "36367",
+    "slug": "bahia-vs-botafogo-2026-05-30",
+    "team_a": "Bahia",
+    "team_b": "Botafogo",
+    "league": "Brasileirão",
+    "date": "2026-05-30",
+    "time": "15:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere2"
+  },
+  {
+    "id": "36368",
+    "slug": "partido-vs-en-vivo-2026-05-30",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Brasileirão",
+    "date": "2026-05-30",
+    "time": "15:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere3"
   },
   {
     "id": "36344",
-    "slug": "psg-vs-arsenal-2026-05-30",
-    "team_a": "PSG",
-    "team_b": "Arsenal",
+    "slug": "uefa-champions-league:-psg-vs-arsenal---la-final-2026-05-30",
+    "team_a": "UEFA Champions League: PSG",
+    "team_b": "Arsenal - LA FINAL",
     "league": "UEFA Champions League",
     "date": "2026-05-30",
     "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2xoci1uaXRyby9saXZlL2NsaWVudHMvZGFzaC9lbmMvNjJxZGtlZnY5Zi9vdXQvdjEvZjdkNWIzNTZlMDQ4NDk0YTgzMjU1NjNlODkxNmQ1MGIvY2VuYy5tcGQ=&k=ZmQ4NmRkZTBhZTNlMTRmZjUxYzhmYzhmMjQ4YTUwZGI6ZDEwNmFlNzhiMDg5M2RhMmU0MzkzZWNlOTk0MjBiYWE="
   }
 ]
