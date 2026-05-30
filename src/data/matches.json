@@ -20,16 +20,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
   },
   {
-    "id": "36358",
-    "slug": "partido-vs-en-vivo-2026-05-30",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby – SR Americas – Cobras Brasil Rugby vs Tarucas",
-    "date": "2026-05-30",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
     "id": "36360",
     "slug": "partido-vs-en-vivo-2026-05-30",
     "team_a": "Equipo A",
@@ -138,6 +128,16 @@
     "date": "2026-05-30",
     "time": "21:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=azteca7"
+  },
+  {
+    "id": "36381",
+    "slug": "partido-vs-en-vivo-2026-05-30",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa Imposible 2026 – Final – Copa Plata",
+    "date": "2026-05-30",
+    "time": "14:50",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "36359",
