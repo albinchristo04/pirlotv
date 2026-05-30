@@ -1,73 +1,13 @@
 [
   {
-    "id": "36337",
+    "id": "36339",
     "slug": "partido-vs-en-vivo-2026-05-29",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Copa Ecuador",
+    "league": "Copa Colombia",
     "date": "2026-05-29",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
-  },
-  {
-    "id": "36317",
-    "slug": "cobresal-vs-ñublense-2026-05-29",
-    "team_a": "Cobresal",
-    "team_b": "Ñublense",
-    "league": "Primera División",
-    "date": "2026-05-29",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36326",
-    "slug": "partido-vs-en-vivo-2026-05-29",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Imposible 2026 – Semifinal – Copa Oro – A Confirmar",
-    "date": "2026-05-29",
-    "time": "15:25",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36329",
-    "slug": "partido-vs-en-vivo-2026-05-29",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB – New York Mets vs Miami Marlins",
-    "date": "2026-05-29",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
-  },
-  {
-    "id": "36331",
-    "slug": "partido-vs-en-vivo-2026-05-29",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby – SR Americas – Pampas vs Selknam",
-    "date": "2026-05-29",
-    "time": "18:55",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "36333",
-    "slug": "partido-vs-en-vivo-2026-05-29",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NHL Finales de Conferencia – Juego #5 – Carolina Hurricanes vs. Montreal Canadiens",
-    "date": "2026-05-29",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "36320",
-    "slug": "cerro-largo-vs-cerro-2026-05-29",
-    "team_a": "Cerro Largo",
-    "team_b": "Cerro",
-    "league": "Primera División",
-    "date": "2026-05-29",
-    "time": "17:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
+    "time": "20:00",
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
   },
   {
     "id": "36338",
@@ -90,36 +30,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36327",
-    "slug": "partido-vs-en-vivo-2026-05-29",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby – SR Americas – Capibaras XV vs Dogos XV",
-    "date": "2026-05-29",
-    "time": "16:55",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "36328",
-    "slug": "partido-vs-en-vivo-2026-05-29",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Imposible 2026 – Semifinal – Copa Oro – A Confirmar",
-    "date": "2026-05-29",
-    "time": "17:05",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36330",
-    "slug": "partido-vs-en-vivo-2026-05-29",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Imposible 2026 – Semifinal – Copa Oro – A Confirmar",
-    "date": "2026-05-29",
-    "time": "18:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "36334",
     "slug": "partido-vs-en-vivo-2026-05-29",
     "team_a": "Equipo A",
@@ -128,15 +38,5 @@
     "date": "2026-05-29",
     "time": "20:25",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36332",
-    "slug": "partido-vs-en-vivo-2026-05-29",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "BOXEO",
-    "date": "2026-05-29",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   }
 ]
