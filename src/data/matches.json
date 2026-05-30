@@ -1,15 +1,5 @@
 [
   {
-    "id": "36357",
-    "slug": "partido-vs-en-vivo-2026-05-30",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "BOXEO",
-    "date": "2026-05-30",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
-  },
-  {
     "id": "36341",
     "slug": "deportivo-garcilaso-vs-juan-pablo-ii-college-2026-05-30",
     "team_a": "Deportivo Garcilaso",
@@ -58,16 +48,6 @@
     "date": "2026-05-30",
     "time": "14:00",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "36364",
-    "slug": "méxico-vs-australia-2026-05-30",
-    "team_a": "México",
-    "team_b": "Australia",
-    "league": "Amistoso",
-    "date": "2026-05-30",
-    "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=canal5"
   },
   {
     "id": "36351",
@@ -150,6 +130,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney8"
   },
   {
+    "id": "36364",
+    "slug": "méxico-vs-australia-2026-05-30",
+    "team_a": "México",
+    "team_b": "Australia",
+    "league": "Amistoso",
+    "date": "2026-05-30",
+    "time": "21:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=azteca7"
+  },
+  {
     "id": "36359",
     "slug": "partido-vs-en-vivo-2026-05-30",
     "team_a": "Equipo A",
@@ -170,16 +160,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "36340",
-    "slug": "adt-vs-cusco-2026-05-30",
-    "team_a": "ADT",
-    "team_b": "Cusco",
-    "league": "Liga 1",
-    "date": "2026-05-30",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
-  },
-  {
     "id": "36342",
     "slug": "sport-boys-vs-comerciantes-unidos-2026-05-30",
     "team_a": "Sport Boys",
@@ -188,16 +168,6 @@
     "date": "2026-05-30",
     "time": "17:30",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
-  },
-  {
-    "id": "36363",
-    "slug": "ecuador-vs-arabia-saudita-2026-05-30",
-    "team_a": "Ecuador",
-    "team_b": "Arabia Saudita",
-    "league": "Amistoso",
-    "date": "2026-05-30",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
   },
   {
     "id": "36370",
@@ -220,26 +190,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
   },
   {
-    "id": "36376",
-    "slug": "ceuta-vs-albacete-2026-05-30",
-    "team_a": "Ceuta",
-    "team_b": "Albacete",
-    "league": "LaLiga SmartBank",
-    "date": "2026-05-30",
-    "time": "09:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
-    "id": "36352",
-    "slug": "partido-vs-en-vivo-2026-05-30",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-05-30",
-    "time": "09:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
-  },
-  {
     "id": "36365",
     "slug": "partido-vs-en-vivo-2026-05-30",
     "team_a": "Equipo A",
@@ -258,16 +208,6 @@
     "date": "2026-05-30",
     "time": "13:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
-  },
-  {
-    "id": "36378",
-    "slug": "partido-vs-en-vivo-2026-05-30",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Segunda División",
-    "date": "2026-05-30",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
   },
   {
     "id": "36367",
@@ -290,13 +230,13 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere3"
   },
   {
-    "id": "36344",
-    "slug": "uefa-champions-league:-psg-vs-arsenal---la-final-2026-05-30",
-    "team_a": "UEFA Champions League: PSG",
-    "team_b": "Arsenal - LA FINAL",
-    "league": "UEFA Champions League",
+    "id": "36363",
+    "slug": "ecuador-vs-arabia-saudita-2026-05-30",
+    "team_a": "Ecuador",
+    "team_b": "Arabia Saudita",
+    "league": "Amistoso",
     "date": "2026-05-30",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2xoci1uaXRyby9saXZlL2NsaWVudHMvZGFzaC9lbmMvNjJxZGtlZnY5Zi9vdXQvdjEvZjdkNWIzNTZlMDQ4NDk0YTgzMjU1NjNlODkxNmQ1MGIvY2VuYy5tcGQ=&k=ZmQ4NmRkZTBhZTNlMTRmZjUxYzhmYzhmMjQ4YTUwZGI6ZDEwNmFlNzhiMDg5M2RhMmU0MzkzZWNlOTk0MjBiYWE="
+    "time": "18:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
   }
 ]
