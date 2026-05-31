@@ -30,56 +30,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
   },
   {
-    "id": "36416",
-    "slug": "deportivo-la-coruña-vs-las-palmas-2026-05-31",
-    "team_a": "Deportivo La Coruña",
-    "team_b": "Las Palmas",
-    "league": "LaLiga SmartBank",
-    "date": "2026-05-31",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=hypermotion3"
-  },
-  {
-    "id": "36419",
-    "slug": "racing-santander-vs-cádiz-2026-05-31",
-    "team_a": "Racing Santander",
-    "team_b": "Cádiz",
-    "league": "LaLiga SmartBank",
-    "date": "2026-05-31",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
-  },
-  {
-    "id": "36421",
-    "slug": "real-zaragoza-vs-málaga-2026-05-31",
-    "team_a": "Real Zaragoza",
-    "team_b": "Málaga",
-    "league": "LaLiga SmartBank",
-    "date": "2026-05-31",
-    "time": "11:30",
-    "decoded_iframe_url": ""
-  },
-  {
-    "id": "36425",
-    "slug": "fénix-vs-rentistas-2026-05-31",
-    "team_a": "Fénix",
-    "team_b": "Rentistas",
-    "league": "Segunda División",
-    "date": "2026-05-31",
-    "time": "10:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
-  },
-  {
-    "id": "36430",
-    "slug": "rd-del-congo-vs-túnez-2026-05-31",
-    "team_a": "RD del Congo",
-    "team_b": "Túnez",
-    "league": "Torneo Maurice Revello Sub-20",
-    "date": "2026-05-31",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
     "id": "36435",
     "slug": "partido-vs-en-vivo-2026-05-31",
     "team_a": "Equipo A",
@@ -200,16 +150,6 @@
     "decoded_iframe_url": ""
   },
   {
-    "id": "36400",
-    "slug": "deportes-limache-vs-coquimbo-unido-2026-05-31",
-    "team_a": "Deportes Limache",
-    "team_b": "Coquimbo Unido",
-    "league": "Primera División",
-    "date": "2026-05-31",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
     "id": "36403",
     "slug": "palestino-vs-audax-italiano-2026-05-31",
     "team_a": "Palestino",
@@ -240,16 +180,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
   },
   {
-    "id": "36407",
-    "slug": "academia-cantolao-vs-universidad-san-martín-2026-05-31",
-    "team_a": "Academia Cantolao",
-    "team_b": "Universidad San Martín",
-    "league": "Liga 2",
-    "date": "2026-05-31",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=goltv"
-  },
-  {
     "id": "36411",
     "slug": "partido-vs-en-vivo-2026-05-31",
     "team_a": "Equipo A",
@@ -278,46 +208,6 @@
     "date": "2026-05-31",
     "time": "17:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
-  },
-  {
-    "id": "36417",
-    "slug": "cd-castellon-vs-eibar-2026-05-31",
-    "team_a": "CD Castellon",
-    "team_b": "Eibar",
-    "league": "LaLiga SmartBank",
-    "date": "2026-05-31",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=hypermotion2"
-  },
-  {
-    "id": "36418",
-    "slug": "partido-vs-en-vivo-2026-05-31",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-05-31",
-    "time": "11:30",
-    "decoded_iframe_url": ""
-  },
-  {
-    "id": "36420",
-    "slug": "burgos-vs-fc-andorra-2026-05-31",
-    "team_a": "Burgos",
-    "team_b": "FC Andorra",
-    "league": "LaLiga SmartBank",
-    "date": "2026-05-31",
-    "time": "11:30",
-    "decoded_iframe_url": ""
-  },
-  {
-    "id": "36385",
-    "slug": "partido-vs-en-vivo-2026-05-31",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga 1",
-    "date": "2026-05-31",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
   },
   {
     "id": "36386",
