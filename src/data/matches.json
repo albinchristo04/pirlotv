@@ -30,16 +30,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
   },
   {
-    "id": "36415",
-    "slug": "brighton-&-hove-albion-vs-manchester-city-2026-05-31",
-    "team_a": "Brighton & Hove Albion",
-    "team_b": "Manchester City",
-    "league": "FA Women's Cup",
-    "date": "2026-05-31",
-    "time": "09:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
-  },
-  {
     "id": "36416",
     "slug": "deportivo-la-coruña-vs-las-palmas-2026-05-31",
     "team_a": "Deportivo La Coruña",
@@ -78,16 +68,6 @@
     "date": "2026-05-31",
     "time": "10:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
-  },
-  {
-    "id": "36428",
-    "slug": "são-bernardo-vs-novorizontino-2026-05-31",
-    "team_a": "São Bernardo",
-    "team_b": "Novorizontino",
-    "league": "Serie B",
-    "date": "2026-05-31",
-    "time": "09:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
   },
   {
     "id": "36430",
@@ -148,16 +128,6 @@
     "date": "2026-05-31",
     "time": "14:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espnmx"
-  },
-  {
-    "id": "36395",
-    "slug": "rb-bragantino-vs-internacional-2026-05-31",
-    "team_a": "RB Bragantino",
-    "team_b": "Internacional",
-    "league": "Brasileirão",
-    "date": "2026-05-31",
-    "time": "09:00",
-    "decoded_iframe_url": ""
   },
   {
     "id": "36397",
@@ -438,16 +408,6 @@
     "date": "2026-05-31",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36434",
-    "slug": "partido-vs-en-vivo-2026-05-31",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby – Premiership – Leicester Tigers vs Exeter Chiefs",
-    "date": "2026-05-31",
-    "time": "09:25",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
     "id": "36438",
