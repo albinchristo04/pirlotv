@@ -1,15 +1,5 @@
 [
   {
-    "id": "36341",
-    "slug": "deportivo-garcilaso-vs-juan-pablo-ii-college-2026-05-30",
-    "team_a": "Deportivo Garcilaso",
-    "team_b": "Juan Pablo II College",
-    "league": "Liga 1",
-    "date": "2026-05-30",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
-  },
-  {
     "id": "36343",
     "slug": "universitario-vs-sport-huancayo-2026-05-30",
     "team_a": "Universitario",
@@ -20,64 +10,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
   },
   {
-    "id": "36360",
+    "id": "36382",
     "slug": "partido-vs-en-vivo-2026-05-30",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Copa Oro Final – A Confirmar",
+    "league": "Copa de Campeones de la Concacaf",
     "date": "2026-05-30",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36362",
-    "slug": "abb-vs-always-ready-2026-05-30",
-    "team_a": "ABB",
-    "team_b": "Always Ready",
-    "league": "Primera División",
-    "date": "2026-05-30",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "36351",
-    "slug": "partido-vs-en-vivo-2026-05-30",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ligue 1 Playoffs",
-    "date": "2026-05-30",
-    "time": "13:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "36369",
-    "slug": "santos-vs-vitória-2026-05-30",
-    "team_a": "Santos",
-    "team_b": "Vitória",
-    "league": "Brasileirão",
-    "date": "2026-05-30",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
-    "id": "36371",
-    "slug": "universidad-chile-vs-deportes-concepción-2026-05-30",
-    "team_a": "Universidad Chile",
-    "team_b": "Deportes Concepción",
-    "league": "Primera División",
-    "date": "2026-05-30",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36373",
-    "slug": "gimnasia-jujuy-vs-belgrano-2026-05-30",
-    "team_a": "Gimnasia Jujuy",
-    "team_b": "Belgrano",
-    "league": "Copa Argentina",
-    "date": "2026-05-30",
-    "time": "13:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney10"
   },
   {
     "id": "36375",
@@ -90,34 +30,44 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espnmx"
   },
   {
-    "id": "36366",
-    "slug": "flamengo-vs-coritiba-2026-05-30",
-    "team_a": "Flamengo",
-    "team_b": "Coritiba",
-    "league": "Brasileirão",
-    "date": "2026-05-30",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
-    "id": "36377",
+    "id": "36360",
     "slug": "partido-vs-en-vivo-2026-05-30",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
+    "league": "Copa Oro Final – A Confirmar",
     "date": "2026-05-30",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
+    "time": "16:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "36379",
+    "id": "36369",
+    "slug": "santos-vs-vitória-2026-05-30",
+    "team_a": "Santos",
+    "team_b": "Vitória",
+    "league": "Brasileirão",
+    "date": "2026-05-30",
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+  },
+  {
+    "id": "36384",
     "slug": "partido-vs-en-vivo-2026-05-30",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
     "league": "Segunda División",
     "date": "2026-05-30",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney8"
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney9"
+  },
+  {
+    "id": "36371",
+    "slug": "universidad-chile-vs-deportes-concepción-2026-05-30",
+    "team_a": "Universidad Chile",
+    "team_b": "Deportes Concepción",
+    "league": "Primera División",
+    "date": "2026-05-30",
+    "time": "16:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
     "id": "36364",
@@ -130,26 +80,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=azteca7"
   },
   {
-    "id": "36381",
-    "slug": "partido-vs-en-vivo-2026-05-30",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Imposible 2026 – Final – Copa Plata",
-    "date": "2026-05-30",
-    "time": "14:50",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36359",
-    "slug": "partido-vs-en-vivo-2026-05-30",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Roland Garros – Día #7 – Tercera Ronda",
-    "date": "2026-05-30",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "36361",
     "slug": "partido-vs-en-vivo-2026-05-30",
     "team_a": "Equipo A",
@@ -158,6 +88,16 @@
     "date": "2026-05-30",
     "time": "17:55",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36383",
+    "slug": "partido-vs-en-vivo-2026-05-30",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
+    "date": "2026-05-30",
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=max2"
   },
   {
     "id": "36342",
@@ -170,14 +110,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
   },
   {
-    "id": "36370",
-    "slug": "la-serena-vs-colo-colo-2026-05-30",
-    "team_a": "La Serena",
-    "team_b": "Colo-Colo",
-    "league": "Primera División",
+    "id": "36363",
+    "slug": "ecuador-vs-arabia-saudita-2026-05-30",
+    "team_a": "Ecuador",
+    "team_b": "Arabia Saudita",
+    "league": "Amistoso",
     "date": "2026-05-30",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+    "time": "18:30",
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=ligadecampeones1"
   },
   {
     "id": "36374",
@@ -188,55 +128,5 @@
     "date": "2026-05-30",
     "time": "16:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
-  },
-  {
-    "id": "36365",
-    "slug": "partido-vs-en-vivo-2026-05-30",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Brasileirão",
-    "date": "2026-05-30",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=fanatiz2"
-  },
-  {
-    "id": "36372",
-    "slug": "danubio-vs-progreso-2026-05-30",
-    "team_a": "Danubio",
-    "team_b": "Progreso",
-    "league": "Primera División",
-    "date": "2026-05-30",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
-  },
-  {
-    "id": "36367",
-    "slug": "bahia-vs-botafogo-2026-05-30",
-    "team_a": "Bahia",
-    "team_b": "Botafogo",
-    "league": "Brasileirão",
-    "date": "2026-05-30",
-    "time": "15:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere2"
-  },
-  {
-    "id": "36368",
-    "slug": "partido-vs-en-vivo-2026-05-30",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Brasileirão",
-    "date": "2026-05-30",
-    "time": "15:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere3"
-  },
-  {
-    "id": "36363",
-    "slug": "ecuador-vs-arabia-saudita-2026-05-30",
-    "team_a": "Ecuador",
-    "team_b": "Arabia Saudita",
-    "league": "Amistoso",
-    "date": "2026-05-30",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
   }
 ]
