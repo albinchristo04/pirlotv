@@ -1,13 +1,13 @@
 [
   {
-    "id": "36408",
-    "slug": "alianza-universidad-vs-binacional-2026-05-31",
-    "team_a": "Alianza Universidad",
-    "team_b": "Binacional",
-    "league": "Liga 2",
+    "id": "36398",
+    "slug": "partido-vs-en-vivo-2026-05-31",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Brasileirão",
     "date": "2026-05-31",
-    "time": "13:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=goltv"
+    "time": "18:30",
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=fanatiz9"
   },
   {
     "id": "36409",
@@ -18,26 +18,6 @@
     "date": "2026-05-31",
     "time": "15:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=goltv"
-  },
-  {
-    "id": "36413",
-    "slug": "estudiantes-vs-rosario-central-2026-05-31",
-    "team_a": "Estudiantes",
-    "team_b": "Rosario Central",
-    "league": "Copa Argentina",
-    "date": "2026-05-31",
-    "time": "13:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
-  },
-  {
-    "id": "36435",
-    "slug": "partido-vs-en-vivo-2026-05-31",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Roland Garros – Día #8 – Ronda de 16",
-    "date": "2026-05-31",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "36436",
@@ -90,16 +70,6 @@
     "decoded_iframe_url": ""
   },
   {
-    "id": "36398",
-    "slug": "partido-vs-en-vivo-2026-05-31",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Brasileirão",
-    "date": "2026-05-31",
-    "time": "18:30",
-    "decoded_iframe_url": ""
-  },
-  {
     "id": "36401",
     "slug": "huachipato-vs-universidad-católica-2026-05-31",
     "team_a": "Huachipato",
@@ -120,16 +90,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36404",
-    "slug": "partido-vs-en-vivo-2026-05-31",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A",
-    "date": "2026-05-31",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
-  },
-  {
     "id": "36396",
     "slug": "vasco-da-gama-vs-atlético-mineiro-2026-05-31",
     "team_a": "Vasco da Gama",
@@ -147,7 +107,7 @@
     "league": "Brasileirão",
     "date": "2026-05-31",
     "time": "18:00",
-    "decoded_iframe_url": ""
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=fanatiz8"
   },
   {
     "id": "36403",
@@ -170,6 +130,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
   },
   {
+    "id": "36393",
+    "slug": "brasil-vs-panamá-2026-05-31",
+    "team_a": "Brasil",
+    "team_b": "Panamá",
+    "league": "Amistoso",
+    "date": "2026-05-31",
+    "time": "16:30",
+    "decoded_iframe_url": "https://la14hd.com/vivo/canales.php?stream=sporttv1"
+  },
+  {
     "id": "36406",
     "slug": "emelec-vs-universidad-católica-2026-05-31",
     "team_a": "Emelec",
@@ -178,16 +148,6 @@
     "date": "2026-05-31",
     "time": "18:10",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
-  },
-  {
-    "id": "36411",
-    "slug": "partido-vs-en-vivo-2026-05-31",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-05-31",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "36412",
@@ -210,16 +170,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
   },
   {
-    "id": "36386",
-    "slug": "partido-vs-en-vivo-2026-05-31",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga 1",
-    "date": "2026-05-31",
-    "time": "13:15",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
-  },
-  {
     "id": "36388",
     "slug": "partido-vs-en-vivo-2026-05-31",
     "team_a": "Equipo A",
@@ -228,26 +178,6 @@
     "date": "2026-05-31",
     "time": "17:00",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
-  },
-  {
-    "id": "36391",
-    "slug": "alemania-vs-finlandia-2026-05-31",
-    "team_a": "Alemania",
-    "team_b": "Finlandia",
-    "league": "Amistoso",
-    "date": "2026-05-31",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36393",
-    "slug": "brasil-vs-panamá-2026-05-31",
-    "team_a": "Brasil",
-    "team_b": "Panamá",
-    "league": "Amistoso",
-    "date": "2026-05-31",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
   },
   {
     "id": "36394",
@@ -278,16 +208,6 @@
     "date": "2026-05-31",
     "time": "14:00",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=hypermotion2"
-  },
-  {
-    "id": "36426",
-    "slug": "river-plate-vs-atenas-2026-05-31",
-    "team_a": "River Plate",
-    "team_b": "Atenas",
-    "league": "Segunda División",
-    "date": "2026-05-31",
-    "time": "13:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "36427",
