@@ -20,16 +20,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=goltv"
   },
   {
-    "id": "36410",
-    "slug": "albion-vs-torque-2026-05-31",
-    "team_a": "Albion",
-    "team_b": "Torque",
-    "league": "Primera División",
-    "date": "2026-05-31",
-    "time": "08:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
-  },
-  {
     "id": "36413",
     "slug": "estudiantes-vs-rosario-central-2026-05-31",
     "team_a": "Estudiantes",
@@ -80,16 +70,6 @@
     "decoded_iframe_url": ""
   },
   {
-    "id": "36424",
-    "slug": "huracán-vs-la-luz-2026-05-31",
-    "team_a": "Huracán",
-    "team_b": "La Luz",
-    "league": "Segunda División",
-    "date": "2026-05-31",
-    "time": "07:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1"
-  },
-  {
     "id": "36425",
     "slug": "fénix-vs-rentistas-2026-05-31",
     "team_a": "Fénix",
@@ -118,16 +98,6 @@
     "date": "2026-05-31",
     "time": "11:30",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
-    "id": "36433",
-    "slug": "partido-vs-en-vivo-2026-05-31",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby – Sevens Series Championship Valladolid – Super Session",
-    "date": "2026-05-31",
-    "time": "07:50",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   },
   {
     "id": "36435",
@@ -168,16 +138,6 @@
     "date": "2026-05-31",
     "time": "15:15",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
-  },
-  {
-    "id": "36390",
-    "slug": "suiza-vs-jordania-2026-05-31",
-    "team_a": "Suiza",
-    "team_b": "Jordania",
-    "league": "Amistoso",
-    "date": "2026-05-31",
-    "time": "08:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "36392",
@@ -478,16 +438,6 @@
     "date": "2026-05-31",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36429",
-    "slug": "china-pr-sub-20-vs-arabia-saudita-sub-23-2026-05-31",
-    "team_a": "China PR Sub-20",
-    "team_b": "Arabia Saudita Sub-23",
-    "league": "Torneo Maurice Revello",
-    "date": "2026-05-31",
-    "time": "08:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
   },
   {
     "id": "36434",
