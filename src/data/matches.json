@@ -1,13 +1,13 @@
 [
   {
-    "id": "36439",
-    "slug": "partido-vs-en-vivo-2026-06-01",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Amistoso",
+    "id": "36446",
+    "slug": "sport-huancayo-2-vs-ayacucho-2026-06-01",
+    "team_a": "Sport Huancayo 2",
+    "team_b": "Ayacucho",
+    "league": "Liga 2",
     "date": "2026-06-01",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
+    "time": "15:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=goltv"
   },
   {
     "id": "36443",
@@ -20,46 +20,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "id": "36446",
-    "slug": "sport-huancayo-2-vs-ayacucho-2026-06-01",
-    "team_a": "Sport Huancayo 2",
-    "team_b": "Ayacucho",
-    "league": "Liga 2",
-    "date": "2026-06-01",
-    "time": "15:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=goltv"
-  },
-  {
-    "id": "36441",
-    "slug": "austria-vs-túnez-2026-06-01",
-    "team_a": "Austria",
-    "team_b": "Túnez",
-    "league": "Amistoso",
-    "date": "2026-06-01",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36448",
-    "slug": "partido-vs-en-vivo-2026-06-01",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Roland Garros – Día #9 – Ronda de 16",
-    "date": "2026-06-01",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36440",
-    "slug": "partido-vs-en-vivo-2026-06-01",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Amistoso",
-    "date": "2026-06-01",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1"
-  },
-  {
     "id": "36444",
     "slug": "canadá-vs-uzbekistán-2026-06-01",
     "team_a": "Canadá",
@@ -68,36 +28,6 @@
     "date": "2026-06-01",
     "time": "20:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=sportv2"
-  },
-  {
-    "id": "36445",
-    "slug": "molinos-el-pirata-vs-deportivo-llacuabamba-2026-06-01",
-    "team_a": "Molinos El Pirata",
-    "team_b": "Deportivo Llacuabamba",
-    "league": "Liga 2",
-    "date": "2026-06-01",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=goltv"
-  },
-  {
-    "id": "36442",
-    "slug": "turquía-vs-macedonia-del-norte-2026-06-01",
-    "team_a": "Turquía",
-    "team_b": "Macedonia del Norte",
-    "league": "Amistoso",
-    "date": "2026-06-01",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
-  },
-  {
-    "id": "36447",
-    "slug": "partido-vs-en-vivo-2026-06-01",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Amistoso",
-    "date": "2026-06-01",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
   },
   {
     "id": "36449",
