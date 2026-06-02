@@ -1,15 +1,5 @@
 [
   {
-    "id": "36446",
-    "slug": "sport-huancayo-2-vs-ayacucho-2026-06-01",
-    "team_a": "Sport Huancayo 2",
-    "team_b": "Ayacucho",
-    "league": "Liga 2",
-    "date": "2026-06-01",
-    "time": "15:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=goltv"
-  },
-  {
     "id": "36443",
     "slug": "colombia-vs-costa-rica-2026-06-01",
     "team_a": "Colombia",
@@ -17,7 +7,17 @@
     "league": "Amistoso",
     "date": "2026-06-01",
     "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+  },
+  {
+    "id": "36451",
+    "slug": "partido-vs-en-vivo-2026-06-01",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Primera División",
+    "date": "2026-06-01",
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney10"
   },
   {
     "id": "36444",
