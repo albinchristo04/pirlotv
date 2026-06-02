@@ -1,25 +1,5 @@
 [
   {
-    "id": "36453",
-    "slug": "croacia-vs-bélgica-2026-06-02",
-    "team_a": "Croacia",
-    "team_b": "Bélgica",
-    "league": "Amistoso",
-    "date": "2026-06-02",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36454",
-    "slug": "georgia-vs-rumania-2026-06-02",
-    "team_a": "Georgia",
-    "team_b": "Rumania",
-    "league": "Amistoso",
-    "date": "2026-06-02",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1"
-  },
-  {
     "id": "36456",
     "slug": "haití-vs-nueva-zelanda-2026-06-02",
     "team_a": "Haití",
@@ -50,14 +30,24 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "36460",
-    "slug": "medellín-vs-cúcuta-deportivo-2026-06-02",
-    "team_a": "Medellín",
-    "team_b": "Cúcuta Deportivo",
-    "league": "Copa Colombia",
+    "id": "36466",
+    "slug": "partido-vs-en-vivo-2026-06-02",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "MLB – New York Yankees vs Cleveland Guardians",
     "date": "2026-06-02",
     "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "36453",
+    "slug": "croacia-vs-bélgica-2026-06-02",
+    "team_a": "Croacia",
+    "team_b": "Bélgica",
+    "league": "Amistoso",
+    "date": "2026-06-02",
+    "time": "11:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "36462",
@@ -70,24 +60,24 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
   },
   {
-    "id": "36466",
-    "slug": "partido-vs-en-vivo-2026-06-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB – New York Yankees vs Cleveland Guardians",
-    "date": "2026-06-02",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36455",
-    "slug": "gales-vs-ghana-2026-06-02",
-    "team_a": "Gales",
-    "team_b": "Ghana",
+    "id": "36454",
+    "slug": "georgia-vs-rumania-2026-06-02",
+    "team_a": "Georgia",
+    "team_b": "Rumania",
     "league": "Amistoso",
     "date": "2026-06-02",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+    "time": "12:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
+  },
+  {
+    "id": "36460",
+    "slug": "medellín-vs-cúcuta-deportivo-2026-06-02",
+    "team_a": "Medellín",
+    "team_b": "Cúcuta Deportivo",
+    "league": "Copa Colombia",
+    "date": "2026-06-02",
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
   },
   {
     "id": "36458",
@@ -110,16 +100,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
   },
   {
-    "id": "36463",
-    "slug": "china-pr-vs-rd-del-congo-2026-06-02",
-    "team_a": "China PR",
-    "team_b": "RD del Congo",
-    "league": "Torneo Maurice Revello Sub-20",
-    "date": "2026-06-02",
-    "time": "08:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
     "id": "36465",
     "slug": "partido-vs-en-vivo-2026-06-02",
     "team_a": "Equipo A",
@@ -138,5 +118,15 @@
     "date": "2026-06-02",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
+  },
+  {
+    "id": "36455",
+    "slug": "gales-vs-ghana-2026-06-02",
+    "team_a": "Gales",
+    "team_b": "Ghana",
+    "league": "Amistoso",
+    "date": "2026-06-02",
+    "time": "13:45",
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
   }
 ]
