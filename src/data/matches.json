@@ -20,16 +20,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
   },
   {
-    "id": "36459",
-    "slug": "tigre-vs-river-plate-2026-06-02",
-    "team_a": "Tigre",
-    "team_b": "River Plate",
-    "league": "Torneo de Reserva",
-    "date": "2026-06-02",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
     "id": "36466",
     "slug": "partido-vs-en-vivo-2026-06-02",
     "team_a": "Equipo A",
@@ -38,36 +28,6 @@
     "date": "2026-06-02",
     "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36453",
-    "slug": "croacia-vs-bélgica-2026-06-02",
-    "team_a": "Croacia",
-    "team_b": "Bélgica",
-    "league": "Amistoso",
-    "date": "2026-06-02",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36462",
-    "slug": "arabia-saudita-sub-23-vs-colombia-sub-20-2026-06-02",
-    "team_a": "Arabia Saudita Sub-23",
-    "team_b": "Colombia Sub-20",
-    "league": "Torneo Maurice Revello",
-    "date": "2026-06-02",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
-  },
-  {
-    "id": "36454",
-    "slug": "georgia-vs-rumania-2026-06-02",
-    "team_a": "Georgia",
-    "team_b": "Rumania",
-    "league": "Amistoso",
-    "date": "2026-06-02",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
   },
   {
     "id": "36460",
@@ -98,16 +58,6 @@
     "date": "2026-06-02",
     "time": "15:30",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
-  },
-  {
-    "id": "36465",
-    "slug": "partido-vs-en-vivo-2026-06-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Roland Garros – Día #10 – Cuartos de Final",
-    "date": "2026-06-02",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "36467",
