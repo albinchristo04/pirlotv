@@ -1,42 +1,22 @@
 [
   {
-    "id": "36443",
-    "slug": "colombia-vs-costa-rica-2026-06-01",
-    "team_a": "Colombia",
-    "team_b": "Costa Rica",
-    "league": "Amistoso",
-    "date": "2026-06-01",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
-    "id": "36451",
-    "slug": "partido-vs-en-vivo-2026-06-01",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-06-01",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney10"
-  },
-  {
-    "id": "36444",
-    "slug": "canadá-vs-uzbekistán-2026-06-01",
-    "team_a": "Canadá",
-    "team_b": "Uzbekistán",
-    "league": "Amistoso",
-    "date": "2026-06-01",
+    "id": "Barcelona-Real-Madrid-2026-06-02",
+    "slug": "barcelona-vs-real-madrid-2026-06-02",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-06-02",
     "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=sportv2"
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
   },
   {
-    "id": "36449",
-    "slug": "partido-vs-en-vivo-2026-06-01",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB – Arizona Diamondbacks vs. Los Angeles Dodgers",
-    "date": "2026-06-01",
-    "time": "20:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+    "id": "América-Chivas-2026-06-02",
+    "slug": "américa-vs-chivas-2026-06-02",
+    "team_a": "América",
+    "team_b": "Chivas",
+    "league": "Liga MX",
+    "date": "2026-06-02",
+    "time": "22:00",
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
