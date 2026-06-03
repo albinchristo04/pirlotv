@@ -1,62 +1,162 @@
 [
   {
-    "id": "36456",
-    "slug": "haití-vs-nueva-zelanda-2026-06-02",
-    "team_a": "Haití",
-    "team_b": "Nueva Zelanda",
+    "id": "36468",
+    "slug": "rd-del-congo-vs-dinamarca-2026-06-03",
+    "team_a": "RD del Congo",
+    "team_b": "Dinamarca",
     "league": "Amistoso",
-    "date": "2026-06-02",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
+    "date": "2026-06-03",
+    "time": "13:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "id": "36457",
-    "slug": "junior-vs-atlético-nacional-2026-06-02",
-    "team_a": "Junior",
-    "team_b": "Atlético Nacional",
-    "league": "Categoría Primera A",
-    "date": "2026-06-02",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsportsplus"
+    "id": "36470",
+    "slug": "países-bajos-vs-argelia-2026-06-03",
+    "team_a": "Países Bajos",
+    "team_b": "Argelia",
+    "league": "Amistoso",
+    "date": "2026-06-03",
+    "time": "13:45",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "id": "36466",
-    "slug": "partido-vs-en-vivo-2026-06-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB – New York Yankees vs Cleveland Guardians",
-    "date": "2026-06-02",
-    "time": "18:00",
+    "id": "36472",
+    "slug": "polonia-vs-nigeria-2026-06-03",
+    "team_a": "Polonia",
+    "team_b": "Nigeria",
+    "league": "Amistoso",
+    "date": "2026-06-03",
+    "time": "13:45",
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+  },
+  {
+    "id": "36477",
+    "slug": "rosario-central-vs-racing-club-2026-06-03",
+    "team_a": "Rosario Central",
+    "team_b": "Racing Club",
+    "league": "Torneo de Reserva",
+    "date": "2026-06-03",
+    "time": "13:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "36460",
-    "slug": "medellín-vs-cúcuta-deportivo-2026-06-02",
-    "team_a": "Medellín",
-    "team_b": "Cúcuta Deportivo",
-    "league": "Copa Colombia",
-    "date": "2026-06-02",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
+    "id": "36479",
+    "slug": "japón-vs-portugal-2026-06-03",
+    "team_a": "Japón",
+    "team_b": "Portugal",
+    "league": "Torneo Maurice Revello Sub-20",
+    "date": "2026-06-03",
+    "time": "08:00",
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
   },
   {
-    "id": "36458",
-    "slug": "barracas-central-vs-huracán-2026-06-02",
-    "team_a": "Barracas Central",
-    "team_b": "Huracán",
+    "id": "36481",
+    "slug": "partido-vs-en-vivo-2026-06-03",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Tenis – Roland Garros – Día #11 – Cuartos de Final",
+    "date": "2026-06-03",
+    "time": "04:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2mx"
+  },
+  {
+    "id": "36483",
+    "slug": "partido-vs-en-vivo-2026-06-03",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Tenis – Roland Garros – Día #11 – Cuartos de Final",
+    "date": "2026-06-03",
+    "time": "13:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36469",
+    "slug": "albania-vs-israel-2026-06-03",
+    "team_a": "Albania",
+    "team_b": "Israel",
+    "league": "Amistoso",
+    "date": "2026-06-03",
+    "time": "13:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "36471",
+    "slug": "luxemburgo-vs-italia-2026-06-03",
+    "team_a": "Luxemburgo",
+    "team_b": "Italia",
+    "league": "Amistoso",
+    "date": "2026-06-03",
+    "time": "13:45",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "36473",
+    "slug": "gualberto-villarroel-sj-vs-real-tomayapo-2026-06-03",
+    "team_a": "Gualberto Villarroel SJ",
+    "team_b": "Real Tomayapo",
+    "league": "Primera División",
+    "date": "2026-06-03",
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
+  },
+  {
+    "id": "36474",
+    "slug": "real-potosí-vs-abb-2026-06-03",
+    "team_a": "Real Potosí",
+    "team_b": "ABB",
+    "league": "Primera División",
+    "date": "2026-06-03",
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
+  },
+  {
+    "id": "36475",
+    "slug": "san-lorenzo-vs-deportivo-riestra-2026-06-03",
+    "team_a": "San Lorenzo",
+    "team_b": "Deportivo Riestra",
     "league": "Copa Argentina",
-    "date": "2026-06-02",
+    "date": "2026-06-03",
     "time": "19:10",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
   },
   {
-    "id": "36467",
-    "slug": "partido-vs-en-vivo-2026-06-02",
+    "id": "36476",
+    "slug": "gualaceo-vs-mushuc-runa-2026-06-03",
+    "team_a": "Gualaceo",
+    "team_b": "Mushuc Runa",
+    "league": "Copa Ecuador",
+    "date": "2026-06-03",
+    "time": "15:30",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
+  },
+  {
+    "id": "36478",
+    "slug": "boca-juniors-vs-defensa-y-justicia-2026-06-03",
+    "team_a": "Boca Juniors",
+    "team_b": "Defensa y Justicia",
+    "league": "Torneo de Reserva",
+    "date": "2026-06-03",
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
+  },
+  {
+    "id": "36480",
+    "slug": "costa-de-marfil-vs-venezuela-2026-06-03",
+    "team_a": "Costa de Marfil",
+    "team_b": "Venezuela",
+    "league": "Torneo Maurice Revello Sub-20",
+    "date": "2026-06-03",
+    "time": "11:30",
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
+  },
+  {
+    "id": "36482",
+    "slug": "partido-vs-en-vivo-2026-06-03",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "NHL Finales de Conferencia – Juego #7 –  Carolina Hurricanes vs Montreal Candiens",
-    "date": "2026-06-02",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
+    "league": "MLB – Minnesota Twins vs Chicago White Sox",
+    "date": "2026-06-03",
+    "time": "12:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   }
 ]
