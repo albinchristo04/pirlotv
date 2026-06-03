@@ -7,7 +7,7 @@
     "league": "Amistoso",
     "date": "2026-06-03",
     "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1"
   },
   {
     "id": "36470",
@@ -30,6 +30,26 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
   },
   {
+    "id": "36484",
+    "slug": "partido-vs-en-vivo-2026-06-03",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Amistoso",
+    "date": "2026-06-03",
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+  },
+  {
+    "id": "36486",
+    "slug": "partido-vs-en-vivo-2026-06-03",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
+    "date": "2026-06-03",
+    "time": "19:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espndeportes"
+  },
+  {
     "id": "36477",
     "slug": "rosario-central-vs-racing-club-2026-06-03",
     "team_a": "Rosario Central",
@@ -38,16 +58,6 @@
     "date": "2026-06-03",
     "time": "13:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36479",
-    "slug": "japón-vs-portugal-2026-06-03",
-    "team_a": "Japón",
-    "team_b": "Portugal",
-    "league": "Torneo Maurice Revello Sub-20",
-    "date": "2026-06-03",
-    "time": "08:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
   },
   {
     "id": "36483",
@@ -67,7 +77,7 @@
     "league": "Amistoso",
     "date": "2026-06-03",
     "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
   },
   {
     "id": "36471",
@@ -77,7 +87,27 @@
     "league": "Amistoso",
     "date": "2026-06-03",
     "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
+  },
+  {
+    "id": "36485",
+    "slug": "partido-vs-en-vivo-2026-06-03",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Amistoso",
+    "date": "2026-06-03",
+    "time": "12:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney10"
+  },
+  {
+    "id": "36487",
+    "slug": "partido-vs-en-vivo-2026-06-03",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Amistoso",
+    "date": "2026-06-03",
+    "time": "19:45",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=eventos4"
   },
   {
     "id": "36473",
