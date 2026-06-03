@@ -1,15 +1,5 @@
 [
   {
-    "id": "36468",
-    "slug": "rd-del-congo-vs-dinamarca-2026-06-03",
-    "team_a": "RD del Congo",
-    "team_b": "Dinamarca",
-    "league": "Amistoso",
-    "date": "2026-06-03",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1"
-  },
-  {
     "id": "36470",
     "slug": "países-bajos-vs-argelia-2026-06-03",
     "team_a": "Países Bajos",
@@ -50,36 +40,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espndeportes"
   },
   {
-    "id": "36477",
-    "slug": "rosario-central-vs-racing-club-2026-06-03",
-    "team_a": "Rosario Central",
-    "team_b": "Racing Club",
-    "league": "Torneo de Reserva",
-    "date": "2026-06-03",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36483",
-    "slug": "partido-vs-en-vivo-2026-06-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Roland Garros – Día #11 – Cuartos de Final",
-    "date": "2026-06-03",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36469",
-    "slug": "albania-vs-israel-2026-06-03",
-    "team_a": "Albania",
-    "team_b": "Israel",
-    "league": "Amistoso",
-    "date": "2026-06-03",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
-  },
-  {
     "id": "36471",
     "slug": "luxemburgo-vs-italia-2026-06-03",
     "team_a": "Luxemburgo",
@@ -88,16 +48,6 @@
     "date": "2026-06-03",
     "time": "13:45",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
-  },
-  {
-    "id": "36485",
-    "slug": "partido-vs-en-vivo-2026-06-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Amistoso",
-    "date": "2026-06-03",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney10"
   },
   {
     "id": "36487",
@@ -158,25 +108,5 @@
     "date": "2026-06-03",
     "time": "17:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
-  },
-  {
-    "id": "36480",
-    "slug": "costa-de-marfil-vs-venezuela-2026-06-03",
-    "team_a": "Costa de Marfil",
-    "team_b": "Venezuela",
-    "league": "Torneo Maurice Revello Sub-20",
-    "date": "2026-06-03",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
-    "id": "36482",
-    "slug": "partido-vs-en-vivo-2026-06-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB – Minnesota Twins vs Chicago White Sox",
-    "date": "2026-06-03",
-    "time": "12:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   }
 ]
