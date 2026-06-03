@@ -50,16 +50,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
   },
   {
-    "id": "36481",
-    "slug": "partido-vs-en-vivo-2026-06-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Roland Garros – Día #11 – Cuartos de Final",
-    "date": "2026-06-03",
-    "time": "04:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2mx"
-  },
-  {
     "id": "36483",
     "slug": "partido-vs-en-vivo-2026-06-03",
     "team_a": "Equipo A",
