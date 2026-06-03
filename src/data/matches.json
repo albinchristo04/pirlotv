@@ -50,16 +50,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
   },
   {
-    "id": "36461",
-    "slug": "la-unión-atlético-vs-deportivo-cuenca-2026-06-02",
-    "team_a": "La Unión Atlético",
-    "team_b": "Deportivo Cuenca",
-    "league": "Copa Ecuador",
-    "date": "2026-06-02",
-    "time": "15:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
-  },
-  {
     "id": "36467",
     "slug": "partido-vs-en-vivo-2026-06-02",
     "team_a": "Equipo A",
@@ -68,15 +58,5 @@
     "date": "2026-06-02",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "36455",
-    "slug": "gales-vs-ghana-2026-06-02",
-    "team_a": "Gales",
-    "team_b": "Ghana",
-    "league": "Amistoso",
-    "date": "2026-06-02",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
   }
 ]
