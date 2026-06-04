@@ -1,25 +1,5 @@
 [
   {
-    "id": "36470",
-    "slug": "países-bajos-vs-argelia-2026-06-03",
-    "team_a": "Países Bajos",
-    "team_b": "Argelia",
-    "league": "Amistoso",
-    "date": "2026-06-03",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36472",
-    "slug": "polonia-vs-nigeria-2026-06-03",
-    "team_a": "Polonia",
-    "team_b": "Nigeria",
-    "league": "Amistoso",
-    "date": "2026-06-03",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
     "id": "36484",
     "slug": "partido-vs-en-vivo-2026-06-03",
     "team_a": "Equipo A",
@@ -38,16 +18,6 @@
     "date": "2026-06-03",
     "time": "19:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espndeportes"
-  },
-  {
-    "id": "36471",
-    "slug": "luxemburgo-vs-italia-2026-06-03",
-    "team_a": "Luxemburgo",
-    "team_b": "Italia",
-    "league": "Amistoso",
-    "date": "2026-06-03",
-    "time": "13:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
   },
   {
     "id": "36487",
@@ -88,16 +58,6 @@
     "date": "2026-06-03",
     "time": "19:10",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
-  },
-  {
-    "id": "36476",
-    "slug": "gualaceo-vs-mushuc-runa-2026-06-03",
-    "team_a": "Gualaceo",
-    "team_b": "Mushuc Runa",
-    "league": "Copa Ecuador",
-    "date": "2026-06-03",
-    "time": "15:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
   },
   {
     "id": "36478",
