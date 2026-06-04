@@ -1,15 +1,5 @@
 [
   {
-    "id": "36493",
-    "slug": "francia-vs-costa-de-marfil-2026-06-04",
-    "team_a": "Francia",
-    "team_b": "Costa de Marfil",
-    "league": "Amistoso",
-    "date": "2026-06-04",
-    "time": "14:10",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "36496",
     "slug": "deportivo-cuenca-juniors-vs-macará-2026-06-04",
     "team_a": "Deportivo Cuenca Juniors",
@@ -18,36 +8,6 @@
     "date": "2026-06-04",
     "time": "18:30",
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even3"
-  },
-  {
-    "id": "36500",
-    "slug": "partido-vs-en-vivo-2026-06-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Roland Garros – Día #11 – Cuartos de Final",
-    "date": "2026-06-04",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36488",
-    "slug": "irlanda-del-norte-vs-guinea-2026-06-04",
-    "team_a": "Irlanda del Norte",
-    "team_b": "Guinea",
-    "league": "Amistoso",
-    "date": "2026-06-04",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1"
-  },
-  {
-    "id": "36490",
-    "slug": "andorra-vs-liechtenstein-2026-06-04",
-    "team_a": "Andorra",
-    "team_b": "Liechtenstein",
-    "league": "Amistoso",
-    "date": "2026-06-04",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
   },
   {
     "id": "36494",
@@ -68,55 +28,5 @@
     "date": "2026-06-04",
     "time": "21:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=canal5"
-  },
-  {
-    "id": "36497",
-    "slug": "barracas-central-vs-aldosivi-2026-06-04",
-    "team_a": "Barracas Central",
-    "team_b": "Aldosivi",
-    "league": "Torneo de Reserva",
-    "date": "2026-06-04",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
-  },
-  {
-    "id": "36499",
-    "slug": "partido-vs-en-vivo-2026-06-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB – Minnesota Twins vs Chicago White Sox",
-    "date": "2026-06-04",
-    "time": "12:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "36489",
-    "slug": "eslovenia-vs-chipre-2026-06-04",
-    "team_a": "Eslovenia",
-    "team_b": "Chipre",
-    "league": "Amistoso",
-    "date": "2026-06-04",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
-  },
-  {
-    "id": "36491",
-    "slug": "partido-vs-en-vivo-2026-06-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Amistoso",
-    "date": "2026-06-04",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
-  },
-  {
-    "id": "36492",
-    "slug": "españa-vs-iraq-2026-06-04",
-    "team_a": "España",
-    "team_b": "Iraq",
-    "league": "Amistoso",
-    "date": "2026-06-04",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
   }
 ]
