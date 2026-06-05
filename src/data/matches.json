@@ -30,36 +30,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36523",
-    "slug": "partido-vs-en-vivo-2026-06-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Roland Garros – Día #13 – Semifinal Masculina #2",
-    "date": "2026-06-05",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36524",
-    "slug": "partido-vs-en-vivo-2026-06-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Golf – U.S. Women’s Open Golf Championship – Segunda Vuelta",
-    "date": "2026-06-05",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36525",
-    "slug": "partido-vs-en-vivo-2026-06-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Golf – The Memorial Tournament – Segunda Vuelta",
-    "date": "2026-06-05",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
     "id": "36527",
     "slug": "partido-vs-en-vivo-2026-06-05",
     "team_a": "Equipo A",
@@ -78,26 +48,6 @@
     "date": "2026-06-05",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "36505",
-    "slug": "san-marino-vs-bangladésh-2026-06-05",
-    "team_a": "San Marino",
-    "team_b": "Bangladésh",
-    "league": "Amistoso",
-    "date": "2026-06-05",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney7"
-  },
-  {
-    "id": "36507",
-    "slug": "azerbaiyán-vs-malta-2026-06-05",
-    "team_a": "Azerbaiyán",
-    "team_b": "Malta",
-    "league": "Amistoso",
-    "date": "2026-06-05",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
   },
   {
     "id": "36508",
@@ -158,26 +108,6 @@
     "date": "2026-06-05",
     "time": "18:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36504",
-    "slug": "moldavia-vs-bulgaria-2026-06-05",
-    "team_a": "Moldavia",
-    "team_b": "Bulgaria",
-    "league": "Amistoso",
-    "date": "2026-06-05",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney8"
-  },
-  {
-    "id": "36506",
-    "slug": "hungría-vs-finlandia-2026-06-05",
-    "team_a": "Hungría",
-    "team_b": "Finlandia",
-    "league": "Amistoso",
-    "date": "2026-06-05",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
   },
   {
     "id": "36510",
