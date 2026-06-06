@@ -1,45 +1,5 @@
 [
   {
-    "id": "36535",
-    "slug": "gibraltar-vs-islas-caimán-2026-06-06",
-    "team_a": "Gibraltar",
-    "team_b": "Islas Caimán",
-    "league": "Amistoso",
-    "date": "2026-06-06",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney7"
-  },
-  {
-    "id": "36537",
-    "slug": "rumania-vs-gales-2026-06-06",
-    "team_a": "Rumania",
-    "team_b": "Gales",
-    "league": "Amistoso",
-    "date": "2026-06-06",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney9"
-  },
-  {
-    "id": "36547",
-    "slug": "torque-vs-deportivo-maldonado-2026-06-06",
-    "team_a": "Torque",
-    "team_b": "Deportivo Maldonado",
-    "league": "Primera División",
-    "date": "2026-06-06",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney11"
-  },
-  {
-    "id": "36539",
-    "slug": "ee.-uu.-vs-alemania-2026-06-06",
-    "team_a": "EE. UU.",
-    "team_b": "Alemania",
-    "league": "Amistoso",
-    "date": "2026-06-06",
-    "time": "13:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espnmx"
-  },
-  {
     "id": "36572",
     "slug": "partido-vs-en-vivo-2026-06-06",
     "team_a": "Equipo A",
@@ -60,6 +20,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3mx"
   },
   {
+    "id": "36549",
+    "slug": "brasil-vs-ee.-uu.-2026-06-06",
+    "team_a": "Brasil",
+    "team_b": "EE. UU.",
+    "league": "Amistoso Internacional Femenino",
+    "date": "2026-06-06",
+    "time": "16:30",
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
+  },
+  {
     "id": "36543",
     "slug": "partido-vs-en-vivo-2026-06-06",
     "team_a": "Equipo A",
@@ -67,7 +37,27 @@
     "league": "Amistoso",
     "date": "2026-06-06",
     "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney20"
+  },
+  {
+    "id": "36553",
+    "slug": "rentistas-vs-deportivo-colonia-2026-06-06",
+    "team_a": "Rentistas",
+    "team_b": "Deportivo Colonia",
+    "league": "Segunda División",
+    "date": "2026-06-06",
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
+  },
+  {
+    "id": "36571",
+    "slug": "partido-vs-en-vivo-2026-06-06",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NHL – Juego #3 – Vegas Golden Knights vs Carolina Hurricanes",
+    "date": "2026-06-06",
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
     "id": "36545",
@@ -80,26 +70,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
   },
   {
-    "id": "36549",
-    "slug": "brasil-vs-ee.-uu.-2026-06-06",
-    "team_a": "Brasil",
-    "team_b": "EE. UU.",
-    "league": "Amistoso Internacional Femenino",
-    "date": "2026-06-06",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
-  },
-  {
-    "id": "36553",
-    "slug": "rentistas-vs-deportivo-colonia-2026-06-06",
-    "team_a": "Rentistas",
-    "team_b": "Deportivo Colonia",
-    "league": "Segunda División",
-    "date": "2026-06-06",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "36554",
     "slug": "ñublense-vs-univ.-concepción-2026-06-06",
     "team_a": "Ñublense",
@@ -108,16 +78,6 @@
     "date": "2026-06-06",
     "time": "17:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36565",
-    "slug": "partido-vs-en-vivo-2026-06-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "WNBA – Minnesota vs Seattle",
-    "date": "2026-06-06",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "36567",
@@ -140,46 +100,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "36571",
-    "slug": "partido-vs-en-vivo-2026-06-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NHL – Juego #3 – Vegas Golden Knights vs Carolina Hurricanes",
-    "date": "2026-06-06",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "36536",
-    "slug": "portugal-vs-chile-2026-06-06",
-    "team_a": "Portugal",
-    "team_b": "Chile",
-    "league": "Amistoso",
-    "date": "2026-06-06",
-    "time": "12:45",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
-  },
-  {
-    "id": "36538",
-    "slug": "albania-vs-luxemburgo-2026-06-06",
-    "team_a": "Albania",
-    "team_b": "Luxemburgo",
-    "league": "Amistoso",
-    "date": "2026-06-06",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney10pl"
-  },
-  {
-    "id": "36552",
-    "slug": "la-luz-vs-paysandu-2026-06-06",
-    "team_a": "La Luz",
-    "team_b": "Paysandu",
-    "league": "Segunda División",
-    "date": "2026-06-06",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney12"
-  },
-  {
     "id": "36540",
     "slug": "australia-vs-suiza-2026-06-06",
     "team_a": "Australia",
@@ -200,6 +120,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
   },
   {
+    "id": "36548",
+    "slug": "nacional-vs-juventud-2026-06-06",
+    "team_a": "Nacional",
+    "team_b": "Juventud",
+    "league": "Primera División",
+    "date": "2026-06-06",
+    "time": "16:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney18"
+  },
+  {
     "id": "36544",
     "slug": "partido-vs-en-vivo-2026-06-06",
     "team_a": "Equipo A",
@@ -208,16 +138,6 @@
     "date": "2026-06-06",
     "time": "17:00",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
-  },
-  {
-    "id": "36548",
-    "slug": "nacional-vs-juventud-2026-06-06",
-    "team_a": "Nacional",
-    "team_b": "Juventud",
-    "league": "Primera División",
-    "date": "2026-06-06",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
     "id": "36550",
@@ -238,16 +158,6 @@
     "date": "2026-06-06",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36566",
-    "slug": "partido-vs-en-vivo-2026-06-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby – SR Americas – Selknam vs Cobras Brasil Rugby",
-    "date": "2026-06-06",
-    "time": "12:55",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
     "id": "36568",
