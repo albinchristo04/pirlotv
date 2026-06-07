@@ -1,132 +1,22 @@
 [
   {
-    "id": "36573",
-    "slug": "partido-vs-en-vivo-2026-06-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera Divisón",
-    "date": "2026-06-06",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=max3"
+    "id": "Barcelona-Real-Madrid-2026-06-07",
+    "slug": "barcelona-vs-real-madrid-2026-06-07",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-06-07",
+    "time": "20:00",
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
   },
   {
-    "id": "36545",
-    "slug": "argentina-vs-honduras-2026-06-06",
-    "team_a": "Argentina",
-    "team_b": "Honduras",
-    "league": "Amistoso",
-    "date": "2026-06-06",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "36549",
-    "slug": "brasil-vs-ee.-uu.-2026-06-06",
-    "team_a": "Brasil",
-    "team_b": "EE. UU.",
-    "league": "Amistoso Internacional Femenino",
-    "date": "2026-06-06",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
-  },
-  {
-    "id": "36543",
-    "slug": "partido-vs-en-vivo-2026-06-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Amistoso",
-    "date": "2026-06-06",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney20"
-  },
-  {
-    "id": "36553",
-    "slug": "rentistas-vs-deportivo-colonia-2026-06-06",
-    "team_a": "Rentistas",
-    "team_b": "Deportivo Colonia",
-    "league": "Segunda División",
-    "date": "2026-06-06",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
-  },
-  {
-    "id": "36571",
-    "slug": "partido-vs-en-vivo-2026-06-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NHL – Juego #3 – Vegas Golden Knights vs Carolina Hurricanes",
-    "date": "2026-06-06",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "36554",
-    "slug": "ñublense-vs-univ.-concepción-2026-06-06",
-    "team_a": "Ñublense",
-    "team_b": "Univ. Concepción",
-    "league": "Copa de la Liga",
-    "date": "2026-06-06",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36569",
-    "slug": "partido-vs-en-vivo-2026-06-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Golf – U.S. Women’s Open Golf Championship – Tercera Vuelta",
-    "date": "2026-06-06",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36574",
-    "slug": "partido-vs-en-vivo-2026-06-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Boxeo",
-    "date": "2026-06-06",
-    "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
-  },
-  {
-    "id": "36548",
-    "slug": "nacional-vs-juventud-2026-06-06",
-    "team_a": "Nacional",
-    "team_b": "Juventud",
-    "league": "Primera División",
-    "date": "2026-06-06",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney18"
-  },
-  {
-    "id": "36544",
-    "slug": "partido-vs-en-vivo-2026-06-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Amistoso",
-    "date": "2026-06-06",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
-  },
-  {
-    "id": "36555",
-    "slug": "partido-vs-en-vivo-2026-06-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera B",
-    "date": "2026-06-06",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36570",
-    "slug": "partido-vs-en-vivo-2026-06-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Turf – Belmont",
-    "date": "2026-06-06",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
+    "id": "América-Chivas-2026-06-07",
+    "slug": "américa-vs-chivas-2026-06-07",
+    "team_a": "América",
+    "team_b": "Chivas",
+    "league": "Liga MX",
+    "date": "2026-06-07",
+    "time": "22:00",
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
