@@ -20,6 +20,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=max2"
   },
   {
+    "id": "36582",
+    "slug": "cerro-vs-peñarol-2026-06-07",
+    "team_a": "Cerro",
+    "team_b": "Peñarol",
+    "league": "Primera División",
+    "date": "2026-06-07",
+    "time": "13:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney8"
+  },
+  {
     "id": "36578",
     "slug": "croacia-vs-eslovenia-2026-06-07",
     "team_a": "Croacia",
@@ -37,27 +47,17 @@
     "league": "Amistoso",
     "date": "2026-06-07",
     "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney10"
   },
   {
-    "id": "36582",
-    "slug": "cerro-vs-peñarol-2026-06-07",
-    "team_a": "Cerro",
-    "team_b": "Peñarol",
-    "league": "Primera División",
+    "id": "36608",
+    "slug": "partido-vs-en-vivo-2026-06-07",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa de la Liga",
     "date": "2026-06-07",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36585",
-    "slug": "bélgica-vs-italia-2026-06-07",
-    "team_a": "Bélgica",
-    "team_b": "Italia",
-    "league": "UEFA U17 Championship Final",
-    "date": "2026-06-07",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
     "id": "36587",
@@ -67,6 +67,26 @@
     "league": "Segunda División",
     "date": "2026-06-07",
     "time": "16:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney12"
+  },
+  {
+    "id": "36610",
+    "slug": "partido-vs-en-vivo-2026-06-07",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Primera Divisón",
+    "date": "2026-06-07",
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36585",
+    "slug": "bélgica-vs-italia-2026-06-07",
+    "team_a": "Bélgica",
+    "team_b": "Italia",
+    "league": "UEFA U17 Championship Final",
+    "date": "2026-06-07",
+    "time": "12:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
@@ -120,14 +140,24 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney7"
   },
   {
-    "id": "36580",
-    "slug": "colombia-vs-jordania-2026-06-07",
-    "team_a": "Colombia",
-    "team_b": "Jordania",
+    "id": "36607",
+    "slug": "partido-vs-en-vivo-2026-06-07",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
     "league": "Amistoso",
     "date": "2026-06-07",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=caracol"
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
+  },
+  {
+    "id": "36609",
+    "slug": "partido-vs-en-vivo-2026-06-07",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Amistoso",
+    "date": "2026-06-07",
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=clarosports1"
   },
   {
     "id": "36583",
@@ -137,7 +167,7 @@
     "league": "Primera División",
     "date": "2026-06-07",
     "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney11"
   },
   {
     "id": "36584",
@@ -150,14 +180,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
   },
   {
-    "id": "36588",
-    "slug": "miramar-misiones-vs-oriental-2026-06-07",
-    "team_a": "Miramar Misiones",
-    "team_b": "Oriental",
-    "league": "Segunda División",
+    "id": "36580",
+    "slug": "colombia-vs-jordania-2026-06-07",
+    "team_a": "Colombia",
+    "team_b": "Jordania",
+    "league": "Amistoso",
     "date": "2026-06-07",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=caracol"
   },
   {
     "id": "36590",
@@ -170,14 +200,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
   },
   {
-    "id": "36592",
-    "slug": "china-pr-vs-túnez-2026-06-07",
-    "team_a": "China PR",
-    "team_b": "Túnez",
-    "league": "Torneo Maurice Revello Sub-20",
+    "id": "36588",
+    "slug": "miramar-misiones-vs-oriental-2026-06-07",
+    "team_a": "Miramar Misiones",
+    "team_b": "Oriental",
+    "league": "Segunda División",
     "date": "2026-06-07",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney13"
   },
   {
     "id": "36598",
@@ -208,15 +238,5 @@
     "date": "2026-06-07",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36586",
-    "slug": "cerrito-vs-atenas-2026-06-07",
-    "team_a": "Cerrito",
-    "team_b": "Atenas",
-    "league": "Segunda División",
-    "date": "2026-06-07",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
   }
 ]
