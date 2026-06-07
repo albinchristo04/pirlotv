@@ -1,45 +1,5 @@
 [
   {
-    "id": "36603",
-    "slug": "partido-vs-en-vivo-2026-06-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa de la Liga",
-    "date": "2026-06-07",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36604",
-    "slug": "partido-vs-en-vivo-2026-06-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa de la Liga",
-    "date": "2026-06-07",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=max2"
-  },
-  {
-    "id": "36582",
-    "slug": "cerro-vs-peñarol-2026-06-07",
-    "team_a": "Cerro",
-    "team_b": "Peñarol",
-    "league": "Primera División",
-    "date": "2026-06-07",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney8"
-  },
-  {
-    "id": "36578",
-    "slug": "croacia-vs-eslovenia-2026-06-07",
-    "team_a": "Croacia",
-    "team_b": "Eslovenia",
-    "league": "Amistoso",
-    "date": "2026-06-07",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
-  },
-  {
     "id": "36579",
     "slug": "partido-vs-en-vivo-2026-06-07",
     "team_a": "Equipo A",
@@ -80,16 +40,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36585",
-    "slug": "bélgica-vs-italia-2026-06-07",
-    "team_a": "Bélgica",
-    "team_b": "Italia",
-    "league": "UEFA U17 Championship Final",
-    "date": "2026-06-07",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "36589",
     "slug": "antofagasta-vs-magallanes-2026-06-07",
     "team_a": "Antofagasta",
@@ -98,46 +48,6 @@
     "date": "2026-06-07",
     "time": "14:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36599",
-    "slug": "partido-vs-en-vivo-2026-06-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Premier Padel Italia – Final Femenina",
-    "date": "2026-06-07",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "36601",
-    "slug": "partido-vs-en-vivo-2026-06-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Premier Padel Italia – Final Masculina",
-    "date": "2026-06-07",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "36576",
-    "slug": "dinamarca-vs-ucrania-2026-06-07",
-    "team_a": "Dinamarca",
-    "team_b": "Ucrania",
-    "league": "Amistoso",
-    "date": "2026-06-07",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney6"
-  },
-  {
-    "id": "36577",
-    "slug": "kosovo-vs-andorra-2026-06-07",
-    "team_a": "Kosovo",
-    "team_b": "Andorra",
-    "league": "Amistoso",
-    "date": "2026-06-07",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney7"
   },
   {
     "id": "36607",
@@ -208,26 +118,6 @@
     "date": "2026-06-07",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney13"
-  },
-  {
-    "id": "36598",
-    "slug": "partido-vs-en-vivo-2026-06-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Golf – The Memorial Tournament – Última Vuelta",
-    "date": "2026-06-07",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36600",
-    "slug": "partido-vs-en-vivo-2026-06-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB – New York Yankees vs Boston Red Sox",
-    "date": "2026-06-07",
-    "time": "12:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   },
   {
     "id": "36602",
