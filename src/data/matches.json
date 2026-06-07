@@ -100,16 +100,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
   },
   {
-    "id": "36597",
-    "slug": "partido-vs-en-vivo-2026-06-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "F1 GP Mónaco – La Previa",
-    "date": "2026-06-07",
-    "time": "06:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
     "id": "36599",
     "slug": "partido-vs-en-vivo-2026-06-07",
     "team_a": "Equipo A",
@@ -238,16 +228,6 @@
     "date": "2026-06-07",
     "time": "11:00",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
-    "id": "36596",
-    "slug": "partido-vs-en-vivo-2026-06-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ciclismo – Tour of Auvergne-Rhône-Alpes – Etapa #1",
-    "date": "2026-06-07",
-    "time": "06:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
     "id": "36598",
