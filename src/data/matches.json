@@ -1,25 +1,5 @@
 [
   {
-    "id": "36579",
-    "slug": "partido-vs-en-vivo-2026-06-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Amistoso",
-    "date": "2026-06-07",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney10"
-  },
-  {
-    "id": "36608",
-    "slug": "partido-vs-en-vivo-2026-06-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa de la Liga",
-    "date": "2026-06-07",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
     "id": "36587",
     "slug": "partido-vs-en-vivo-2026-06-07",
     "team_a": "Equipo A",
@@ -38,26 +18,6 @@
     "date": "2026-06-07",
     "time": "17:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36589",
-    "slug": "antofagasta-vs-magallanes-2026-06-07",
-    "team_a": "Antofagasta",
-    "team_b": "Magallanes",
-    "league": "Primera B",
-    "date": "2026-06-07",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36607",
-    "slug": "partido-vs-en-vivo-2026-06-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Amistoso",
-    "date": "2026-06-07",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
   },
   {
     "id": "36609",
@@ -98,16 +58,6 @@
     "date": "2026-06-07",
     "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=caracol"
-  },
-  {
-    "id": "36590",
-    "slug": "las-palmas-vs-málaga-2026-06-07",
-    "team_a": "Las Palmas",
-    "team_b": "Málaga",
-    "league": "LaLiga SmartBank",
-    "date": "2026-06-07",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
   },
   {
     "id": "36588",
