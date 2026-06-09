@@ -90,16 +90,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
   },
   {
-    "id": "36640",
-    "slug": "partido-vs-en-vivo-2026-06-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ciclismo – Tour of Auvergne-Rhône-Alpes – Etapa #3",
-    "date": "2026-06-09",
-    "time": "08:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "36643",
     "slug": "partido-vs-en-vivo-2026-06-09",
     "team_a": "Equipo A",
@@ -108,16 +98,6 @@
     "date": "2026-06-09",
     "time": "20:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36622",
-    "slug": "armenia-vs-moldavia-2026-06-09",
-    "team_a": "Armenia",
-    "team_b": "Moldavia",
-    "league": "Amistoso",
-    "date": "2026-06-09",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
   },
   {
     "id": "36645",
@@ -218,25 +198,5 @@
     "date": "2026-06-09",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36644",
-    "slug": "partido-vs-en-vivo-2026-06-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Amistoso",
-    "date": "2026-06-09",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
-  },
-  {
-    "id": "36623",
-    "slug": "rd-del-congo-vs-chile-2026-06-09",
-    "team_a": "RD del Congo",
-    "team_b": "Chile",
-    "league": "Amistoso",
-    "date": "2026-06-09",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney4"
   }
 ]
