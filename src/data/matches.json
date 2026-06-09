@@ -1,15 +1,5 @@
 [
   {
-    "id": "36626",
-    "slug": "azerbaiyán-vs-san-marino-2026-06-09",
-    "team_a": "Azerbaiyán",
-    "team_b": "San Marino",
-    "league": "Amistoso",
-    "date": "2026-06-09",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "36627",
     "slug": "argentina-vs-islandia-2026-06-09",
     "team_a": "Argentina",
@@ -18,26 +8,6 @@
     "date": "2026-06-09",
     "time": "20:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
-  },
-  {
-    "id": "36629",
-    "slug": "inglaterra-vs-ucrania-2026-06-09",
-    "team_a": "Inglaterra",
-    "team_b": "Ucrania",
-    "league": "Clasificatorias para el Mundial Femenino de la FIFA",
-    "date": "2026-06-09",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36630",
-    "slug": "francia-vs-republic-of-ireland-2026-06-09",
-    "team_a": "Francia",
-    "team_b": "Republic of Ireland",
-    "league": "Clasificatorias para el Mundial Femenino de la FIFA",
-    "date": "2026-06-09",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "36632",
@@ -58,16 +28,6 @@
     "date": "2026-06-09",
     "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-  },
-  {
-    "id": "36636",
-    "slug": "partido-vs-en-vivo-2026-06-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Torneo de Reserva",
-    "date": "2026-06-09",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
   },
   {
     "id": "36638",
@@ -100,46 +60,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "36645",
-    "slug": "partido-vs-en-vivo-2026-06-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Amistoso",
-    "date": "2026-06-09",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
-  },
-  {
-    "id": "36624",
-    "slug": "bielorrusia-vs-burkina-faso-2026-06-09",
-    "team_a": "Bielorrusia",
-    "team_b": "Burkina Faso",
-    "league": "Amistoso",
-    "date": "2026-06-09",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
-  },
-  {
-    "id": "36625",
-    "slug": "hungría-vs-kazajstán-2026-06-09",
-    "team_a": "Hungría",
-    "team_b": "Kazajstán",
-    "league": "Amistoso",
-    "date": "2026-06-09",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
-    "id": "36628",
-    "slug": "partido-vs-en-vivo-2026-06-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Clasificatorias para el Mundial Femenino de la FIFA",
-    "date": "2026-06-09",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2mx"
-  },
-  {
     "id": "36631",
     "slug": "ecuador-vs-argentina-2026-06-09",
     "team_a": "Ecuador",
@@ -158,16 +78,6 @@
     "date": "2026-06-09",
     "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
-  },
-  {
-    "id": "36635",
-    "slug": "partido-vs-en-vivo-2026-06-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-06-09",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=hypermotion1"
   },
   {
     "id": "36637",
