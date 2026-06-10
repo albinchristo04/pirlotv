@@ -30,46 +30,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espndeportes"
   },
   {
-    "id": "36650",
-    "slug": "sarmiento-vs-talleres-de-córdoba-2026-06-10",
-    "team_a": "Sarmiento",
-    "team_b": "Talleres de Córdoba",
-    "league": "Torneo de Reserva",
-    "date": "2026-06-10",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "36651",
-    "slug": "vélez-sársfield-vs-tigre-2026-06-10",
-    "team_a": "Vélez Sársfield",
-    "team_b": "Tigre",
-    "league": "Torneo de Reserva",
-    "date": "2026-06-10",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsports"
-  },
-  {
-    "id": "36653",
-    "slug": "colombia-vs-túnez-2026-06-10",
-    "team_a": "Colombia",
-    "team_b": "Túnez",
-    "league": "Torneo Maurice Revello Sub - 20",
-    "date": "2026-06-10",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
-  },
-  {
-    "id": "36649",
-    "slug": "partido-vs-en-vivo-2026-06-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "LaLiga SmartBank",
-    "date": "2026-06-10",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "36647",
     "slug": "inglaterra-vs-costa-rica-2026-06-10",
     "team_a": "Inglaterra",
