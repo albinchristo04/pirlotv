@@ -1,72 +1,22 @@
 [
   {
-    "id": "36627",
-    "slug": "argentina-vs-islandia-2026-06-09",
-    "team_a": "Argentina",
-    "team_b": "Islandia",
-    "league": "Amistoso",
-    "date": "2026-06-09",
+    "id": "Barcelona-Real-Madrid-2026-06-10",
+    "slug": "barcelona-vs-real-madrid-2026-06-10",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-06-10",
     "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
   },
   {
-    "id": "36638",
-    "slug": "náutico-vs-fortaleza-2026-06-09",
-    "team_a": "Náutico",
-    "team_b": "Fortaleza",
-    "league": "Serie B",
-    "date": "2026-06-09",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
-    "id": "36639",
-    "slug": "brasil-vs-ee.-uu.-2026-06-09",
-    "team_a": "Brasil",
-    "team_b": "EE. UU.",
-    "league": "Amistoso Internacional Femenino",
-    "date": "2026-06-09",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
-    "id": "36643",
-    "slug": "partido-vs-en-vivo-2026-06-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB",
-    "date": "2026-06-09",
-    "time": "20:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36637",
-    "slug": "river-plate-vs-rosario-central-2026-06-09",
-    "team_a": "River Plate",
-    "team_b": "Rosario Central",
-    "league": "Torneo de Reserva",
-    "date": "2026-06-09",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36641",
-    "slug": "partido-vs-en-vivo-2026-06-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "WNBA – Chicago vs Atlanta",
-    "date": "2026-06-09",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36642",
-    "slug": "partido-vs-en-vivo-2026-06-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NHL – Juego #4 – Vegas Golden Knights vs Carolina Hurricanes",
-    "date": "2026-06-09",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+    "id": "América-Chivas-2026-06-10",
+    "slug": "américa-vs-chivas-2026-06-10",
+    "team_a": "América",
+    "team_b": "Chivas",
+    "league": "Liga MX",
+    "date": "2026-06-10",
+    "time": "22:00",
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
