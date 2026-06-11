@@ -1,25 +1,5 @@
 [
   {
-    "id": "36648",
-    "slug": "partido-vs-en-vivo-2026-06-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Amistoso",
-    "date": "2026-06-10",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36646",
-    "slug": "portugal-vs-nigeria-2026-06-10",
-    "team_a": "Portugal",
-    "team_b": "Nigeria",
-    "league": "Amistoso",
-    "date": "2026-06-10",
-    "time": "14:45",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=espn"
-  },
-  {
     "id": "36656",
     "slug": "partido-vs-en-vivo-2026-06-10",
     "team_a": "Equipo A",
@@ -28,16 +8,6 @@
     "date": "2026-06-10",
     "time": "19:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espndeportes"
-  },
-  {
-    "id": "36647",
-    "slug": "inglaterra-vs-costa-rica-2026-06-10",
-    "team_a": "Inglaterra",
-    "team_b": "Costa Rica",
-    "league": "Amistoso",
-    "date": "2026-06-10",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
   },
   {
     "id": "36655",
