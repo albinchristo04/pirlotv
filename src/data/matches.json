@@ -1,15 +1,5 @@
 [
   {
-    "id": "36659",
-    "slug": "partido-vs-en-vivo-2026-06-11",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Torneo Maurice Revello Sub-20",
-    "date": "2026-06-11",
-    "time": "06:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
     "id": "36661",
     "slug": "partido-vs-en-vivo-2026-06-11",
     "team_a": "Equipo A",
@@ -37,7 +27,7 @@
     "league": "Copa del Mundo",
     "date": "2026-06-11",
     "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=americatv"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   },
   {
     "id": "36660",
@@ -77,6 +67,6 @@
     "league": "Copa del Mundo",
     "date": "2026-06-11",
     "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   }
 ]
