@@ -1,15 +1,5 @@
 [
   {
-    "id": "36665",
-    "slug": "canadá-vs-bosnia-herzegovina-2026-06-12",
-    "team_a": "Canadá",
-    "team_b": "Bosnia-Herzegovina",
-    "league": "Copa del Mundo",
-    "date": "2026-06-12",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
-  },
-  {
     "id": "36667",
     "slug": "san-antonio-bulo-bulo-vs-abb-2026-06-12",
     "team_a": "San Antonio Bulo Bulo",
@@ -50,14 +40,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "36666",
-    "slug": "ee.-uu.-vs-paraguay-2026-06-12",
-    "team_a": "EE. UU.",
-    "team_b": "Paraguay",
+    "id": "36665",
+    "slug": "canadá-vs-bosnia-herzegovina-2026-06-12",
+    "team_a": "Canadá",
+    "team_b": "Bosnia-Herzegovina",
     "league": "Copa del Mundo",
     "date": "2026-06-12",
-    "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
   },
   {
     "id": "36668",
@@ -108,5 +98,15 @@
     "date": "2026-06-12",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "36666",
+    "slug": "ee.-uu.-vs-paraguay-2026-06-12",
+    "team_a": "EE. UU.",
+    "team_b": "Paraguay",
+    "league": "Copa del Mundo",
+    "date": "2026-06-12",
+    "time": "20:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
   }
 ]
