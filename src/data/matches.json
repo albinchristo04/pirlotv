@@ -1,15 +1,5 @@
 [
   {
-    "id": "36682",
-    "slug": "everton-vs-palestino-2026-06-13",
-    "team_a": "Everton",
-    "team_b": "Palestino",
-    "league": "Primera División",
-    "date": "2026-06-13",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
     "id": "36683",
     "slug": "partido-vs-en-vivo-2026-06-13",
     "team_a": "Equipo A",
@@ -18,36 +8,6 @@
     "date": "2026-06-13",
     "time": "16:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36695",
-    "slug": "partido-vs-en-vivo-2026-06-13",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby – Top 14 – Paloise vs. Racing 92",
-    "date": "2026-06-13",
-    "time": "13:55",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "36697",
-    "slug": "partido-vs-en-vivo-2026-06-13",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA",
-    "date": "2026-06-13",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espndeportes"
-  },
-  {
-    "id": "36676",
-    "slug": "partido-vs-en-vivo-2026-06-13",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa del Mundo",
-    "date": "2026-06-13",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
   },
   {
     "id": "36678",
@@ -60,6 +20,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/mpd/drm?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
   },
   {
+    "id": "36697",
+    "slug": "partido-vs-en-vivo-2026-06-13",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA",
+    "date": "2026-06-13",
+    "time": "19:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espndeportes"
+  },
+  {
     "id": "36680",
     "slug": "partido-vs-en-vivo-2026-06-13",
     "team_a": "Equipo A",
@@ -70,16 +40,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/mpd/drm?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
   },
   {
-    "id": "36681",
-    "slug": "coquimbo-unido-vs-o'higgins-2026-06-13",
-    "team_a": "Coquimbo Unido",
-    "team_b": "O'Higgins",
-    "league": "Primera División",
-    "date": "2026-06-13",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
     "id": "36684",
     "slug": "ñublense-vs-huachipato-2026-06-13",
     "team_a": "Ñublense",
@@ -88,26 +48,6 @@
     "date": "2026-06-13",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36686",
-    "slug": "partido-vs-en-vivo-2026-06-13",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Maurice Revello",
-    "date": "2026-06-13",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
-    "id": "36694",
-    "slug": "partido-vs-en-vivo-2026-06-13",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "F3 Barcelona – Práctica #3",
-    "date": "2026-06-13",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "36696",
