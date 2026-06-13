@@ -1,22 +1,202 @@
 [
   {
-    "id": "Barcelona-Real-Madrid-2026-06-13",
-    "slug": "barcelona-vs-real-madrid-2026-06-13",
-    "team_a": "Barcelona",
-    "team_b": "Real Madrid",
-    "league": "La Liga",
+    "id": "36676",
+    "slug": "partido-vs-en-vivo-2026-06-13",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa del Mundo",
     "date": "2026-06-13",
-    "time": "20:00",
-    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
   },
   {
-    "id": "América-Chivas-2026-06-13",
-    "slug": "américa-vs-chivas-2026-06-13",
-    "team_a": "América",
-    "team_b": "Chivas",
-    "league": "Liga MX",
+    "id": "36678",
+    "slug": "partido-vs-en-vivo-2026-06-13",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa del Mundo",
     "date": "2026-06-13",
-    "time": "22:00",
-    "decoded_iframe_url": "https://example.com/embed/america-chivas"
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=caracol"
+  },
+  {
+    "id": "36680",
+    "slug": "partido-vs-en-vivo-2026-06-13",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa del Mundo",
+    "date": "2026-06-13",
+    "time": "23:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
+  },
+  {
+    "id": "36682",
+    "slug": "everton-vs-palestino-2026-06-13",
+    "team_a": "Everton",
+    "team_b": "Palestino",
+    "league": "Primera División",
+    "date": "2026-06-13",
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36683",
+    "slug": "partido-vs-en-vivo-2026-06-13",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Primera División",
+    "date": "2026-06-13",
+    "time": "16:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36685",
+    "slug": "partido-vs-en-vivo-2026-06-13",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Maurice Revello",
+    "date": "2026-06-13",
+    "time": "06:30",
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
+  },
+  {
+    "id": "36687",
+    "slug": "partido-vs-en-vivo-2026-06-13",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "F3 Barcelona – Carrera Sprint",
+    "date": "2026-06-13",
+    "time": "03:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36691",
+    "slug": "partido-vs-en-vivo-2026-06-13",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "F2 Barcelona – Carrera Sprint",
+    "date": "2026-06-13",
+    "time": "07:05",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36693",
+    "slug": "partido-vs-en-vivo-2026-06-13",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Premier Padel Valencia – Semifinales #2 Femenina y Masculina",
+    "date": "2026-06-13",
+    "time": "10:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "36695",
+    "slug": "partido-vs-en-vivo-2026-06-13",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Rugby – Top 14 – Paloise vs. Racing 92",
+    "date": "2026-06-13",
+    "time": "13:55",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
+  },
+  {
+    "id": "36689",
+    "slug": "partido-vs-en-vivo-2026-06-13",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Hockey – Pro League Masculino – Inglaterra vs Argentina",
+    "date": "2026-06-13",
+    "time": "06:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "36679",
+    "slug": "haití-vs-escocia-2026-06-13",
+    "team_a": "Haití",
+    "team_b": "Escocia",
+    "league": "Copa del Mundo",
+    "date": "2026-06-13",
+    "time": "20:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
+  },
+  {
+    "id": "36681",
+    "slug": "coquimbo-unido-vs-o'higgins-2026-06-13",
+    "team_a": "Coquimbo Unido",
+    "team_b": "O'Higgins",
+    "league": "Primera División",
+    "date": "2026-06-13",
+    "time": "11:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36684",
+    "slug": "ñublense-vs-huachipato-2026-06-13",
+    "team_a": "Ñublense",
+    "team_b": "Huachipato",
+    "league": "Primera División",
+    "date": "2026-06-13",
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36686",
+    "slug": "partido-vs-en-vivo-2026-06-13",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Maurice Revello",
+    "date": "2026-06-13",
+    "time": "12:00",
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
+  },
+  {
+    "id": "36690",
+    "slug": "partido-vs-en-vivo-2026-06-13",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Ciclismo – Tour of Auvergne-Rhône-Alpes – Etapa #7",
+    "date": "2026-06-13",
+    "time": "07:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
+  },
+  {
+    "id": "36692",
+    "slug": "partido-vs-en-vivo-2026-06-13",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Rugby – Premiership – Bath Rugby vs Exeter Chiefs",
+    "date": "2026-06-13",
+    "time": "08:50",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
+  },
+  {
+    "id": "36694",
+    "slug": "partido-vs-en-vivo-2026-06-13",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "F3 Barcelona – Práctica #3",
+    "date": "2026-06-13",
+    "time": "13:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36696",
+    "slug": "partido-vs-en-vivo-2026-06-13",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "ESPN Knockout – Antonio Vargas vs Jesse",
+    "date": "2026-06-13",
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36688",
+    "slug": "partido-vs-en-vivo-2026-06-13",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Hockey – Pro League Femenino – China vs Argentina",
+    "date": "2026-06-13",
+    "time": "06:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   }
 ]
