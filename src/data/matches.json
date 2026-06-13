@@ -1,72 +1,22 @@
 [
   {
-    "id": "36673",
-    "slug": "partido-vs-en-vivo-2026-06-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby – SR Americas – Semifinales – A Confirmar",
-    "date": "2026-06-12",
-    "time": "16:55",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36668",
-    "slug": "nacional-potosí-vs-real-oruro-2026-06-12",
-    "team_a": "Nacional Potosí",
-    "team_b": "Real Oruro",
-    "league": "Primera División",
-    "date": "2026-06-12",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "36669",
-    "slug": "audax-italiano-vs-la-serena-2026-06-12",
-    "team_a": "Audax Italiano",
-    "team_b": "La Serena",
-    "league": "Primera División",
-    "date": "2026-06-12",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36674",
-    "slug": "partido-vs-en-vivo-2026-06-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB – Pittsburgh Pirates vs Miami Marlins",
-    "date": "2026-06-12",
-    "time": "17:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "36675",
-    "slug": "partido-vs-en-vivo-2026-06-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby – SR Americas – Semifinales – A Confirmar",
-    "date": "2026-06-12",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36666",
-    "slug": "ee.-uu.-vs-paraguay-2026-06-12",
-    "team_a": "EE. UU.",
-    "team_b": "Paraguay",
-    "league": "Copa del Mundo",
-    "date": "2026-06-12",
+    "id": "Barcelona-Real-Madrid-2026-06-13",
+    "slug": "barcelona-vs-real-madrid-2026-06-13",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-06-13",
     "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
   },
   {
-    "id": "36677",
-    "slug": "partido-vs-en-vivo-2026-06-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa de la Liga",
-    "date": "2026-06-12",
-    "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=liga1max"
+    "id": "América-Chivas-2026-06-13",
+    "slug": "américa-vs-chivas-2026-06-13",
+    "team_a": "América",
+    "team_b": "Chivas",
+    "league": "Liga MX",
+    "date": "2026-06-13",
+    "time": "22:00",
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
