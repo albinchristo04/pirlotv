@@ -1,15 +1,5 @@
 [
   {
-    "id": "36676",
-    "slug": "partido-vs-en-vivo-2026-06-13",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa del Mundo",
-    "date": "2026-06-13",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=winsports"
-  },
-  {
     "id": "36678",
     "slug": "partido-vs-en-vivo-2026-06-13",
     "team_a": "Equipo A",
@@ -18,16 +8,6 @@
     "date": "2026-06-13",
     "time": "17:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=caracol"
-  },
-  {
-    "id": "36680",
-    "slug": "partido-vs-en-vivo-2026-06-13",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa del Mundo",
-    "date": "2026-06-13",
-    "time": "23:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
   },
   {
     "id": "36682",
@@ -50,16 +30,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36691",
-    "slug": "partido-vs-en-vivo-2026-06-13",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "F2 Barcelona – Carrera Sprint",
-    "date": "2026-06-13",
-    "time": "07:05",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "36693",
     "slug": "partido-vs-en-vivo-2026-06-13",
     "team_a": "Equipo A",
@@ -78,6 +48,26 @@
     "date": "2026-06-13",
     "time": "13:55",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
+  },
+  {
+    "id": "36680",
+    "slug": "partido-vs-en-vivo-2026-06-13",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa del Mundo",
+    "date": "2026-06-13",
+    "time": "23:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
+  },
+  {
+    "id": "36676",
+    "slug": "partido-vs-en-vivo-2026-06-13",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa del Mundo",
+    "date": "2026-06-13",
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   },
   {
     "id": "36679",
@@ -118,16 +108,6 @@
     "date": "2026-06-13",
     "time": "12:00",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canal.php?stream=foxdeportes"
-  },
-  {
-    "id": "36690",
-    "slug": "partido-vs-en-vivo-2026-06-13",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ciclismo – Tour of Auvergne-Rhône-Alpes – Etapa #7",
-    "date": "2026-06-13",
-    "time": "07:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   },
   {
     "id": "36692",
