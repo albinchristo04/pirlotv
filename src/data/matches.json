@@ -1,23 +1,13 @@
 [
   {
-    "id": "36683",
-    "slug": "partido-vs-en-vivo-2026-06-13",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-06-13",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36678",
+    "id": "36680",
     "slug": "partido-vs-en-vivo-2026-06-13",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
     "league": "Copa del Mundo",
     "date": "2026-06-13",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
+    "time": "23:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
   },
   {
     "id": "36697",
@@ -30,36 +20,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espndeportes"
   },
   {
-    "id": "36680",
-    "slug": "partido-vs-en-vivo-2026-06-13",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa del Mundo",
-    "date": "2026-06-13",
-    "time": "23:00",
-    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
-  },
-  {
-    "id": "36684",
-    "slug": "ñublense-vs-huachipato-2026-06-13",
-    "team_a": "Ñublense",
-    "team_b": "Huachipato",
-    "league": "Primera División",
-    "date": "2026-06-13",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36696",
-    "slug": "partido-vs-en-vivo-2026-06-13",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "ESPN Knockout – Antonio Vargas vs Jesse",
-    "date": "2026-06-13",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "36679",
     "slug": "haití-vs-escocia-2026-06-13",
     "team_a": "Haití",
@@ -67,6 +27,6 @@
     "league": "Copa del Mundo",
     "date": "2026-06-13",
     "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   }
 ]
