@@ -1,15 +1,5 @@
 [
   {
-    "id": "36726",
-    "slug": "partido-vs-en-vivo-2026-06-14",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "F1 | GP de Barcelona",
-    "date": "2026-06-14",
-    "time": "08:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1"
-  },
-  {
     "id": "36698",
     "slug": "alemania-vs-curazao-2026-06-14",
     "team_a": "Alemania",
@@ -17,7 +7,7 @@
     "league": "Copa del Mundo",
     "date": "2026-06-14",
     "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
   },
   {
     "id": "36700",
@@ -27,7 +17,7 @@
     "league": "Copa del Mundo",
     "date": "2026-06-14",
     "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
   },
   {
     "id": "36702",
@@ -68,16 +58,6 @@
     "date": "2026-06-14",
     "time": "13:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36718",
-    "slug": "partido-vs-en-vivo-2026-06-14",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Premier Padel Valencia – Final Masculina",
-    "date": "2026-06-14",
-    "time": "09:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
     "id": "36719",
@@ -130,16 +110,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
-    "id": "36727",
-    "slug": "partido-vs-en-vivo-2026-06-14",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "F1 | GP de Barcelona",
-    "date": "2026-06-14",
-    "time": "08:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
-  },
-  {
     "id": "36699",
     "slug": "países-bajos-vs-japón-2026-06-14",
     "team_a": "Países Bajos",
@@ -147,17 +117,7 @@
     "league": "Copa del Mundo",
     "date": "2026-06-14",
     "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "36701",
-    "slug": "partido-vs-en-vivo-2026-06-14",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa del Mundo",
-    "date": "2026-06-14",
-    "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
   },
   {
     "id": "36703",
@@ -200,14 +160,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
   },
   {
-    "id": "36717",
+    "id": "36701",
     "slug": "partido-vs-en-vivo-2026-06-14",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Ciclismo – Tour of Auvergne-Rhône-Alpes – Etapa #7",
+    "league": "Copa del Mundo",
     "date": "2026-06-14",
-    "time": "07:55",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+    "time": "21:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
   },
   {
     "id": "36723",
