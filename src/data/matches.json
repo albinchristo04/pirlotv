@@ -30,26 +30,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
   },
   {
-    "id": "36706",
-    "slug": "universidad-católica-vs-univ.-concepción-2026-06-14",
-    "team_a": "Universidad Católica",
-    "team_b": "Univ. Concepción",
-    "league": "Primera División",
-    "date": "2026-06-14",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36710",
-    "slug": "partido-vs-en-vivo-2026-06-14",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Segunda División",
-    "date": "2026-06-14",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "36701",
     "slug": "partido-vs-en-vivo-2026-06-14",
     "team_a": "Equipo A",
@@ -58,16 +38,6 @@
     "date": "2026-06-14",
     "time": "21:00",
     "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
-  },
-  {
-    "id": "36723",
-    "slug": "partido-vs-en-vivo-2026-06-14",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "ESPN Knockout – Jonathan González vs Abraham Pérez",
-    "date": "2026-06-14",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "36725",
