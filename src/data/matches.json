@@ -1,52 +1,22 @@
 [
   {
-    "id": "36700",
-    "slug": "costa-de-marfil-vs-ecuador-2026-06-14",
-    "team_a": "Costa de Marfil",
-    "team_b": "Ecuador",
-    "league": "Copa del Mundo",
-    "date": "2026-06-14",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
+    "id": "Barcelona-Real-Madrid-2026-06-15",
+    "slug": "barcelona-vs-real-madrid-2026-06-15",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-06-15",
+    "time": "20:00",
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
   },
   {
-    "id": "36724",
-    "slug": "partido-vs-en-vivo-2026-06-14",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB – Boston Red Sox vs Texas Rangers",
-    "date": "2026-06-14",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "36703",
-    "slug": "partido-vs-en-vivo-2026-06-14",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-06-14",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "36701",
-    "slug": "partido-vs-en-vivo-2026-06-14",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa del Mundo",
-    "date": "2026-06-14",
-    "time": "21:00",
-    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
-  },
-  {
-    "id": "36725",
-    "slug": "partido-vs-en-vivo-2026-06-14",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NHL – (A Confirmar) – Vegas Golden Knights vs Carolina Hurricanes",
-    "date": "2026-06-14",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+    "id": "América-Chivas-2026-06-15",
+    "slug": "américa-vs-chivas-2026-06-15",
+    "team_a": "América",
+    "team_b": "Chivas",
+    "league": "Liga MX",
+    "date": "2026-06-15",
+    "time": "22:00",
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
