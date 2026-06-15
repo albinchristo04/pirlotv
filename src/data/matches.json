@@ -7,7 +7,7 @@
     "league": "Copa del Mundo",
     "date": "2026-06-14",
     "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=ecdf_ligapro"
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
   },
   {
     "id": "36724",
@@ -78,15 +78,5 @@
     "date": "2026-06-14",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36699",
-    "slug": "países-bajos-vs-japón-2026-06-14",
-    "team_a": "Países Bajos",
-    "team_b": "Japón",
-    "league": "Copa del Mundo",
-    "date": "2026-06-14",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/mpd/drm.php?url=aHR0cHM6Ly9saXZlLW9uZWFwcC1wcmQtbmV3cy5ha2FtYWl6ZWQubmV0L0NvbnRlbnQvQ01BRl9PTDItQ1RSLTRzL0xpdmUvY2hhbm5lbChXTkpVKS9tYXN0ZXIubXBk&k=YzcxZmU3YmM4MmYwMzdjNmFmMjFmZDI5OWQ2MzQxYjA6MTMyMjNjOTg4ODZmZjQzZDNjNWYyNzFlZWI0NTdjYzY="
   }
 ]
