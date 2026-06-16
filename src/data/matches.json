@@ -1,35 +1,5 @@
 [
   {
-    "id": "36732",
-    "slug": "bolívar-vs-guabirá-2026-06-15",
-    "team_a": "Bolívar",
-    "team_b": "Guabirá",
-    "league": "Primera División",
-    "date": "2026-06-15",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
-  },
-  {
-    "id": "36734",
-    "slug": "partido-vs-en-vivo-2026-06-15",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "ESPN Mundial",
-    "date": "2026-06-15",
-    "time": "17:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36733",
-    "slug": "partido-vs-en-vivo-2026-06-15",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB – Washington Nationals vs Kansas City Royals",
-    "date": "2026-06-15",
-    "time": "17:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
     "id": "36735",
     "slug": "partido-vs-en-vivo-2026-06-15",
     "team_a": "Equipo A",
