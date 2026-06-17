@@ -1,25 +1,5 @@
 [
   {
-    "id": "36742",
-    "slug": "partido-vs-en-vivo-2026-06-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa del Mundo",
-    "date": "2026-06-17",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "36744",
-    "slug": "ghana-vs-panamá-2026-06-17",
-    "team_a": "Ghana",
-    "team_b": "Panamá",
-    "league": "Copa del Mundo",
-    "date": "2026-06-17",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
     "id": "36746",
     "slug": "partido-vs-en-vivo-2026-06-17",
     "team_a": "Equipo A",
@@ -40,6 +20,36 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
+    "id": "36742",
+    "slug": "partido-vs-en-vivo-2026-06-17",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa del Mundo",
+    "date": "2026-06-17",
+    "time": "12:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
+  },
+  {
+    "id": "36744",
+    "slug": "ghana-vs-panamá-2026-06-17",
+    "team_a": "Ghana",
+    "team_b": "Panamá",
+    "league": "Copa del Mundo",
+    "date": "2026-06-17",
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
+  },
+  {
+    "id": "36747",
+    "slug": "partido-vs-en-vivo-2026-06-17",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "MLB – Milwaukee Brewers vs Cleveland Guardians",
+    "date": "2026-06-17",
+    "time": "18:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
+  },
+  {
     "id": "36743",
     "slug": "inglaterra-vs-croacia-2026-06-17",
     "team_a": "Inglaterra",
@@ -58,15 +68,5 @@
     "date": "2026-06-17",
     "time": "21:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "36747",
-    "slug": "partido-vs-en-vivo-2026-06-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB – Milwaukee Brewers vs Cleveland Guardians",
-    "date": "2026-06-17",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   }
 ]
