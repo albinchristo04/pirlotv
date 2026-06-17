@@ -20,16 +20,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "36742",
-    "slug": "partido-vs-en-vivo-2026-06-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa del Mundo",
-    "date": "2026-06-17",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
     "id": "36744",
     "slug": "ghana-vs-panamá-2026-06-17",
     "team_a": "Ghana",
@@ -38,6 +28,16 @@
     "date": "2026-06-17",
     "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
+  },
+  {
+    "id": "36742",
+    "slug": "partido-vs-en-vivo-2026-06-17",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa del Mundo",
+    "date": "2026-06-17",
+    "time": "12:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   },
   {
     "id": "36747",
