@@ -10,26 +10,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36755",
-    "slug": "partido-vs-en-vivo-2026-06-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Hockey – Pro League Masculino – Argentina vs Australia",
-    "date": "2026-06-18",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36749",
-    "slug": "república-checa-vs-sur-áfrica-2026-06-18",
-    "team_a": "República Checa",
-    "team_b": "Sur África",
-    "league": "Copa del Mundo",
-    "date": "2026-06-18",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
     "id": "36751",
     "slug": "partido-vs-en-vivo-2026-06-18",
     "team_a": "Equipo A",
@@ -38,16 +18,6 @@
     "date": "2026-06-18",
     "time": "17:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "36754",
-    "slug": "partido-vs-en-vivo-2026-06-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Golf – Us Open 2026 – Primera Vuelta",
-    "date": "2026-06-18",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "36756",
