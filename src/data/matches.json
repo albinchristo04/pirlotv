@@ -17,27 +17,7 @@
     "league": "Copa del Mundo",
     "date": "2026-06-18",
     "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "36756",
-    "slug": "partido-vs-en-vivo-2026-06-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB – Texas Rangers vs. Minnesota Twins",
-    "date": "2026-06-18",
-    "time": "13:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "36750",
-    "slug": "suiza-vs-bosnia-herzegovina-2026-06-18",
-    "team_a": "Suiza",
-    "team_b": "Bosnia-Herzegovina",
-    "league": "Copa del Mundo",
-    "date": "2026-06-18",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
   },
   {
     "id": "36752",
@@ -47,6 +27,6 @@
     "league": "Copa del Mundo",
     "date": "2026-06-18",
     "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
   }
 ]
