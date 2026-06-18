@@ -1,25 +1,5 @@
 [
   {
-    "id": "36749",
-    "slug": "república-checa-vs-sur-áfrica-2026-06-18",
-    "team_a": "República Checa",
-    "team_b": "Sur África",
-    "league": "Copa del Mundo",
-    "date": "2026-06-18",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "36751",
-    "slug": "partido-vs-en-vivo-2026-06-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa del Mundo",
-    "date": "2026-06-18",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
     "id": "36753",
     "slug": "universidad-chile-vs-o'higgins-2026-06-18",
     "team_a": "Universidad Chile",
@@ -40,23 +20,23 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "36750",
-    "slug": "suiza-vs-bosnia-herzegovina-2026-06-18",
-    "team_a": "Suiza",
-    "team_b": "Bosnia-Herzegovina",
+    "id": "36749",
+    "slug": "república-checa-vs-sur-áfrica-2026-06-18",
+    "team_a": "República Checa",
+    "team_b": "Sur África",
     "league": "Copa del Mundo",
     "date": "2026-06-18",
-    "time": "14:00",
+    "time": "11:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   },
   {
-    "id": "36752",
-    "slug": "méxico-vs-corea-del-sur-2026-06-18",
-    "team_a": "México",
-    "team_b": "Corea del Sur",
+    "id": "36751",
+    "slug": "partido-vs-en-vivo-2026-06-18",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
     "league": "Copa del Mundo",
     "date": "2026-06-18",
-    "time": "20:00",
+    "time": "17:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   },
   {
@@ -78,5 +58,25 @@
     "date": "2026-06-18",
     "time": "13:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
+  },
+  {
+    "id": "36750",
+    "slug": "suiza-vs-bosnia-herzegovina-2026-06-18",
+    "team_a": "Suiza",
+    "team_b": "Bosnia-Herzegovina",
+    "league": "Copa del Mundo",
+    "date": "2026-06-18",
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
+  },
+  {
+    "id": "36752",
+    "slug": "méxico-vs-corea-del-sur-2026-06-18",
+    "team_a": "México",
+    "team_b": "Corea del Sur",
+    "league": "Copa del Mundo",
+    "date": "2026-06-18",
+    "time": "20:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   }
 ]
