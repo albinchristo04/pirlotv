@@ -7,7 +7,7 @@
     "league": "Copa del Mundo",
     "date": "2026-06-19",
     "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
   },
   {
     "id": "36759",
@@ -27,7 +27,7 @@
     "league": "Primera División",
     "date": "2026-06-19",
     "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
+    "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
   },
   {
     "id": "36763",
@@ -60,14 +60,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
-    "id": "36758",
-    "slug": "escocia-vs-marruecos-2026-06-19",
-    "team_a": "Escocia",
-    "team_b": "Marruecos",
-    "league": "Copa del Mundo",
+    "id": "36762",
+    "slug": "miramar-misiones-vs-huracán-2026-06-19",
+    "team_a": "Miramar Misiones",
+    "team_b": "Huracán",
+    "league": "Segunda División",
     "date": "2026-06-19",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+    "time": "16:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1"
   },
   {
     "id": "36760",
@@ -80,14 +80,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
   },
   {
-    "id": "36762",
-    "slug": "miramar-misiones-vs-huracán-2026-06-19",
-    "team_a": "Miramar Misiones",
-    "team_b": "Huracán",
-    "league": "Segunda División",
+    "id": "36758",
+    "slug": "escocia-vs-marruecos-2026-06-19",
+    "team_a": "Escocia",
+    "team_b": "Marruecos",
+    "league": "Copa del Mundo",
     "date": "2026-06-19",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
   },
   {
     "id": "36765",
