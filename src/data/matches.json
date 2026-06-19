@@ -1,15 +1,5 @@
 [
   {
-    "id": "36757",
-    "slug": "ee.-uu.-vs-australia-2026-06-19",
-    "team_a": "EE. UU.",
-    "team_b": "Australia",
-    "league": "Copa del Mundo",
-    "date": "2026-06-19",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/tv/canales.php?stream=dsports"
-  },
-  {
     "id": "36759",
     "slug": "brasil-vs-haití-2026-06-19",
     "team_a": "Brasil",
@@ -17,6 +7,16 @@
     "league": "Copa del Mundo",
     "date": "2026-06-19",
     "time": "19:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+  },
+  {
+    "id": "36757",
+    "slug": "ee.-uu.-vs-australia-2026-06-19",
+    "team_a": "EE. UU.",
+    "team_b": "Australia",
+    "league": "Copa del Mundo",
+    "date": "2026-06-19",
+    "time": "14:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
   },
   {
@@ -28,16 +28,6 @@
     "date": "2026-06-19",
     "time": "16:30",
     "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
-  },
-  {
-    "id": "36763",
-    "slug": "partido-vs-en-vivo-2026-06-19",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Golf – Us Open 2026 – Segunda Vuelta",
-    "date": "2026-06-19",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "36764",
