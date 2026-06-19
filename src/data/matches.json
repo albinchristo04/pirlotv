@@ -10,16 +10,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
   },
   {
-    "id": "36757",
-    "slug": "ee.-uu.-vs-australia-2026-06-19",
-    "team_a": "EE. UU.",
-    "team_b": "Australia",
-    "league": "Copa del Mundo",
-    "date": "2026-06-19",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
-  },
-  {
     "id": "36761",
     "slug": "real-potosí-vs-gualberto-villarroel-sj-2026-06-19",
     "team_a": "Real Potosí",
@@ -28,16 +18,6 @@
     "date": "2026-06-19",
     "time": "16:30",
     "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
-  },
-  {
-    "id": "36764",
-    "slug": "partido-vs-en-vivo-2026-06-19",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "ESPN Knockout – José Luis Navarro vs Oliver Zaren",
-    "date": "2026-06-19",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
     "id": "36767",
@@ -78,16 +58,6 @@
     "date": "2026-06-19",
     "time": "17:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
-  },
-  {
-    "id": "36765",
-    "slug": "partido-vs-en-vivo-2026-06-19",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby – Top 14 – A Confirmar",
-    "date": "2026-06-19",
-    "time": "13:50",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
     "id": "36766",
