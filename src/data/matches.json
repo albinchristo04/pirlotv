@@ -1,22 +1,122 @@
 [
   {
-    "id": "36753",
-    "slug": "universidad-chile-vs-o'higgins-2026-06-18",
-    "team_a": "Universidad Chile",
-    "team_b": "O'Higgins",
-    "league": "Primera División",
-    "date": "2026-06-18",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+    "id": "36757",
+    "slug": "ee.-uu.-vs-australia-2026-06-19",
+    "team_a": "EE. UU.",
+    "team_b": "Australia",
+    "league": "Copa del Mundo",
+    "date": "2026-06-19",
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
   },
   {
-    "id": "36752",
-    "slug": "méxico-vs-corea-del-sur-2026-06-18",
-    "team_a": "México",
-    "team_b": "Corea del Sur",
+    "id": "36759",
+    "slug": "brasil-vs-haití-2026-06-19",
+    "team_a": "Brasil",
+    "team_b": "Haití",
     "league": "Copa del Mundo",
-    "date": "2026-06-18",
-    "time": "20:00",
+    "date": "2026-06-19",
+    "time": "19:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+  },
+  {
+    "id": "36761",
+    "slug": "real-potosí-vs-gualberto-villarroel-sj-2026-06-19",
+    "team_a": "Real Potosí",
+    "team_b": "Gualberto Villarroel SJ",
+    "league": "Primera División",
+    "date": "2026-06-19",
+    "time": "16:30",
+    "decoded_iframe_url": "https://tvtvhd.com/tv/canal.php?stream=even1"
+  },
+  {
+    "id": "36763",
+    "slug": "partido-vs-en-vivo-2026-06-19",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Golf – Us Open 2026 – Segunda Vuelta",
+    "date": "2026-06-19",
+    "time": "11:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36764",
+    "slug": "partido-vs-en-vivo-2026-06-19",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "ESPN Knockout – José Luis Navarro vs Oliver Zaren",
+    "date": "2026-06-19",
+    "time": "13:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "36767",
+    "slug": "partido-vs-en-vivo-2026-06-19",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "MLB – Atlanta Braves vs. Milwaukee Brewers",
+    "date": "2026-06-19",
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
+  },
+  {
+    "id": "36758",
+    "slug": "escocia-vs-marruecos-2026-06-19",
+    "team_a": "Escocia",
+    "team_b": "Marruecos",
+    "league": "Copa del Mundo",
+    "date": "2026-06-19",
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+  },
+  {
+    "id": "36760",
+    "slug": "turquía-vs-paraguay-2026-06-19",
+    "team_a": "Turquía",
+    "team_b": "Paraguay",
+    "league": "Copa del Mundo",
+    "date": "2026-06-19",
+    "time": "22:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+  },
+  {
+    "id": "36762",
+    "slug": "miramar-misiones-vs-huracán-2026-06-19",
+    "team_a": "Miramar Misiones",
+    "team_b": "Huracán",
+    "league": "Segunda División",
+    "date": "2026-06-19",
+    "time": "16:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "36765",
+    "slug": "partido-vs-en-vivo-2026-06-19",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Rugby – Top 14 – A Confirmar",
+    "date": "2026-06-19",
+    "time": "13:50",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
+  },
+  {
+    "id": "36766",
+    "slug": "partido-vs-en-vivo-2026-06-19",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Rugby – SR Americas – Final – A Confirmar",
+    "date": "2026-06-19",
+    "time": "17:50",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "36768",
+    "slug": "partido-vs-en-vivo-2026-06-19",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "ESPN Knockout – LFA 235 – Andrew Stewart vs Zayne Havener",
+    "date": "2026-06-19",
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   }
 ]
