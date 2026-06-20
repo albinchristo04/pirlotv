@@ -10,16 +10,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "36778",
-    "slug": "fénix-vs-oriental-2026-06-20",
-    "team_a": "Fénix",
-    "team_b": "Oriental",
-    "league": "Segunda División",
-    "date": "2026-06-20",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
-  },
-  {
     "id": "36779",
     "slug": "tacuarembó-vs-paysandu-2026-06-20",
     "team_a": "Tacuarembó",
@@ -37,16 +27,6 @@
     "league": "Copa del Mundo",
     "date": "2026-06-20",
     "time": "23:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
-  },
-  {
-    "id": "36769",
-    "slug": "países-bajos-vs-suecia-2026-06-20",
-    "team_a": "Países Bajos",
-    "team_b": "Suecia",
-    "league": "Copa del Mundo",
-    "date": "2026-06-20",
-    "time": "12:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
   },
   {
@@ -78,16 +58,6 @@
     "date": "2026-06-20",
     "time": "19:30",
     "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
-  },
-  {
-    "id": "36786",
-    "slug": "partido-vs-en-vivo-2026-06-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Golf – Us Open 2026 – Tercera Vuelta",
-    "date": "2026-06-20",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "36789",
@@ -138,16 +108,6 @@
     "date": "2026-06-20",
     "time": "14:00",
     "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
-  },
-  {
-    "id": "36787",
-    "slug": "partido-vs-en-vivo-2026-06-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "WNBA – Atlanta vs Indiana",
-    "date": "2026-06-20",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
   },
   {
     "id": "36788",
