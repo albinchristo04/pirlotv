@@ -30,16 +30,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
   },
   {
-    "id": "36771",
-    "slug": "ecuador-vs-curazao-2026-06-20",
-    "team_a": "Ecuador",
-    "team_b": "Curazao",
-    "league": "Copa del Mundo",
-    "date": "2026-06-20",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
-  },
-  {
     "id": "36772",
     "slug": "partido-vs-en-vivo-2026-06-20",
     "team_a": "Equipo A",
@@ -57,6 +47,16 @@
     "league": "Copa del Mundo",
     "date": "2026-06-20",
     "time": "12:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+  },
+  {
+    "id": "36771",
+    "slug": "ecuador-vs-curazao-2026-06-20",
+    "team_a": "Ecuador",
+    "team_b": "Curazao",
+    "league": "Copa del Mundo",
+    "date": "2026-06-20",
+    "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
   },
   {
@@ -110,16 +110,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
   },
   {
-    "id": "36770",
-    "slug": "alemania-vs-costa-de-marfil-2026-06-20",
-    "team_a": "Alemania",
-    "team_b": "Costa de Marfil",
-    "league": "Copa del Mundo",
-    "date": "2026-06-20",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
-  },
-  {
     "id": "36780",
     "slug": "plaza-colonia-vs-atenas-2026-06-20",
     "team_a": "Plaza Colonia",
@@ -130,6 +120,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney7"
   },
   {
+    "id": "36770",
+    "slug": "alemania-vs-costa-de-marfil-2026-06-20",
+    "team_a": "Alemania",
+    "team_b": "Costa de Marfil",
+    "league": "Copa del Mundo",
+    "date": "2026-06-20",
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+  },
+  {
     "id": "36773",
     "slug": "san-antonio-bulo-bulo-vs-blooming-2026-06-20",
     "team_a": "San Antonio Bulo Bulo",
@@ -138,16 +138,6 @@
     "date": "2026-06-20",
     "time": "14:00",
     "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
-  },
-  {
-    "id": "36785",
-    "slug": "partido-vs-en-vivo-2026-06-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby",
-    "date": "2026-06-20",
-    "time": "08:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
     "id": "36787",
