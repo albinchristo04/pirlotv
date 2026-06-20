@@ -10,16 +10,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "36779",
-    "slug": "tacuarembó-vs-paysandu-2026-06-20",
-    "team_a": "Tacuarembó",
-    "team_b": "Paysandu",
-    "league": "Segunda División",
-    "date": "2026-06-20",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney5"
-  },
-  {
     "id": "36772",
     "slug": "partido-vs-en-vivo-2026-06-20",
     "team_a": "Equipo A",
@@ -37,7 +27,7 @@
     "league": "Copa del Mundo",
     "date": "2026-06-20",
     "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   },
   {
     "id": "36774",
@@ -60,26 +50,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
   },
   {
-    "id": "36789",
-    "slug": "partido-vs-en-vivo-2026-06-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "WNBA – Phoenix vs Seattle",
-    "date": "2026-06-20",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn7"
-  },
-  {
-    "id": "36776",
-    "slug": "almería-vs-málaga-|-final-2/2-2026-06-20",
-    "team_a": "Almería",
-    "team_b": "Málaga | Final 2/2",
-    "league": "LaLiga SmartBank",
-    "date": "2026-06-20",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
-  },
-  {
     "id": "36780",
     "slug": "plaza-colonia-vs-atenas-2026-06-20",
     "team_a": "Plaza Colonia",
@@ -98,25 +68,5 @@
     "date": "2026-06-20",
     "time": "15:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
-  },
-  {
-    "id": "36773",
-    "slug": "san-antonio-bulo-bulo-vs-blooming-2026-06-20",
-    "team_a": "San Antonio Bulo Bulo",
-    "team_b": "Blooming",
-    "league": "Primera División",
-    "date": "2026-06-20",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
-  },
-  {
-    "id": "36788",
-    "slug": "partido-vs-en-vivo-2026-06-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "ESPN Knockout – Ryan Garner vs Michael Magnesi",
-    "date": "2026-06-20",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   }
 ]
