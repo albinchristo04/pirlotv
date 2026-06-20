@@ -1,62 +1,22 @@
 [
   {
-    "id": "36759",
-    "slug": "brasil-vs-haití-2026-06-19",
-    "team_a": "Brasil",
-    "team_b": "Haití",
-    "league": "Copa del Mundo",
-    "date": "2026-06-19",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+    "id": "Barcelona-Real-Madrid-2026-06-20",
+    "slug": "barcelona-vs-real-madrid-2026-06-20",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-06-20",
+    "time": "20:00",
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
   },
   {
-    "id": "36767",
-    "slug": "partido-vs-en-vivo-2026-06-19",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB – Atlanta Braves vs. Milwaukee Brewers",
-    "date": "2026-06-19",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "36760",
-    "slug": "turquía-vs-paraguay-2026-06-19",
-    "team_a": "Turquía",
-    "team_b": "Paraguay",
-    "league": "Copa del Mundo",
-    "date": "2026-06-19",
+    "id": "América-Chivas-2026-06-20",
+    "slug": "américa-vs-chivas-2026-06-20",
+    "team_a": "América",
+    "team_b": "Chivas",
+    "league": "Liga MX",
+    "date": "2026-06-20",
     "time": "22:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
-  },
-  {
-    "id": "36758",
-    "slug": "escocia-vs-marruecos-2026-06-19",
-    "team_a": "Escocia",
-    "team_b": "Marruecos",
-    "league": "Copa del Mundo",
-    "date": "2026-06-19",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
-  },
-  {
-    "id": "36766",
-    "slug": "partido-vs-en-vivo-2026-06-19",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby – SR Americas – Final – A Confirmar",
-    "date": "2026-06-19",
-    "time": "17:50",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36768",
-    "slug": "partido-vs-en-vivo-2026-06-19",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "ESPN Knockout – LFA 235 – Andrew Stewart vs Zayne Havener",
-    "date": "2026-06-19",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
