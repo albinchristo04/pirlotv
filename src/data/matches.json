@@ -20,16 +20,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
   },
   {
-    "id": "36769",
-    "slug": "países-bajos-vs-suecia-2026-06-20",
-    "team_a": "Países Bajos",
-    "team_b": "Suecia",
-    "league": "Copa del Mundo",
-    "date": "2026-06-20",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
-  },
-  {
     "id": "36779",
     "slug": "tacuarembó-vs-paysandu-2026-06-20",
     "team_a": "Tacuarembó",
@@ -60,6 +50,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
   },
   {
+    "id": "36769",
+    "slug": "países-bajos-vs-suecia-2026-06-20",
+    "team_a": "Países Bajos",
+    "team_b": "Suecia",
+    "league": "Copa del Mundo",
+    "date": "2026-06-20",
+    "time": "12:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+  },
+  {
     "id": "36774",
     "slug": "real-tomayapo-vs-abb-2026-06-20",
     "team_a": "Real Tomayapo",
@@ -78,26 +78,6 @@
     "date": "2026-06-20",
     "time": "19:30",
     "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
-  },
-  {
-    "id": "36777",
-    "slug": "deportivo-colonia-vs-river-plate-2026-06-20",
-    "team_a": "Deportivo Colonia",
-    "team_b": "River Plate",
-    "league": "Segunda División",
-    "date": "2026-06-20",
-    "time": "08:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1"
-  },
-  {
-    "id": "36784",
-    "slug": "partido-vs-en-vivo-2026-06-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MotoGP – GP Chequia – Sprint",
-    "date": "2026-06-20",
-    "time": "07:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
     "id": "36786",
