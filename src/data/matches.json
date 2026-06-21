@@ -50,16 +50,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   },
   {
-    "id": "36809",
-    "slug": "partido-vs-en-vivo-2026-06-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – ATP 500 Halle – Final",
-    "date": "2026-06-21",
-    "time": "08:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
     "id": "36813",
     "slug": "partido-vs-en-vivo-2026-06-21",
     "team_a": "Equipo A",
@@ -140,16 +130,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere1"
   },
   {
-    "id": "36792",
-    "slug": "españa-vs-arabia-saudita-2026-06-21",
-    "team_a": "España",
-    "team_b": "Arabia Saudita",
-    "league": "Copa del Mundo",
-    "date": "2026-06-21",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
-  },
-  {
     "id": "36810",
     "slug": "partido-vs-en-vivo-2026-06-21",
     "team_a": "Equipo A",
@@ -188,5 +168,15 @@
     "date": "2026-06-21",
     "time": "16:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36792",
+    "slug": "españa-vs-arabia-saudita-2026-06-21",
+    "team_a": "España",
+    "team_b": "Arabia Saudita",
+    "league": "Copa del Mundo",
+    "date": "2026-06-21",
+    "time": "11:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   }
 ]
