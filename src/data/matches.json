@@ -37,7 +37,37 @@
     "league": "Segunda División",
     "date": "2026-06-21",
     "time": "13:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
+  },
+  {
+    "id": "36811",
+    "slug": "partido-vs-en-vivo-2026-06-21",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "IndyCar Series Road America",
+    "date": "2026-06-21",
+    "time": "13:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "36809",
+    "slug": "partido-vs-en-vivo-2026-06-21",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Tenis – ATP 500 Halle – Final",
+    "date": "2026-06-21",
+    "time": "08:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "36813",
+    "slug": "partido-vs-en-vivo-2026-06-21",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "WNBA – Los Angeles vs New York",
+    "date": "2026-06-21",
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
     "id": "36802",
@@ -58,56 +88,6 @@
     "date": "2026-06-21",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36808",
-    "slug": "partido-vs-en-vivo-2026-06-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – ATP 500 Londres – Final",
-    "date": "2026-06-21",
-    "time": "07:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "36809",
-    "slug": "partido-vs-en-vivo-2026-06-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – ATP 500 Halle – Final",
-    "date": "2026-06-21",
-    "time": "08:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36811",
-    "slug": "partido-vs-en-vivo-2026-06-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "IndyCar Series Road America",
-    "date": "2026-06-21",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36813",
-    "slug": "partido-vs-en-vivo-2026-06-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "WNBA – Los Angeles vs New York",
-    "date": "2026-06-21",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "36792",
-    "slug": "españa-vs-arabia-saudita-2026-06-21",
-    "team_a": "España",
-    "team_b": "Arabia Saudita",
-    "league": "Copa del Mundo",
-    "date": "2026-06-21",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
   },
   {
     "id": "36795",
@@ -160,24 +140,14 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere1"
   },
   {
-    "id": "36803",
-    "slug": "deportes-temuco-vs-deportes-concepción-2026-06-21",
-    "team_a": "Deportes Temuco",
-    "team_b": "Deportes Concepción",
-    "league": "Copa Chile",
+    "id": "36792",
+    "slug": "españa-vs-arabia-saudita-2026-06-21",
+    "team_a": "España",
+    "team_b": "Arabia Saudita",
+    "league": "Copa del Mundo",
     "date": "2026-06-21",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36804",
-    "slug": "universidad-chile-vs-santiago-wanderers-2026-06-21",
-    "team_a": "Universidad Chile",
-    "team_b": "Santiago Wanderers",
-    "league": "Copa Chile",
-    "date": "2026-06-21",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+    "time": "11:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
   },
   {
     "id": "36810",
@@ -198,5 +168,25 @@
     "date": "2026-06-21",
     "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "36803",
+    "slug": "deportes-temuco-vs-deportes-concepción-2026-06-21",
+    "team_a": "Deportes Temuco",
+    "team_b": "Deportes Concepción",
+    "league": "Copa Chile",
+    "date": "2026-06-21",
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36804",
+    "slug": "universidad-chile-vs-santiago-wanderers-2026-06-21",
+    "team_a": "Universidad Chile",
+    "team_b": "Santiago Wanderers",
+    "league": "Copa Chile",
+    "date": "2026-06-21",
+    "time": "16:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   }
 ]
