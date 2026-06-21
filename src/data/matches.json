@@ -7,7 +7,7 @@
     "league": "Copa del Mundo",
     "date": "2026-06-21",
     "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports2"
   },
   {
     "id": "36794",
@@ -60,16 +60,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
   },
   {
-    "id": "36802",
-    "slug": "huachipato-vs-puerto-montt-2026-06-21",
-    "team_a": "Huachipato",
-    "team_b": "Puerto Montt",
-    "league": "Copa Chile",
-    "date": "2026-06-21",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
     "id": "36805",
     "slug": "partido-vs-en-vivo-2026-06-21",
     "team_a": "Equipo A",
@@ -110,16 +100,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
   },
   {
-    "id": "36799",
-    "slug": "la-luz-vs-cerrito-2026-06-21",
-    "team_a": "La Luz",
-    "team_b": "Cerrito",
-    "league": "Segunda División",
-    "date": "2026-06-21",
-    "time": "10:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1"
-  },
-  {
     "id": "36801",
     "slug": "são-bernardo-vs-juventude-2026-06-21",
     "team_a": "São Bernardo",
@@ -128,16 +108,6 @@
     "date": "2026-06-21",
     "time": "15:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere1"
-  },
-  {
-    "id": "36810",
-    "slug": "partido-vs-en-vivo-2026-06-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Golf – Us Open 2026 – Última Vuelta",
-    "date": "2026-06-21",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
     "id": "36812",
@@ -168,15 +138,5 @@
     "date": "2026-06-21",
     "time": "16:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36792",
-    "slug": "españa-vs-arabia-saudita-2026-06-21",
-    "team_a": "España",
-    "team_b": "Arabia Saudita",
-    "league": "Copa del Mundo",
-    "date": "2026-06-21",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   }
 ]
