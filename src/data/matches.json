@@ -1,15 +1,5 @@
 [
   {
-    "id": "36793",
-    "slug": "bélgica-vs-irán-2026-06-21",
-    "team_a": "Bélgica",
-    "team_b": "Irán",
-    "league": "Copa del Mundo",
-    "date": "2026-06-21",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports2"
-  },
-  {
     "id": "36794",
     "slug": "partido-vs-en-vivo-2026-06-21",
     "team_a": "Equipo A",
@@ -17,37 +7,7 @@
     "league": "Copa del Mundo",
     "date": "2026-06-21",
     "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
-  },
-  {
-    "id": "36796",
-    "slug": "always-ready-vs-bolívar-2026-06-21",
-    "team_a": "Always Ready",
-    "team_b": "Bolívar",
-    "league": "Primera División",
-    "date": "2026-06-21",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
-  },
-  {
-    "id": "36800",
-    "slug": "partido-vs-en-vivo-2026-06-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Segunda División",
-    "date": "2026-06-21",
-    "time": "13:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney3"
-  },
-  {
-    "id": "36811",
-    "slug": "partido-vs-en-vivo-2026-06-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "IndyCar Series Road America",
-    "date": "2026-06-21",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   },
   {
     "id": "36813",
@@ -118,16 +78,6 @@
     "date": "2026-06-21",
     "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36803",
-    "slug": "deportes-temuco-vs-deportes-concepción-2026-06-21",
-    "team_a": "Deportes Temuco",
-    "team_b": "Deportes Concepción",
-    "league": "Copa Chile",
-    "date": "2026-06-21",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
     "id": "36804",
