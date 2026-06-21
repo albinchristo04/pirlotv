@@ -58,15 +58,5 @@
     "date": "2026-06-20",
     "time": "17:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney7"
-  },
-  {
-    "id": "36770",
-    "slug": "alemania-vs-costa-de-marfil-2026-06-20",
-    "team_a": "Alemania",
-    "team_b": "Costa de Marfil",
-    "league": "Copa del Mundo",
-    "date": "2026-06-20",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
   }
 ]
