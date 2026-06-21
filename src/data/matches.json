@@ -1,12 +1,222 @@
 [
   {
-    "id": "36791",
+    "id": "36793",
+    "slug": "bélgica-vs-irán-2026-06-21",
+    "team_a": "Bélgica",
+    "team_b": "Irán",
+    "league": "Copa del Mundo",
+    "date": "2026-06-21",
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+  },
+  {
+    "id": "36794",
     "slug": "partido-vs-en-vivo-2026-06-21",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
     "league": "Copa del Mundo",
     "date": "2026-06-21",
-    "time": "00:15",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+  },
+  {
+    "id": "36796",
+    "slug": "always-ready-vs-bolívar-2026-06-21",
+    "team_a": "Always Ready",
+    "team_b": "Bolívar",
+    "league": "Primera División",
+    "date": "2026-06-21",
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
+  },
+  {
+    "id": "36800",
+    "slug": "partido-vs-en-vivo-2026-06-21",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Segunda División",
+    "date": "2026-06-21",
+    "time": "13:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+  },
+  {
+    "id": "36802",
+    "slug": "huachipato-vs-puerto-montt-2026-06-21",
+    "team_a": "Huachipato",
+    "team_b": "Puerto Montt",
+    "league": "Copa Chile",
+    "date": "2026-06-21",
+    "time": "11:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36805",
+    "slug": "partido-vs-en-vivo-2026-06-21",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa Chile",
+    "date": "2026-06-21",
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36806",
+    "slug": "partido-vs-en-vivo-2026-06-21",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "MotoGP – GP Chequia – Carrera Moto3 / Moto2 / MotoGP",
+    "date": "2026-06-21",
+    "time": "03:45",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36808",
+    "slug": "partido-vs-en-vivo-2026-06-21",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Tenis – ATP 500 Londres – Final",
+    "date": "2026-06-21",
+    "time": "07:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
+  },
+  {
+    "id": "36809",
+    "slug": "partido-vs-en-vivo-2026-06-21",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Tenis – ATP 500 Halle – Final",
+    "date": "2026-06-21",
+    "time": "08:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "36811",
+    "slug": "partido-vs-en-vivo-2026-06-21",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "IndyCar Series Road America",
+    "date": "2026-06-21",
+    "time": "13:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "36813",
+    "slug": "partido-vs-en-vivo-2026-06-21",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "WNBA – Los Angeles vs New York",
+    "date": "2026-06-21",
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
+  },
+  {
+    "id": "36792",
+    "slug": "españa-vs-arabia-saudita-2026-06-21",
+    "team_a": "España",
+    "team_b": "Arabia Saudita",
+    "league": "Copa del Mundo",
+    "date": "2026-06-21",
+    "time": "11:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+  },
+  {
+    "id": "36795",
+    "slug": "partido-vs-en-vivo-2026-06-21",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa del Mundo",
+    "date": "2026-06-21",
+    "time": "20:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+  },
+  {
+    "id": "36797",
+    "slug": "real-oruro-vs-independiente-petrolero-2026-06-21",
+    "team_a": "Real Oruro",
+    "team_b": "Independiente Petrolero",
+    "league": "Primera División",
+    "date": "2026-06-21",
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
+  },
+  {
+    "id": "36798",
+    "slug": "oriente-petrolero-vs-nacional-potosí-2026-06-21",
+    "team_a": "Oriente Petrolero",
+    "team_b": "Nacional Potosí",
+    "league": "Primera División",
+    "date": "2026-06-21",
+    "time": "19:30",
+    "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
+  },
+  {
+    "id": "36799",
+    "slug": "la-luz-vs-cerrito-2026-06-21",
+    "team_a": "La Luz",
+    "team_b": "Cerrito",
+    "league": "Segunda División",
+    "date": "2026-06-21",
+    "time": "10:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney1"
+  },
+  {
+    "id": "36801",
+    "slug": "são-bernardo-vs-juventude-2026-06-21",
+    "team_a": "São Bernardo",
+    "team_b": "Juventude",
+    "league": "Serie B",
+    "date": "2026-06-21",
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere1"
+  },
+  {
+    "id": "36803",
+    "slug": "deportes-temuco-vs-deportes-concepción-2026-06-21",
+    "team_a": "Deportes Temuco",
+    "team_b": "Deportes Concepción",
+    "league": "Copa Chile",
+    "date": "2026-06-21",
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36804",
+    "slug": "universidad-chile-vs-santiago-wanderers-2026-06-21",
+    "team_a": "Universidad Chile",
+    "team_b": "Santiago Wanderers",
+    "league": "Copa Chile",
+    "date": "2026-06-21",
+    "time": "16:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36807",
+    "slug": "partido-vs-en-vivo-2026-06-21",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Hockey – Pro League Femenino – Argentina vs China",
+    "date": "2026-06-21",
+    "time": "04:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
+  },
+  {
+    "id": "36810",
+    "slug": "partido-vs-en-vivo-2026-06-21",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Golf – Us Open 2026 – Última Vuelta",
+    "date": "2026-06-21",
+    "time": "10:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36812",
+    "slug": "partido-vs-en-vivo-2026-06-21",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "MLB – Philadelphia Phillies vs New York Mets",
+    "date": "2026-06-21",
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   }
 ]
