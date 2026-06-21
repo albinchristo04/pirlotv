@@ -60,16 +60,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36806",
-    "slug": "partido-vs-en-vivo-2026-06-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MotoGP – GP Chequia – Carrera Moto3 / Moto2 / MotoGP",
-    "date": "2026-06-21",
-    "time": "03:45",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
-  },
-  {
     "id": "36808",
     "slug": "partido-vs-en-vivo-2026-06-21",
     "team_a": "Equipo A",
@@ -188,16 +178,6 @@
     "date": "2026-06-21",
     "time": "16:30",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36807",
-    "slug": "partido-vs-en-vivo-2026-06-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Hockey – Pro League Femenino – Argentina vs China",
-    "date": "2026-06-21",
-    "time": "04:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   },
   {
     "id": "36810",
