@@ -10,26 +10,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   },
   {
-    "id": "36772",
-    "slug": "partido-vs-en-vivo-2026-06-20",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa del Mundo",
-    "date": "2026-06-20",
-    "time": "23:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
-  },
-  {
-    "id": "36771",
-    "slug": "ecuador-vs-curazao-2026-06-20",
-    "team_a": "Ecuador",
-    "team_b": "Curazao",
-    "league": "Copa del Mundo",
-    "date": "2026-06-20",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
     "id": "36775",
     "slug": "the-strongest-vs-aurora-2026-06-20",
     "team_a": "The Strongest",
@@ -40,13 +20,13 @@
     "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
   },
   {
-    "id": "36780",
-    "slug": "plaza-colonia-vs-atenas-2026-06-20",
-    "team_a": "Plaza Colonia",
-    "team_b": "Atenas",
-    "league": "Segunda División",
+    "id": "36772",
+    "slug": "partido-vs-en-vivo-2026-06-20",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa del Mundo",
     "date": "2026-06-20",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney7"
+    "time": "23:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   }
 ]
