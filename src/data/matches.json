@@ -7,7 +7,7 @@
     "league": "Copa del Mundo",
     "date": "2026-06-21",
     "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
+    "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even2"
   },
   {
     "id": "36813",
@@ -58,16 +58,6 @@
     "date": "2026-06-21",
     "time": "19:30",
     "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
-  },
-  {
-    "id": "36801",
-    "slug": "são-bernardo-vs-juventude-2026-06-21",
-    "team_a": "São Bernardo",
-    "team_b": "Juventude",
-    "league": "Serie B",
-    "date": "2026-06-21",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=premiere1"
   },
   {
     "id": "36812",
