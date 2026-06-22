@@ -1,45 +1,5 @@
 [
   {
-    "id": "36794",
-    "slug": "partido-vs-en-vivo-2026-06-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa del Mundo",
-    "date": "2026-06-21",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=dsports"
-  },
-  {
-    "id": "36813",
-    "slug": "partido-vs-en-vivo-2026-06-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "WNBA – Los Angeles vs New York",
-    "date": "2026-06-21",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "36805",
-    "slug": "partido-vs-en-vivo-2026-06-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Chile",
-    "date": "2026-06-21",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36797",
-    "slug": "real-oruro-vs-independiente-petrolero-2026-06-21",
-    "team_a": "Real Oruro",
-    "team_b": "Independiente Petrolero",
-    "league": "Primera División",
-    "date": "2026-06-21",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
-  },
-  {
     "id": "36798",
     "slug": "oriente-petrolero-vs-nacional-potosí-2026-06-21",
     "team_a": "Oriente Petrolero",
@@ -58,15 +18,5 @@
     "date": "2026-06-21",
     "time": "20:00",
     "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=dsports"
-  },
-  {
-    "id": "36812",
-    "slug": "partido-vs-en-vivo-2026-06-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB – Philadelphia Phillies vs New York Mets",
-    "date": "2026-06-21",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
   }
 ]
