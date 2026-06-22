@@ -7,7 +7,7 @@
     "league": "Copa del Mundo",
     "date": "2026-06-21",
     "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even2"
+    "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=dsports"
   },
   {
     "id": "36813",
@@ -30,16 +30,6 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36795",
-    "slug": "partido-vs-en-vivo-2026-06-21",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa del Mundo",
-    "date": "2026-06-21",
-    "time": "20:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
-  },
-  {
     "id": "36797",
     "slug": "real-oruro-vs-independiente-petrolero-2026-06-21",
     "team_a": "Real Oruro",
@@ -60,6 +50,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=even1"
   },
   {
+    "id": "36795",
+    "slug": "partido-vs-en-vivo-2026-06-21",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa del Mundo",
+    "date": "2026-06-21",
+    "time": "20:00",
+    "decoded_iframe_url": "https://tvtvhd.com/online/canales.php?stream=dsports"
+  },
+  {
     "id": "36812",
     "slug": "partido-vs-en-vivo-2026-06-21",
     "team_a": "Equipo A",
@@ -68,15 +68,5 @@
     "date": "2026-06-21",
     "time": "18:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36804",
-    "slug": "universidad-chile-vs-santiago-wanderers-2026-06-21",
-    "team_a": "Universidad Chile",
-    "team_b": "Santiago Wanderers",
-    "league": "Copa Chile",
-    "date": "2026-06-21",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
   }
 ]
