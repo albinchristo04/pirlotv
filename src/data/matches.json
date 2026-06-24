@@ -10,6 +10,16 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
   },
   {
+    "id": "36829",
+    "slug": "everton-vs-universidad-católica-2026-06-23",
+    "team_a": "Everton",
+    "team_b": "Universidad Católica",
+    "league": "Copa Chile",
+    "date": "2026-06-23",
+    "time": "19:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+  },
+  {
     "id": "36827",
     "slug": "partido-vs-en-vivo-2026-06-23",
     "team_a": "Equipo A",
