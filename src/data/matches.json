@@ -1,25 +1,5 @@
 [
   {
-    "id": "36831",
-    "slug": "bosnia-herzegovina-vs-qatar-2026-06-24",
-    "team_a": "Bosnia-Herzegovina",
-    "team_b": "Qatar",
-    "league": "Copa del Mundo",
-    "date": "2026-06-24",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "36833",
-    "slug": "escocia-vs-brasil-2026-06-24",
-    "team_a": "Escocia",
-    "team_b": "Brasil",
-    "league": "Copa del Mundo",
-    "date": "2026-06-24",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
-  },
-  {
     "id": "36835",
     "slug": "partido-vs-en-vivo-2026-06-24",
     "team_a": "Equipo A",
@@ -40,24 +20,24 @@
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
   },
   {
-    "id": "36830",
-    "slug": "suiza-vs-canadá-2026-06-24",
-    "team_a": "Suiza",
-    "team_b": "Canadá",
+    "id": "36831",
+    "slug": "bosnia-herzegovina-vs-qatar-2026-06-24",
+    "team_a": "Bosnia-Herzegovina",
+    "team_b": "Qatar",
     "league": "Copa del Mundo",
     "date": "2026-06-24",
     "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports2"
   },
   {
-    "id": "36832",
-    "slug": "marruecos-vs-haití-2026-06-24",
-    "team_a": "Marruecos",
-    "team_b": "Haití",
+    "id": "36833",
+    "slug": "escocia-vs-brasil-2026-06-24",
+    "team_a": "Escocia",
+    "team_b": "Brasil",
     "league": "Copa del Mundo",
     "date": "2026-06-24",
     "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
   },
   {
     "id": "36834",
@@ -98,5 +78,25 @@
     "date": "2026-06-24",
     "time": "19:00",
     "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36830",
+    "slug": "suiza-vs-canadá-2026-06-24",
+    "team_a": "Suiza",
+    "team_b": "Canadá",
+    "league": "Copa del Mundo",
+    "date": "2026-06-24",
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+  },
+  {
+    "id": "36832",
+    "slug": "marruecos-vs-haití-2026-06-24",
+    "team_a": "Marruecos",
+    "team_b": "Haití",
+    "league": "Copa del Mundo",
+    "date": "2026-06-24",
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsportsplus"
   }
 ]
