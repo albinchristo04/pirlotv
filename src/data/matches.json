@@ -1,22 +1,112 @@
 [
   {
-    "id": "Barcelona-Real-Madrid-2026-06-24",
-    "slug": "barcelona-vs-real-madrid-2026-06-24",
-    "team_a": "Barcelona",
-    "team_b": "Real Madrid",
-    "league": "La Liga",
+    "id": "36831",
+    "slug": "bosnia-herzegovina-vs-qatar-2026-06-24",
+    "team_a": "Bosnia-Herzegovina",
+    "team_b": "Qatar",
+    "league": "Copa del Mundo",
     "date": "2026-06-24",
-    "time": "20:00",
-    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=dsports"
   },
   {
-    "id": "América-Chivas-2026-06-24",
-    "slug": "américa-vs-chivas-2026-06-24",
-    "team_a": "América",
-    "team_b": "Chivas",
-    "league": "Liga MX",
+    "id": "36833",
+    "slug": "escocia-vs-brasil-2026-06-24",
+    "team_a": "Escocia",
+    "team_b": "Brasil",
+    "league": "Copa del Mundo",
     "date": "2026-06-24",
-    "time": "22:00",
-    "decoded_iframe_url": "https://example.com/embed/america-chivas"
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+  },
+  {
+    "id": "36835",
+    "slug": "partido-vs-en-vivo-2026-06-24",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa del Mundo",
+    "date": "2026-06-24",
+    "time": "20:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=telemundo"
+  },
+  {
+    "id": "36837",
+    "slug": "partido-vs-en-vivo-2026-06-24",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "ESPN Knockout – Lewis Crocker vs Liam Paro",
+    "date": "2026-06-24",
+    "time": "04:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36839",
+    "slug": "partido-vs-en-vivo-2026-06-24",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "MLB – Tampa Bay Rays vs Kansas City Royals",
+    "date": "2026-06-24",
+    "time": "17:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn5"
+  },
+  {
+    "id": "36830",
+    "slug": "suiza-vs-canadá-2026-06-24",
+    "team_a": "Suiza",
+    "team_b": "Canadá",
+    "league": "Copa del Mundo",
+    "date": "2026-06-24",
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
+  },
+  {
+    "id": "36832",
+    "slug": "marruecos-vs-haití-2026-06-24",
+    "team_a": "Marruecos",
+    "team_b": "Haití",
+    "league": "Copa del Mundo",
+    "date": "2026-06-24",
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
+  },
+  {
+    "id": "36834",
+    "slug": "sur-áfrica-vs-corea-del-sur-2026-06-24",
+    "team_a": "Sur África",
+    "team_b": "Corea del Sur",
+    "league": "Copa del Mundo",
+    "date": "2026-06-24",
+    "time": "20:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tycsports"
+  },
+  {
+    "id": "36836",
+    "slug": "unión-la-calera-vs-universidad-chile-2026-06-24",
+    "team_a": "Unión La Calera",
+    "team_b": "Universidad Chile",
+    "league": "Copa Chile",
+    "date": "2026-06-24",
+    "time": "18:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36838",
+    "slug": "partido-vs-en-vivo-2026-06-24",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Hockey – Pro League Masculino – Alemania vs Argentina",
+    "date": "2026-06-24",
+    "time": "13:30",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36840",
+    "slug": "partido-vs-en-vivo-2026-06-24",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA Draft – Segunda Ronda",
+    "date": "2026-06-24",
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn2"
   }
 ]
