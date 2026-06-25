@@ -1,42 +1,112 @@
 [
   {
-    "id": "36835",
-    "slug": "partido-vs-en-vivo-2026-06-24",
+    "id": "36845",
+    "slug": "partido-vs-en-vivo-2026-06-25",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
     "league": "Copa del Mundo",
-    "date": "2026-06-24",
-    "time": "20:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
-  },
-  {
-    "id": "36834",
-    "slug": "sur-áfrica-vs-corea-del-sur-2026-06-24",
-    "team_a": "Sur África",
-    "team_b": "Corea del Sur",
-    "league": "Copa del Mundo",
-    "date": "2026-06-24",
-    "time": "20:00",
+    "date": "2026-06-25",
+    "time": "18:00",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tycsports"
   },
   {
-    "id": "36836",
-    "slug": "unión-la-calera-vs-universidad-chile-2026-06-24",
-    "team_a": "Unión La Calera",
-    "team_b": "Universidad Chile",
+    "id": "36846",
+    "slug": "paraguay-vs-australia-2026-06-25",
+    "team_a": "Paraguay",
+    "team_b": "Australia",
+    "league": "Copa del Mundo",
+    "date": "2026-06-25",
+    "time": "21:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telefe"
+  },
+  {
+    "id": "36848",
+    "slug": "colo-colo-vs-o'higgins-2026-06-25",
+    "team_a": "Colo-Colo",
+    "team_b": "O'Higgins",
     "league": "Copa Chile",
-    "date": "2026-06-24",
+    "date": "2026-06-25",
     "time": "18:30",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36840",
-    "slug": "partido-vs-en-vivo-2026-06-24",
+    "id": "36843",
+    "slug": "partido-vs-en-vivo-2026-06-25",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "NBA Draft – Segunda Ronda",
-    "date": "2026-06-24",
-    "time": "19:00",
+    "league": "Copa del Mundo",
+    "date": "2026-06-25",
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tycsports"
+  },
+  {
+    "id": "36852",
+    "slug": "partido-vs-en-vivo-2026-06-25",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "MLB – St. Louis Cardinals vs Arizona Diamondbacks",
+    "date": "2026-06-25",
+    "time": "18:30",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
+  },
+  {
+    "id": "36842",
+    "slug": "curazao-vs-costa-de-marfil-2026-06-25",
+    "team_a": "Curazao",
+    "team_b": "Costa de Marfil",
+    "league": "Copa del Mundo",
+    "date": "2026-06-25",
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=sportv2"
+  },
+  {
+    "id": "36844",
+    "slug": "partido-vs-en-vivo-2026-06-25",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa del Mundo",
+    "date": "2026-06-25",
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
+  },
+  {
+    "id": "36849",
+    "slug": "partido-vs-en-vivo-2026-06-25",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Hockey – Pro League Femenino – Inglaterra vs Argentina",
+    "date": "2026-06-25",
+    "time": "11:00",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36850",
+    "slug": "partido-vs-en-vivo-2026-06-25",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "MLB – Pittsburgh Pirates vs Seattle Mariners",
+    "date": "2026-06-25",
+    "time": "11:30",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "36851",
+    "slug": "partido-vs-en-vivo-2026-06-25",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Golf – Travelers Championship – Primera Vuelta",
+    "date": "2026-06-25",
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36847",
+    "slug": "partido-vs-en-vivo-2026-06-25",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa del Mundo",
+    "date": "2026-06-25",
+    "time": "21:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tycsports"
   }
 ]
