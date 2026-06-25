@@ -10,26 +10,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
   },
   {
-    "id": "36839",
-    "slug": "partido-vs-en-vivo-2026-06-24",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB – Tampa Bay Rays vs Kansas City Royals",
-    "date": "2026-06-24",
-    "time": "17:30",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "36833",
-    "slug": "escocia-vs-brasil-2026-06-24",
-    "team_a": "Escocia",
-    "team_b": "Brasil",
-    "league": "Copa del Mundo",
-    "date": "2026-06-24",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
-  },
-  {
     "id": "36834",
     "slug": "sur-áfrica-vs-corea-del-sur-2026-06-24",
     "team_a": "Sur África",
@@ -58,15 +38,5 @@
     "date": "2026-06-24",
     "time": "19:00",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36832",
-    "slug": "marruecos-vs-haití-2026-06-24",
-    "team_a": "Marruecos",
-    "team_b": "Haití",
-    "league": "Copa del Mundo",
-    "date": "2026-06-24",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tycsports"
   }
 ]
