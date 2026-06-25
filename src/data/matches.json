@@ -20,16 +20,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
   },
   {
-    "id": "36843",
-    "slug": "partido-vs-en-vivo-2026-06-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa del Mundo",
-    "date": "2026-06-25",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
-  },
-  {
     "id": "36845",
     "slug": "partido-vs-en-vivo-2026-06-25",
     "team_a": "Equipo A",
@@ -50,24 +40,14 @@
     "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=dsports2"
   },
   {
-    "id": "36849",
+    "id": "36843",
     "slug": "partido-vs-en-vivo-2026-06-25",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Hockey – Pro League Femenino – Inglaterra vs Argentina",
+    "league": "Copa del Mundo",
     "date": "2026-06-25",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36850",
-    "slug": "partido-vs-en-vivo-2026-06-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB – Pittsburgh Pirates vs Seattle Mariners",
-    "date": "2026-06-25",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
   },
   {
     "id": "36851",
