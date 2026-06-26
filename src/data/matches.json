@@ -10,16 +10,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tycsports"
   },
   {
-    "id": "36859",
-    "slug": "partido-vs-en-vivo-2026-06-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "F2 Spielberg – Práctica",
-    "date": "2026-06-26",
-    "time": "03:50",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
-  },
-  {
     "id": "36861",
     "slug": "partido-vs-en-vivo-2026-06-26",
     "team_a": "Equipo A",
@@ -68,16 +58,6 @@
     "date": "2026-06-26",
     "time": "22:00",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
-  },
-  {
-    "id": "36860",
-    "slug": "partido-vs-en-vivo-2026-06-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "F1 GP Austria – Práctica #1",
-    "date": "2026-06-26",
-    "time": "06:25",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
   },
   {
     "id": "36862",
