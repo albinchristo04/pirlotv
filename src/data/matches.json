@@ -10,16 +10,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tycsports"
   },
   {
-    "id": "36861",
-    "slug": "partido-vs-en-vivo-2026-06-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "F2 Spielberg – Clasificación",
-    "date": "2026-06-26",
-    "time": "08:40",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
-  },
-  {
     "id": "36856",
     "slug": "uruguay-vs-españa-2026-06-26",
     "team_a": "Uruguay",
@@ -47,7 +37,7 @@
     "league": "Copa del Mundo",
     "date": "2026-06-26",
     "time": "14:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=universo"
+    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
   },
   {
     "id": "36858",
@@ -60,16 +50,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
   },
   {
-    "id": "36862",
-    "slug": "partido-vs-en-vivo-2026-06-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Hockey – Pro League Femenino – Argentina vs España",
-    "date": "2026-06-26",
-    "time": "09:30",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn4"
-  },
-  {
     "id": "36855",
     "slug": "partido-vs-en-vivo-2026-06-26",
     "team_a": "Equipo A",
@@ -78,26 +58,6 @@
     "date": "2026-06-26",
     "time": "19:00",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=sportv2"
-  },
-  {
-    "id": "36863",
-    "slug": "partido-vs-en-vivo-2026-06-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "F1 GP Austria – Práctica #2",
-    "date": "2026-06-26",
-    "time": "09:55",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36864",
-    "slug": "partido-vs-en-vivo-2026-06-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Hockey – Pro League Masculino – España vs Argentina",
-    "date": "2026-06-26",
-    "time": "10:30",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
   },
   {
     "id": "36866",
@@ -117,6 +77,6 @@
     "league": "Copa del Mundo",
     "date": "2026-06-26",
     "time": "14:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even2"
   }
 ]
