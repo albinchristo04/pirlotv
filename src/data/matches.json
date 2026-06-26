@@ -1,22 +1,142 @@
 [
   {
-    "id": "Barcelona-Real-Madrid-2026-06-26",
-    "slug": "barcelona-vs-real-madrid-2026-06-26",
-    "team_a": "Barcelona",
-    "team_b": "Real Madrid",
-    "league": "La Liga",
-    "date": "2026-06-26",
-    "time": "20:00",
-    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
-  },
-  {
-    "id": "América-Chivas-2026-06-26",
-    "slug": "américa-vs-chivas-2026-06-26",
-    "team_a": "América",
-    "team_b": "Chivas",
-    "league": "Liga MX",
+    "id": "36857",
+    "slug": "egipto-vs-irán-2026-06-26",
+    "team_a": "Egipto",
+    "team_b": "Irán",
+    "league": "Copa del Mundo",
     "date": "2026-06-26",
     "time": "22:00",
-    "decoded_iframe_url": "https://example.com/embed/america-chivas"
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tycsports"
+  },
+  {
+    "id": "36859",
+    "slug": "partido-vs-en-vivo-2026-06-26",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "F2 Spielberg – Práctica",
+    "date": "2026-06-26",
+    "time": "03:50",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36861",
+    "slug": "partido-vs-en-vivo-2026-06-26",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "F2 Spielberg – Clasificación",
+    "date": "2026-06-26",
+    "time": "08:40",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36854",
+    "slug": "partido-vs-en-vivo-2026-06-26",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa del Mundo",
+    "date": "2026-06-26",
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=universo"
+  },
+  {
+    "id": "36856",
+    "slug": "uruguay-vs-españa-2026-06-26",
+    "team_a": "Uruguay",
+    "team_b": "España",
+    "league": "Copa del Mundo",
+    "date": "2026-06-26",
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
+  },
+  {
+    "id": "36865",
+    "slug": "partido-vs-en-vivo-2026-06-26",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Golf – Travelers Championship – Segunda Vuelta",
+    "date": "2026-06-26",
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36858",
+    "slug": "nueva-zelanda-vs-bélgica-2026-06-26",
+    "team_a": "Nueva Zelanda",
+    "team_b": "Bélgica",
+    "league": "Copa del Mundo",
+    "date": "2026-06-26",
+    "time": "22:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
+  },
+  {
+    "id": "36860",
+    "slug": "partido-vs-en-vivo-2026-06-26",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "F1 GP Austria – Práctica #1",
+    "date": "2026-06-26",
+    "time": "06:25",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36862",
+    "slug": "partido-vs-en-vivo-2026-06-26",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Hockey – Pro League Femenino – Argentina vs España",
+    "date": "2026-06-26",
+    "time": "09:30",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn4"
+  },
+  {
+    "id": "36853",
+    "slug": "noruega-vs-francia-2026-06-26",
+    "team_a": "Noruega",
+    "team_b": "Francia",
+    "league": "Copa del Mundo",
+    "date": "2026-06-26",
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
+  },
+  {
+    "id": "36855",
+    "slug": "partido-vs-en-vivo-2026-06-26",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa del Mundo",
+    "date": "2026-06-26",
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=sportv2"
+  },
+  {
+    "id": "36863",
+    "slug": "partido-vs-en-vivo-2026-06-26",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "F1 GP Austria – Práctica #2",
+    "date": "2026-06-26",
+    "time": "09:55",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36864",
+    "slug": "partido-vs-en-vivo-2026-06-26",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Hockey – Pro League Masculino – España vs Argentina",
+    "date": "2026-06-26",
+    "time": "10:30",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
+  },
+  {
+    "id": "36866",
+    "slug": "partido-vs-en-vivo-2026-06-26",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "ESPN Knockout – LFA 236 – Eduardo Torres vs Aziz Osorbek Uulu",
+    "date": "2026-06-26",
+    "time": "18:30",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
   }
 ]
