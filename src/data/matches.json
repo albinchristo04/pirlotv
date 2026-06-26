@@ -10,16 +10,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tycsports"
   },
   {
-    "id": "36856",
-    "slug": "uruguay-vs-españa-2026-06-26",
-    "team_a": "Uruguay",
-    "team_b": "España",
-    "league": "Copa del Mundo",
-    "date": "2026-06-26",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
-  },
-  {
     "id": "36865",
     "slug": "partido-vs-en-vivo-2026-06-26",
     "team_a": "Equipo A",
@@ -37,7 +27,17 @@
     "league": "Copa del Mundo",
     "date": "2026-06-26",
     "time": "14:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
+    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even2"
+  },
+  {
+    "id": "36856",
+    "slug": "uruguay-vs-españa-2026-06-26",
+    "team_a": "Uruguay",
+    "team_b": "España",
+    "league": "Copa del Mundo",
+    "date": "2026-06-26",
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
   },
   {
     "id": "36858",
@@ -48,16 +48,6 @@
     "date": "2026-06-26",
     "time": "22:00",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
-  },
-  {
-    "id": "36855",
-    "slug": "partido-vs-en-vivo-2026-06-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa del Mundo",
-    "date": "2026-06-26",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=sportv2"
   },
   {
     "id": "36866",
@@ -77,6 +67,16 @@
     "league": "Copa del Mundo",
     "date": "2026-06-26",
     "time": "14:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even2"
+    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
+  },
+  {
+    "id": "36855",
+    "slug": "partido-vs-en-vivo-2026-06-26",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa del Mundo",
+    "date": "2026-06-26",
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=dsports2"
   }
 ]
