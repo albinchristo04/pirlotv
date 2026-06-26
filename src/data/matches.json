@@ -1,25 +1,5 @@
 [
   {
-    "id": "36848",
-    "slug": "colo-colo-vs-o'higgins-2026-06-25",
-    "team_a": "Colo-Colo",
-    "team_b": "O'Higgins",
-    "league": "Copa Chile",
-    "date": "2026-06-25",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36852",
-    "slug": "partido-vs-en-vivo-2026-06-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB – St. Louis Cardinals vs Arizona Diamondbacks",
-    "date": "2026-06-25",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
-  },
-  {
     "id": "36846",
     "slug": "paraguay-vs-australia-2026-06-25",
     "team_a": "Paraguay",
@@ -27,16 +7,6 @@
     "league": "Copa del Mundo",
     "date": "2026-06-25",
     "time": "21:00",
-    "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=dsports2"
-  },
-  {
-    "id": "36845",
-    "slug": "partido-vs-en-vivo-2026-06-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa del Mundo",
-    "date": "2026-06-25",
-    "time": "18:00",
     "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
   },
   {
@@ -47,16 +17,6 @@
     "league": "Copa del Mundo",
     "date": "2026-06-25",
     "time": "21:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
-  },
-  {
-    "id": "36844",
-    "slug": "partido-vs-en-vivo-2026-06-25",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa del Mundo",
-    "date": "2026-06-25",
-    "time": "18:00",
     "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even2"
   }
 ]
