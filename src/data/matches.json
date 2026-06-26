@@ -1,35 +1,5 @@
 [
   {
-    "id": "36857",
-    "slug": "egipto-vs-irán-2026-06-26",
-    "team_a": "Egipto",
-    "team_b": "Irán",
-    "league": "Copa del Mundo",
-    "date": "2026-06-26",
-    "time": "22:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tycsports"
-  },
-  {
-    "id": "36865",
-    "slug": "partido-vs-en-vivo-2026-06-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Golf – Travelers Championship – Segunda Vuelta",
-    "date": "2026-06-26",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36854",
-    "slug": "partido-vs-en-vivo-2026-06-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa del Mundo",
-    "date": "2026-06-26",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even2"
-  },
-  {
     "id": "36856",
     "slug": "uruguay-vs-españa-2026-06-26",
     "team_a": "Uruguay",
@@ -40,14 +10,14 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
   },
   {
-    "id": "36858",
-    "slug": "nueva-zelanda-vs-bélgica-2026-06-26",
-    "team_a": "Nueva Zelanda",
-    "team_b": "Bélgica",
+    "id": "36857",
+    "slug": "egipto-vs-irán-2026-06-26",
+    "team_a": "Egipto",
+    "team_b": "Irán",
     "league": "Copa del Mundo",
     "date": "2026-06-26",
     "time": "22:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsportsplus"
   },
   {
     "id": "36866",
@@ -60,16 +30,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
   },
   {
-    "id": "36853",
-    "slug": "noruega-vs-francia-2026-06-26",
-    "team_a": "Noruega",
-    "team_b": "Francia",
-    "league": "Copa del Mundo",
-    "date": "2026-06-26",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
-  },
-  {
     "id": "36855",
     "slug": "partido-vs-en-vivo-2026-06-26",
     "team_a": "Equipo A",
@@ -78,5 +38,15 @@
     "date": "2026-06-26",
     "time": "19:00",
     "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=dsports2"
+  },
+  {
+    "id": "36858",
+    "slug": "nueva-zelanda-vs-bélgica-2026-06-26",
+    "team_a": "Nueva Zelanda",
+    "team_b": "Bélgica",
+    "league": "Copa del Mundo",
+    "date": "2026-06-26",
+    "time": "22:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
   }
 ]
