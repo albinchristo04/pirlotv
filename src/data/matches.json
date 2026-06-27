@@ -1,15 +1,5 @@
 [
   {
-    "id": "36867",
-    "slug": "partido-vs-en-vivo-2026-06-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa del Mundo",
-    "date": "2026-06-27",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=dsports2"
-  },
-  {
     "id": "36869",
     "slug": "colombia-vs-portugal-2026-06-27",
     "team_a": "Colombia",
@@ -30,14 +20,14 @@
     "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=dsports2"
   },
   {
-    "id": "36875",
-    "slug": "huracán-vs-rentistas-2026-06-27",
-    "team_a": "Huracán",
-    "team_b": "Rentistas",
-    "league": "Segunda División",
+    "id": "36867",
+    "slug": "partido-vs-en-vivo-2026-06-27",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa del Mundo",
     "date": "2026-06-27",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
+    "time": "16:00",
+    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even2"
   },
   {
     "id": "36876",
@@ -47,37 +37,7 @@
     "league": "Segunda División",
     "date": "2026-06-27",
     "time": "17:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36878",
-    "slug": "partido-vs-en-vivo-2026-06-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Torneo de Reserva",
-    "date": "2026-06-27",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsports"
-  },
-  {
-    "id": "36889",
-    "slug": "partido-vs-en-vivo-2026-06-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "ESPN Knockout – Jon Miguez vs Samuel Molina",
-    "date": "2026-06-27",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36868",
-    "slug": "partido-vs-en-vivo-2026-06-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa del Mundo",
-    "date": "2026-06-27",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn"
   },
   {
     "id": "36870",
@@ -100,13 +60,13 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
   },
   {
-    "id": "36890",
+    "id": "36868",
     "slug": "partido-vs-en-vivo-2026-06-27",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Rugby – Top 14 – Toulouse vs Montpellier",
+    "league": "Copa del Mundo",
     "date": "2026-06-27",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn4"
+    "time": "16:00",
+    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
   }
 ]
