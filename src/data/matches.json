@@ -20,16 +20,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsportsplus"
   },
   {
-    "id": "36866",
-    "slug": "partido-vs-en-vivo-2026-06-26",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "ESPN Knockout – LFA 236 – Eduardo Torres vs Aziz Osorbek Uulu",
-    "date": "2026-06-26",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
-  },
-  {
     "id": "36855",
     "slug": "partido-vs-en-vivo-2026-06-26",
     "team_a": "Equipo A",
@@ -38,6 +28,16 @@
     "date": "2026-06-26",
     "time": "19:00",
     "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=dsports2"
+  },
+  {
+    "id": "36866",
+    "slug": "partido-vs-en-vivo-2026-06-26",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "ESPN Knockout – LFA 236 – Eduardo Torres vs Aziz Osorbek Uulu",
+    "date": "2026-06-26",
+    "time": "18:30",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
   },
   {
     "id": "36858",
