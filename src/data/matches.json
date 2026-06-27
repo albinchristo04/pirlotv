@@ -60,16 +60,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsports"
   },
   {
-    "id": "36887",
-    "slug": "partido-vs-en-vivo-2026-06-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby – World Rugby U20 Championship – Sudáfrica vs Uruguay",
-    "date": "2026-06-27",
-    "time": "11:20",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
-  },
-  {
     "id": "36889",
     "slug": "partido-vs-en-vivo-2026-06-27",
     "team_a": "Equipo A",
@@ -78,16 +68,6 @@
     "date": "2026-06-27",
     "time": "13:00",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36874",
-    "slug": "uruguay-montevideo-vs-fénix-2026-06-27",
-    "team_a": "Uruguay Montevideo",
-    "team_b": "Fénix",
-    "league": "Segunda División",
-    "date": "2026-06-27",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvtvhd.com/canales.php?stream=disney2"
   },
   {
     "id": "36868",
@@ -118,26 +98,6 @@
     "date": "2026-06-27",
     "time": "21:00",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "36877",
-    "slug": "river-plate-vs-lanús-2026-06-27",
-    "team_a": "River Plate",
-    "team_b": "Lanús",
-    "league": "Torneo de Reserva",
-    "date": "2026-06-27",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36888",
-    "slug": "partido-vs-en-vivo-2026-06-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Golf – Travelers Championship – Tercera Vuelta",
-    "date": "2026-06-27",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
   },
   {
     "id": "36890",
