@@ -30,16 +30,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsportsplus"
   },
   {
-    "id": "36873",
-    "slug": "atenas-vs-tacuarembó-2026-06-27",
-    "team_a": "Atenas",
-    "team_b": "Tacuarembó",
-    "league": "Segunda División",
-    "date": "2026-06-27",
-    "time": "08:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=disney1"
-  },
-  {
     "id": "36875",
     "slug": "huracán-vs-rentistas-2026-06-27",
     "team_a": "Huracán",
@@ -68,26 +58,6 @@
     "date": "2026-06-27",
     "time": "13:00",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsports"
-  },
-  {
-    "id": "36884",
-    "slug": "partido-vs-en-vivo-2026-06-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "F2 Spielberg – Carrera Sprint",
-    "date": "2026-06-27",
-    "time": "07:05",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
-  },
-  {
-    "id": "36885",
-    "slug": "partido-vs-en-vivo-2026-06-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MotoGP – GP Países Bajos – Sprint",
-    "date": "2026-06-27",
-    "time": "07:30",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn4"
   },
   {
     "id": "36887",
@@ -158,16 +128,6 @@
     "date": "2026-06-27",
     "time": "10:00",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36883",
-    "slug": "partido-vs-en-vivo-2026-06-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Hockey – Pro League Masculino – Alemania vs Argentina",
-    "date": "2026-06-27",
-    "time": "06:30",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
   },
   {
     "id": "36886",
