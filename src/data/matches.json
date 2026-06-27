@@ -70,16 +70,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsports"
   },
   {
-    "id": "36879",
-    "slug": "partido-vs-en-vivo-2026-06-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MotoGP – GP Países Bajos – Clasificación",
-    "date": "2026-06-27",
-    "time": "03:45",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
-  },
-  {
     "id": "36882",
     "slug": "partido-vs-en-vivo-2026-06-27",
     "team_a": "Equipo A",
@@ -180,16 +170,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
   },
   {
-    "id": "36881",
-    "slug": "partido-vs-en-vivo-2026-06-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby – World Rugby U20 Championship – Argentina vs Estados Unidos",
-    "date": "2026-06-27",
-    "time": "03:50",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
-  },
-  {
     "id": "36883",
     "slug": "partido-vs-en-vivo-2026-06-27",
     "team_a": "Equipo A",
@@ -228,15 +208,5 @@
     "date": "2026-06-27",
     "time": "14:00",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn4"
-  },
-  {
-    "id": "36880",
-    "slug": "partido-vs-en-vivo-2026-06-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby – World Rugby U20 Championship – Argentina vs Estados Unidos",
-    "date": "2026-06-27",
-    "time": "03:50",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
   }
 ]
