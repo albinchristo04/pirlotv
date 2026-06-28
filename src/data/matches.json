@@ -1,15 +1,5 @@
 [
   {
-    "id": "36869",
-    "slug": "colombia-vs-portugal-2026-06-27",
-    "team_a": "Colombia",
-    "team_b": "Portugal",
-    "league": "Copa del Mundo",
-    "date": "2026-06-27",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
-  },
-  {
     "id": "36871",
     "slug": "partido-vs-en-vivo-2026-06-27",
     "team_a": "Equipo A",
@@ -30,6 +20,16 @@
     "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even2"
   },
   {
+    "id": "36869",
+    "slug": "colombia-vs-portugal-2026-06-27",
+    "team_a": "Colombia",
+    "team_b": "Portugal",
+    "league": "Copa del Mundo",
+    "date": "2026-06-27",
+    "time": "18:30",
+    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
+  },
+  {
     "id": "36876",
     "slug": "paysandu-vs-miramar-misiones-2026-06-27",
     "team_a": "Paysandu",
@@ -38,16 +38,6 @@
     "date": "2026-06-27",
     "time": "17:00",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36870",
-    "slug": "rd-del-congo-vs-uzbekistán-2026-06-27",
-    "team_a": "RD del Congo",
-    "team_b": "Uzbekistán",
-    "league": "Copa del Mundo",
-    "date": "2026-06-27",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsportsplus"
   },
   {
     "id": "36872",
@@ -68,5 +58,15 @@
     "date": "2026-06-27",
     "time": "16:00",
     "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
+  },
+  {
+    "id": "36870",
+    "slug": "rd-del-congo-vs-uzbekistán-2026-06-27",
+    "team_a": "RD del Congo",
+    "team_b": "Uzbekistán",
+    "league": "Copa del Mundo",
+    "date": "2026-06-27",
+    "time": "18:30",
+    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even2"
   }
 ]
