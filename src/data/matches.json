@@ -1,52 +1,192 @@
 [
   {
-    "id": "36871",
-    "slug": "partido-vs-en-vivo-2026-06-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
+    "id": "36891",
+    "slug": "sur-áfrica-vs-canadá-2026-06-28",
+    "team_a": "Sur África",
+    "team_b": "Canadá",
     "league": "Copa del Mundo",
-    "date": "2026-06-27",
-    "time": "21:00",
-    "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=dsports2"
+    "date": "2026-06-28",
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=canal5"
   },
   {
-    "id": "36876",
-    "slug": "paysandu-vs-miramar-misiones-2026-06-27",
-    "team_a": "Paysandu",
-    "team_b": "Miramar Misiones",
+    "id": "36893",
+    "slug": "partido-vs-en-vivo-2026-06-28",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
     "league": "Segunda División",
-    "date": "2026-06-27",
-    "time": "17:00",
+    "date": "2026-06-28",
+    "time": "13:00",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn"
   },
   {
-    "id": "36869",
-    "slug": "colombia-vs-portugal-2026-06-27",
-    "team_a": "Colombia",
-    "team_b": "Portugal",
-    "league": "Copa del Mundo",
-    "date": "2026-06-27",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+    "id": "36895",
+    "slug": "vélez-sársfield-vs-newell's-old-boys-2026-06-28",
+    "team_a": "Vélez Sársfield",
+    "team_b": "Newell's Old Boys",
+    "league": "Torneo de Reserva",
+    "date": "2026-06-28",
+    "time": "09:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
   },
   {
-    "id": "36872",
-    "slug": "jordania-vs-argentina-2026-06-27",
-    "team_a": "Jordania",
-    "team_b": "Argentina",
-    "league": "Copa del Mundo",
-    "date": "2026-06-27",
-    "time": "21:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+    "id": "36898",
+    "slug": "unión-la-calera-vs-santiago-wanderers-2026-06-28",
+    "team_a": "Unión La Calera",
+    "team_b": "Santiago Wanderers",
+    "league": "Copa Chile",
+    "date": "2026-06-28",
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36870",
-    "slug": "rd-del-congo-vs-uzbekistán-2026-06-27",
-    "team_a": "RD del Congo",
-    "team_b": "Uzbekistán",
-    "league": "Copa del Mundo",
-    "date": "2026-06-27",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsportsplus"
+    "id": "36900",
+    "slug": "puerto-montt-vs-deportes-concepción-2026-06-28",
+    "team_a": "Puerto Montt",
+    "team_b": "Deportes Concepción",
+    "league": "Copa Chile",
+    "date": "2026-06-28",
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36902",
+    "slug": "partido-vs-en-vivo-2026-06-28",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "MotoGP – GP Países Bajos – Carrera Moto3 / Moto2 / MotoGP",
+    "date": "2026-06-28",
+    "time": "03:45",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36903",
+    "slug": "partido-vs-en-vivo-2026-06-28",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Hockey – Pro League Femenino – Inglaterra vs Argentina",
+    "date": "2026-06-28",
+    "time": "07:30",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn4"
+  },
+  {
+    "id": "36905",
+    "slug": "partido-vs-en-vivo-2026-06-28",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Premier Padel Valladolid – Final Femenina",
+    "date": "2026-06-28",
+    "time": "10:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "36906",
+    "slug": "partido-vs-en-vivo-2026-06-28",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Premier Padel Valladolid – Final Masculina",
+    "date": "2026-06-28",
+    "time": "11:30",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "36908",
+    "slug": "partido-vs-en-vivo-2026-06-28",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "MLB – Boston Red Sox vs New York Yankees",
+    "date": "2026-06-28",
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36909",
+    "slug": "partido-vs-en-vivo-2026-06-28",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "WNBA – Golden State vs New York",
+    "date": "2026-06-28",
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "36892",
+    "slug": "river-plate-vs-la-luz-2026-06-28",
+    "team_a": "River Plate",
+    "team_b": "La Luz",
+    "league": "Segunda División",
+    "date": "2026-06-28",
+    "time": "10:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=disney1"
+  },
+  {
+    "id": "36894",
+    "slug": "oriental-vs-deportivo-colonia-2026-06-28",
+    "team_a": "Oriental",
+    "team_b": "Deportivo Colonia",
+    "league": "Segunda División",
+    "date": "2026-06-28",
+    "time": "16:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn"
+  },
+  {
+    "id": "36896",
+    "slug": "boca-juniors-vs-atlético-tucumán-2026-06-28",
+    "team_a": "Boca Juniors",
+    "team_b": "Atlético Tucumán",
+    "league": "Torneo de Reserva",
+    "date": "2026-06-28",
+    "time": "12:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsports"
+  },
+  {
+    "id": "36897",
+    "slug": "la-serena-vs-cobreloa-2026-06-28",
+    "team_a": "La Serena",
+    "team_b": "Cobreloa",
+    "league": "Copa Chile",
+    "date": "2026-06-28",
+    "time": "11:30",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36899",
+    "slug": "universidad-chile-vs-unión-san-felipe-2026-06-28",
+    "team_a": "Universidad Chile",
+    "team_b": "Unión San Felipe",
+    "league": "Copa Chile",
+    "date": "2026-06-28",
+    "time": "16:30",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36901",
+    "slug": "partido-vs-en-vivo-2026-06-28",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "F2 Spielberg – Carrera",
+    "date": "2026-06-28",
+    "time": "03:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36904",
+    "slug": "partido-vs-en-vivo-2026-06-28",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "F1 GP Austria – Carrera",
+    "date": "2026-06-28",
+    "time": "07:55",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36907",
+    "slug": "partido-vs-en-vivo-2026-06-28",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Golf – Travelers Championship – Última Vuelta",
+    "date": "2026-06-28",
+    "time": "13:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn4"
   }
 ]
