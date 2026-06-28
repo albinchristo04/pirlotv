@@ -40,16 +40,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36905",
-    "slug": "partido-vs-en-vivo-2026-06-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Premier Padel Valladolid – Final Femenina",
-    "date": "2026-06-28",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
-  },
-  {
     "id": "36906",
     "slug": "partido-vs-en-vivo-2026-06-28",
     "team_a": "Equipo A",
@@ -78,16 +68,6 @@
     "date": "2026-06-28",
     "time": "18:00",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "36892",
-    "slug": "river-plate-vs-la-luz-2026-06-28",
-    "team_a": "River Plate",
-    "team_b": "La Luz",
-    "league": "Segunda División",
-    "date": "2026-06-28",
-    "time": "10:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=disney1"
   },
   {
     "id": "36894",
