@@ -10,14 +10,14 @@
     "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=dsports2"
   },
   {
-    "id": "36867",
-    "slug": "partido-vs-en-vivo-2026-06-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa del Mundo",
+    "id": "36876",
+    "slug": "paysandu-vs-miramar-misiones-2026-06-27",
+    "team_a": "Paysandu",
+    "team_b": "Miramar Misiones",
+    "league": "Segunda División",
     "date": "2026-06-27",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even2"
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn"
   },
   {
     "id": "36869",
@@ -27,17 +27,7 @@
     "league": "Copa del Mundo",
     "date": "2026-06-27",
     "time": "18:30",
-    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
-  },
-  {
-    "id": "36876",
-    "slug": "paysandu-vs-miramar-misiones-2026-06-27",
-    "team_a": "Paysandu",
-    "team_b": "Miramar Misiones",
-    "league": "Segunda División",
-    "date": "2026-06-27",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
   },
   {
     "id": "36872",
@@ -50,16 +40,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
   },
   {
-    "id": "36868",
-    "slug": "partido-vs-en-vivo-2026-06-27",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa del Mundo",
-    "date": "2026-06-27",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
-  },
-  {
     "id": "36870",
     "slug": "rd-del-congo-vs-uzbekistán-2026-06-27",
     "team_a": "RD del Congo",
@@ -67,6 +47,6 @@
     "league": "Copa del Mundo",
     "date": "2026-06-27",
     "time": "18:30",
-    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even2"
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsportsplus"
   }
 ]
