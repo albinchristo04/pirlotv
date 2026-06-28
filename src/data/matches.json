@@ -1,35 +1,5 @@
 [
   {
-    "id": "36891",
-    "slug": "sur-áfrica-vs-canadá-2026-06-28",
-    "team_a": "Sur África",
-    "team_b": "Canadá",
-    "league": "Copa del Mundo",
-    "date": "2026-06-28",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "36893",
-    "slug": "partido-vs-en-vivo-2026-06-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Segunda División",
-    "date": "2026-06-28",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36898",
-    "slug": "unión-la-calera-vs-santiago-wanderers-2026-06-28",
-    "team_a": "Unión La Calera",
-    "team_b": "Santiago Wanderers",
-    "league": "Copa Chile",
-    "date": "2026-06-28",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-  },
-  {
     "id": "36900",
     "slug": "puerto-montt-vs-deportes-concepción-2026-06-28",
     "team_a": "Puerto Montt",
@@ -38,16 +8,6 @@
     "date": "2026-06-28",
     "time": "19:00",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36906",
-    "slug": "partido-vs-en-vivo-2026-06-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Premier Padel Valladolid – Final Masculina",
-    "date": "2026-06-28",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
   },
   {
     "id": "36908",
@@ -80,26 +40,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn"
   },
   {
-    "id": "36896",
-    "slug": "boca-juniors-vs-atlético-tucumán-2026-06-28",
-    "team_a": "Boca Juniors",
-    "team_b": "Atlético Tucumán",
-    "league": "Torneo de Reserva",
-    "date": "2026-06-28",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsports"
-  },
-  {
-    "id": "36897",
-    "slug": "la-serena-vs-cobreloa-2026-06-28",
-    "team_a": "La Serena",
-    "team_b": "Cobreloa",
-    "league": "Copa Chile",
-    "date": "2026-06-28",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-  },
-  {
     "id": "36899",
     "slug": "universidad-chile-vs-unión-san-felipe-2026-06-28",
     "team_a": "Universidad Chile",
@@ -108,15 +48,5 @@
     "date": "2026-06-28",
     "time": "16:30",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36907",
-    "slug": "partido-vs-en-vivo-2026-06-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Golf – Travelers Championship – Última Vuelta",
-    "date": "2026-06-28",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn4"
   }
 ]
