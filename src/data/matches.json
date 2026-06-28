@@ -7,7 +7,7 @@
     "league": "Copa del Mundo",
     "date": "2026-06-28",
     "time": "14:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=canal5"
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
   },
   {
     "id": "36893",
@@ -18,16 +18,6 @@
     "date": "2026-06-28",
     "time": "13:00",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn"
-  },
-  {
-    "id": "36895",
-    "slug": "vélez-sársfield-vs-newell's-old-boys-2026-06-28",
-    "team_a": "Vélez Sársfield",
-    "team_b": "Newell's Old Boys",
-    "league": "Torneo de Reserva",
-    "date": "2026-06-28",
-    "time": "09:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
   },
   {
     "id": "36898",
@@ -48,16 +38,6 @@
     "date": "2026-06-28",
     "time": "19:00",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36903",
-    "slug": "partido-vs-en-vivo-2026-06-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Hockey – Pro League Femenino – Inglaterra vs Argentina",
-    "date": "2026-06-28",
-    "time": "07:30",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn4"
   },
   {
     "id": "36905",
@@ -148,16 +128,6 @@
     "date": "2026-06-28",
     "time": "16:30",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36904",
-    "slug": "partido-vs-en-vivo-2026-06-28",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "F1 GP Austria – Carrera",
-    "date": "2026-06-28",
-    "time": "07:55",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
   },
   {
     "id": "36907",
