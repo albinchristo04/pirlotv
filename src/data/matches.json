@@ -10,26 +10,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=canal5"
   },
   {
-    "id": "36910",
-    "slug": "brasil-vs-japón-2026-06-29",
-    "team_a": "Brasil",
-    "team_b": "Japón",
-    "league": "Copa del Mundo",
-    "date": "2026-06-29",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "36911",
-    "slug": "alemania-vs-paraguay-2026-06-29",
-    "team_a": "Alemania",
-    "team_b": "Paraguay",
-    "league": "Copa del Mundo",
-    "date": "2026-06-29",
-    "time": "15:30",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tycsports"
-  },
-  {
     "id": "36913",
     "slug": "unión-española-vs-colo-colo-2026-06-29",
     "team_a": "Unión Española",
@@ -58,5 +38,15 @@
     "date": "2026-06-29",
     "time": "20:30",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
+  },
+  {
+    "id": "36911",
+    "slug": "alemania-vs-paraguay-2026-06-29",
+    "team_a": "Alemania",
+    "team_b": "Paraguay",
+    "league": "Copa del Mundo",
+    "date": "2026-06-29",
+    "time": "15:30",
+    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
   }
 ]
