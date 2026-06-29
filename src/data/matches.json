@@ -1,15 +1,5 @@
 [
   {
-    "id": "36910",
-    "slug": "brasil-vs-japón-2026-06-29",
-    "team_a": "Brasil",
-    "team_b": "Japón",
-    "league": "Copa del Mundo",
-    "date": "2026-06-29",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
-  },
-  {
     "id": "36912",
     "slug": "países-bajos-vs-marruecos-2026-06-29",
     "team_a": "Países Bajos",
@@ -20,14 +10,14 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=canal5"
   },
   {
-    "id": "36914",
-    "slug": "partido-vs-en-vivo-2026-06-29",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Wimbledon – Dia #1 – Primera Ronda",
+    "id": "36910",
+    "slug": "brasil-vs-japón-2026-06-29",
+    "team_a": "Brasil",
+    "team_b": "Japón",
+    "league": "Copa del Mundo",
     "date": "2026-06-29",
-    "time": "05:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
+    "time": "12:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
   },
   {
     "id": "36911",
