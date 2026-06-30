@@ -1,22 +1,62 @@
 [
   {
-    "id": "36912",
-    "slug": "países-bajos-vs-marruecos-2026-06-29",
-    "team_a": "Países Bajos",
-    "team_b": "Marruecos",
+    "id": "36917",
+    "slug": "costa-de-marfil-vs-noruega-2026-06-30",
+    "team_a": "Costa de Marfil",
+    "team_b": "Noruega",
     "league": "Copa del Mundo",
-    "date": "2026-06-29",
+    "date": "2026-06-30",
+    "time": "12:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+  },
+  {
+    "id": "36919",
+    "slug": "méxico-vs-ecuador-2026-06-30",
+    "team_a": "México",
+    "team_b": "Ecuador",
+    "league": "Copa del Mundo",
+    "date": "2026-06-30",
     "time": "20:00",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
   },
   {
-    "id": "36916",
-    "slug": "partido-vs-en-vivo-2026-06-29",
+    "id": "36920",
+    "slug": "méxico-vs-ecuador-2026-06-30",
+    "team_a": "México",
+    "team_b": "Ecuador",
+    "league": "Copa del Mundo",
+    "date": "2026-06-30",
+    "time": "20:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+  },
+  {
+    "id": "36922",
+    "slug": "partido-vs-en-vivo-2026-06-30",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "MLB – Seattle Mariners vs Los Angeles Angels",
-    "date": "2026-06-29",
-    "time": "20:30",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
+    "league": "MLB – Chicago Cubs vs. San Diego Padres",
+    "date": "2026-06-30",
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
+  },
+  {
+    "id": "36918",
+    "slug": "francia-vs-suecia-2026-06-30",
+    "team_a": "Francia",
+    "team_b": "Suecia",
+    "league": "Copa del Mundo",
+    "date": "2026-06-30",
+    "time": "16:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+  },
+  {
+    "id": "36921",
+    "slug": "partido-vs-en-vivo-2026-06-30",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Tenis – Wimbledon – Dia #2 – Primera Ronda",
+    "date": "2026-06-30",
+    "time": "05:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
   }
 ]
