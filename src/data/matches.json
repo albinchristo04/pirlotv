@@ -10,26 +10,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36919",
-    "slug": "méxico-vs-ecuador-2026-06-30",
-    "team_a": "México",
-    "team_b": "Ecuador",
-    "league": "Copa del Mundo",
-    "date": "2026-06-30",
-    "time": "20:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "36920",
-    "slug": "méxico-vs-ecuador-2026-06-30",
-    "team_a": "México",
-    "team_b": "Ecuador",
-    "league": "Copa del Mundo",
-    "date": "2026-06-30",
-    "time": "20:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
-  },
-  {
     "id": "36922",
     "slug": "partido-vs-en-vivo-2026-06-30",
     "team_a": "Equipo A",
@@ -38,6 +18,16 @@
     "date": "2026-06-30",
     "time": "19:00",
     "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
+  },
+  {
+    "id": "36919",
+    "slug": "méxico-vs-ecuador-2026-06-30",
+    "team_a": "México",
+    "team_b": "Ecuador",
+    "league": "Copa del Mundo",
+    "date": "2026-06-30",
+    "time": "20:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
   },
   {
     "id": "36926",
@@ -57,6 +47,6 @@
     "league": "Copa del Mundo",
     "date": "2026-06-30",
     "time": "16:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
   }
 ]
