@@ -50,16 +50,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
   },
   {
-    "id": "36921",
-    "slug": "partido-vs-en-vivo-2026-06-30",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Wimbledon – Dia #2 – Primera Ronda",
-    "date": "2026-06-30",
-    "time": "05:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
-  },
-  {
     "id": "36923",
     "slug": "partido-vs-en-vivo-2026-06-30",
     "team_a": "Equipo A",
@@ -67,6 +57,16 @@
     "league": "Majchrzak Kamil vs Tabilo Alejandro",
     "date": "2026-06-30",
     "time": "06:00",
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
+  },
+  {
+    "id": "36921",
+    "slug": "partido-vs-en-vivo-2026-06-30",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Tenis – Wimbledon – Dia #2 – Primera Ronda",
+    "date": "2026-06-30",
+    "time": "07:00",
     "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
   }
 ]
