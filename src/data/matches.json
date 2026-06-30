@@ -10,26 +10,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
   },
   {
-    "id": "36913",
-    "slug": "unión-española-vs-colo-colo-2026-06-29",
-    "team_a": "Unión Española",
-    "team_b": "Colo-Colo",
-    "league": "Copa Chile",
-    "date": "2026-06-29",
-    "time": "18:30",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36915",
-    "slug": "partido-vs-en-vivo-2026-06-29",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB – Cleveland Guardians vs Texas Rangers",
-    "date": "2026-06-29",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn2"
-  },
-  {
     "id": "36916",
     "slug": "partido-vs-en-vivo-2026-06-29",
     "team_a": "Equipo A",
