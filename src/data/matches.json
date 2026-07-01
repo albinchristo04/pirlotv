@@ -50,16 +50,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
   },
   {
-    "id": "36933",
-    "slug": "partido-vs-en-vivo-2026-07-01",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Wimbledon – Dia #3 – Segunda Ronda",
-    "date": "2026-07-01",
-    "time": "07:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
-  },
-  {
     "id": "36935",
     "slug": "partido-vs-en-vivo-2026-07-01",
     "team_a": "Equipo A",
@@ -67,6 +57,16 @@
     "league": "MLB – Milwaukee Brewers vs Cincinnati Reds",
     "date": "2026-07-01",
     "time": "17:00",
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
+  },
+  {
+    "id": "36933",
+    "slug": "partido-vs-en-vivo-2026-07-01",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Tenis – Wimbledon – Dia #3 – Segunda Ronda",
+    "date": "2026-07-01",
+    "time": "10:00",
     "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
   },
   {
