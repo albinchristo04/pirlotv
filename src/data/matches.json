@@ -1,15 +1,5 @@
 [
   {
-    "id": "36938",
-    "slug": "suiza-vs-argelia-2026-07-02",
-    "team_a": "Suiza",
-    "team_b": "Argelia",
-    "league": "Copa del Mundo",
-    "date": "2026-07-02",
-    "time": "22:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
-  },
-  {
     "id": "36936",
     "slug": "españa-vs-austria-2026-07-02",
     "team_a": "España",
@@ -38,6 +28,16 @@
     "date": "2026-07-02",
     "time": "19:00",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
+  },
+  {
+    "id": "36938",
+    "slug": "suiza-vs-argelia-2026-07-02",
+    "team_a": "Suiza",
+    "team_b": "Argelia",
+    "league": "Copa del Mundo",
+    "date": "2026-07-02",
+    "time": "22:00",
+    "decoded_iframe_url": "https://tvhd1.com/canales/tvla1es.php"
   },
   {
     "id": "36937",
