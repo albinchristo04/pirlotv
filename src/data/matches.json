@@ -1,22 +1,22 @@
 [
   {
-    "id": "36929",
-    "slug": "partido-vs-en-vivo-2026-07-01",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa del Mundo",
-    "date": "2026-07-01",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
+    "id": "Barcelona-Real-Madrid-2026-07-02",
+    "slug": "barcelona-vs-real-madrid-2026-07-02",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-07-02",
+    "time": "20:00",
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
   },
   {
-    "id": "36932",
-    "slug": "universidad-chile-vs-unión-la-calera-2026-07-01",
-    "team_a": "Universidad Chile",
-    "team_b": "Unión La Calera",
-    "league": "Copa Chile",
-    "date": "2026-07-01",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
+    "id": "América-Chivas-2026-07-02",
+    "slug": "américa-vs-chivas-2026-07-02",
+    "team_a": "América",
+    "team_b": "Chivas",
+    "league": "Liga MX",
+    "date": "2026-07-02",
+    "time": "22:00",
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
