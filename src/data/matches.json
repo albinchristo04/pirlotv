@@ -7,7 +7,7 @@
     "league": "Copa del Mundo",
     "date": "2026-07-01",
     "time": "19:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
   },
   {
     "id": "36931",
@@ -30,16 +30,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36934",
-    "slug": "partido-vs-en-vivo-2026-07-01",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB – Toronto Blue Jays vs New York Mets",
-    "date": "2026-07-01",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
-  },
-  {
     "id": "36935",
     "slug": "partido-vs-en-vivo-2026-07-01",
     "team_a": "Equipo A",
@@ -48,16 +38,6 @@
     "date": "2026-07-01",
     "time": "17:00",
     "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
-  },
-  {
-    "id": "36928",
-    "slug": "partido-vs-en-vivo-2026-07-01",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa del Mundo",
-    "date": "2026-07-01",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
   },
   {
     "id": "36930",
