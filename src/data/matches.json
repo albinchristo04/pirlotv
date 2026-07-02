@@ -10,16 +10,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
   },
   {
-    "id": "36948",
-    "slug": "partido-vs-en-vivo-2026-07-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "tennis",
-    "date": "2026-07-02",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even1"
-  },
-  {
     "id": "36936",
     "slug": "españa-vs-austria-2026-07-02",
     "team_a": "España",
@@ -57,7 +47,7 @@
     "league": "Copa del Mundo",
     "date": "2026-07-02",
     "time": "18:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+    "decoded_iframe_url": "https://tvhd1.com/canales/tvla1es.php"
   },
   {
     "id": "36939",
