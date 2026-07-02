@@ -1,15 +1,5 @@
 [
   {
-    "id": "36936",
-    "slug": "españa-vs-austria-2026-07-02",
-    "team_a": "España",
-    "team_b": "Austria",
-    "league": "Copa del Mundo",
-    "date": "2026-07-02",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvhd1.com/canales/canal5.php"
-  },
-  {
     "id": "36938",
     "slug": "suiza-vs-argelia-2026-07-02",
     "team_a": "Suiza",
@@ -28,6 +18,16 @@
     "date": "2026-07-02",
     "time": "11:00",
     "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even1"
+  },
+  {
+    "id": "36936",
+    "slug": "españa-vs-austria-2026-07-02",
+    "team_a": "España",
+    "team_b": "Austria",
+    "league": "Copa del Mundo",
+    "date": "2026-07-02",
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvhd1.com/canales/tvla1es.php"
   },
   {
     "id": "36940",
