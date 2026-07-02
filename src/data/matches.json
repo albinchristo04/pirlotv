@@ -40,36 +40,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
   },
   {
-    "id": "36943",
-    "slug": "partido-vs-en-vivo-2026-07-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby – World Rugby U20 Championship – Argentina vs Irlanda",
-    "date": "2026-07-02",
-    "time": "06:20",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
-  },
-  {
-    "id": "36942",
-    "slug": "partido-vs-en-vivo-2026-07-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Wimbledon – Dia #4 – Segunda Ronda",
-    "date": "2026-07-02",
-    "time": "05:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
-  },
-  {
-    "id": "36947",
-    "slug": "partido-vs-en-vivo-2026-07-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "De Minaur Alex vs Mannarino Adrian",
-    "date": "2026-07-02",
-    "time": "05:30",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
-  },
-  {
     "id": "36937",
     "slug": "partido-vs-en-vivo-2026-07-02",
     "team_a": "Equipo A",
@@ -78,6 +48,16 @@
     "date": "2026-07-02",
     "time": "18:00",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+  },
+  {
+    "id": "36942",
+    "slug": "partido-vs-en-vivo-2026-07-02",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Tenis – Wimbledon – Dia #4 – Segunda Ronda",
+    "date": "2026-07-02",
+    "time": "08:00",
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
   },
   {
     "id": "36939",
