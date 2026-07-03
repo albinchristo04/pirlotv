@@ -1,15 +1,5 @@
 [
   {
-    "id": "36949",
-    "slug": "australia-vs-egipto-2026-07-03",
-    "team_a": "Australia",
-    "team_b": "Egipto",
-    "league": "Copa del Mundo",
-    "date": "2026-07-03",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
-  },
-  {
     "id": "36957",
     "slug": "partido-vs-en-vivo-2026-07-03",
     "team_a": "Equipo A",
@@ -30,16 +20,6 @@
     "decoded_iframe_url": "https://tvhd1.com/canales/canal5.php"
   },
   {
-    "id": "36958",
-    "slug": "partido-vs-en-vivo-2026-07-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB – Atlanta Braves vs New York Mets",
-    "date": "2026-07-03",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
-  },
-  {
     "id": "36950",
     "slug": "argentina-vs-islas-de-cabo-verde-2026-07-03",
     "team_a": "Argentina",
@@ -48,5 +28,15 @@
     "date": "2026-07-03",
     "time": "17:00",
     "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
+  },
+  {
+    "id": "36958",
+    "slug": "partido-vs-en-vivo-2026-07-03",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "MLB – Atlanta Braves vs New York Mets",
+    "date": "2026-07-03",
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
   }
 ]
