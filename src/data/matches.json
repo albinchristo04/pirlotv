@@ -1,5 +1,15 @@
 [
   {
+    "id": "36949",
+    "slug": "australia-vs-egipto-2026-07-03",
+    "team_a": "Australia",
+    "team_b": "Egipto",
+    "league": "Copa del Mundo",
+    "date": "2026-07-03",
+    "time": "13:00",
+    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
+  },
+  {
     "id": "36957",
     "slug": "partido-vs-en-vivo-2026-07-03",
     "team_a": "Equipo A",
@@ -18,26 +28,6 @@
     "date": "2026-07-03",
     "time": "20:30",
     "decoded_iframe_url": "https://tvhd1.com/canales/canal5.php"
-  },
-  {
-    "id": "36949",
-    "slug": "australia-vs-egipto-2026-07-03",
-    "team_a": "Australia",
-    "team_b": "Egipto",
-    "league": "Copa del Mundo",
-    "date": "2026-07-03",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvhd1.com/canales/tvla1es.php"
-  },
-  {
-    "id": "36961",
-    "slug": "partido-vs-en-vivo-2026-07-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Wimbledon – Dia #5 – Tercera Ronda",
-    "date": "2026-07-03",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even1"
   },
   {
     "id": "36958",
