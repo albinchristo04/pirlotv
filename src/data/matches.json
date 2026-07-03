@@ -1,13 +1,13 @@
 [
   {
-    "id": "36945",
-    "slug": "partido-vs-en-vivo-2026-07-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB – Texas Rangers vs. Detroit Tigers",
+    "id": "36940",
+    "slug": "o'higgins-vs-colo-colo-2026-07-02",
+    "team_a": "O'Higgins",
+    "team_b": "Colo-Colo",
+    "league": "Copa Chile",
     "date": "2026-07-02",
     "time": "19:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even1"
   },
   {
     "id": "36938",
@@ -17,46 +17,16 @@
     "league": "Copa del Mundo",
     "date": "2026-07-02",
     "time": "22:00",
-    "decoded_iframe_url": "https://tvhd1.com/canales/tvla1es.php"
-  },
-  {
-    "id": "36940",
-    "slug": "o'higgins-vs-colo-colo-2026-07-02",
-    "team_a": "O'Higgins",
-    "team_b": "Colo-Colo",
-    "league": "Copa Chile",
-    "date": "2026-07-02",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
-  },
-  {
-    "id": "36939",
-    "slug": "huachipato-vs-deportes-concepción-2026-07-02",
-    "team_a": "Huachipato",
-    "team_b": "Deportes Concepción",
-    "league": "Copa Chile",
-    "date": "2026-07-02",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
-  },
-  {
-    "id": "36937",
-    "slug": "partido-vs-en-vivo-2026-07-02",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa del Mundo",
-    "date": "2026-07-02",
-    "time": "18:00",
     "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
   },
   {
-    "id": "36944",
+    "id": "36945",
     "slug": "partido-vs-en-vivo-2026-07-02",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Golf – U.S. Senior Open Golf Championship – Primera Vuelta",
+    "league": "MLB – Texas Rangers vs. Detroit Tigers",
     "date": "2026-07-02",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn3"
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
   }
 ]
