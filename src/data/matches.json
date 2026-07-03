@@ -1,25 +1,5 @@
 [
   {
-    "id": "36949",
-    "slug": "australia-vs-egipto-2026-07-03",
-    "team_a": "Australia",
-    "team_b": "Egipto",
-    "league": "Copa del Mundo",
-    "date": "2026-07-03",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "36951",
-    "slug": "colombia-vs-ghana-2026-07-03",
-    "team_a": "Colombia",
-    "team_b": "Ghana",
-    "league": "Copa del Mundo",
-    "date": "2026-07-03",
-    "time": "20:30",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
-  },
-  {
     "id": "36953",
     "slug": "partido-vs-en-vivo-2026-07-03",
     "team_a": "Equipo A",
@@ -27,7 +7,7 @@
     "league": "F2 Silverstone – Prácticas",
     "date": "2026-07-03",
     "time": "03:45",
-    "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn2"
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even1"
   },
   {
     "id": "36955",
@@ -50,44 +30,24 @@
     "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn3"
   },
   {
-    "id": "36959",
-    "slug": "suiza-vs-argelia-2026-07-03",
-    "team_a": "Suiza",
-    "team_b": "Argelia",
+    "id": "36951",
+    "slug": "colombia-vs-ghana-2026-07-03",
+    "team_a": "Colombia",
+    "team_b": "Ghana",
     "league": "Copa del Mundo",
     "date": "2026-07-03",
-    "time": "00:15",
+    "time": "20:30",
+    "decoded_iframe_url": "https://tvhd1.com/canales/canal5.php"
+  },
+  {
+    "id": "36949",
+    "slug": "australia-vs-egipto-2026-07-03",
+    "team_a": "Australia",
+    "team_b": "Egipto",
+    "league": "Copa del Mundo",
+    "date": "2026-07-03",
+    "time": "13:00",
     "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
-  },
-  {
-    "id": "36950",
-    "slug": "argentina-vs-islas-de-cabo-verde-2026-07-03",
-    "team_a": "Argentina",
-    "team_b": "Islas de Cabo Verde",
-    "league": "Copa del Mundo",
-    "date": "2026-07-03",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "36952",
-    "slug": "partido-vs-en-vivo-2026-07-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "F3 Silverstone – Prácticas",
-    "date": "2026-07-03",
-    "time": "02:45",
-    "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn2"
-  },
-  {
-    "id": "36954",
-    "slug": "partido-vs-en-vivo-2026-07-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Wimbledon – Dia #5 – Tercera Ronda",
-    "date": "2026-07-03",
-    "time": "05:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
   },
   {
     "id": "36956",
@@ -108,5 +68,25 @@
     "date": "2026-07-03",
     "time": "18:00",
     "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
+  },
+  {
+    "id": "36954",
+    "slug": "partido-vs-en-vivo-2026-07-03",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Tenis – Wimbledon – Dia #5 – Tercera Ronda",
+    "date": "2026-07-03",
+    "time": "05:00",
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even1"
+  },
+  {
+    "id": "36950",
+    "slug": "argentina-vs-islas-de-cabo-verde-2026-07-03",
+    "team_a": "Argentina",
+    "team_b": "Islas de Cabo Verde",
+    "league": "Copa del Mundo",
+    "date": "2026-07-03",
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
   }
 ]
