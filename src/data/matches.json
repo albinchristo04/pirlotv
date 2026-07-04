@@ -20,16 +20,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36966",
-    "slug": "partido-vs-en-vivo-2026-07-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby – Nations Championship – Japón vs Italia",
-    "date": "2026-07-04",
-    "time": "03:30",
-    "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn3"
-  },
-  {
     "id": "36968",
     "slug": "partido-vs-en-vivo-2026-07-04",
     "team_a": "Equipo A",
@@ -78,16 +68,6 @@
     "date": "2026-07-04",
     "time": "19:30",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36967",
-    "slug": "partido-vs-en-vivo-2026-07-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "F3 Silverstone – Carrera Sprint",
-    "date": "2026-07-04",
-    "time": "03:30",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even1"
   },
   {
     "id": "36970",
