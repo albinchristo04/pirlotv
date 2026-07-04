@@ -1,15 +1,5 @@
 [
   {
-    "id": "36957",
-    "slug": "partido-vs-en-vivo-2026-07-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Golf – U.S. Senior Open Golf Championship – Segunda Vuelta",
-    "date": "2026-07-03",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn3"
-  },
-  {
     "id": "36951",
     "slug": "colombia-vs-ghana-2026-07-03",
     "team_a": "Colombia",
@@ -18,6 +8,16 @@
     "date": "2026-07-03",
     "time": "20:30",
     "decoded_iframe_url": "https://tvhd1.com/canales/canal5.php"
+  },
+  {
+    "id": "36957",
+    "slug": "partido-vs-en-vivo-2026-07-03",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Golf – U.S. Senior Open Golf Championship – Segunda Vuelta",
+    "date": "2026-07-03",
+    "time": "16:30",
+    "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn3"
   },
   {
     "id": "36950",
