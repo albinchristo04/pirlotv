@@ -1,15 +1,5 @@
 [
   {
-    "id": "36962",
-    "slug": "partido-vs-en-vivo-2026-07-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa del Mundo",
-    "date": "2026-07-04",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
-  },
-  {
     "id": "36964",
     "slug": "deportes-iquique-vs-coquimbo-unido-2026-07-04",
     "team_a": "Deportes Iquique",
@@ -20,16 +10,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36969",
-    "slug": "partido-vs-en-vivo-2026-07-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "F2 Silverstone – Carrera Sprint",
-    "date": "2026-07-04",
-    "time": "07:35",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
-  },
-  {
     "id": "36971",
     "slug": "partido-vs-en-vivo-2026-07-04",
     "team_a": "Equipo A",
@@ -37,17 +17,27 @@
     "league": "Golf – U.S. Senior Open Golf Championship – Tercera Vuelta",
     "date": "2026-07-04",
     "time": "11:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
   },
   {
-    "id": "36963",
-    "slug": "paraguay-vs-francia-2026-07-04",
-    "team_a": "Paraguay",
-    "team_b": "Francia",
+    "id": "36974",
+    "slug": "partido-vs-en-vivo-2026-07-04",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "GIRON vs ZVEREV",
+    "date": "2026-07-04",
+    "time": "09:45",
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
+  },
+  {
+    "id": "36962",
+    "slug": "partido-vs-en-vivo-2026-07-04",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
     "league": "Copa del Mundo",
     "date": "2026-07-04",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+    "time": "12:00",
+    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
   },
   {
     "id": "36965",
@@ -88,5 +78,15 @@
     "date": "2026-07-04",
     "time": "13:00",
     "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
+  },
+  {
+    "id": "36963",
+    "slug": "paraguay-vs-francia-2026-07-04",
+    "team_a": "Paraguay",
+    "team_b": "Francia",
+    "league": "Copa del Mundo",
+    "date": "2026-07-04",
+    "time": "16:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
   }
 ]
