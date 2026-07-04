@@ -20,16 +20,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36968",
-    "slug": "partido-vs-en-vivo-2026-07-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Wimbledon – Dia #6 – Tercera Ronda",
-    "date": "2026-07-04",
-    "time": "05:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
-  },
-  {
     "id": "36969",
     "slug": "partido-vs-en-vivo-2026-07-04",
     "team_a": "Equipo A",
@@ -37,7 +27,7 @@
     "league": "F2 Silverstone – Carrera Sprint",
     "date": "2026-07-04",
     "time": "07:35",
-    "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn3"
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
   },
   {
     "id": "36971",
@@ -77,7 +67,7 @@
     "league": "Ciclismo – Tour de France – Etapa #1",
     "date": "2026-07-04",
     "time": "09:30",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even1"
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
   },
   {
     "id": "36972",
@@ -87,7 +77,7 @@
     "league": "F1 Academy Silverstone – Carrera #1",
     "date": "2026-07-04",
     "time": "12:00",
-    "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn3"
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
   },
   {
     "id": "36973",
@@ -97,6 +87,6 @@
     "league": "Rugby – Nations Championship – Los Pumas vs Esocia",
     "date": "2026-07-04",
     "time": "13:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even1"
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
   }
 ]
