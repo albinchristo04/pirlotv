@@ -7,36 +7,6 @@
     "league": "Copa del Mundo",
     "date": "2026-07-03",
     "time": "20:30",
-    "decoded_iframe_url": "https://tvhd1.com/canales/canal5.php"
-  },
-  {
-    "id": "36957",
-    "slug": "partido-vs-en-vivo-2026-07-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Golf – U.S. Senior Open Golf Championship – Segunda Vuelta",
-    "date": "2026-07-03",
-    "time": "16:30",
-    "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn3"
-  },
-  {
-    "id": "36950",
-    "slug": "argentina-vs-islas-de-cabo-verde-2026-07-03",
-    "team_a": "Argentina",
-    "team_b": "Islas de Cabo Verde",
-    "league": "Copa del Mundo",
-    "date": "2026-07-03",
-    "time": "17:00",
     "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
-  },
-  {
-    "id": "36958",
-    "slug": "partido-vs-en-vivo-2026-07-03",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB – Atlanta Braves vs New York Mets",
-    "date": "2026-07-03",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
   }
 ]
