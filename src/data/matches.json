@@ -20,16 +20,6 @@
     "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
   },
   {
-    "id": "36974",
-    "slug": "partido-vs-en-vivo-2026-07-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "GIRON vs ZVEREV",
-    "date": "2026-07-04",
-    "time": "09:45",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
-  },
-  {
     "id": "36962",
     "slug": "partido-vs-en-vivo-2026-07-04",
     "team_a": "Equipo A",
@@ -48,16 +38,6 @@
     "date": "2026-07-04",
     "time": "19:30",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36970",
-    "slug": "partido-vs-en-vivo-2026-07-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ciclismo – Tour de France – Etapa #1",
-    "date": "2026-07-04",
-    "time": "09:30",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
   },
   {
     "id": "36972",
@@ -87,6 +67,6 @@
     "league": "Copa del Mundo",
     "date": "2026-07-04",
     "time": "16:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
   }
 ]
