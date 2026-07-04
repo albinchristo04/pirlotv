@@ -10,16 +10,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36962",
-    "slug": "partido-vs-en-vivo-2026-07-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa del Mundo",
-    "date": "2026-07-04",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
-  },
-  {
     "id": "36965",
     "slug": "universidad-católica-vs-copiapó-2026-07-04",
     "team_a": "Universidad Católica",
@@ -28,26 +18,6 @@
     "date": "2026-07-04",
     "time": "19:30",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36972",
-    "slug": "partido-vs-en-vivo-2026-07-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "F1 Academy Silverstone – Carrera #1",
-    "date": "2026-07-04",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
-  },
-  {
-    "id": "36973",
-    "slug": "partido-vs-en-vivo-2026-07-04",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby – Nations Championship – Los Pumas vs Esocia",
-    "date": "2026-07-04",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
   },
   {
     "id": "36963",
