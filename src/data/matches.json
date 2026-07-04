@@ -1,12 +1,122 @@
 [
   {
-    "id": "36951",
-    "slug": "colombia-vs-ghana-2026-07-03",
-    "team_a": "Colombia",
-    "team_b": "Ghana",
+    "id": "36962",
+    "slug": "partido-vs-en-vivo-2026-07-04",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
     "league": "Copa del Mundo",
-    "date": "2026-07-03",
-    "time": "20:30",
-    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
+    "date": "2026-07-04",
+    "time": "12:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+  },
+  {
+    "id": "36964",
+    "slug": "deportes-iquique-vs-coquimbo-unido-2026-07-04",
+    "team_a": "Deportes Iquique",
+    "team_b": "Coquimbo Unido",
+    "league": "Copa Chile",
+    "date": "2026-07-04",
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36966",
+    "slug": "partido-vs-en-vivo-2026-07-04",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Rugby – Nations Championship – Japón vs Italia",
+    "date": "2026-07-04",
+    "time": "03:30",
+    "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn3"
+  },
+  {
+    "id": "36968",
+    "slug": "partido-vs-en-vivo-2026-07-04",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Tenis – Wimbledon – Dia #6 – Tercera Ronda",
+    "date": "2026-07-04",
+    "time": "05:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
+  },
+  {
+    "id": "36969",
+    "slug": "partido-vs-en-vivo-2026-07-04",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "F2 Silverstone – Carrera Sprint",
+    "date": "2026-07-04",
+    "time": "07:35",
+    "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn3"
+  },
+  {
+    "id": "36971",
+    "slug": "partido-vs-en-vivo-2026-07-04",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Golf – U.S. Senior Open Golf Championship – Tercera Vuelta",
+    "date": "2026-07-04",
+    "time": "11:00",
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
+  },
+  {
+    "id": "36963",
+    "slug": "paraguay-vs-francia-2026-07-04",
+    "team_a": "Paraguay",
+    "team_b": "Francia",
+    "league": "Copa del Mundo",
+    "date": "2026-07-04",
+    "time": "16:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+  },
+  {
+    "id": "36965",
+    "slug": "universidad-católica-vs-copiapó-2026-07-04",
+    "team_a": "Universidad Católica",
+    "team_b": "Copiapó",
+    "league": "Copa Chile",
+    "date": "2026-07-04",
+    "time": "19:30",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36967",
+    "slug": "partido-vs-en-vivo-2026-07-04",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "F3 Silverstone – Carrera Sprint",
+    "date": "2026-07-04",
+    "time": "03:30",
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even1"
+  },
+  {
+    "id": "36970",
+    "slug": "partido-vs-en-vivo-2026-07-04",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Ciclismo – Tour de France – Etapa #1",
+    "date": "2026-07-04",
+    "time": "09:30",
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even1"
+  },
+  {
+    "id": "36972",
+    "slug": "partido-vs-en-vivo-2026-07-04",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "F1 Academy Silverstone – Carrera #1",
+    "date": "2026-07-04",
+    "time": "12:00",
+    "decoded_iframe_url": "https://tvhd2.com/vivo/canales.php?stream=espn3"
+  },
+  {
+    "id": "36973",
+    "slug": "partido-vs-en-vivo-2026-07-04",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Rugby – Nations Championship – Los Pumas vs Esocia",
+    "date": "2026-07-04",
+    "time": "13:00",
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even1"
   }
 ]
