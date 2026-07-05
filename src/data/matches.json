@@ -1,5 +1,15 @@
 [
   {
+    "id": "36975",
+    "slug": "brasil-vs-noruega-2026-07-05",
+    "team_a": "Brasil",
+    "team_b": "Noruega",
+    "league": "Copa del Mundo",
+    "date": "2026-07-05",
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
+  },
+  {
     "id": "36977",
     "slug": "partido-vs-en-vivo-2026-07-05",
     "team_a": "Equipo A",
@@ -30,16 +40,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36982",
-    "slug": "deportes-limache-vs-san-marcos-2026-07-05",
-    "team_a": "Deportes Limache",
-    "team_b": "San Marcos",
-    "league": "Copa Chile",
-    "date": "2026-07-05",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-  },
-  {
     "id": "36990",
     "slug": "partido-vs-en-vivo-2026-07-05",
     "team_a": "Equipo A",
@@ -60,24 +60,14 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
   },
   {
-    "id": "36975",
-    "slug": "brasil-vs-noruega-2026-07-05",
-    "team_a": "Brasil",
-    "team_b": "Noruega",
-    "league": "Copa del Mundo",
+    "id": "36982",
+    "slug": "deportes-limache-vs-san-marcos-2026-07-05",
+    "team_a": "Deportes Limache",
+    "team_b": "San Marcos",
+    "league": "Copa Chile",
     "date": "2026-07-05",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
-  },
-  {
-    "id": "36995",
-    "slug": "partido-vs-en-vivo-2026-07-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "tennis",
-    "date": "2026-07-05",
-    "time": "08:30",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=tntsportschile"
   },
   {
     "id": "36978",
@@ -88,16 +78,6 @@
     "date": "2026-07-05",
     "time": "18:30",
     "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
-    "id": "36980",
-    "slug": "ñublense-vs-curicó-unido-2026-07-05",
-    "team_a": "Ñublense",
-    "team_b": "Curicó Unido",
-    "league": "Copa Chile",
-    "date": "2026-07-05",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
   },
   {
     "id": "36991",
@@ -137,6 +117,16 @@
     "league": "Copa del Mundo",
     "date": "2026-07-05",
     "time": "19:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
+  },
+  {
+    "id": "36980",
+    "slug": "ñublense-vs-curicó-unido-2026-07-05",
+    "team_a": "Ñublense",
+    "team_b": "Curicó Unido",
+    "league": "Copa Chile",
+    "date": "2026-07-05",
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvhd2.com/vivo/canal.php?stream=tntsportschile"
   }
 ]
