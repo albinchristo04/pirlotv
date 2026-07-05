@@ -1,22 +1,202 @@
 [
   {
-    "id": "Barcelona-Real-Madrid-2026-07-05",
-    "slug": "barcelona-vs-real-madrid-2026-07-05",
-    "team_a": "Barcelona",
-    "team_b": "Real Madrid",
-    "league": "La Liga",
+    "id": "36975",
+    "slug": "brasil-vs-noruega-2026-07-05",
+    "team_a": "Brasil",
+    "team_b": "Noruega",
+    "league": "Copa del Mundo",
     "date": "2026-07-05",
-    "time": "20:00",
-    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
   },
   {
-    "id": "América-Chivas-2026-07-05",
-    "slug": "américa-vs-chivas-2026-07-05",
-    "team_a": "América",
-    "team_b": "Chivas",
-    "league": "Liga MX",
+    "id": "36977",
+    "slug": "partido-vs-en-vivo-2026-07-05",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Torneo de Reserva",
     "date": "2026-07-05",
-    "time": "22:00",
-    "decoded_iframe_url": "https://example.com/embed/america-chivas"
+    "time": "12:00",
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
+  },
+  {
+    "id": "36979",
+    "slug": "santiago-wanderers-vs-universidad-chile-2026-07-05",
+    "team_a": "Santiago Wanderers",
+    "team_b": "Universidad Chile",
+    "league": "Copa Chile",
+    "date": "2026-07-05",
+    "time": "11:30",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36981",
+    "slug": "partido-vs-en-vivo-2026-07-05",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa Chile",
+    "date": "2026-07-05",
+    "time": "16:30",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36982",
+    "slug": "deportes-limache-vs-san-marcos-2026-07-05",
+    "team_a": "Deportes Limache",
+    "team_b": "San Marcos",
+    "league": "Copa Chile",
+    "date": "2026-07-05",
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36984",
+    "slug": "partido-vs-en-vivo-2026-07-05",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "F1 Academy Silverstone – Carrera #2",
+    "date": "2026-07-05",
+    "time": "03:55",
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
+  },
+  {
+    "id": "36986",
+    "slug": "partido-vs-en-vivo-2026-07-05",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "F2 Silverstone – Carrera",
+    "date": "2026-07-05",
+    "time": "05:05",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
+  },
+  {
+    "id": "36988",
+    "slug": "partido-vs-en-vivo-2026-07-05",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Tenis – Wimbledon – Dia #7 – Octavos de Final",
+    "date": "2026-07-05",
+    "time": "07:00",
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
+  },
+  {
+    "id": "36990",
+    "slug": "partido-vs-en-vivo-2026-07-05",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Golf – U.S. Senior Open Golf Championship – Última Vuelta",
+    "date": "2026-07-05",
+    "time": "12:00",
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
+  },
+  {
+    "id": "36993",
+    "slug": "macará-vs-ldu-quito-2026-07-05",
+    "team_a": "Macará",
+    "team_b": "LDU Quito",
+    "league": "Serie A",
+    "date": "2026-07-05",
+    "time": "13:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
+  },
+  {
+    "id": "36976",
+    "slug": "méxico-vs-inglaterra-2026-07-05",
+    "team_a": "México",
+    "team_b": "Inglaterra",
+    "league": "Copa del Mundo",
+    "date": "2026-07-05",
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+  },
+  {
+    "id": "36978",
+    "slug": "náutico-vs-juventude-2026-07-05",
+    "team_a": "Náutico",
+    "team_b": "Juventude",
+    "league": "Serie B",
+    "date": "2026-07-05",
+    "time": "18:30",
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+  },
+  {
+    "id": "36980",
+    "slug": "ñublense-vs-curicó-unido-2026-07-05",
+    "team_a": "Ñublense",
+    "team_b": "Curicó Unido",
+    "league": "Copa Chile",
+    "date": "2026-07-05",
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
+  },
+  {
+    "id": "36983",
+    "slug": "partido-vs-en-vivo-2026-07-05",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "F3 Silverstone – Carrera",
+    "date": "2026-07-05",
+    "time": "02:20",
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
+  },
+  {
+    "id": "36985",
+    "slug": "partido-vs-en-vivo-2026-07-05",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Tenis – Wimbledon – Dia #7 – Octavos de Final",
+    "date": "2026-07-05",
+    "time": "05:00",
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
+  },
+  {
+    "id": "36987",
+    "slug": "partido-vs-en-vivo-2026-07-05",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Ciclismo – Tour de France – Etapa #2",
+    "date": "2026-07-05",
+    "time": "06:30",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
+  },
+  {
+    "id": "36989",
+    "slug": "partido-vs-en-vivo-2026-07-05",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "F1 GP Gran Bretaña – La Previa",
+    "date": "2026-07-05",
+    "time": "07:30",
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
+  },
+  {
+    "id": "36991",
+    "slug": "partido-vs-en-vivo-2026-07-05",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "MLB – Los Angeles Dodgers vs San Diego Padres",
+    "date": "2026-07-05",
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
+  },
+  {
+    "id": "36992",
+    "slug": "partido-vs-en-vivo-2026-07-05",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "WNBA – Las Vegas vs Indiana",
+    "date": "2026-07-05",
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
+  },
+  {
+    "id": "36994",
+    "slug": "delfin-vs-emelec-2026-07-05",
+    "team_a": "Delfin",
+    "team_b": "Emelec",
+    "league": "Serie A",
+    "date": "2026-07-05",
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
   }
 ]
