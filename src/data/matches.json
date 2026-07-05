@@ -40,16 +40,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36988",
-    "slug": "partido-vs-en-vivo-2026-07-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Wimbledon – Dia #7 – Octavos de Final",
-    "date": "2026-07-05",
-    "time": "07:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
-  },
-  {
     "id": "36990",
     "slug": "partido-vs-en-vivo-2026-07-05",
     "team_a": "Equipo A",
@@ -108,16 +98,6 @@
     "date": "2026-07-05",
     "time": "14:00",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36989",
-    "slug": "partido-vs-en-vivo-2026-07-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "F1 GP Gran Bretaña – La Previa",
-    "date": "2026-07-05",
-    "time": "07:30",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
   },
   {
     "id": "36991",
