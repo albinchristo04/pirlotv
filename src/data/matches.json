@@ -1,15 +1,5 @@
 [
   {
-    "id": "36975",
-    "slug": "brasil-vs-noruega-2026-07-05",
-    "team_a": "Brasil",
-    "team_b": "Noruega",
-    "league": "Copa del Mundo",
-    "date": "2026-07-05",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
-  },
-  {
     "id": "36977",
     "slug": "partido-vs-en-vivo-2026-07-05",
     "team_a": "Equipo A",
@@ -50,16 +40,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36986",
-    "slug": "partido-vs-en-vivo-2026-07-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "F2 Silverstone – Carrera",
-    "date": "2026-07-05",
-    "time": "05:05",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
-  },
-  {
     "id": "36988",
     "slug": "partido-vs-en-vivo-2026-07-05",
     "team_a": "Equipo A",
@@ -90,14 +70,24 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
   },
   {
-    "id": "36976",
-    "slug": "méxico-vs-inglaterra-2026-07-05",
-    "team_a": "México",
-    "team_b": "Inglaterra",
+    "id": "36975",
+    "slug": "brasil-vs-noruega-2026-07-05",
+    "team_a": "Brasil",
+    "team_b": "Noruega",
     "league": "Copa del Mundo",
     "date": "2026-07-05",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
+  },
+  {
+    "id": "36995",
+    "slug": "partido-vs-en-vivo-2026-07-05",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "tennis",
+    "date": "2026-07-05",
+    "time": "08:30",
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
   },
   {
     "id": "36978",
@@ -118,26 +108,6 @@
     "date": "2026-07-05",
     "time": "14:00",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36985",
-    "slug": "partido-vs-en-vivo-2026-07-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Wimbledon – Dia #7 – Octavos de Final",
-    "date": "2026-07-05",
-    "time": "05:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
-  },
-  {
-    "id": "36987",
-    "slug": "partido-vs-en-vivo-2026-07-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ciclismo – Tour de France – Etapa #2",
-    "date": "2026-07-05",
-    "time": "06:30",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
   },
   {
     "id": "36989",
@@ -178,5 +148,15 @@
     "date": "2026-07-05",
     "time": "17:00",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
+  },
+  {
+    "id": "36976",
+    "slug": "méxico-vs-inglaterra-2026-07-05",
+    "team_a": "México",
+    "team_b": "Inglaterra",
+    "league": "Copa del Mundo",
+    "date": "2026-07-05",
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
   }
 ]
