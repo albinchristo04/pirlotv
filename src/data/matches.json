@@ -50,16 +50,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "36984",
-    "slug": "partido-vs-en-vivo-2026-07-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "F1 Academy Silverstone – Carrera #2",
-    "date": "2026-07-05",
-    "time": "03:55",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
-  },
-  {
     "id": "36986",
     "slug": "partido-vs-en-vivo-2026-07-05",
     "team_a": "Equipo A",
@@ -128,16 +118,6 @@
     "date": "2026-07-05",
     "time": "14:00",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36983",
-    "slug": "partido-vs-en-vivo-2026-07-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "F3 Silverstone – Carrera",
-    "date": "2026-07-05",
-    "time": "02:20",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
   },
   {
     "id": "36985",
