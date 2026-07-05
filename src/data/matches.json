@@ -10,26 +10,6 @@
     "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
   },
   {
-    "id": "36977",
-    "slug": "partido-vs-en-vivo-2026-07-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Torneo de Reserva",
-    "date": "2026-07-05",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
-  },
-  {
-    "id": "36979",
-    "slug": "santiago-wanderers-vs-universidad-chile-2026-07-05",
-    "team_a": "Santiago Wanderers",
-    "team_b": "Universidad Chile",
-    "league": "Copa Chile",
-    "date": "2026-07-05",
-    "time": "11:30",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-  },
-  {
     "id": "36981",
     "slug": "partido-vs-en-vivo-2026-07-05",
     "team_a": "Equipo A",
@@ -38,16 +18,6 @@
     "date": "2026-07-05",
     "time": "16:30",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36990",
-    "slug": "partido-vs-en-vivo-2026-07-05",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Golf – U.S. Senior Open Golf Championship – Última Vuelta",
-    "date": "2026-07-05",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
   },
   {
     "id": "36993",
