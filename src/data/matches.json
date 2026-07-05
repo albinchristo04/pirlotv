@@ -1,32 +1,22 @@
 [
   {
-    "id": "36964",
-    "slug": "deportes-iquique-vs-coquimbo-unido-2026-07-04",
-    "team_a": "Deportes Iquique",
-    "team_b": "Coquimbo Unido",
-    "league": "Copa Chile",
-    "date": "2026-07-04",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
+    "id": "Barcelona-Real-Madrid-2026-07-05",
+    "slug": "barcelona-vs-real-madrid-2026-07-05",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-07-05",
+    "time": "20:00",
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
   },
   {
-    "id": "36965",
-    "slug": "universidad-católica-vs-copiapó-2026-07-04",
-    "team_a": "Universidad Católica",
-    "team_b": "Copiapó",
-    "league": "Copa Chile",
-    "date": "2026-07-04",
-    "time": "19:30",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "36963",
-    "slug": "paraguay-vs-francia-2026-07-04",
-    "team_a": "Paraguay",
-    "team_b": "Francia",
-    "league": "Copa del Mundo",
-    "date": "2026-07-04",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
+    "id": "América-Chivas-2026-07-05",
+    "slug": "américa-vs-chivas-2026-07-05",
+    "team_a": "América",
+    "team_b": "Chivas",
+    "league": "Liga MX",
+    "date": "2026-07-05",
+    "time": "22:00",
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
