@@ -10,16 +10,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
   },
   {
-    "id": "37001",
-    "slug": "partido-vs-en-vivo-2026-07-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Wimbledon – Dia #8 – Octavos de Final",
-    "date": "2026-07-06",
-    "time": "05:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
-  },
-  {
     "id": "36996",
     "slug": "portugal-vs-españa-2026-07-06",
     "team_a": "Portugal",
@@ -48,16 +38,6 @@
     "date": "2026-07-06",
     "time": "18:30",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "37002",
-    "slug": "partido-vs-en-vivo-2026-07-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ciclismo – Tour de France – Etapa #3",
-    "date": "2026-07-06",
-    "time": "05:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
   },
   {
     "id": "37003",
