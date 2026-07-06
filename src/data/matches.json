@@ -10,16 +10,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
   },
   {
-    "id": "36996",
-    "slug": "portugal-vs-españa-2026-07-06",
-    "team_a": "Portugal",
-    "team_b": "España",
-    "league": "Copa del Mundo",
-    "date": "2026-07-06",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
-  },
-  {
     "id": "36999",
     "slug": "partido-vs-en-vivo-2026-07-06",
     "team_a": "Equipo A",
@@ -38,16 +28,6 @@
     "date": "2026-07-06",
     "time": "18:30",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "37003",
-    "slug": "partido-vs-en-vivo-2026-07-06",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB – Kansas City Royals vs Philadelphia Phillies",
-    "date": "2026-07-06",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
   },
   {
     "id": "37004",
