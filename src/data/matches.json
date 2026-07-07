@@ -40,16 +40,6 @@
     "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
   },
   {
-    "id": "36997",
-    "slug": "ee.-uu.-vs-bélgica-2026-07-06",
-    "team_a": "EE. UU.",
-    "team_b": "Bélgica",
-    "league": "Copa del Mundo",
-    "date": "2026-07-06",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
-  },
-  {
     "id": "37005",
     "slug": "partido-vs-en-vivo-2026-07-06",
     "team_a": "Equipo A",
@@ -58,5 +48,15 @@
     "date": "2026-07-06",
     "time": "16:00",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=disney2"
+  },
+  {
+    "id": "36997",
+    "slug": "ee.-uu.-vs-bélgica-2026-07-06",
+    "team_a": "EE. UU.",
+    "team_b": "Bélgica",
+    "league": "Copa del Mundo",
+    "date": "2026-07-06",
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
   }
 ]
