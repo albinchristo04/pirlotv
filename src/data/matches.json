@@ -1,25 +1,5 @@
 [
   {
-    "id": "37006",
-    "slug": "argentina-vs-egipto-2026-07-07",
-    "team_a": "Argentina",
-    "team_b": "Egipto",
-    "league": "Copa del Mundo",
-    "date": "2026-07-07",
-    "time": "11:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "37007",
-    "slug": "suiza-vs-colombia-2026-07-07",
-    "team_a": "Suiza",
-    "team_b": "Colombia",
-    "league": "Copa del Mundo",
-    "date": "2026-07-07",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
-  },
-  {
     "id": "37008",
     "slug": "partido-vs-en-vivo-2026-07-07",
     "team_a": "Equipo A",
@@ -38,46 +18,6 @@
     "date": "2026-07-07",
     "time": "19:00",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
-    "id": "37010",
-    "slug": "partido-vs-en-vivo-2026-07-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ciclismo – Tour de France – Etapa #4",
-    "date": "2026-07-07",
-    "time": "06:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "37011",
-    "slug": "partido-vs-en-vivo-2026-07-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby – World Rugby U20 Championship – Argentina vs Inglaterra",
-    "date": "2026-07-07",
-    "time": "06:20",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
-  },
-  {
-    "id": "37012",
-    "slug": "partido-vs-en-vivo-2026-07-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Wimbledon – Dia #9 – Cuartos de Final",
-    "date": "2026-07-07",
-    "time": "07:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
-  },
-  {
-    "id": "37013",
-    "slug": "partido-vs-en-vivo-2026-07-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Wimbledon – Dia #9 – Cuartos de Final",
-    "date": "2026-07-07",
-    "time": "07:30",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
   },
   {
     "id": "37014",
@@ -118,5 +58,25 @@
     "date": "2026-07-07",
     "time": "19:00",
     "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
+  },
+  {
+    "id": "37006",
+    "slug": "argentina-vs-egipto-2026-07-07",
+    "team_a": "Argentina",
+    "team_b": "Egipto",
+    "league": "Copa del Mundo",
+    "date": "2026-07-07",
+    "time": "11:00",
+    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
+  },
+  {
+    "id": "37007",
+    "slug": "suiza-vs-colombia-2026-07-07",
+    "team_a": "Suiza",
+    "team_b": "Colombia",
+    "league": "Copa del Mundo",
+    "date": "2026-07-07",
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
   }
 ]
