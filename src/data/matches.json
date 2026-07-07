@@ -1,22 +1,122 @@
 [
   {
-    "id": "Barcelona-Real-Madrid-2026-07-07",
-    "slug": "barcelona-vs-real-madrid-2026-07-07",
-    "team_a": "Barcelona",
-    "team_b": "Real Madrid",
-    "league": "La Liga",
+    "id": "37006",
+    "slug": "argentina-vs-egipto-2026-07-07",
+    "team_a": "Argentina",
+    "team_b": "Egipto",
+    "league": "Copa del Mundo",
     "date": "2026-07-07",
-    "time": "20:00",
-    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
+    "time": "11:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
   },
   {
-    "id": "América-Chivas-2026-07-07",
-    "slug": "américa-vs-chivas-2026-07-07",
-    "team_a": "América",
-    "team_b": "Chivas",
-    "league": "Liga MX",
+    "id": "37007",
+    "slug": "suiza-vs-colombia-2026-07-07",
+    "team_a": "Suiza",
+    "team_b": "Colombia",
+    "league": "Copa del Mundo",
     "date": "2026-07-07",
-    "time": "22:00",
-    "decoded_iframe_url": "https://example.com/embed/america-chivas"
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+  },
+  {
+    "id": "37008",
+    "slug": "partido-vs-en-vivo-2026-07-07",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Primera División",
+    "date": "2026-07-07",
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=even4"
+  },
+  {
+    "id": "37009",
+    "slug": "aucas-vs-guayaquil-city-2026-07-07",
+    "team_a": "Aucas",
+    "team_b": "Guayaquil City",
+    "league": "Serie A",
+    "date": "2026-07-07",
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
+  },
+  {
+    "id": "37010",
+    "slug": "partido-vs-en-vivo-2026-07-07",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Ciclismo – Tour de France – Etapa #4",
+    "date": "2026-07-07",
+    "time": "06:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
+  },
+  {
+    "id": "37011",
+    "slug": "partido-vs-en-vivo-2026-07-07",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Rugby – World Rugby U20 Championship – Argentina vs Inglaterra",
+    "date": "2026-07-07",
+    "time": "06:20",
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
+  },
+  {
+    "id": "37012",
+    "slug": "partido-vs-en-vivo-2026-07-07",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Tenis – Wimbledon – Dia #9 – Cuartos de Final",
+    "date": "2026-07-07",
+    "time": "07:00",
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
+  },
+  {
+    "id": "37013",
+    "slug": "partido-vs-en-vivo-2026-07-07",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Tenis – Wimbledon – Dia #9 – Cuartos de Final",
+    "date": "2026-07-07",
+    "time": "07:30",
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
+  },
+  {
+    "id": "37014",
+    "slug": "partido-vs-en-vivo-2026-07-07",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Rugby – World Rugby U20 Championship – Georgia vs Uruguay",
+    "date": "2026-07-07",
+    "time": "11:20",
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
+  },
+  {
+    "id": "37015",
+    "slug": "partido-vs-en-vivo-2026-07-07",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "MLB – St. Louis Cardinals vs Milwaukee Brewers",
+    "date": "2026-07-07",
+    "time": "13:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn7"
+  },
+  {
+    "id": "37016",
+    "slug": "partido-vs-en-vivo-2026-07-07",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "MLB – Tampa Bay Rays vs New York Yankees",
+    "date": "2026-07-07",
+    "time": "17:30",
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
+  },
+  {
+    "id": "37017",
+    "slug": "partido-vs-en-vivo-2026-07-07",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "WNBA – New York vs Dallas",
+    "date": "2026-07-07",
+    "time": "19:00",
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
   }
 ]
