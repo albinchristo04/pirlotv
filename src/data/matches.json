@@ -20,16 +20,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
   },
   {
-    "id": "37015",
-    "slug": "partido-vs-en-vivo-2026-07-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB – St. Louis Cardinals vs Milwaukee Brewers",
-    "date": "2026-07-07",
-    "time": "13:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn7"
-  },
-  {
     "id": "37016",
     "slug": "partido-vs-en-vivo-2026-07-07",
     "team_a": "Equipo A",
@@ -57,6 +47,6 @@
     "league": "Copa del Mundo",
     "date": "2026-07-07",
     "time": "15:00",
-    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
+    "decoded_iframe_url": "https://tvhd1.com/canales/canal5.php"
   }
 ]
