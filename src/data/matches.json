@@ -70,16 +70,6 @@
     "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
   },
   {
-    "id": "37028",
-    "slug": "partido-vs-en-vivo-2026-07-08",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Partido Amistoso Internacional",
-    "date": "2026-07-08",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
-  },
-  {
     "id": "37029",
     "slug": "partido-vs-en-vivo-2026-07-08",
     "team_a": "Equipo A",
@@ -98,5 +88,15 @@
     "date": "2026-07-08",
     "time": "19:00",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3mx"
+  },
+  {
+    "id": "37028",
+    "slug": "partido-vs-en-vivo-2026-07-08",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Partido Amistoso Internacional",
+    "date": "2026-07-08",
+    "time": "14:30",
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
   }
 ]
