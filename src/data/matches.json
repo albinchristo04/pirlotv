@@ -1,52 +1,102 @@
 [
   {
-    "id": "37008",
-    "slug": "partido-vs-en-vivo-2026-07-07",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
+    "id": "37018",
+    "slug": "real-oruro-vs-universitario-de-vinto-2026-07-08",
+    "team_a": "Real Oruro",
+    "team_b": "Universitario de Vinto",
     "league": "Primera División",
-    "date": "2026-07-07",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=even4"
+    "date": "2026-07-08",
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even4"
   },
   {
-    "id": "37009",
-    "slug": "aucas-vs-guayaquil-city-2026-07-07",
-    "team_a": "Aucas",
-    "team_b": "Guayaquil City",
-    "league": "Serie A",
-    "date": "2026-07-07",
+    "id": "37019",
+    "slug": "real-potosí-vs-abb-2026-07-08",
+    "team_a": "Real Potosí",
+    "team_b": "ABB",
+    "league": "Primera División",
+    "date": "2026-07-08",
     "time": "19:00",
+    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even4"
+  },
+  {
+    "id": "37020",
+    "slug": "partido-vs-en-vivo-2026-07-08",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa Ecuador",
+    "date": "2026-07-08",
+    "time": "17:30",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+  },
+  {
+    "id": "37021",
+    "slug": "independiente-juniors-vs-ldu-quito-2026-07-08",
+    "team_a": "Independiente Juniors",
+    "team_b": "LDU Quito",
+    "league": "Copa Ecuador",
+    "date": "2026-07-08",
+    "time": "20:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+  },
+  {
+    "id": "37022",
+    "slug": "el-nacional-vs-cumbayá-2026-07-08",
+    "team_a": "El Nacional",
+    "team_b": "Cumbayá",
+    "league": "Serie B",
+    "date": "2026-07-08",
+    "time": "15:00",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
   },
   {
-    "id": "37016",
-    "slug": "partido-vs-en-vivo-2026-07-07",
+    "id": "37023",
+    "slug": "partido-vs-en-vivo-2026-07-08",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "MLB – Tampa Bay Rays vs New York Yankees",
-    "date": "2026-07-07",
-    "time": "17:30",
+    "league": "Ciclismo – Tour de France – Etapa #5",
+    "date": "2026-07-08",
+    "time": "06:30",
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
+  },
+  {
+    "id": "37024",
+    "slug": "partido-vs-en-vivo-2026-07-08",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Tenis – Wimbledon – Dia #10 – Cuartos de Final",
+    "date": "2026-07-08",
+    "time": "07:00",
     "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
   },
   {
-    "id": "37017",
-    "slug": "partido-vs-en-vivo-2026-07-07",
+    "id": "37025",
+    "slug": "partido-vs-en-vivo-2026-07-08",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "WNBA – New York vs Dallas",
-    "date": "2026-07-07",
-    "time": "19:00",
+    "league": "Tenis – Wimbledon – Dia #10 – Cuartos de Final",
+    "date": "2026-07-08",
+    "time": "07:30",
     "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
   },
   {
-    "id": "37007",
-    "slug": "suiza-vs-colombia-2026-07-07",
-    "team_a": "Suiza",
-    "team_b": "Colombia",
-    "league": "Copa del Mundo",
-    "date": "2026-07-07",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
+    "id": "37026",
+    "slug": "partido-vs-en-vivo-2026-07-08",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "MLB – Cincinnati Reds vs. Philadelphia Phillies",
+    "date": "2026-07-08",
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
+  },
+  {
+    "id": "37027",
+    "slug": "partido-vs-en-vivo-2026-07-08",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "MLB – San Diego Padres vs. Arizona Diamondbacks",
+    "date": "2026-07-08",
+    "time": "21:00",
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
   }
 ]
