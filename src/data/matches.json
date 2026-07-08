@@ -50,36 +50,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
   },
   {
-    "id": "37023",
-    "slug": "partido-vs-en-vivo-2026-07-08",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ciclismo – Tour de France – Etapa #5",
-    "date": "2026-07-08",
-    "time": "06:30",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
-  },
-  {
-    "id": "37024",
-    "slug": "partido-vs-en-vivo-2026-07-08",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Wimbledon – Dia #10 – Cuartos de Final",
-    "date": "2026-07-08",
-    "time": "07:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
-  },
-  {
-    "id": "37025",
-    "slug": "partido-vs-en-vivo-2026-07-08",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Wimbledon – Dia #10 – Cuartos de Final",
-    "date": "2026-07-08",
-    "time": "07:30",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
-  },
-  {
     "id": "37026",
     "slug": "partido-vs-en-vivo-2026-07-08",
     "team_a": "Equipo A",
@@ -98,5 +68,25 @@
     "date": "2026-07-08",
     "time": "21:00",
     "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
+  },
+  {
+    "id": "37028",
+    "slug": "partido-vs-en-vivo-2026-07-08",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Partido Amistoso Internacional",
+    "date": "2026-07-08",
+    "time": "14:30",
+    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
+  },
+  {
+    "id": "37029",
+    "slug": "partido-vs-en-vivo-2026-07-08",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa de la Liga",
+    "date": "2026-07-08",
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
   }
 ]
