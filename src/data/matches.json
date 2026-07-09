@@ -1,15 +1,5 @@
 [
   {
-    "id": "37031",
-    "slug": "francia-vs-marruecos-2026-07-09",
-    "team_a": "Francia",
-    "team_b": "Marruecos",
-    "league": "Copa del Mundo",
-    "date": "2026-07-09",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvhd1.com/canales/dsportslatam.php"
-  },
-  {
     "id": "37032",
     "slug": "nacional-potosí-vs-aurora-2026-07-09",
     "team_a": "Nacional Potosí",
@@ -40,16 +30,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
   },
   {
-    "id": "37038",
-    "slug": "partido-vs-en-vivo-2026-07-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB – Tampa Bay Rays vs New York Yankees",
-    "date": "2026-07-09",
-    "time": "12:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
-  },
-  {
     "id": "37039",
     "slug": "partido-vs-en-vivo-2026-07-09",
     "team_a": "Equipo A",
@@ -58,5 +38,15 @@
     "date": "2026-07-09",
     "time": "17:30",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
+  },
+  {
+    "id": "37031",
+    "slug": "francia-vs-marruecos-2026-07-09",
+    "team_a": "Francia",
+    "team_b": "Marruecos",
+    "league": "Copa del Mundo",
+    "date": "2026-07-09",
+    "time": "15:00",
+    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
   }
 ]
