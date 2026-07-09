@@ -1,5 +1,15 @@
 [
   {
+    "id": "37020",
+    "slug": "partido-vs-en-vivo-2026-07-08",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa Ecuador",
+    "date": "2026-07-08",
+    "time": "17:30",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
+  },
+  {
     "id": "37018",
     "slug": "real-oruro-vs-universitario-de-vinto-2026-07-08",
     "team_a": "Real Oruro",
@@ -7,7 +17,7 @@
     "league": "Primera División",
     "date": "2026-07-08",
     "time": "17:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even4"
+    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
   },
   {
     "id": "37019",
@@ -17,17 +27,7 @@
     "league": "Primera División",
     "date": "2026-07-08",
     "time": "19:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even4"
-  },
-  {
-    "id": "37020",
-    "slug": "partido-vs-en-vivo-2026-07-08",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Ecuador",
-    "date": "2026-07-08",
-    "time": "17:30",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
   },
   {
     "id": "37021",
@@ -38,16 +38,6 @@
     "date": "2026-07-08",
     "time": "20:00",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "37022",
-    "slug": "el-nacional-vs-cumbayá-2026-07-08",
-    "team_a": "El Nacional",
-    "team_b": "Cumbayá",
-    "league": "Serie B",
-    "date": "2026-07-08",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
   },
   {
     "id": "37026",
@@ -77,7 +67,7 @@
     "league": "Copa de la Liga",
     "date": "2026-07-08",
     "time": "18:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsportschile"
+    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even4"
   },
   {
     "id": "37030",
@@ -88,15 +78,5 @@
     "date": "2026-07-08",
     "time": "19:00",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3mx"
-  },
-  {
-    "id": "37028",
-    "slug": "partido-vs-en-vivo-2026-07-08",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Partido Amistoso Internacional",
-    "date": "2026-07-08",
-    "time": "14:30",
-    "decoded_iframe_url": "https://tvtvhd.com/vivo/canales.php?stream=sportv"
   }
 ]
