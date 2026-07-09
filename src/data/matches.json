@@ -7,7 +7,7 @@
     "league": "Copa del Mundo",
     "date": "2026-07-09",
     "time": "15:00",
-    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=telemundo"
   },
   {
     "id": "37032",
@@ -38,36 +38,6 @@
     "date": "2026-07-09",
     "time": "15:30",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
-    "id": "37035",
-    "slug": "partido-vs-en-vivo-2026-07-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ciclismo – Tour de France – Etapa #6",
-    "date": "2026-07-09",
-    "time": "05:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "37036",
-    "slug": "partido-vs-en-vivo-2026-07-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Golf – Genesis Scottish Open – Primera Vuelta",
-    "date": "2026-07-09",
-    "time": "07:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
-  },
-  {
-    "id": "37037",
-    "slug": "partido-vs-en-vivo-2026-07-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Wimbledon – Dia #11 – Semifinales Femeninas",
-    "date": "2026-07-09",
-    "time": "07:30",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
   },
   {
     "id": "37038",
