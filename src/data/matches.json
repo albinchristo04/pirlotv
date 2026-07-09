@@ -1,82 +1,22 @@
 [
   {
-    "id": "37020",
-    "slug": "partido-vs-en-vivo-2026-07-08",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa Ecuador",
-    "date": "2026-07-08",
-    "time": "17:30",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
-    "id": "37018",
-    "slug": "real-oruro-vs-universitario-de-vinto-2026-07-08",
-    "team_a": "Real Oruro",
-    "team_b": "Universitario de Vinto",
-    "league": "Primera División",
-    "date": "2026-07-08",
-    "time": "17:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
-  },
-  {
-    "id": "37019",
-    "slug": "real-potosí-vs-abb-2026-07-08",
-    "team_a": "Real Potosí",
-    "team_b": "ABB",
-    "league": "Primera División",
-    "date": "2026-07-08",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
-  },
-  {
-    "id": "37021",
-    "slug": "independiente-juniors-vs-ldu-quito-2026-07-08",
-    "team_a": "Independiente Juniors",
-    "team_b": "LDU Quito",
-    "league": "Copa Ecuador",
-    "date": "2026-07-08",
+    "id": "Barcelona-Real-Madrid-2026-07-09",
+    "slug": "barcelona-vs-real-madrid-2026-07-09",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-07-09",
     "time": "20:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=dsports"
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
   },
   {
-    "id": "37026",
-    "slug": "partido-vs-en-vivo-2026-07-08",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB – Cincinnati Reds vs. Philadelphia Phillies",
-    "date": "2026-07-08",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
-  },
-  {
-    "id": "37027",
-    "slug": "partido-vs-en-vivo-2026-07-08",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB – San Diego Padres vs. Arizona Diamondbacks",
-    "date": "2026-07-08",
-    "time": "21:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
-  },
-  {
-    "id": "37029",
-    "slug": "partido-vs-en-vivo-2026-07-08",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa de la Liga",
-    "date": "2026-07-08",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even4"
-  },
-  {
-    "id": "37030",
-    "slug": "partido-vs-en-vivo-2026-07-08",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Amistoso Internacional",
-    "date": "2026-07-08",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3mx"
+    "id": "América-Chivas-2026-07-09",
+    "slug": "américa-vs-chivas-2026-07-09",
+    "team_a": "América",
+    "team_b": "Chivas",
+    "league": "Liga MX",
+    "date": "2026-07-09",
+    "time": "22:00",
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
