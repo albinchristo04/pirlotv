@@ -10,26 +10,6 @@
     "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
   },
   {
-    "id": "37033",
-    "slug": "ñublense-vs-o'higgins-2026-07-09",
-    "team_a": "Ñublense",
-    "team_b": "O'Higgins",
-    "league": "Copa de la Liga",
-    "date": "2026-07-09",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=tntsportschile"
-  },
-  {
-    "id": "37034",
-    "slug": "partido-vs-en-vivo-2026-07-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie B",
-    "date": "2026-07-09",
-    "time": "15:30",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
     "id": "37039",
     "slug": "partido-vs-en-vivo-2026-07-09",
     "team_a": "Equipo A",
@@ -40,13 +20,13 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
   },
   {
-    "id": "37031",
-    "slug": "francia-vs-marruecos-2026-07-09",
-    "team_a": "Francia",
-    "team_b": "Marruecos",
-    "league": "Copa del Mundo",
+    "id": "37033",
+    "slug": "ñublense-vs-o'higgins-2026-07-09",
+    "team_a": "Ñublense",
+    "team_b": "O'Higgins",
+    "league": "Copa de la Liga",
     "date": "2026-07-09",
-    "time": "15:00",
-    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
   }
 ]
