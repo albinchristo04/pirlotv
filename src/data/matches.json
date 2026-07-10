@@ -1,15 +1,5 @@
 [
   {
-    "id": "37040",
-    "slug": "partido-vs-en-vivo-2026-07-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa del Mundo",
-    "date": "2026-07-10",
-    "time": "14:00",
-    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
-  },
-  {
     "id": "37041",
     "slug": "leones-del-norte-vs-universidad-católica-2026-07-10",
     "team_a": "Leones del Norte",
@@ -40,7 +30,17 @@
     "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
   },
   {
-    "id": "37050",
+    "id": "37040",
+    "slug": "partido-vs-en-vivo-2026-07-10",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa del Mundo",
+    "date": "2026-07-10",
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
+  },
+  {
+    "id": "37051",
     "slug": "partido-vs-en-vivo-2026-07-10",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
@@ -57,26 +57,6 @@
     "league": "Primera División",
     "date": "2026-07-10",
     "time": "17:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn"
-  },
-  {
-    "id": "37049",
-    "slug": "partido-vs-en-vivo-2026-07-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby – Nations Championship – Fiji vs Inglaterra",
-    "date": "2026-07-10",
-    "time": "18:50",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
-  },
-  {
-    "id": "37051",
-    "slug": "partido-vs-en-vivo-2026-07-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby – Nations Championship – Fiji vs Inglaterra",
-    "date": "2026-07-10",
-    "time": "18:50",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=disney1"
   }
 ]
