@@ -1,22 +1,122 @@
 [
   {
-    "id": "Barcelona-Real-Madrid-2026-07-10",
-    "slug": "barcelona-vs-real-madrid-2026-07-10",
-    "team_a": "Barcelona",
-    "team_b": "Real Madrid",
-    "league": "La Liga",
+    "id": "37040",
+    "slug": "partido-vs-en-vivo-2026-07-10",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa del Mundo",
     "date": "2026-07-10",
-    "time": "20:00",
-    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
+    "time": "14:00",
+    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
   },
   {
-    "id": "América-Chivas-2026-07-10",
-    "slug": "américa-vs-chivas-2026-07-10",
-    "team_a": "América",
-    "team_b": "Chivas",
-    "league": "Liga MX",
+    "id": "37041",
+    "slug": "leones-del-norte-vs-universidad-católica-2026-07-10",
+    "team_a": "Leones del Norte",
+    "team_b": "Universidad Católica",
+    "league": "Serie A",
     "date": "2026-07-10",
-    "time": "22:00",
-    "decoded_iframe_url": "https://example.com/embed/america-chivas"
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
+  },
+  {
+    "id": "37042",
+    "slug": "técnico-universitario-vs-macará-2026-07-10",
+    "team_a": "Técnico Universitario",
+    "team_b": "Macará",
+    "league": "Serie A",
+    "date": "2026-07-10",
+    "time": "19:15",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=ecdf_ligapro"
+  },
+  {
+    "id": "37044",
+    "slug": "river-plate-vs-racing-club-2026-07-10",
+    "team_a": "River Plate",
+    "team_b": "Racing Club",
+    "league": "Torneo de Reserva",
+    "date": "2026-07-10",
+    "time": "10:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsports"
+  },
+  {
+    "id": "37046",
+    "slug": "partido-vs-en-vivo-2026-07-10",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Golf – Genesis Scottish Open – Segunda Vuelta",
+    "date": "2026-07-10",
+    "time": "07:00",
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
+  },
+  {
+    "id": "37048",
+    "slug": "partido-vs-en-vivo-2026-07-10",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA Summer League – Denver Nuggets vs Houston Rockets",
+    "date": "2026-07-10",
+    "time": "17:30",
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
+  },
+  {
+    "id": "37050",
+    "slug": "partido-vs-en-vivo-2026-07-10",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Rugby – Nations Championship – Fiji vs Inglaterra",
+    "date": "2026-07-10",
+    "time": "18:50",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "37043",
+    "slug": "partido-vs-en-vivo-2026-07-10",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Primera División",
+    "date": "2026-07-10",
+    "time": "17:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn"
+  },
+  {
+    "id": "37045",
+    "slug": "partido-vs-en-vivo-2026-07-10",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Ciclismo – Tour de France – Etapa #7",
+    "date": "2026-07-10",
+    "time": "06:00",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
+  },
+  {
+    "id": "37047",
+    "slug": "partido-vs-en-vivo-2026-07-10",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Tenis – Wimbledon – Dia #12 – Semifinales Masculinas",
+    "date": "2026-07-10",
+    "time": "07:30",
+    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
+  },
+  {
+    "id": "37049",
+    "slug": "partido-vs-en-vivo-2026-07-10",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Rugby – Nations Championship – Fiji vs Inglaterra",
+    "date": "2026-07-10",
+    "time": "18:50",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
+  },
+  {
+    "id": "37051",
+    "slug": "partido-vs-en-vivo-2026-07-10",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Rugby – Nations Championship – Fiji vs Inglaterra",
+    "date": "2026-07-10",
+    "time": "18:50",
+    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn3"
   }
 ]
