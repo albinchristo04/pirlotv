@@ -40,16 +40,6 @@
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=tntsports"
   },
   {
-    "id": "37046",
-    "slug": "partido-vs-en-vivo-2026-07-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Golf – Genesis Scottish Open – Segunda Vuelta",
-    "date": "2026-07-10",
-    "time": "07:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even4"
-  },
-  {
     "id": "37048",
     "slug": "partido-vs-en-vivo-2026-07-10",
     "team_a": "Equipo A",
@@ -78,26 +68,6 @@
     "date": "2026-07-10",
     "time": "17:00",
     "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn"
-  },
-  {
-    "id": "37045",
-    "slug": "partido-vs-en-vivo-2026-07-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ciclismo – Tour de France – Etapa #7",
-    "date": "2026-07-10",
-    "time": "06:00",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "37047",
-    "slug": "partido-vs-en-vivo-2026-07-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Wimbledon – Dia #12 – Semifinales Masculinas",
-    "date": "2026-07-10",
-    "time": "07:30",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even2"
   },
   {
     "id": "37049",
