@@ -1,32 +1,22 @@
 [
   {
-    "id": "37032",
-    "slug": "nacional-potosí-vs-aurora-2026-07-09",
-    "team_a": "Nacional Potosí",
-    "team_b": "Aurora",
-    "league": "Primera División",
-    "date": "2026-07-09",
-    "time": "19:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
+    "id": "Barcelona-Real-Madrid-2026-07-10",
+    "slug": "barcelona-vs-real-madrid-2026-07-10",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-07-10",
+    "time": "20:00",
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
   },
   {
-    "id": "37039",
-    "slug": "partido-vs-en-vivo-2026-07-09",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB – Baltimore Orioles vs Chicago Cubs",
-    "date": "2026-07-09",
-    "time": "17:30",
-    "decoded_iframe_url": "https://tvhd2.com/canales.php?stream=espn5"
-  },
-  {
-    "id": "37033",
-    "slug": "ñublense-vs-o'higgins-2026-07-09",
-    "team_a": "Ñublense",
-    "team_b": "O'Higgins",
-    "league": "Copa de la Liga",
-    "date": "2026-07-09",
-    "time": "18:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canal.php?stream=even3"
+    "id": "América-Chivas-2026-07-10",
+    "slug": "américa-vs-chivas-2026-07-10",
+    "team_a": "América",
+    "team_b": "Chivas",
+    "league": "Liga MX",
+    "date": "2026-07-10",
+    "time": "22:00",
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
