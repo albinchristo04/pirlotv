@@ -1,15 +1,5 @@
 [
   {
-    "id": "37062",
-    "slug": "partido-vs-en-vivo-2026-07-11",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Segunda División",
-    "date": "2026-07-11",
-    "time": "16:00",
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=espn"
-  },
-  {
     "id": "37064",
     "slug": "partido-vs-en-vivo-2026-07-11",
     "team_a": "Equipo A",
@@ -20,14 +10,14 @@
     "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "37076",
-    "slug": "partido-vs-en-vivo-2026-07-11",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "WNBA – Minnesota vs New York",
+    "id": "37079",
+    "slug": "noruega-vs-inglaterra-2026-07-11",
+    "team_a": "Noruega",
+    "team_b": "Inglaterra",
+    "league": "Copa del Mundo",
     "date": "2026-07-11",
-    "time": "12:00",
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=espn5"
+    "time": "16:00",
+    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
   },
   {
     "id": "37078",
@@ -40,24 +30,14 @@
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even3"
   },
   {
-    "id": "37079",
-    "slug": "noruega-vs-inglaterra-2026-07-11",
-    "team_a": "Noruega",
-    "team_b": "Inglaterra",
-    "league": "Copa del Mundo",
+    "id": "37056",
+    "slug": "mushuc-runa-vs-independiente-del-valle-2026-07-11",
+    "team_a": "Mushuc Runa",
+    "team_b": "Independiente del Valle",
+    "league": "Serie A",
     "date": "2026-07-11",
-    "time": "16:00",
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=dsports"
-  },
-  {
-    "id": "37074",
-    "slug": "partido-vs-en-vivo-2026-07-11",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Wimbledon – Día #13 – Final Femenina",
-    "date": "2026-07-11",
-    "time": "10:00",
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even2"
+    "time": "14:10",
+    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=ecdf_ligapro"
   },
   {
     "id": "37054",
@@ -67,27 +47,7 @@
     "league": "Primera División",
     "date": "2026-07-11",
     "time": "14:00",
-    "decoded_iframe_url": "https://tvhd2.com/online/canales.php?stream=even1"
-  },
-  {
-    "id": "37055",
-    "slug": "manta-vs-orense-2026-07-11",
-    "team_a": "Manta",
-    "team_b": "Orense",
-    "league": "Serie A",
-    "date": "2026-07-11",
-    "time": "12:00",
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
-    "id": "37056",
-    "slug": "mushuc-runa-vs-independiente-del-valle-2026-07-11",
-    "team_a": "Mushuc Runa",
-    "team_b": "Independiente del Valle",
-    "league": "Serie A",
-    "date": "2026-07-11",
-    "time": "14:10",
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
+    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even1"
   },
   {
     "id": "37060",
@@ -97,17 +57,17 @@
     "league": "Primera División",
     "date": "2026-07-11",
     "time": "16:00",
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=espn"
+    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney4"
   },
   {
-    "id": "37063",
-    "slug": "magallanes-vs-audax-italiano-2026-07-11",
-    "team_a": "Magallanes",
-    "team_b": "Audax Italiano",
-    "league": "Copa Chile",
+    "id": "37062",
+    "slug": "partido-vs-en-vivo-2026-07-11",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Segunda División",
     "date": "2026-07-11",
-    "time": "14:00",
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=tntsportschile"
+    "time": "16:00",
+    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney5"
   },
   {
     "id": "37065",
@@ -120,14 +80,14 @@
     "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=sportv"
   },
   {
-    "id": "37073",
-    "slug": "partido-vs-en-vivo-2026-07-11",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "SBK – Prosecco Doc UK – Donington Park – Carrera #1",
+    "id": "37053",
+    "slug": "argentina-vs-suiza-2026-07-11",
+    "team_a": "Argentina",
+    "team_b": "Suiza",
+    "league": "Copa del Mundo",
     "date": "2026-07-11",
-    "time": "09:25",
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=espn7"
+    "time": "20:00",
+    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=dsports"
   },
   {
     "id": "37077",
@@ -140,34 +100,14 @@
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even3"
   },
   {
-    "id": "37075",
-    "slug": "partido-vs-en-vivo-2026-07-11",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby – Nations Cup – Uruguay vs Rumania",
+    "id": "37059",
+    "slug": "danubio-vs-nacional-2026-07-11",
+    "team_a": "Danubio",
+    "team_b": "Nacional",
+    "league": "Primera División",
     "date": "2026-07-11",
-    "time": "11:50",
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even3"
-  },
-  {
-    "id": "37061",
-    "slug": "river-plate-vs-plaza-colonia-2026-07-11",
-    "team_a": "River Plate",
-    "team_b": "Plaza Colonia",
-    "league": "Segunda División",
-    "date": "2026-07-11",
-    "time": "11:30",
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney2"
-  },
-  {
-    "id": "37053",
-    "slug": "argentina-vs-suiza-2026-07-11",
-    "team_a": "Argentina",
-    "team_b": "Suiza",
-    "league": "Copa del Mundo",
-    "date": "2026-07-11",
-    "time": "20:00",
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=dsports"
+    "time": "13:00",
+    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney3"
   },
   {
     "id": "37057",
@@ -180,13 +120,13 @@
     "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
   },
   {
-    "id": "37059",
-    "slug": "danubio-vs-nacional-2026-07-11",
-    "team_a": "Danubio",
-    "team_b": "Nacional",
-    "league": "Primera División",
+    "id": "37063",
+    "slug": "magallanes-vs-audax-italiano-2026-07-11",
+    "team_a": "Magallanes",
+    "team_b": "Audax Italiano",
+    "league": "Copa Chile",
     "date": "2026-07-11",
-    "time": "13:00",
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=espn"
+    "time": "14:00",
+    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=tntsportschile"
   }
 ]
