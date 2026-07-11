@@ -1,52 +1,22 @@
 [
   {
-    "id": "37041",
-    "slug": "leones-del-norte-vs-universidad-católica-2026-07-10",
-    "team_a": "Leones del Norte",
-    "team_b": "Universidad Católica",
-    "league": "Serie A",
-    "date": "2026-07-10",
-    "time": "17:00",
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
+    "id": "Barcelona-Real-Madrid-2026-07-11",
+    "slug": "barcelona-vs-real-madrid-2026-07-11",
+    "team_a": "Barcelona",
+    "team_b": "Real Madrid",
+    "league": "La Liga",
+    "date": "2026-07-11",
+    "time": "20:00",
+    "decoded_iframe_url": "https://example.com/embed/barcelona-real-madrid"
   },
   {
-    "id": "37042",
-    "slug": "técnico-universitario-vs-macará-2026-07-10",
-    "team_a": "Técnico Universitario",
-    "team_b": "Macará",
-    "league": "Serie A",
-    "date": "2026-07-10",
-    "time": "19:15",
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
-    "id": "37048",
-    "slug": "partido-vs-en-vivo-2026-07-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA Summer League – Denver Nuggets vs Houston Rockets",
-    "date": "2026-07-10",
-    "time": "17:30",
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even2"
-  },
-  {
-    "id": "37051",
-    "slug": "partido-vs-en-vivo-2026-07-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby – Nations Championship – Fiji vs Inglaterra",
-    "date": "2026-07-10",
-    "time": "18:50",
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=even3"
-  },
-  {
-    "id": "37043",
-    "slug": "partido-vs-en-vivo-2026-07-10",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-07-10",
-    "time": "17:00",
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney1"
+    "id": "América-Chivas-2026-07-11",
+    "slug": "américa-vs-chivas-2026-07-11",
+    "team_a": "América",
+    "team_b": "Chivas",
+    "league": "Liga MX",
+    "date": "2026-07-11",
+    "time": "22:00",
+    "decoded_iframe_url": "https://example.com/embed/america-chivas"
   }
 ]
