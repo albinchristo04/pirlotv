@@ -10,16 +10,6 @@
     "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "37079",
-    "slug": "noruega-vs-inglaterra-2026-07-11",
-    "team_a": "Noruega",
-    "team_b": "Inglaterra",
-    "league": "Copa del Mundo",
-    "date": "2026-07-11",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
-  },
-  {
     "id": "37078",
     "slug": "partido-vs-en-vivo-2026-07-11",
     "team_a": "Equipo A",
@@ -28,6 +18,16 @@
     "date": "2026-07-11",
     "time": "17:00",
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even3"
+  },
+  {
+    "id": "37079",
+    "slug": "noruega-vs-inglaterra-2026-07-11",
+    "team_a": "Noruega",
+    "team_b": "Inglaterra",
+    "league": "Copa del Mundo",
+    "date": "2026-07-11",
+    "time": "16:00",
+    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
   },
   {
     "id": "37056",
@@ -70,16 +70,6 @@
     "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney5"
   },
   {
-    "id": "37065",
-    "slug": "benfica-vs-flamengo-2026-07-11",
-    "team_a": "Benfica",
-    "team_b": "Flamengo",
-    "league": "Partido Amistoso Internacional",
-    "date": "2026-07-11",
-    "time": "13:30",
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=sportv"
-  },
-  {
     "id": "37053",
     "slug": "argentina-vs-suiza-2026-07-11",
     "team_a": "Argentina",
@@ -88,26 +78,6 @@
     "date": "2026-07-11",
     "time": "20:00",
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=dsports"
-  },
-  {
-    "id": "37077",
-    "slug": "partido-vs-en-vivo-2026-07-11",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby – Nations Championship – Los Pumas vs Gales",
-    "date": "2026-07-11",
-    "time": "13:30",
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even3"
-  },
-  {
-    "id": "37059",
-    "slug": "danubio-vs-nacional-2026-07-11",
-    "team_a": "Danubio",
-    "team_b": "Nacional",
-    "league": "Primera División",
-    "date": "2026-07-11",
-    "time": "13:00",
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney3"
   },
   {
     "id": "37057",
