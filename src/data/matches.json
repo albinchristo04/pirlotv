@@ -30,26 +30,6 @@
     "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
   },
   {
-    "id": "37056",
-    "slug": "mushuc-runa-vs-independiente-del-valle-2026-07-11",
-    "team_a": "Mushuc Runa",
-    "team_b": "Independiente del Valle",
-    "league": "Serie A",
-    "date": "2026-07-11",
-    "time": "14:10",
-    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=ecdf_ligapro"
-  },
-  {
-    "id": "37054",
-    "slug": "partido-vs-en-vivo-2026-07-11",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-07-11",
-    "time": "14:00",
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even1"
-  },
-  {
     "id": "37060",
     "slug": "wanderers-vs-progreso-2026-07-11",
     "team_a": "Wanderers",
@@ -77,7 +57,7 @@
     "league": "Copa del Mundo",
     "date": "2026-07-11",
     "time": "20:00",
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=dsports"
+    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even1"
   },
   {
     "id": "37057",
@@ -88,15 +68,5 @@
     "date": "2026-07-11",
     "time": "18:00",
     "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
-    "id": "37063",
-    "slug": "magallanes-vs-audax-italiano-2026-07-11",
-    "team_a": "Magallanes",
-    "team_b": "Audax Italiano",
-    "league": "Copa Chile",
-    "date": "2026-07-11",
-    "time": "14:00",
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=tntsportschile"
   }
 ]
