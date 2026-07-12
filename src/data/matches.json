@@ -60,16 +60,6 @@
     "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=tycsports"
   },
   {
-    "id": "37103",
-    "slug": "partido-vs-en-vivo-2026-07-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Tenis – Wimbledon – Dia #14 – Final Masculina",
-    "date": "2026-07-12",
-    "time": "10:00",
-    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even2"
-  },
-  {
     "id": "37105",
     "slug": "partido-vs-en-vivo-2026-07-12",
     "team_a": "Equipo A",
@@ -180,16 +170,6 @@
     "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=tntsportschile"
   },
   {
-    "id": "37104",
-    "slug": "partido-vs-en-vivo-2026-07-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB Future Games",
-    "date": "2026-07-12",
-    "time": "11:00",
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=espn7"
-  },
-  {
     "id": "37106",
     "slug": "partido-vs-en-vivo-2026-07-12",
     "team_a": "Equipo A",
@@ -200,36 +180,6 @@
     "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even3"
   },
   {
-    "id": "37108",
-    "slug": "partido-vs-en-vivo-2026-07-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Jannik Sinner VS Alexander Zverev | FINAL",
-    "date": "2026-07-12",
-    "time": "11:00",
-    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even2"
-  },
-  {
-    "id": "37086",
-    "slug": "partido-vs-en-vivo-2026-07-12",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-07-12",
-    "time": "10:00",
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney2"
-  },
-  {
-    "id": "37095",
-    "slug": "atenas-vs-rentistas-2026-07-12",
-    "team_a": "Atenas",
-    "team_b": "Rentistas",
-    "league": "Segunda División",
-    "date": "2026-07-12",
-    "time": "10:00",
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney3"
-  },
-  {
     "id": "37090",
     "slug": "partido-vs-en-vivo-2026-07-12",
     "team_a": "Equipo A",
@@ -237,6 +187,6 @@
     "league": "Amistoso Internacional",
     "date": "2026-07-12",
     "time": "13:00",
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=winsports"
+    "decoded_iframe_url": "https://tvhd1.com/canales/tudnmx.php"
   }
 ]
