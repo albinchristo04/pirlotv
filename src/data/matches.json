@@ -1,15 +1,5 @@
 [
   {
-    "id": "37125",
-    "slug": "partido-vs-en-vivo-2026-07-14",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Ciclismo – Tour de France – Etapa #10",
-    "date": "2026-07-14",
-    "time": "06:00",
-    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even2"
-  },
-  {
     "id": "37128",
     "slug": "partido-vs-en-vivo-2026-07-14",
     "team_a": "Equipo A",
@@ -98,15 +88,5 @@
     "date": "2026-07-14",
     "time": "19:00",
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even1"
-  },
-  {
-    "id": "37124",
-    "slug": "rosario-central-vs-san-lorenzo-2026-07-14",
-    "team_a": "Rosario Central",
-    "team_b": "San Lorenzo",
-    "league": "Torneo de Reserva",
-    "date": "2026-07-14",
-    "time": "06:00",
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=tntsports"
   }
 ]
