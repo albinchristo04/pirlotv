@@ -30,26 +30,6 @@
     "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=foxdeportes"
   },
   {
-    "id": "37151",
-    "slug": "partido-vs-en-vivo-2026-07-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA Summer League – Equipos a Confirmar",
-    "date": "2026-07-16",
-    "time": "15:30",
-    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even4"
-  },
-  {
-    "id": "37153",
-    "slug": "partido-vs-en-vivo-2026-07-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA Summer League – Equipos a Confirmar",
-    "date": "2026-07-16",
-    "time": "18:00",
-    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even4"
-  },
-  {
     "id": "37142",
     "slug": "partido-vs-en-vivo-2026-07-16",
     "team_a": "Equipo A",
@@ -58,6 +38,36 @@
     "date": "2026-07-16",
     "time": "17:30",
     "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=premiere2"
+  },
+  {
+    "id": "37153",
+    "slug": "partido-vs-en-vivo-2026-07-16",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA Summer League – New York Knicks vs Golden State Warriors",
+    "date": "2026-07-16",
+    "time": "18:00",
+    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even4"
+  },
+  {
+    "id": "37151",
+    "slug": "partido-vs-en-vivo-2026-07-16",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA Summer League – Houston Rockets vs Brooklyn Nets",
+    "date": "2026-07-16",
+    "time": "15:30",
+    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even4"
+  },
+  {
+    "id": "37139",
+    "slug": "partido-vs-en-vivo-2026-07-16",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "NBA Summer League – Denver Nuggets vs Portland Trail Blazers",
+    "date": "2026-07-16",
+    "time": "21:00",
+    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even7"
   },
   {
     "id": "37141",
@@ -110,16 +120,6 @@
     "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=tudn"
   },
   {
-    "id": "37150",
-    "slug": "partido-vs-en-vivo-2026-07-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Golf – The Open Championship – Primera Vuelta",
-    "date": "2026-07-16",
-    "time": "11:30",
-    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
-  },
-  {
     "id": "37152",
     "slug": "partido-vs-en-vivo-2026-07-16",
     "team_a": "Equipo A",
@@ -134,9 +134,19 @@
     "slug": "partido-vs-en-vivo-2026-07-16",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "NBA Summer League – Equipos a Confirmar",
+    "league": "NBA Summer League – Miami Heat vs Toronto Raptors",
     "date": "2026-07-16",
     "time": "20:00",
     "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even4"
+  },
+  {
+    "id": "37150",
+    "slug": "partido-vs-en-vivo-2026-07-16",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Golf – The Open Championship – Primera Vuelta",
+    "date": "2026-07-16",
+    "time": "11:30",
+    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
   }
 ]
