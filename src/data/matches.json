@@ -10,14 +10,14 @@
     "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even8"
   },
   {
-    "id": "37151",
+    "id": "37142",
     "slug": "partido-vs-en-vivo-2026-07-16",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "NBA Summer League – Houston Rockets vs Brooklyn Nets",
+    "league": "Brasileirão",
     "date": "2026-07-16",
-    "time": "15:30",
-    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even8"
+    "time": "17:30",
+    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=premiere2"
   },
   {
     "id": "37144",
@@ -27,17 +27,7 @@
     "league": "Serie A",
     "date": "2026-07-16",
     "time": "19:00",
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
-  },
-  {
-    "id": "37142",
-    "slug": "partido-vs-en-vivo-2026-07-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Brasileirão",
-    "date": "2026-07-16",
-    "time": "17:30",
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=premiere2"
+    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=ecdf_ligapro"
   },
   {
     "id": "37139",
@@ -67,7 +57,7 @@
     "league": "Brasileirão",
     "date": "2026-07-16",
     "time": "17:30",
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=premiere1"
+    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=premiere1"
   },
   {
     "id": "37143",
@@ -77,7 +67,7 @@
     "league": "Serie A",
     "date": "2026-07-16",
     "time": "16:30",
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=ecdf_ligapro"
+    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=ecdf_ligapro"
   },
   {
     "id": "37154",
