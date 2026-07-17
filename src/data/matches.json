@@ -70,16 +70,6 @@
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=espnmx"
   },
   {
-    "id": "37163",
-    "slug": "albion-vs-juventud-2026-07-17",
-    "team_a": "Albion",
-    "team_b": "Juventud",
-    "league": "Primera División",
-    "date": "2026-07-17",
-    "time": "13:00",
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney1"
-  },
-  {
     "id": "37180",
     "slug": "partido-vs-en-vivo-2026-07-17",
     "team_a": "Equipo A",
@@ -98,16 +88,6 @@
     "date": "2026-07-17",
     "time": "16:45",
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=tycsports"
-  },
-  {
-    "id": "37155",
-    "slug": "partido-vs-en-vivo-2026-07-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga 1",
-    "date": "2026-07-17",
-    "time": "13:00",
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=liga1max"
   },
   {
     "id": "37160",
@@ -187,16 +167,6 @@
     "league": "ESPN Knockout – A Confirmar",
     "date": "2026-07-17",
     "time": "19:00",
-    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
-  },
-  {
-    "id": "37179",
-    "slug": "partido-vs-en-vivo-2026-07-17",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Golf – The Open Championship – Segunda Vuelta",
-    "date": "2026-07-17",
-    "time": "11:30",
     "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
   },
   {
