@@ -1,33 +1,13 @@
 [
   {
-    "id": "37153",
-    "slug": "partido-vs-en-vivo-2026-07-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "NBA Summer League – New York Knicks vs Golden State Warriors",
+    "id": "37147",
+    "slug": "necaxa-vs-atlante-2026-07-16",
+    "team_a": "Necaxa",
+    "team_b": "Atlante",
+    "league": "Liga MX",
     "date": "2026-07-16",
-    "time": "18:00",
-    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even8"
-  },
-  {
-    "id": "37142",
-    "slug": "partido-vs-en-vivo-2026-07-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Brasileirão",
-    "date": "2026-07-16",
-    "time": "17:30",
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=premiere2"
-  },
-  {
-    "id": "37144",
-    "slug": "partido-vs-en-vivo-2026-07-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A",
-    "date": "2026-07-16",
-    "time": "19:00",
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=ecdf_ligapro"
+    "time": "20:00",
+    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even5"
   },
   {
     "id": "37139",
@@ -40,36 +20,6 @@
     "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even7"
   },
   {
-    "id": "37147",
-    "slug": "necaxa-vs-atlante-2026-07-16",
-    "team_a": "Necaxa",
-    "team_b": "Atlante",
-    "league": "Liga MX",
-    "date": "2026-07-16",
-    "time": "20:00",
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=foxdeportes"
-  },
-  {
-    "id": "37141",
-    "slug": "botafogo-vs-santos-2026-07-16",
-    "team_a": "Botafogo",
-    "team_b": "Santos",
-    "league": "Brasileirão",
-    "date": "2026-07-16",
-    "time": "17:30",
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=premiere1"
-  },
-  {
-    "id": "37143",
-    "slug": "partido-vs-en-vivo-2026-07-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Serie A",
-    "date": "2026-07-16",
-    "time": "16:30",
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=ecdf_ligapro"
-  },
-  {
     "id": "37154",
     "slug": "partido-vs-en-vivo-2026-07-16",
     "team_a": "Equipo A",
@@ -78,36 +28,6 @@
     "date": "2026-07-16",
     "time": "20:00",
     "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even8"
-  },
-  {
-    "id": "37145",
-    "slug": "racing-club-vs-defensa-y-justicia-2026-07-16",
-    "team_a": "Racing Club",
-    "team_b": "Defensa y Justicia",
-    "league": "Copa Argentina",
-    "date": "2026-07-16",
-    "time": "16:45",
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=tycsports"
-  },
-  {
-    "id": "37146",
-    "slug": "sarmiento-vs-boca-juniors-2026-07-16",
-    "team_a": "Sarmiento",
-    "team_b": "Boca Juniors",
-    "league": "Copa Argentina",
-    "date": "2026-07-16",
-    "time": "19:45",
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=tycsports"
-  },
-  {
-    "id": "37152",
-    "slug": "partido-vs-en-vivo-2026-07-16",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "MLB – Philadelphia Phillies vs New York Mets",
-    "date": "2026-07-16",
-    "time": "18:00",
-    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even7"
   },
   {
     "id": "37148",
