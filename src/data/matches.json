@@ -1,5 +1,15 @@
 [
   {
+    "id": "37186",
+    "slug": "partido-vs-en-vivo-2026-07-18",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Copa del Mundo",
+    "date": "2026-07-18",
+    "time": "16:00",
+    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=dsports"
+  },
+  {
     "id": "37198",
     "slug": "partido-vs-en-vivo-2026-07-18",
     "team_a": "Equipo A",
@@ -30,16 +40,6 @@
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=tudn"
   },
   {
-    "id": "37196",
-    "slug": "partido-vs-en-vivo-2026-07-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Segunda División",
-    "date": "2026-07-18",
-    "time": "12:00",
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney3"
-  },
-  {
     "id": "37194",
     "slug": "partido-vs-en-vivo-2026-07-18",
     "team_a": "Equipo A",
@@ -50,26 +50,6 @@
     "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney5"
   },
   {
-    "id": "37224",
-    "slug": "partido-vs-en-vivo-2026-07-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby – World Rugby U20 Championship – A Confirmar",
-    "date": "2026-07-18",
-    "time": "11:20",
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=espn5"
-  },
-  {
-    "id": "37226",
-    "slug": "partido-vs-en-vivo-2026-07-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "ESPN Knockout – Harlem Eubank vs David Papot",
-    "date": "2026-07-18",
-    "time": "14:00",
-    "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
-  },
-  {
     "id": "37228",
     "slug": "partido-vs-en-vivo-2026-07-18",
     "team_a": "Equipo A",
@@ -78,16 +58,6 @@
     "date": "2026-07-18",
     "time": "20:00",
     "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even7"
-  },
-  {
-    "id": "37182",
-    "slug": "partido-vs-en-vivo-2026-07-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga 1",
-    "date": "2026-07-18",
-    "time": "11:00",
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=liga1max"
   },
   {
     "id": "37184",
@@ -130,16 +100,6 @@
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=ecdf_ligapro"
   },
   {
-    "id": "37186",
-    "slug": "partido-vs-en-vivo-2026-07-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Copa del Mundo",
-    "date": "2026-07-18",
-    "time": "16:00",
-    "decoded_iframe_url": "https://tvhd1.com/canales/dsportsar.php"
-  },
-  {
     "id": "37197",
     "slug": "oriental-vs-huracán-2026-07-18",
     "team_a": "Oriental",
@@ -148,16 +108,6 @@
     "date": "2026-07-18",
     "time": "17:30",
     "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney1"
-  },
-  {
-    "id": "37199",
-    "slug": "partido-vs-en-vivo-2026-07-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Liga MX",
-    "date": "2026-07-18",
-    "time": "18:00",
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=canal5"
   },
   {
     "id": "37201",
@@ -170,26 +120,6 @@
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=telemundo"
   },
   {
-    "id": "37193",
-    "slug": "partido-vs-en-vivo-2026-07-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Primera División",
-    "date": "2026-07-18",
-    "time": "14:00",
-    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=disney4"
-  },
-  {
-    "id": "37225",
-    "slug": "partido-vs-en-vivo-2026-07-18",
-    "team_a": "Equipo A",
-    "team_b": "Equipo B",
-    "league": "Rugby – Nations Championship – Los Pumas vs Inglaterra",
-    "date": "2026-07-18",
-    "time": "13:30",
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=espn5"
-  },
-  {
     "id": "37227",
     "slug": "partido-vs-en-vivo-2026-07-18",
     "team_a": "Equipo A",
@@ -198,16 +128,6 @@
     "date": "2026-07-18",
     "time": "19:00",
     "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
-  },
-  {
-    "id": "37183",
-    "slug": "adt-vs-universitario-2026-07-18",
-    "team_a": "ADT",
-    "team_b": "Universitario",
-    "league": "Liga 1",
-    "date": "2026-07-18",
-    "time": "13:15",
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=liga1max"
   },
   {
     "id": "37185",
@@ -220,23 +140,23 @@
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=liga1max"
   },
   {
-    "id": "37187",
+    "id": "37241",
     "slug": "partido-vs-en-vivo-2026-07-18",
     "team_a": "Equipo A",
     "team_b": "Equipo B",
-    "league": "Primera División",
+    "league": "UFC",
     "date": "2026-07-18",
-    "time": "14:00",
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=even1"
+    "time": "15:00",
+    "decoded_iframe_url": "https://fltvhd.com/canales.php?stream=paramount1"
   },
   {
-    "id": "37189",
-    "slug": "deportivo-cuenca-vs-universidad-católica-2026-07-18",
-    "team_a": "Deportivo Cuenca",
-    "team_b": "Universidad Católica",
-    "league": "Serie A",
+    "id": "37199",
+    "slug": "partido-vs-en-vivo-2026-07-18",
+    "team_a": "Equipo A",
+    "team_b": "Equipo B",
+    "league": "Liga MX",
     "date": "2026-07-18",
-    "time": "14:00",
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=ecdf_ligapro"
+    "time": "18:00",
+    "decoded_iframe_url": "https://tvhd1.com/canales/canal5.php"
   }
 ]
