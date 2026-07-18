@@ -50,16 +50,6 @@
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=foxdeportes"
   },
   {
-    "id": "37169",
-    "slug": "juárez-vs-puebla-2026-07-17",
-    "team_a": "Juárez",
-    "team_b": "Puebla",
-    "league": "Liga MX",
-    "date": "2026-07-17",
-    "time": "22:00",
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=azteca7"
-  },
-  {
     "id": "37167",
     "slug": "atlético-san-luis-vs-cruz-azul-2026-07-17",
     "team_a": "Atlético San Luis",
@@ -88,6 +78,16 @@
     "date": "2026-07-17",
     "time": "16:45",
     "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=tycsports"
+  },
+  {
+    "id": "37169",
+    "slug": "juárez-vs-puebla-2026-07-17",
+    "team_a": "Juárez",
+    "team_b": "Puebla",
+    "league": "Liga MX",
+    "date": "2026-07-17",
+    "time": "22:00",
+    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=universo"
   },
   {
     "id": "37160",
@@ -168,16 +168,6 @@
     "date": "2026-07-17",
     "time": "19:00",
     "decoded_iframe_url": "https://fltvhd.com/online/canal.php?stream=even6"
-  },
-  {
-    "id": "37156",
-    "slug": "sporting-cristal-vs-deportivo-garcilaso-2026-07-17",
-    "team_a": "Sporting Cristal",
-    "team_b": "Deportivo Garcilaso",
-    "league": "Liga 1",
-    "date": "2026-07-17",
-    "time": "15:15",
-    "decoded_iframe_url": "https://fltvhd.com/online/canales.php?stream=liga1max"
   },
   {
     "id": "37164",
